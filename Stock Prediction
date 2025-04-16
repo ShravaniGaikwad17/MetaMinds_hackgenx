@@ -1,0 +1,38 @@
+from flask import Flask, render_template, request
+import pandas as pd
+import numpy as np
+
+app = Flask(__name__)
+
+df = pd.read_csv("/Users/omtarwade/wearhouse stock/final_warehouse_inventory_dataset.csv")
+df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
+df["Month"] = df["Date"].dt.month_name()
+df["Units_Sold"] = pd.to_numeric(df["Units_Sold"], errors='coerce')
+df["Stock_On_Hand"] = pd.to_numeric(df["Stock_On_Hand"], errors='coerce')
+
+def predict_units_to_order(product_name, month_name):
+    filtered = df[(df["Product_Name"].str.lower() == product_name.lower()) & (df["Month"] == month_name)]
+    avg_demand = filtered["Units_Sold"].mean()
+
+    current_stock = df[df["Product_Name"].str.lower() == product_name.lower()]["Stock_On_Hand"].max()
+    units_to_order = max(avg_demand - current_stock, 0) if pd.notna(avg_demand) else None
+
+    return {
+        "product": product_name,
+        "month": month_name,
+        "average_demand": round(avg_demand, 2) if pd.notna(avg_demand) else "No data",
+        "current_stock": int(current_stock) if pd.notna(current_stock) else "No data",
+        "units_to_order": int(units_to_order) if units_to_order is not None else "No prediction"
+    }
+
+@app.route("/", methods=["GET", "POST"])
+def index():
+    result = None
+    if request.method == "POST":
+        product = request.form["product"]
+        month = request.form["month"]
+        result = predict_units_to_order(product, month)
+    return render_template("index.html", result=result)
+
+if __name__ == "__main__":
+    app.run(debug=True)
