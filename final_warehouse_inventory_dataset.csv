@@ -1,0 +1,1001 @@
+Timestamp,Category,Product_Name,Room_No,Row_No,Product_Count,Item_ID,Storage_Type,Product_Size,Weight_kg,Access_Frequency,Last_Accessed,Stock_Threshold,Temperature_Requirement,Supplier_Name,Expiration_Date,Handling_Priority,Date,Units_Sold,Stock_On_Hand,Restock_Lead_Time_Days,Season,Promotion_Active,Supplier_Delay_Days,Forecast_Window
+2025-03-21 21:23:57,Clothing,Jacket,Room-3,Row-G,13,1a7b7320,Pallet,Small,1.43,20,2025-04-07 20:52:54,14,None,"Mathis, Alvarado and Ayala",,Medium,2025-03-21 21:23:57,16,0,2,Spring,1,1,7
+2025-03-27 01:14:28,Toys,Doll,Room-2,Row-J,7,8a2ed3a4,Cold Storage,Large,32.57,100,2025-04-08 22:05:11,12,None,Edwards and Sons,,Medium,2025-03-27 01:14:28,37,0,9,Spring,0,4,14
+2025-03-20 18:45:46,Toys,Car,Room-4,Row-J,4,58bd069a,Shelf,Large,41.34,16,2025-04-09 02:16:56,14,None,Wood-Chambers,,Medium,2025-03-20 18:45:46,2,0,6,Spring,1,3,7
+2025-04-08 03:18:36,Toys,Blocks,Room-5,Row-I,4,fccdf0e1,Shelf,Small,1.62,7,2025-04-08 07:41:32,5,None,Ryan and Sons,,Medium,2025-04-08 03:18:36,11,0,6,Spring,0,1,7
+2025-04-12 00:36:56,Electronics,Smartphone,Room-7,Row-H,16,d1f7aa08,Bin,Small,0.56,73,2025-04-11 20:54:27,6,None,"Smith, Bradford and Newman",,Low,2025-04-12 00:36:56,31,0,6,Spring,0,4,30
+2025-03-27 23:57:36,Food,Milk,Room-2,Row-H,12,c2430c6f,Cold Storage,Large,15.95,47,2025-04-10 19:44:44,6,Refrigerated,Gutierrez and Sons,2025-04-24 23:57:36,Medium,2025-03-27 23:57:36,19,0,8,Spring,0,3,14
+2025-03-16 11:39:06,Clothing,Jacket,Room-6,Row-G,7,dc550d9d,Shelf,Large,47.64,53,2025-04-12 00:03:29,13,None,Cohen and Sons,,Medium,2025-03-16 11:39:06,22,0,13,Spring,1,1,30
+2025-04-09 17:34:39,Food,Bread,Room-4,Row-E,11,62cc0adb,Bin,Small,1.14,30,2025-04-11 13:01:35,12,Refrigerated,Baker Ltd,2025-05-01 17:34:39,High,2025-04-09 17:34:39,14,0,12,Spring,1,4,7
+2025-03-15 01:40:02,Furniture,Table,Room-8,Row-F,9,aa3274ca,Pallet,Medium,9.28,100,2025-04-11 16:09:16,12,None,Johnson and Sons,,Medium,2025-03-15 01:40:02,37,0,2,Spring,0,1,7
+2025-03-27 16:54:45,Toys,Blocks,Room-6,Row-J,5,79a97c54,Pallet,Small,1.36,48,2025-04-11 12:11:45,12,None,"Hudson, Thomas and Edwards",,Medium,2025-03-27 16:54:45,34,0,14,Spring,1,0,7
+2025-04-11 04:53:48,Toys,Puzzle,Room-2,Row-B,2,c4d067a2,Cold Storage,Large,23.06,29,2025-04-11 08:54:13,10,None,Allen-Morgan,,Medium,2025-04-11 04:53:48,13,0,3,Spring,1,3,30
+2025-03-20 16:04:22,Electronics,Speaker,Room-9,Row-H,14,77aa4785,Shelf,Small,0.71,51,2025-04-07 21:28:06,11,None,"Crawford, Ochoa and Lewis",,Medium,2025-03-20 16:04:22,43,0,13,Spring,0,4,30
+2025-04-08 22:30:52,Toys,Puzzle,Room-9,Row-D,12,9a8a19d8,Pallet,Small,0.57,54,2025-04-08 00:25:20,15,None,Lynch-Rojas,,Medium,2025-04-08 22:30:52,34,0,9,Spring,1,0,30
+2025-03-24 08:19:06,Clothing,Shirt,Room-9,Row-I,10,aa5b7287,Shelf,Large,29.71,80,2025-04-12 01:10:09,7,None,"Esparza, Robinson and Forbes",,Medium,2025-03-24 08:19:06,21,0,10,Spring,0,1,30
+2025-03-27 17:20:54,Electronics,Laptop,Room-10,Row-C,6,b3dc7732,Bin,Small,0.75,21,2025-04-10 10:04:35,12,None,Colon Group,,High,2025-03-27 17:20:54,47,0,11,Spring,1,3,14
+2025-03-29 00:10:45,Electronics,Laptop,Room-9,Row-I,13,c8a409c6,Bin,Large,16.94,74,2025-04-09 06:10:51,6,None,Cruz-Lewis,,Low,2025-03-29 00:10:45,14,0,1,Spring,0,4,30
+2025-04-03 19:42:41,Clothing,Jeans,Room-10,Row-B,6,beb57da9,Cold Storage,Large,43.48,96,2025-04-08 16:03:20,5,None,Vasquez Inc,,Medium,2025-04-03 19:42:41,43,0,11,Spring,0,3,14
+2025-04-07 22:04:01,Electronics,Laptop,Room-2,Row-E,4,7576a6b5,Bin,Large,30.62,100,2025-04-10 18:15:35,14,None,Dyer Inc,,Medium,2025-04-07 22:04:01,2,11,5,Spring,0,0,7
+2025-04-02 09:43:23,Clothing,Jeans,Room-6,Row-A,5,9db8b3b5,Pallet,Small,1.48,11,2025-04-12 02:26:30,11,None,Pope Ltd,,Medium,2025-04-02 09:43:23,30,0,5,Spring,1,2,7
+2025-04-07 03:19:58,Food,Milk,Room-9,Row-H,16,6992e819,Cold Storage,Small,1.69,25,2025-04-12 01:35:05,13,Refrigerated,"Wright, Casey and Blake",2025-04-21 03:19:58,Medium,2025-04-07 03:19:58,50,0,6,Spring,0,1,7
+2025-04-02 11:24:07,Furniture,Table,Room-1,Row-I,18,a2bf34a8,Pallet,Small,1.61,96,2025-04-10 18:37:19,12,None,Fowler-Hernandez,,Medium,2025-04-02 11:24:07,15,10,6,Spring,0,3,7
+2025-03-26 02:43:10,Toys,Doll,Room-2,Row-H,1,2150144f,Cold Storage,Medium,2.55,71,2025-04-12 01:33:32,9,None,Morris-Young,,Medium,2025-03-26 02:43:10,29,0,12,Spring,0,4,14
+2025-04-04 20:41:14,Furniture,Bed,Room-5,Row-E,16,0925dfd1,Pallet,Medium,7.45,79,2025-04-09 17:24:46,15,None,Johnson-Walker,,Medium,2025-04-04 20:41:14,45,0,13,Spring,1,0,7
+2025-04-10 05:12:22,Toys,Puzzle,Room-8,Row-D,1,ac53d94b,Cold Storage,Small,1.03,24,2025-04-12 07:42:29,12,None,"Miller, Peterson and Duncan",,Medium,2025-04-10 05:12:22,0,3,12,Spring,1,2,7
+2025-03-18 07:47:57,Furniture,Cupboard,Room-6,Row-H,4,e3e4ed3f,Shelf,Small,1.38,95,2025-04-10 10:49:03,13,None,"Estes, Collier and Perry",,Medium,2025-03-18 07:47:57,25,0,11,Spring,0,1,14
+2025-03-15 14:32:32,Food,Milk,Room-1,Row-I,16,04abe108,Bin,Small,0.14,41,2025-04-09 11:06:12,8,Refrigerated,Hall-Horn,2025-04-13 14:32:32,High,2025-03-15 14:32:32,16,9,14,Spring,1,2,7
+2025-04-05 11:47:47,Electronics,Smartphone,Room-4,Row-E,12,739fe24a,Pallet,Medium,5.39,60,2025-04-08 16:58:27,7,None,"Smith, Howard and Garcia",,Low,2025-04-05 11:47:47,29,0,1,Spring,0,0,7
+2025-04-11 10:15:23,Electronics,Laptop,Room-3,Row-B,6,6d5a36d0,Cold Storage,Medium,4.74,54,2025-04-09 10:13:38,13,None,Smith PLC,,High,2025-04-11 10:15:23,1,15,1,Spring,0,4,30
+2025-04-06 15:23:23,Clothing,Shirt,Room-9,Row-H,1,f8530210,Shelf,Medium,4.79,72,2025-04-07 17:14:30,12,None,Castro-Pennington,,Medium,2025-04-06 15:23:23,31,0,3,Spring,1,3,14
+2025-03-22 18:11:06,Food,Bread,Room-1,Row-C,8,b2185067,Bin,Large,41.02,69,2025-04-11 12:09:19,10,Refrigerated,"Swanson, Thomas and Ferrell",2025-04-06 18:11:06,High,2025-03-22 18:11:06,21,0,9,Spring,0,0,30
+2025-03-20 02:18:06,Electronics,Smartphone,Room-3,Row-B,8,e1ca6dac,Bin,Medium,8.75,12,2025-04-10 16:19:02,7,None,Gonzales-Hamilton,,High,2025-03-20 02:18:06,29,0,11,Spring,0,1,7
+2025-04-05 11:35:11,Electronics,Laptop,Room-3,Row-H,18,4449b6ff,Shelf,Small,0.19,70,2025-04-08 15:50:46,9,None,Alexander and Sons,,High,2025-04-05 11:35:11,29,0,6,Spring,1,3,30
+2025-04-08 05:06:20,Clothing,Dress,Room-5,Row-H,7,ab211233,Pallet,Large,15.99,65,2025-04-08 10:04:05,12,None,Arias PLC,,Medium,2025-04-08 05:06:20,30,0,10,Spring,0,1,7
+2025-04-07 09:10:09,Clothing,Dress,Room-4,Row-B,4,fab772f5,Bin,Medium,9.14,31,2025-04-09 17:55:52,10,None,Hahn-Clark,,Medium,2025-04-07 09:10:09,32,0,11,Spring,1,1,30
+2025-03-24 16:32:33,Clothing,T-Shirt,Room-5,Row-J,4,b768c5fd,Shelf,Medium,6.55,9,2025-04-09 23:10:25,13,None,Smith-Cummings,,Medium,2025-03-24 16:32:33,36,0,5,Spring,1,4,7
+2025-03-28 03:53:45,Electronics,Laptop,Room-6,Row-I,13,3f81700d,Bin,Medium,5.46,35,2025-04-09 06:46:43,12,None,Cantrell Ltd,,Low,2025-03-28 03:53:45,8,6,3,Spring,0,1,7
+2025-03-18 20:33:11,Toys,Puzzle,Room-9,Row-C,5,5a8c0375,Pallet,Medium,4.88,82,2025-04-10 16:05:12,8,None,"Mason, Rodriguez and Murillo",,Medium,2025-03-18 20:33:11,2,9,12,Spring,0,2,14
+2025-03-25 02:29:18,Toys,Lego,Room-9,Row-H,17,c0c4afcb,Shelf,Small,1.03,72,2025-04-08 15:05:11,14,None,Brown-Nixon,,Medium,2025-03-25 02:29:18,12,15,11,Spring,0,4,30
+2025-03-30 05:13:48,Food,Eggs,Room-1,Row-C,5,eadf985e,Shelf,Medium,2.12,70,2025-04-11 09:25:44,15,Refrigerated,"Taylor, Giles and Jackson",2025-04-05 05:13:48,High,2025-03-30 05:13:48,48,0,12,Spring,0,3,30
+2025-03-30 05:35:31,Toys,Car,Room-7,Row-G,18,97429163,Bin,Small,1.56,65,2025-04-09 16:55:49,6,None,Douglas-Contreras,,Medium,2025-03-30 05:35:31,1,22,8,Spring,1,3,30
+2025-03-19 06:49:25,Electronics,TV,Room-7,Row-H,8,88da740c,Shelf,Medium,6.66,13,2025-04-10 21:58:53,6,None,Spears PLC,,High,2025-03-19 06:49:25,50,0,1,Spring,0,4,14
+2025-04-04 08:21:05,Electronics,Speaker,Room-4,Row-F,16,961d92e3,Cold Storage,Small,1.72,39,2025-04-12 07:43:48,6,None,"Wallace, Jensen and Reed",,High,2025-04-04 08:21:05,4,20,1,Spring,0,1,14
+2025-03-31 06:58:51,Food,Eggs,Room-2,Row-F,19,8476b5d6,Bin,Medium,6.0,68,2025-04-07 22:51:09,9,Refrigerated,May Group,2025-04-29 06:58:51,Low,2025-03-31 06:58:51,40,0,1,Spring,0,0,30
+2025-03-23 18:29:36,Furniture,Chair,Room-3,Row-H,12,09ced34e,Shelf,Large,32.35,71,2025-04-08 01:12:20,8,None,Rogers and Sons,,Medium,2025-03-23 18:29:36,32,0,2,Spring,1,0,14
+2025-03-31 18:12:15,Toys,Doll,Room-7,Row-H,15,99c14738,Bin,Small,0.3,55,2025-04-08 04:14:39,12,None,Thompson PLC,,Medium,2025-03-31 18:12:15,43,0,14,Spring,0,1,30
+2025-04-11 18:58:51,Clothing,Shirt,Room-5,Row-E,6,5c34c8b5,Bin,Medium,2.32,29,2025-04-07 18:23:25,10,None,"Vasquez, Heath and Miller",,Medium,2025-04-11 18:58:51,3,8,8,Spring,0,3,14
+2025-03-29 07:04:30,Furniture,Table,Room-7,Row-B,11,8cce3587,Shelf,Large,48.09,67,2025-04-11 17:04:37,9,None,Fernandez Group,,Medium,2025-03-29 07:04:30,50,0,10,Spring,0,1,14
+2025-03-16 01:51:59,Toys,Blocks,Room-9,Row-C,6,f2339c79,Shelf,Medium,7.27,28,2025-04-10 08:00:52,15,None,Lee-Hernandez,,Medium,2025-03-16 01:51:59,24,0,1,Spring,0,4,7
+2025-04-04 20:43:42,Toys,Lego,Room-7,Row-C,2,051967d2,Bin,Small,0.42,83,2025-04-08 05:18:42,13,None,Greer Inc,,Medium,2025-04-04 20:43:42,28,0,13,Spring,0,4,14
+2025-03-20 14:15:51,Electronics,TV,Room-7,Row-E,19,3cc6ab6e,Shelf,Small,1.17,52,2025-04-07 23:57:24,13,None,"Krueger, Rodgers and Hernandez",,Medium,2025-03-20 14:15:51,25,4,9,Spring,1,0,14
+2025-03-14 17:58:32,Electronics,TV,Room-2,Row-E,18,bb382ae9,Cold Storage,Medium,2.54,76,2025-04-08 09:49:16,9,None,Flores-Quinn,,Medium,2025-03-14 17:58:32,1,27,10,Spring,1,2,30
+2025-03-16 17:50:28,Food,Bread,Room-2,Row-A,6,676912b3,Shelf,Medium,5.37,95,2025-04-08 09:02:23,8,Refrigerated,Leach-Murphy,2025-03-29 17:50:28,Medium,2025-03-16 17:50:28,47,0,6,Spring,1,3,7
+2025-03-24 22:00:48,Electronics,Speaker,Room-5,Row-F,10,7620be9b,Shelf,Small,1.68,84,2025-04-10 18:40:19,12,None,Armstrong-Best,,Low,2025-03-24 22:00:48,50,0,14,Spring,0,0,14
+2025-04-10 19:17:34,Clothing,T-Shirt,Room-2,Row-J,13,9ebe5761,Shelf,Medium,4.59,69,2025-04-10 00:34:31,7,None,"Scott, Williams and Weber",,Medium,2025-04-10 19:17:34,19,2,1,Spring,1,1,30
+2025-04-12 06:05:07,Toys,Doll,Room-4,Row-E,7,4c3c9067,Bin,Small,0.72,57,2025-04-11 02:12:45,13,None,Solomon-Castro,,Medium,2025-04-12 06:05:07,44,0,10,Spring,0,4,30
+2025-04-09 16:52:10,Toys,Puzzle,Room-3,Row-H,15,1d36540c,Pallet,Large,10.97,75,2025-04-11 11:31:24,12,None,Yates and Sons,,Medium,2025-04-09 16:52:10,26,0,11,Spring,0,2,7
+2025-03-17 06:11:50,Furniture,Chair,Room-6,Row-B,20,b6d84df5,Shelf,Large,27.44,46,2025-04-10 04:43:42,9,None,Reed Group,,Medium,2025-03-17 06:11:50,41,0,4,Spring,0,4,30
+2025-03-20 19:56:14,Electronics,TV,Room-8,Row-C,13,98908d98,Bin,Medium,8.04,47,2025-04-10 17:49:36,12,None,"Diaz, Watson and Obrien",,High,2025-03-20 19:56:14,7,4,11,Spring,1,0,14
+2025-04-09 12:26:26,Furniture,Cupboard,Room-2,Row-G,10,789b4c7b,Pallet,Large,24.74,52,2025-04-11 09:59:53,7,None,Carroll-Green,,Medium,2025-04-09 12:26:26,37,0,14,Spring,0,1,14
+2025-03-23 09:11:54,Furniture,Bed,Room-2,Row-D,3,3ed0aae7,Pallet,Medium,8.47,25,2025-04-07 14:27:55,9,None,Carr-Grant,,Medium,2025-03-23 09:11:54,41,0,13,Spring,1,4,14
+2025-03-31 10:56:01,Toys,Lego,Room-1,Row-E,9,e1297df2,Cold Storage,Small,1.26,57,2025-04-10 09:56:40,8,None,Lester LLC,,Medium,2025-03-31 10:56:01,8,9,14,Spring,0,3,14
+2025-04-04 12:02:03,Food,Milk,Room-4,Row-H,18,22549b18,Pallet,Medium,4.88,19,2025-04-11 15:42:12,6,Refrigerated,Cook PLC,2025-04-27 12:02:03,High,2025-04-04 12:02:03,21,0,12,Spring,0,2,30
+2025-03-20 22:15:16,Electronics,TV,Room-10,Row-F,3,26c14d72,Pallet,Small,0.78,78,2025-04-11 05:11:37,15,None,Olson-Webster,,Medium,2025-03-20 22:15:16,21,0,2,Spring,0,2,14
+2025-03-21 15:00:50,Electronics,Smartphone,Room-1,Row-C,13,e79924b0,Bin,Small,1.22,60,2025-04-10 10:15:14,7,None,"Zamora, Flynn and Best",,High,2025-03-21 15:00:50,19,0,13,Spring,1,2,30
+2025-03-19 18:50:20,Furniture,Table,Room-2,Row-C,7,ee94d820,Pallet,Large,25.05,24,2025-04-10 11:33:07,7,None,"Hobbs, Mcmillan and Harris",,Medium,2025-03-19 18:50:20,37,0,8,Spring,1,2,14
+2025-03-21 20:14:03,Food,Rice,Room-10,Row-B,6,46666a4c,Bin,Medium,6.92,17,2025-04-07 21:14:58,10,Refrigerated,"Roman, Martinez and Fernandez",2025-04-09 20:14:03,Low,2025-03-21 20:14:03,50,0,2,Spring,0,2,30
+2025-03-26 00:22:55,Food,Bread,Room-9,Row-D,7,eae816b1,Bin,Large,19.58,82,2025-04-10 04:01:54,6,Refrigerated,Turner Ltd,2025-04-08 00:22:55,Medium,2025-03-26 00:22:55,27,0,8,Spring,1,3,7
+2025-03-17 07:34:53,Toys,Puzzle,Room-10,Row-C,19,4b72a2c0,Cold Storage,Large,49.24,40,2025-04-08 05:17:10,11,None,Turner-Wiley,,Medium,2025-03-17 07:34:53,3,11,5,Spring,1,1,30
+2025-04-01 22:22:38,Clothing,T-Shirt,Room-2,Row-J,17,9fe473b7,Bin,Small,1.56,35,2025-04-10 04:27:24,7,None,Caldwell-Roberts,,Medium,2025-04-01 22:22:38,15,1,12,Spring,0,0,30
+2025-03-26 08:34:34,Toys,Lego,Room-10,Row-B,17,11bb437b,Cold Storage,Medium,8.63,24,2025-04-11 10:24:57,11,None,Peters-Brandt,,Medium,2025-03-26 08:34:34,23,0,14,Spring,0,4,7
+2025-03-29 01:01:23,Toys,Lego,Room-10,Row-E,6,dda0f4d9,Shelf,Medium,2.46,58,2025-04-11 15:45:42,12,None,Rowe-Garcia,,Medium,2025-03-29 01:01:23,36,0,11,Spring,1,3,30
+2025-03-28 06:37:24,Clothing,Jacket,Room-6,Row-C,1,6894180a,Pallet,Small,1.35,90,2025-04-07 13:34:12,15,None,Cole and Sons,,Medium,2025-03-28 06:37:24,46,0,3,Spring,1,0,14
+2025-03-20 20:16:15,Furniture,Sofa,Room-10,Row-H,20,b5b517ff,Bin,Small,0.62,91,2025-04-11 20:26:16,9,None,Anderson and Sons,,Medium,2025-03-20 20:16:15,47,0,3,Spring,0,1,14
+2025-03-31 07:05:37,Clothing,Jacket,Room-9,Row-C,15,c3b97cc3,Shelf,Medium,6.9,12,2025-04-10 14:12:14,15,None,"Bradley, Anderson and Ross",,Medium,2025-03-31 07:05:37,32,0,7,Spring,1,2,14
+2025-04-06 18:13:30,Toys,Doll,Room-10,Row-E,3,cc8f5631,Pallet,Small,0.39,75,2025-04-09 07:59:49,15,None,Jennings PLC,,Medium,2025-04-06 18:13:30,5,2,1,Spring,1,4,7
+2025-03-21 22:09:27,Furniture,Sofa,Room-4,Row-E,12,f35807e2,Bin,Medium,7.99,7,2025-04-11 02:03:12,10,None,Espinoza-Griffin,,Medium,2025-03-21 22:09:27,13,4,13,Spring,0,0,14
+2025-04-06 08:31:47,Food,Milk,Room-10,Row-G,8,d3d0c865,Pallet,Medium,9.89,1,2025-04-08 08:43:47,6,Refrigerated,"Snyder, Barber and Kelly",2025-04-26 08:31:47,Medium,2025-04-06 08:31:47,14,0,6,Spring,0,1,30
+2025-04-04 02:30:28,Toys,Doll,Room-4,Row-B,17,d56d7be2,Bin,Small,0.89,44,2025-04-07 20:13:32,9,None,"Johnson, Smith and Herrera",,Medium,2025-04-04 02:30:28,4,11,3,Spring,1,1,7
+2025-03-14 16:46:44,Toys,Lego,Room-8,Row-C,4,82f4170f,Pallet,Large,41.56,94,2025-04-11 07:46:43,14,None,"Gutierrez, Evans and Swanson",,Medium,2025-03-14 16:46:44,4,9,8,Spring,0,1,30
+2025-03-15 09:28:35,Toys,Puzzle,Room-10,Row-A,1,164e7fae,Pallet,Small,1.85,2,2025-04-09 02:44:00,9,None,White-Harris,,Medium,2025-03-15 09:28:35,30,0,10,Spring,1,2,30
+2025-03-28 02:35:00,Clothing,Jeans,Room-3,Row-F,16,099e7965,Shelf,Large,40.15,7,2025-04-07 19:06:10,14,None,Jones LLC,,Medium,2025-03-28 02:35:00,37,0,5,Spring,0,0,30
+2025-04-07 07:26:37,Food,Apple,Room-1,Row-C,1,aad8bdb0,Pallet,Small,1.09,80,2025-04-12 07:17:13,5,Refrigerated,"Jones, Johnson and Mendoza",2025-04-22 07:26:37,Low,2025-04-07 07:26:37,10,0,9,Spring,1,2,14
+2025-04-04 01:01:52,Toys,Blocks,Room-8,Row-J,16,d8cd8d64,Cold Storage,Large,45.2,82,2025-04-11 12:58:19,12,None,"Murray, Cohen and Freeman",,Medium,2025-04-04 01:01:52,40,0,13,Spring,1,1,7
+2025-03-29 01:45:29,Electronics,Laptop,Room-5,Row-G,19,f81298cd,Pallet,Medium,6.53,85,2025-04-09 17:08:42,13,None,"Jackson, Nguyen and Nelson",,Low,2025-03-29 01:45:29,6,8,6,Spring,0,2,30
+2025-03-20 09:13:02,Electronics,Speaker,Room-5,Row-H,11,136599b1,Bin,Large,24.44,82,2025-04-12 12:01:39,11,None,"Fuentes, Mccormick and Arellano",,High,2025-03-20 09:13:02,8,7,3,Spring,1,3,30
+2025-04-02 18:00:01,Furniture,Sofa,Room-4,Row-C,16,6c4e8471,Cold Storage,Small,1.79,89,2025-04-08 08:38:06,13,None,Johnson Group,,Medium,2025-04-02 18:00:01,20,0,9,Spring,1,4,30
+2025-04-04 18:16:15,Furniture,Cupboard,Room-1,Row-C,4,740b4f8f,Cold Storage,Medium,5.75,3,2025-04-11 02:58:17,12,None,Williams-Bernard,,Medium,2025-04-04 18:16:15,25,0,2,Spring,0,1,7
+2025-03-13 18:43:42,Electronics,Tablet,Room-1,Row-I,19,00c8ce03,Shelf,Small,1.6,83,2025-04-09 17:52:49,13,None,"Grant, Armstrong and Lindsey",,Medium,2025-03-13 18:43:42,22,4,13,Spring,1,4,7
+2025-04-11 22:12:53,Furniture,Sofa,Room-3,Row-J,19,67ed11fd,Shelf,Small,1.7,41,2025-04-08 14:48:00,11,None,Vazquez Inc,,Medium,2025-04-11 22:12:53,40,0,2,Spring,0,1,14
+2025-03-13 15:14:22,Food,Milk,Room-10,Row-D,6,4c0a5e46,Shelf,Medium,7.39,69,2025-04-09 21:39:57,7,Refrigerated,Anderson and Sons,2025-04-09 15:14:22,Medium,2025-03-13 15:14:22,10,0,9,Spring,1,2,7
+2025-04-07 15:16:54,Electronics,Laptop,Room-4,Row-F,12,7002ac45,Pallet,Small,0.35,22,2025-04-10 23:54:46,7,None,Miles and Sons,,Low,2025-04-07 15:16:54,23,0,3,Spring,1,3,14
+2025-03-24 22:15:38,Toys,Doll,Room-3,Row-H,14,32fe39e9,Pallet,Medium,3.45,9,2025-04-09 11:25:55,9,None,"Brown, Morales and Bell",,Medium,2025-03-24 22:15:38,47,0,6,Spring,0,3,7
+2025-03-30 04:01:12,Electronics,Speaker,Room-7,Row-H,20,f7f4f3cf,Pallet,Medium,8.63,78,2025-04-12 03:12:59,12,None,Roberts Ltd,,High,2025-03-30 04:01:12,0,29,7,Spring,0,1,14
+2025-03-24 07:43:41,Electronics,Laptop,Room-3,Row-J,6,2973b960,Shelf,Medium,3.21,61,2025-04-07 15:55:03,6,None,Page-Chung,,Medium,2025-03-24 07:43:41,5,11,10,Spring,1,3,30
+2025-03-16 14:49:50,Toys,Doll,Room-2,Row-D,2,9989e13b,Bin,Medium,6.69,38,2025-04-10 20:46:42,7,None,Gibson LLC,,Medium,2025-03-16 14:49:50,17,0,5,Spring,0,2,14
+2025-03-29 11:15:56,Clothing,Jeans,Room-1,Row-D,17,7b4c9009,Bin,Medium,7.85,84,2025-04-08 21:41:01,8,None,Palmer Ltd,,Medium,2025-03-29 11:15:56,43,0,2,Spring,1,3,30
+2025-03-29 14:33:23,Clothing,Jacket,Room-9,Row-H,4,d1c14478,Shelf,Medium,4.18,87,2025-04-08 21:51:33,7,None,Fox Ltd,,Medium,2025-03-29 14:33:23,9,5,11,Spring,0,0,14
+2025-03-30 23:37:36,Food,Bread,Room-1,Row-E,16,bfd5a1e9,Shelf,Large,28.02,44,2025-04-10 05:53:59,13,Refrigerated,"Villegas, Miller and Roberts",2025-04-27 23:37:36,Medium,2025-03-30 23:37:36,38,0,11,Spring,0,3,7
+2025-03-24 23:00:42,Food,Apple,Room-2,Row-J,8,49c29d77,Bin,Small,1.7,83,2025-04-11 16:00:44,12,Refrigerated,Barnes Inc,2025-04-17 23:00:42,High,2025-03-24 23:00:42,26,0,11,Spring,0,0,30
+2025-03-29 21:29:41,Food,Milk,Room-4,Row-G,2,6ce1b203,Pallet,Small,1.01,16,2025-04-10 16:44:43,15,Refrigerated,Fletcher-Barrett,2025-04-10 21:29:41,High,2025-03-29 21:29:41,38,0,7,Spring,0,1,14
+2025-04-09 19:43:04,Electronics,Tablet,Room-5,Row-I,15,61a7941a,Shelf,Large,24.02,21,2025-04-10 01:18:05,13,None,"Carter, Dixon and Rodriguez",,Low,2025-04-09 19:43:04,2,13,4,Spring,1,0,14
+2025-03-17 14:59:04,Clothing,Dress,Room-2,Row-E,12,e98ef63a,Bin,Medium,6.58,5,2025-04-11 13:47:50,15,None,Lamb-Mcdowell,,Medium,2025-03-17 14:59:04,29,0,3,Spring,1,1,30
+2025-03-22 11:27:46,Electronics,TV,Room-8,Row-D,2,2a967b75,Pallet,Small,0.81,99,2025-04-11 15:01:56,15,None,Hernandez PLC,,Medium,2025-03-22 11:27:46,11,0,6,Spring,1,1,14
+2025-04-06 07:13:21,Food,Rice,Room-8,Row-B,5,3b811063,Pallet,Medium,9.87,2,2025-04-08 16:37:59,9,Refrigerated,Wells PLC,2025-04-25 07:13:21,Medium,2025-04-06 07:13:21,25,0,14,Spring,0,1,30
+2025-03-31 20:45:22,Furniture,Bed,Room-10,Row-I,11,0edf312a,Shelf,Medium,9.02,18,2025-04-12 10:35:49,12,None,Mccann Group,,Medium,2025-03-31 20:45:22,26,0,2,Spring,0,2,14
+2025-03-20 17:23:08,Toys,Car,Room-10,Row-F,18,d9c97630,Shelf,Medium,6.3,11,2025-04-08 06:17:44,12,None,"Watkins, Higgins and Kim",,Medium,2025-03-20 17:23:08,20,5,12,Spring,1,1,7
+2025-03-15 03:11:18,Clothing,Dress,Room-1,Row-C,6,12f121fa,Shelf,Medium,5.34,67,2025-04-09 20:30:39,15,None,Fleming-Coleman,,Medium,2025-03-15 03:11:18,14,0,1,Spring,0,4,30
+2025-03-13 23:53:15,Furniture,Sofa,Room-4,Row-I,4,e3b131bf,Cold Storage,Large,21.06,11,2025-04-10 10:12:49,13,None,Freeman-Kelley,,Medium,2025-03-13 23:53:15,2,3,11,Spring,1,2,30
+2025-04-06 14:35:35,Furniture,Sofa,Room-7,Row-J,3,d6401e96,Cold Storage,Large,13.67,87,2025-04-10 15:07:16,7,None,Sawyer Group,,Medium,2025-04-06 14:35:35,43,0,9,Spring,0,1,30
+2025-04-07 14:47:23,Electronics,Smartphone,Room-7,Row-B,9,1a08a377,Cold Storage,Medium,2.65,76,2025-04-07 19:40:08,9,None,Strong-Bryant,,Low,2025-04-07 14:47:23,19,0,3,Spring,1,2,30
+2025-03-29 16:54:26,Food,Rice,Room-4,Row-J,9,12fa5a4f,Bin,Small,0.34,36,2025-04-10 20:34:45,13,Refrigerated,Riley LLC,2025-04-19 16:54:26,High,2025-03-29 16:54:26,19,0,4,Spring,1,1,14
+2025-03-26 18:09:30,Food,Milk,Room-5,Row-F,11,d6b431a1,Cold Storage,Medium,6.03,23,2025-04-08 11:14:17,6,Refrigerated,Yang and Sons,2025-04-21 18:09:30,High,2025-03-26 18:09:30,6,4,11,Spring,0,3,30
+2025-03-15 06:18:56,Furniture,Bed,Room-3,Row-E,16,eadd86b7,Shelf,Medium,6.87,51,2025-04-10 09:45:36,6,None,Simon Group,,Medium,2025-03-15 06:18:56,50,0,10,Spring,1,3,14
+2025-03-25 21:21:22,Furniture,Table,Room-8,Row-G,17,a1160824,Bin,Small,0.33,2,2025-04-11 03:59:44,5,None,Doyle-Gardner,,Medium,2025-03-25 21:21:22,34,0,2,Spring,1,0,30
+2025-04-10 08:56:18,Electronics,Smartphone,Room-7,Row-I,8,c2fb7b65,Shelf,Medium,4.72,23,2025-04-08 15:25:49,12,None,Cherry Group,,High,2025-04-10 08:56:18,47,0,8,Spring,0,4,30
+2025-04-07 22:39:33,Clothing,T-Shirt,Room-7,Row-C,18,2cc4287b,Pallet,Large,35.68,41,2025-04-12 08:22:51,13,None,Juarez Group,,Medium,2025-04-07 22:39:33,26,0,10,Spring,0,1,14
+2025-04-02 02:52:24,Food,Rice,Room-8,Row-I,6,91a1bfbd,Pallet,Small,1.24,3,2025-04-10 03:52:23,13,Refrigerated,"Barnes, Chaney and Andrade",2025-04-27 02:52:24,Medium,2025-04-02 02:52:24,10,0,14,Spring,1,1,30
+2025-03-14 13:04:36,Electronics,Tablet,Room-6,Row-D,20,23323ff9,Pallet,Small,1.09,33,2025-04-10 05:54:48,11,None,Williams LLC,,High,2025-03-14 13:04:36,18,11,7,Spring,1,3,7
+2025-03-18 02:24:07,Electronics,Smartphone,Room-5,Row-H,1,a85d7ea5,Cold Storage,Medium,8.05,83,2025-04-10 06:46:22,8,None,"Fritz, Humphrey and Miller",,Medium,2025-03-18 02:24:07,24,0,4,Spring,0,1,30
+2025-04-06 02:03:43,Clothing,T-Shirt,Room-4,Row-G,7,cc9bb1fd,Pallet,Medium,9.23,92,2025-04-08 10:46:52,10,None,Coleman-Lawrence,,Medium,2025-04-06 02:03:43,6,5,1,Spring,0,4,7
+2025-04-08 13:46:06,Food,Apple,Room-9,Row-B,6,67949f96,Cold Storage,Medium,9.43,9,2025-04-10 20:02:54,10,Refrigerated,"Lamb, Jones and Holmes",2025-04-15 13:46:06,High,2025-04-08 13:46:06,30,0,10,Spring,1,1,14
+2025-04-12 10:30:43,Furniture,Table,Room-5,Row-F,14,a3f398d8,Cold Storage,Small,1.68,33,2025-04-12 01:17:18,6,None,"George, Brandt and Christensen",,Medium,2025-04-12 10:30:43,16,0,4,Spring,0,0,14
+2025-04-09 13:24:23,Electronics,Tablet,Room-7,Row-E,12,778a55f6,Shelf,Large,34.62,68,2025-04-08 02:09:52,11,None,Cline-Taylor,,Low,2025-04-09 13:24:23,29,0,7,Spring,1,4,7
+2025-04-02 17:42:56,Clothing,Jeans,Room-2,Row-I,8,895c3585,Bin,Medium,3.76,61,2025-04-11 20:09:52,13,None,Wilson Ltd,,Medium,2025-04-02 17:42:56,8,7,4,Spring,0,1,14
+2025-03-14 01:37:20,Electronics,Tablet,Room-2,Row-C,1,ec93741a,Cold Storage,Large,42.73,4,2025-04-07 18:50:58,13,None,Hernandez Ltd,,Low,2025-03-14 01:37:20,30,0,5,Spring,0,0,7
+2025-03-25 08:51:59,Furniture,Cupboard,Room-3,Row-I,20,694f059d,Bin,Small,1.49,90,2025-04-10 15:43:35,13,None,Adams Inc,,Medium,2025-03-25 08:51:59,17,11,10,Spring,0,0,14
+2025-04-12 07:25:42,Food,Bread,Room-6,Row-H,19,12addd2c,Shelf,Large,42.2,55,2025-04-09 23:00:50,5,Refrigerated,Ramirez-Wolfe,2025-04-19 07:25:42,Low,2025-04-12 07:25:42,15,4,8,Spring,1,1,7
+2025-04-08 02:06:19,Toys,Lego,Room-7,Row-E,12,74484fcd,Pallet,Small,0.61,46,2025-04-10 14:10:05,11,None,Giles LLC,,Medium,2025-04-08 02:06:19,38,0,8,Spring,1,4,14
+2025-04-02 03:05:57,Toys,Blocks,Room-6,Row-H,3,81bcf86e,Pallet,Large,43.43,70,2025-04-11 21:06:06,6,None,Garcia Group,,Medium,2025-04-02 03:05:57,43,0,14,Spring,0,2,30
+2025-03-31 16:46:32,Food,Milk,Room-7,Row-D,15,e39dcd3e,Shelf,Medium,9.24,78,2025-04-10 12:53:56,7,Refrigerated,"Jarvis, Thompson and Pruitt",2025-04-13 16:46:32,Low,2025-03-31 16:46:32,24,0,6,Spring,1,2,7
+2025-03-18 12:05:53,Toys,Car,Room-2,Row-G,1,00aad319,Bin,Medium,8.81,65,2025-04-07 16:33:14,8,None,Harmon-Porter,,Medium,2025-03-18 12:05:53,12,0,11,Spring,1,0,30
+2025-04-04 01:48:43,Furniture,Chair,Room-10,Row-C,8,9cefcbf8,Shelf,Small,0.5,80,2025-04-10 05:14:38,7,None,Keller-Dudley,,Medium,2025-04-04 01:48:43,29,0,8,Spring,1,3,7
+2025-04-02 13:18:06,Food,Apple,Room-10,Row-F,20,565624ee,Pallet,Small,1.87,16,2025-04-11 09:12:08,14,Refrigerated,Jones PLC,2025-04-25 13:18:06,Medium,2025-04-02 13:18:06,16,12,1,Spring,0,4,14
+2025-03-22 02:55:36,Clothing,Dress,Room-1,Row-E,20,6810b23b,Cold Storage,Small,0.78,64,2025-04-07 21:47:18,13,None,Nguyen LLC,,Medium,2025-03-22 02:55:36,26,0,4,Spring,0,0,14
+2025-03-18 19:12:35,Clothing,Dress,Room-1,Row-B,20,8703d4d6,Pallet,Medium,3.86,28,2025-04-09 10:41:57,15,None,English-Ray,,Medium,2025-03-18 19:12:35,9,11,7,Spring,1,3,7
+2025-03-15 13:37:17,Furniture,Sofa,Room-9,Row-E,15,cd3ea2f5,Cold Storage,Large,42.42,56,2025-04-09 08:58:05,15,None,Johnson-Henderson,,Medium,2025-03-15 13:37:17,45,0,9,Spring,1,2,14
+2025-03-30 22:06:02,Toys,Car,Room-5,Row-B,19,f94d8b1a,Shelf,Medium,2.78,89,2025-04-11 20:01:10,14,None,Ayala Ltd,,Medium,2025-03-30 22:06:02,28,1,4,Spring,1,1,30
+2025-03-28 11:50:29,Electronics,Speaker,Room-5,Row-A,18,5f117a93,Shelf,Medium,5.62,95,2025-04-10 03:00:17,7,None,Liu-Jones,,Medium,2025-03-28 11:50:29,36,0,14,Spring,0,0,30
+2025-03-24 09:19:57,Electronics,TV,Room-4,Row-D,17,fb5db659,Bin,Small,0.46,60,2025-04-10 13:50:51,5,None,Howell PLC,,High,2025-03-24 09:19:57,15,0,10,Spring,0,3,30
+2025-04-01 03:17:18,Clothing,Jeans,Room-7,Row-C,9,397ec210,Shelf,Medium,4.89,43,2025-04-09 18:01:02,14,None,Rogers-Hall,,Medium,2025-04-01 03:17:18,18,0,14,Spring,0,2,30
+2025-03-14 20:54:29,Food,Rice,Room-7,Row-H,12,851b9d11,Shelf,Medium,7.67,81,2025-04-12 02:04:14,10,Refrigerated,"Dixon, Carroll and Sharp",2025-04-11 20:54:29,Medium,2025-03-14 20:54:29,38,0,10,Spring,1,3,7
+2025-03-13 14:59:26,Toys,Puzzle,Room-5,Row-F,15,6a0de843,Bin,Small,1.0,96,2025-04-08 20:48:02,14,None,Cabrera Inc,,Medium,2025-03-13 14:59:26,46,0,5,Spring,0,1,14
+2025-03-26 13:59:01,Toys,Lego,Room-7,Row-C,10,33cde0dd,Cold Storage,Small,1.99,59,2025-04-10 16:15:17,6,None,Romero-Berry,,Medium,2025-03-26 13:59:01,28,0,3,Spring,0,0,14
+2025-04-11 12:31:17,Furniture,Sofa,Room-7,Row-J,9,874c3fa4,Bin,Medium,2.65,94,2025-04-08 14:33:01,9,None,Smith-Sanders,,Medium,2025-04-11 12:31:17,19,0,9,Spring,0,0,14
+2025-03-16 06:15:58,Toys,Puzzle,Room-6,Row-A,4,b0bf4ece,Cold Storage,Small,1.54,11,2025-04-11 10:02:09,8,None,Davis-Pennington,,Medium,2025-03-16 06:15:58,5,9,2,Spring,1,2,7
+2025-03-18 11:29:30,Food,Apple,Room-8,Row-B,11,1bb3fa65,Cold Storage,Small,0.32,63,2025-04-10 12:46:03,10,Refrigerated,Murillo Ltd,2025-04-02 11:29:30,Medium,2025-03-18 11:29:30,3,10,10,Spring,1,1,30
+2025-03-20 03:53:04,Furniture,Cupboard,Room-9,Row-F,2,d08ccfdb,Pallet,Large,17.62,82,2025-04-09 01:29:13,10,None,"Miller, Clark and Davis",,Medium,2025-03-20 03:53:04,47,0,11,Spring,0,3,14
+2025-03-20 20:47:26,Electronics,Smartphone,Room-2,Row-F,19,26530916,Shelf,Medium,8.58,14,2025-04-11 04:22:37,11,None,Farrell and Sons,,High,2025-03-20 20:47:26,18,7,2,Spring,1,3,7
+2025-04-12 11:54:54,Furniture,Table,Room-8,Row-J,2,f4ca5395,Pallet,Small,1.16,46,2025-04-08 23:02:11,7,None,Gutierrez-Peterson,,Medium,2025-04-12 11:54:54,17,0,14,Spring,1,2,30
+2025-03-14 12:16:25,Toys,Puzzle,Room-6,Row-G,8,390a4918,Bin,Medium,3.2,6,2025-04-12 05:01:19,10,None,Sherman-Johnson,,Medium,2025-03-14 12:16:25,8,4,13,Spring,0,3,7
+2025-04-01 21:54:45,Toys,Blocks,Room-6,Row-G,7,8e629aa9,Shelf,Large,32.67,50,2025-04-11 10:58:49,9,None,Cochran LLC,,Medium,2025-04-01 21:54:45,8,0,13,Spring,1,4,30
+2025-03-18 01:15:09,Food,Bread,Room-7,Row-D,16,2fd47d22,Bin,Large,10.31,83,2025-04-10 00:52:36,10,Refrigerated,"Owens, Wilkins and Smith",2025-04-11 01:15:09,Low,2025-03-18 01:15:09,16,0,12,Spring,0,4,14
+2025-03-30 22:40:48,Electronics,Laptop,Room-4,Row-B,14,f741be5c,Shelf,Medium,7.82,48,2025-04-08 23:32:53,15,None,Walker and Sons,,High,2025-03-30 22:40:48,17,7,2,Spring,1,1,14
+2025-03-25 14:40:10,Furniture,Sofa,Room-6,Row-B,12,d2f15599,Cold Storage,Small,1.92,62,2025-04-07 17:00:36,9,None,"Kim, Santiago and Parks",,Medium,2025-03-25 14:40:10,46,0,12,Spring,1,1,30
+2025-03-23 00:33:04,Furniture,Chair,Room-5,Row-C,7,b86f7b38,Bin,Small,1.02,85,2025-04-11 09:48:04,12,None,Rodgers-Wagner,,Medium,2025-03-23 00:33:04,28,0,9,Spring,0,3,14
+2025-03-15 13:03:46,Furniture,Chair,Room-9,Row-A,1,1393d203,Cold Storage,Medium,5.11,3,2025-04-08 18:19:28,11,None,Morrison-Moore,,Medium,2025-03-15 13:03:46,32,0,9,Spring,1,3,7
+2025-03-29 01:44:59,Furniture,Cupboard,Room-8,Row-J,8,943ee7ef,Shelf,Medium,4.16,88,2025-04-08 21:49:25,7,None,Kelly Group,,Medium,2025-03-29 01:44:59,9,1,9,Spring,0,2,14
+2025-03-14 03:30:17,Toys,Doll,Room-5,Row-G,4,b30c3f62,Shelf,Medium,9.18,72,2025-04-11 09:53:37,13,None,Jones Inc,,Medium,2025-03-14 03:30:17,26,0,8,Spring,0,1,14
+2025-03-17 18:11:17,Clothing,Jacket,Room-7,Row-F,19,069a5a1b,Bin,Medium,2.7,18,2025-04-09 11:36:06,7,None,Fritz Ltd,,Medium,2025-03-17 18:11:17,14,14,8,Spring,0,1,7
+2025-04-03 20:11:35,Furniture,Chair,Room-6,Row-J,13,16565526,Shelf,Large,47.49,41,2025-04-11 18:19:12,8,None,Brooks Ltd,,Medium,2025-04-03 20:11:35,28,0,14,Spring,1,2,14
+2025-04-09 05:39:32,Furniture,Chair,Room-4,Row-H,5,b682bea0,Bin,Small,0.96,81,2025-04-12 03:31:35,12,None,"Pearson, Patterson and Walker",,Medium,2025-04-09 05:39:32,21,0,11,Spring,1,2,30
+2025-03-29 18:34:17,Food,Bread,Room-2,Row-E,13,b3abe2dd,Shelf,Small,0.77,31,2025-04-10 09:25:38,5,Refrigerated,Davis Group,2025-04-22 18:34:17,Medium,2025-03-29 18:34:17,13,1,8,Spring,1,3,30
+2025-03-23 16:01:05,Food,Milk,Room-4,Row-A,3,4d757d35,Pallet,Large,41.86,97,2025-04-10 14:54:37,9,Refrigerated,"Stanley, Davis and Banks",2025-04-11 16:01:05,Low,2025-03-23 16:01:05,10,0,10,Spring,1,4,14
+2025-04-02 23:28:40,Food,Eggs,Room-8,Row-D,5,8ad03427,Cold Storage,Small,0.82,69,2025-04-08 21:56:50,13,Refrigerated,Meyer-Miller,2025-04-21 23:28:40,High,2025-04-02 23:28:40,15,0,8,Spring,1,4,30
+2025-04-09 00:12:22,Furniture,Cupboard,Room-9,Row-A,17,79e19ead,Bin,Small,0.8,17,2025-04-11 00:56:07,13,None,Mayo-Washington,,Medium,2025-04-09 00:12:22,18,2,8,Spring,1,1,7
+2025-03-21 05:22:15,Furniture,Chair,Room-3,Row-B,9,8ab719f2,Cold Storage,Medium,7.18,99,2025-04-10 14:30:50,8,None,Williams Ltd,,Medium,2025-03-21 05:22:15,4,13,1,Spring,0,0,14
+2025-04-02 11:15:35,Furniture,Bed,Room-2,Row-I,19,e22c0fcc,Pallet,Small,1.78,10,2025-04-09 07:36:52,11,None,Brooks-James,,Medium,2025-04-02 11:15:35,9,18,12,Spring,0,1,14
+2025-04-08 19:36:52,Clothing,Jeans,Room-9,Row-E,16,5b6fce60,Pallet,Small,0.5,52,2025-04-10 20:22:35,7,None,Peterson-Bond,,Medium,2025-04-08 19:36:52,33,0,8,Spring,0,0,7
+2025-03-22 21:04:14,Electronics,Smartphone,Room-9,Row-B,3,dfd14e33,Shelf,Small,1.18,88,2025-04-08 20:23:36,8,None,"Nguyen, Ellis and Ali",,High,2025-03-22 21:04:14,18,0,11,Spring,0,4,7
+2025-03-20 16:50:09,Clothing,Dress,Room-2,Row-J,18,cb306574,Shelf,Large,15.76,48,2025-04-09 06:49:32,15,None,"Fuller, Le and Harrison",,Medium,2025-03-20 16:50:09,5,13,12,Spring,1,2,7
+2025-04-03 10:36:21,Clothing,Jeans,Room-4,Row-D,15,6633178f,Bin,Small,1.41,63,2025-04-08 11:00:50,6,None,"Boyd, Neal and Rosales",,Medium,2025-04-03 10:36:21,10,10,4,Spring,1,3,14
+2025-03-22 14:30:54,Toys,Puzzle,Room-10,Row-D,15,e0e37c5f,Cold Storage,Large,38.4,86,2025-04-10 09:25:38,15,None,"Gardner, Gibson and Wagner",,Medium,2025-03-22 14:30:54,41,0,4,Spring,0,3,14
+2025-04-04 02:51:21,Clothing,Shirt,Room-9,Row-G,7,61785106,Pallet,Medium,2.96,60,2025-04-11 06:20:57,12,None,"Reese, Wilcox and Kennedy",,Medium,2025-04-04 02:51:21,19,0,14,Spring,0,0,7
+2025-04-07 01:55:23,Furniture,Table,Room-6,Row-H,18,136d4504,Shelf,Large,31.08,68,2025-04-10 06:38:23,13,None,Burgess PLC,,Medium,2025-04-07 01:55:23,23,0,3,Spring,1,0,14
+2025-03-29 02:59:16,Food,Apple,Room-5,Row-D,11,ad209027,Bin,Small,0.41,27,2025-04-09 02:28:12,6,Refrigerated,Morales PLC,2025-04-03 02:59:16,High,2025-03-29 02:59:16,9,6,5,Spring,1,4,7
+2025-03-27 15:25:20,Clothing,Jacket,Room-4,Row-C,16,0c9fb05e,Bin,Large,48.32,69,2025-04-12 02:20:16,14,None,"Hines, Young and Moore",,Medium,2025-03-27 15:25:20,48,0,4,Spring,1,1,7
+2025-03-31 14:31:54,Furniture,Sofa,Room-8,Row-A,5,501c3046,Shelf,Medium,9.39,78,2025-04-08 05:13:24,5,None,Meyer and Sons,,Medium,2025-03-31 14:31:54,25,0,2,Spring,1,3,30
+2025-03-28 18:39:06,Furniture,Sofa,Room-2,Row-C,18,969b1171,Cold Storage,Large,33.3,3,2025-04-09 16:37:01,6,None,"Walker, Gomez and Young",,Medium,2025-03-28 18:39:06,46,0,8,Spring,1,1,30
+2025-04-03 21:38:03,Furniture,Chair,Room-4,Row-I,6,00ae3b4b,Bin,Medium,8.45,25,2025-04-11 02:24:23,5,None,"Beck, Weeks and Mccoy",,Medium,2025-04-03 21:38:03,16,0,7,Spring,1,2,30
+2025-03-16 16:49:39,Clothing,Jacket,Room-2,Row-C,17,50dc2512,Bin,Large,21.4,52,2025-04-11 16:22:28,12,None,Stark-Gates,,Medium,2025-03-16 16:49:39,3,23,2,Spring,1,1,30
+2025-03-15 10:36:41,Clothing,Shirt,Room-6,Row-G,10,cc8a94cf,Pallet,Large,14.98,15,2025-04-07 22:47:44,15,None,Gonzalez PLC,,Medium,2025-03-15 10:36:41,40,0,2,Spring,0,0,30
+2025-03-23 08:13:36,Food,Bread,Room-8,Row-F,13,41437349,Bin,Large,36.29,6,2025-04-10 14:01:11,15,Refrigerated,Tucker-Wood,2025-04-08 08:13:36,High,2025-03-23 08:13:36,10,4,1,Spring,1,2,30
+2025-03-15 00:50:59,Furniture,Chair,Room-6,Row-A,4,924160c2,Cold Storage,Medium,2.04,42,2025-04-08 21:47:00,5,None,"Mcdaniel, Marsh and Forbes",,Medium,2025-03-15 00:50:59,44,0,1,Spring,0,3,14
+2025-03-23 02:31:29,Furniture,Bed,Room-6,Row-I,5,ab213675,Shelf,Large,30.49,41,2025-04-09 17:51:40,6,None,Cook PLC,,Medium,2025-03-23 02:31:29,39,0,13,Spring,0,0,14
+2025-03-28 15:48:32,Clothing,Dress,Room-8,Row-F,1,1a8ea08a,Bin,Small,0.56,93,2025-04-09 15:04:42,11,None,Wall-Robertson,,Medium,2025-03-28 15:48:32,8,0,6,Spring,0,3,7
+2025-03-15 14:30:01,Toys,Puzzle,Room-5,Row-E,7,cba15f7b,Shelf,Medium,3.47,2,2025-04-08 10:07:57,11,None,Carpenter-Hughes,,Medium,2025-03-15 14:30:01,17,0,4,Spring,0,2,14
+2025-04-05 02:20:02,Electronics,Smartphone,Room-10,Row-C,9,7ec36cba,Bin,Medium,9.54,32,2025-04-11 01:36:37,5,None,Johnson-Robinson,,Medium,2025-04-05 02:20:02,37,0,13,Spring,0,2,30
+2025-03-26 21:07:00,Food,Rice,Room-6,Row-I,10,06748e90,Bin,Large,38.14,18,2025-04-09 16:11:33,10,Refrigerated,Reese and Sons,2025-04-14 21:07:00,Low,2025-03-26 21:07:00,24,0,7,Spring,1,3,7
+2025-04-09 11:35:44,Toys,Puzzle,Room-3,Row-E,16,28f94b5d,Cold Storage,Large,45.69,7,2025-04-10 04:09:14,15,None,Johnson Group,,Medium,2025-04-09 11:35:44,47,0,1,Spring,0,0,7
+2025-03-25 11:35:51,Clothing,T-Shirt,Room-6,Row-E,1,8cde9b5b,Cold Storage,Small,1.7,65,2025-04-09 22:46:36,7,None,"Garcia, Hernandez and Ford",,Medium,2025-03-25 11:35:51,42,0,4,Spring,0,2,14
+2025-03-13 14:03:41,Electronics,Laptop,Room-2,Row-I,1,24bb8721,Shelf,Small,1.55,48,2025-04-11 14:44:07,9,None,Mitchell Inc,,Low,2025-03-13 14:03:41,13,0,8,Spring,1,2,7
+2025-04-02 11:45:32,Toys,Lego,Room-6,Row-H,13,973214bc,Bin,Large,27.77,15,2025-04-10 09:52:33,10,None,"Barker, Black and Johnson",,Medium,2025-04-02 11:45:32,28,0,14,Spring,0,3,14
+2025-03-29 03:57:26,Toys,Car,Room-10,Row-B,19,1a5303e0,Pallet,Large,19.42,10,2025-04-09 06:46:45,11,None,"Branch, Martin and Lewis",,Medium,2025-03-29 03:57:26,44,0,13,Spring,1,0,30
+2025-03-15 01:14:40,Furniture,Sofa,Room-3,Row-C,9,f50eb9c5,Pallet,Medium,2.67,37,2025-04-10 10:56:42,8,None,"Roberts, Lopez and Carter",,Medium,2025-03-15 01:14:40,33,0,9,Spring,0,1,30
+2025-03-28 20:05:58,Toys,Puzzle,Room-9,Row-B,5,cf907102,Cold Storage,Small,1.0,38,2025-04-10 03:57:31,14,None,Stephenson PLC,,Medium,2025-03-28 20:05:58,22,0,1,Spring,1,1,14
+2025-04-04 09:23:58,Furniture,Cupboard,Room-10,Row-J,3,0f828525,Cold Storage,Small,0.29,9,2025-04-09 08:33:39,11,None,King and Sons,,Medium,2025-04-04 09:23:58,31,0,14,Spring,0,3,7
+2025-03-28 01:15:58,Food,Apple,Room-9,Row-D,6,356b674c,Bin,Medium,5.69,34,2025-04-07 18:23:57,14,Refrigerated,Jordan-Bradley,2025-04-02 01:15:58,Medium,2025-03-28 01:15:58,26,0,2,Spring,1,3,30
+2025-04-05 08:14:38,Clothing,Jeans,Room-8,Row-I,4,1a99cf06,Shelf,Medium,5.1,60,2025-04-08 08:44:51,8,None,"Price, Mitchell and Ray",,Medium,2025-04-05 08:14:38,31,0,6,Spring,1,1,14
+2025-03-14 23:32:17,Electronics,Speaker,Room-10,Row-A,17,60d12232,Pallet,Medium,9.32,82,2025-04-07 15:30:04,14,None,Bates-Horn,,High,2025-03-14 23:32:17,38,0,11,Spring,1,3,7
+2025-03-30 16:00:18,Toys,Car,Room-3,Row-G,18,4742786f,Shelf,Medium,6.99,22,2025-04-10 04:03:32,6,None,"Warren, Cooper and Williams",,Medium,2025-03-30 16:00:18,1,21,6,Spring,0,1,14
+2025-03-18 01:23:25,Electronics,Smartphone,Room-8,Row-G,12,f874dc3d,Cold Storage,Medium,7.59,6,2025-04-09 02:10:43,8,None,"Barry, Barr and Martinez",,Medium,2025-03-18 01:23:25,1,19,8,Spring,1,2,14
+2025-03-21 20:28:16,Food,Rice,Room-4,Row-I,5,5b86fca7,Pallet,Small,1.04,35,2025-04-10 03:51:33,15,Refrigerated,Frey-Spencer,2025-04-19 20:28:16,Medium,2025-03-21 20:28:16,42,0,5,Spring,0,2,7
+2025-03-23 18:28:38,Toys,Blocks,Room-8,Row-C,13,aac412b1,Pallet,Small,0.16,8,2025-04-08 22:01:50,9,None,Bruce PLC,,Medium,2025-03-23 18:28:38,33,0,9,Spring,1,1,14
+2025-03-18 23:46:33,Toys,Doll,Room-9,Row-G,13,b916918a,Pallet,Medium,9.74,4,2025-04-09 22:00:43,10,None,Harris-Graham,,Medium,2025-03-18 23:46:33,17,0,1,Spring,0,0,30
+2025-04-11 22:59:34,Food,Apple,Room-10,Row-C,7,c1a6d518,Shelf,Medium,8.64,57,2025-04-09 15:49:01,8,Refrigerated,"Lee, King and Ruiz",2025-04-29 22:59:34,High,2025-04-11 22:59:34,1,10,1,Spring,0,0,7
+2025-04-01 00:52:44,Clothing,Dress,Room-10,Row-F,9,8587354b,Cold Storage,Small,1.08,16,2025-04-11 15:55:31,13,None,Gutierrez-Stewart,,Medium,2025-04-01 00:52:44,14,0,6,Spring,0,2,14
+2025-04-09 15:41:22,Toys,Blocks,Room-8,Row-H,9,5dcf3db6,Bin,Large,47.57,85,2025-04-12 01:28:48,14,None,Turner-Ortiz,,Medium,2025-04-09 15:41:22,6,0,4,Spring,0,1,14
+2025-03-30 04:42:21,Electronics,Speaker,Room-9,Row-B,10,d7595236,Bin,Medium,9.89,68,2025-04-11 18:50:09,8,None,Chase-Webb,,High,2025-03-30 04:42:21,18,0,10,Spring,1,0,30
+2025-03-27 06:48:48,Electronics,Laptop,Room-4,Row-H,1,37192420,Pallet,Medium,6.0,77,2025-04-10 05:05:57,5,None,Barajas LLC,,High,2025-03-27 06:48:48,26,0,2,Spring,0,4,14
+2025-03-27 16:33:37,Furniture,Table,Room-6,Row-J,2,23e07bcc,Cold Storage,Small,0.49,56,2025-04-09 09:10:30,6,None,Caldwell Ltd,,Medium,2025-03-27 16:33:37,13,0,6,Spring,1,3,30
+2025-04-01 17:49:54,Food,Milk,Room-10,Row-D,10,e8dba03e,Bin,Large,16.6,99,2025-04-07 20:11:07,7,Refrigerated,Marquez Ltd,2025-04-12 17:49:54,Low,2025-04-01 17:49:54,16,4,2,Spring,1,1,14
+2025-04-11 10:24:02,Food,Apple,Room-4,Row-E,7,9f8dbb31,Cold Storage,Medium,2.95,57,2025-04-08 08:14:35,14,Refrigerated,Stone PLC,2025-04-20 10:24:02,Low,2025-04-11 10:24:02,48,0,2,Spring,0,4,30
+2025-04-12 11:27:01,Clothing,Jacket,Room-8,Row-G,20,d6c29de1,Pallet,Medium,2.92,48,2025-04-12 00:52:42,7,None,Smith-Sanchez,,Medium,2025-04-12 11:27:01,22,0,14,Spring,0,1,30
+2025-03-24 16:00:49,Toys,Doll,Room-9,Row-H,17,a8bb53cf,Cold Storage,Small,0.91,20,2025-04-11 20:34:03,7,None,Bush LLC,,Medium,2025-03-24 16:00:49,3,12,12,Spring,0,1,14
+2025-04-07 05:38:11,Toys,Doll,Room-2,Row-C,20,e9587071,Bin,Large,46.54,47,2025-04-12 12:48:53,6,None,Davis Group,,Medium,2025-04-07 05:38:11,43,0,8,Spring,0,0,14
+2025-03-29 22:42:53,Toys,Car,Room-10,Row-B,13,06c065f5,Bin,Medium,7.95,25,2025-04-08 12:31:07,12,None,Schmitt-Oconnell,,Medium,2025-03-29 22:42:53,35,0,4,Spring,1,3,14
+2025-03-28 19:12:25,Furniture,Cupboard,Room-8,Row-C,3,2f7ad5dc,Cold Storage,Large,40.13,12,2025-04-10 17:18:32,11,None,Newton and Sons,,Medium,2025-03-28 19:12:25,20,0,2,Spring,1,1,7
+2025-03-24 07:40:45,Toys,Lego,Room-2,Row-A,9,c073b78c,Cold Storage,Small,1.38,34,2025-04-09 06:29:14,12,None,"Knox, Lopez and Terry",,Medium,2025-03-24 07:40:45,25,0,10,Spring,1,2,30
+2025-03-14 13:53:29,Electronics,Tablet,Room-2,Row-G,14,2b60e3fc,Shelf,Small,0.64,92,2025-04-11 18:19:27,7,None,Wright-Davis,,High,2025-03-14 13:53:29,27,0,5,Spring,1,4,7
+2025-03-20 19:15:56,Toys,Puzzle,Room-10,Row-B,17,ed8181cd,Bin,Large,43.74,86,2025-04-11 06:45:14,11,None,Schneider-Jones,,Medium,2025-03-20 19:15:56,29,0,4,Spring,1,3,14
+2025-03-25 02:22:51,Food,Milk,Room-4,Row-I,6,7597438f,Bin,Small,1.29,39,2025-04-08 06:49:18,10,Refrigerated,"Crosby, Branch and Curry",2025-04-15 02:22:51,Low,2025-03-25 02:22:51,29,0,4,Spring,1,3,7
+2025-03-21 07:28:36,Furniture,Cupboard,Room-6,Row-B,19,f9444939,Pallet,Small,0.38,35,2025-04-08 20:30:18,10,None,Turner PLC,,Medium,2025-03-21 07:28:36,9,10,11,Spring,0,3,30
+2025-03-17 01:18:34,Furniture,Sofa,Room-3,Row-A,16,9fce7deb,Shelf,Small,0.18,5,2025-04-10 05:08:44,12,None,White Ltd,,Medium,2025-03-17 01:18:34,17,2,7,Spring,1,1,30
+2025-03-28 14:14:59,Electronics,Smartphone,Room-2,Row-F,5,06404125,Bin,Small,1.77,38,2025-04-12 01:01:14,5,None,David LLC,,Medium,2025-03-28 14:14:59,49,0,1,Spring,1,0,7
+2025-04-04 14:55:34,Food,Bread,Room-2,Row-J,13,cd625b56,Shelf,Medium,7.68,35,2025-04-08 10:00:25,10,Refrigerated,Roberts-Juarez,2025-04-28 14:55:34,Low,2025-04-04 14:55:34,18,0,13,Spring,1,3,7
+2025-04-01 10:16:59,Electronics,Laptop,Room-5,Row-C,3,220c1248,Bin,Large,23.78,16,2025-04-09 09:00:09,9,None,"Young, Huang and Brown",,Medium,2025-04-01 10:16:59,14,0,5,Spring,0,3,14
+2025-03-19 22:23:43,Clothing,Shirt,Room-6,Row-B,8,715db530,Cold Storage,Medium,4.54,21,2025-04-12 06:39:29,13,None,"Ramirez, Harris and Nelson",,Medium,2025-03-19 22:23:43,1,7,13,Spring,1,2,7
+2025-04-01 21:04:50,Electronics,TV,Room-4,Row-E,19,859b41e0,Cold Storage,Large,45.81,91,2025-04-07 21:28:08,6,None,Wright-Roth,,Low,2025-04-01 21:04:50,39,0,6,Spring,1,1,30
+2025-04-08 15:38:52,Clothing,Shirt,Room-10,Row-H,5,c31a5cbd,Pallet,Large,35.6,94,2025-04-09 02:18:27,9,None,Perkins-Preston,,Medium,2025-04-08 15:38:52,39,0,11,Spring,1,3,30
+2025-04-07 04:17:15,Electronics,Speaker,Room-10,Row-H,6,40ac69c3,Pallet,Large,16.33,13,2025-04-11 07:00:48,13,None,Powell PLC,,High,2025-04-07 04:17:15,22,0,9,Spring,0,3,7
+2025-04-02 04:20:04,Furniture,Cupboard,Room-2,Row-I,1,da9c0e68,Pallet,Large,27.79,82,2025-04-08 14:14:20,15,None,"Blake, Cantu and Brown",,Medium,2025-04-02 04:20:04,30,0,6,Spring,1,4,14
+2025-03-17 23:38:20,Furniture,Sofa,Room-9,Row-I,20,8fae0229,Pallet,Large,31.02,58,2025-04-08 15:54:18,14,None,"Sullivan, Roberts and Hernandez",,Medium,2025-03-17 23:38:20,14,8,5,Spring,1,2,30
+2025-04-03 13:45:24,Clothing,T-Shirt,Room-1,Row-B,18,6eae86c4,Cold Storage,Large,20.1,79,2025-04-09 17:13:23,10,None,Bolton-Mcknight,,Medium,2025-04-03 13:45:24,32,0,4,Spring,1,0,14
+2025-04-09 11:33:35,Clothing,Dress,Room-9,Row-A,9,1487397f,Pallet,Large,16.5,16,2025-04-10 09:47:23,5,None,Spears-Mitchell,,Medium,2025-04-09 11:33:35,41,0,5,Spring,0,3,14
+2025-03-24 16:17:43,Electronics,Tablet,Room-1,Row-G,3,229c8a9d,Bin,Large,34.66,1,2025-04-11 06:09:46,8,None,Anderson Inc,,Low,2025-03-24 16:17:43,48,0,1,Spring,1,0,30
+2025-03-28 19:30:32,Clothing,Jacket,Room-7,Row-H,9,27fc9fca,Bin,Large,42.32,17,2025-04-09 17:47:29,15,None,Moore PLC,,Medium,2025-03-28 19:30:32,21,0,9,Spring,1,2,14
+2025-04-01 19:55:28,Clothing,Jacket,Room-8,Row-F,4,e1103bad,Pallet,Small,1.45,42,2025-04-12 03:08:40,8,None,Griffin-Page,,Medium,2025-04-01 19:55:28,18,0,8,Spring,1,1,14
+2025-03-19 03:56:12,Furniture,Sofa,Room-1,Row-B,5,152a5bfd,Pallet,Large,12.23,41,2025-04-11 21:30:39,13,None,Bradley LLC,,Medium,2025-03-19 03:56:12,2,5,1,Spring,1,1,14
+2025-03-20 21:11:54,Toys,Car,Room-1,Row-F,10,70ca7a9c,Pallet,Large,31.67,82,2025-04-10 05:51:59,12,None,Hernandez-Anderson,,Medium,2025-03-20 21:11:54,49,0,4,Spring,1,3,30
+2025-03-29 00:01:59,Food,Apple,Room-10,Row-F,9,dc48739a,Pallet,Medium,3.65,8,2025-04-09 00:12:12,6,Refrigerated,Terrell LLC,2025-04-15 00:01:59,Low,2025-03-29 00:01:59,39,0,7,Spring,1,4,30
+2025-03-18 07:52:24,Food,Milk,Room-3,Row-C,6,5f072135,Shelf,Medium,2.49,2,2025-04-08 16:02:17,13,Refrigerated,"Miller, Lester and Washington",2025-03-31 07:52:24,Medium,2025-03-18 07:52:24,17,0,8,Spring,1,1,14
+2025-03-29 22:44:54,Food,Apple,Room-4,Row-A,9,e38ea31a,Pallet,Small,0.75,84,2025-04-09 05:17:59,9,Refrigerated,Blanchard Group,2025-04-15 22:44:54,High,2025-03-29 22:44:54,30,0,14,Spring,1,3,14
+2025-04-02 01:02:51,Toys,Doll,Room-6,Row-I,10,18b20780,Bin,Large,37.79,45,2025-04-07 21:28:34,14,None,Mercer-Rodriguez,,Medium,2025-04-02 01:02:51,43,0,9,Spring,0,1,30
+2025-03-16 20:51:13,Electronics,Speaker,Room-6,Row-D,17,aed01368,Bin,Large,37.88,31,2025-04-12 10:15:41,15,None,Smith Group,,Low,2025-03-16 20:51:13,37,0,14,Spring,0,0,7
+2025-03-28 09:06:50,Electronics,Speaker,Room-6,Row-J,13,6cfaa959,Bin,Medium,2.37,45,2025-04-11 06:34:13,9,None,Ortiz-Bentley,,Medium,2025-03-28 09:06:50,0,16,4,Spring,1,3,14
+2025-03-16 11:05:21,Clothing,Dress,Room-6,Row-A,5,257add80,Shelf,Large,37.01,94,2025-04-10 11:21:14,5,None,"Perez, Mills and Santos",,Medium,2025-03-16 11:05:21,1,11,8,Spring,1,0,14
+2025-04-03 03:15:54,Clothing,Jeans,Room-6,Row-G,20,a6c9e2df,Cold Storage,Medium,2.53,53,2025-04-11 16:24:12,9,None,Lopez LLC,,Medium,2025-04-03 03:15:54,17,4,5,Spring,1,4,14
+2025-03-19 03:45:02,Electronics,Smartphone,Room-8,Row-G,2,7f047c76,Cold Storage,Medium,7.0,28,2025-04-09 10:46:24,12,None,Hill PLC,,Low,2025-03-19 03:45:02,35,0,5,Spring,1,3,30
+2025-03-28 22:41:58,Furniture,Chair,Room-10,Row-A,20,fc447b6b,Pallet,Small,0.84,62,2025-04-12 08:47:17,10,None,Rodriguez LLC,,Medium,2025-03-28 22:41:58,36,0,11,Spring,1,0,7
+2025-04-02 21:09:27,Toys,Blocks,Room-9,Row-B,16,f8b15c87,Shelf,Medium,8.82,69,2025-04-11 18:44:36,5,None,Hawkins-Robinson,,Medium,2025-04-02 21:09:27,41,0,5,Spring,0,3,30
+2025-03-18 08:30:27,Clothing,T-Shirt,Room-10,Row-E,2,9e76608d,Shelf,Medium,3.5,76,2025-04-07 15:56:10,13,None,House-Nichols,,Medium,2025-03-18 08:30:27,15,0,4,Spring,1,4,30
+2025-03-19 03:16:16,Furniture,Cupboard,Room-3,Row-G,4,9ee5f1ea,Shelf,Medium,9.56,71,2025-04-08 21:05:13,8,None,Holland Group,,Medium,2025-03-19 03:16:16,25,0,12,Spring,1,1,14
+2025-04-11 17:18:17,Food,Eggs,Room-9,Row-I,14,75cf6e00,Pallet,Medium,5.79,92,2025-04-07 22:27:12,15,Refrigerated,Miller-Hudson,2025-05-01 17:18:17,Medium,2025-04-11 17:18:17,34,0,5,Spring,0,3,14
+2025-03-29 11:08:51,Furniture,Chair,Room-1,Row-H,14,515830db,Bin,Medium,2.29,26,2025-04-12 13:15:28,9,None,Johnson-Williamson,,Medium,2025-03-29 11:08:51,9,1,14,Spring,1,3,7
+2025-03-19 21:45:25,Electronics,Laptop,Room-7,Row-I,11,e6c8f6a8,Shelf,Medium,6.07,89,2025-04-10 09:21:33,13,None,Copeland-Morris,,Low,2025-03-19 21:45:25,34,0,7,Spring,0,3,14
+2025-04-05 19:37:11,Furniture,Bed,Room-4,Row-E,18,22c3a353,Bin,Medium,6.62,98,2025-04-09 18:00:54,8,None,Mckenzie-Jones,,Medium,2025-04-05 19:37:11,10,7,6,Spring,0,4,7
+2025-04-07 01:11:14,Toys,Blocks,Room-10,Row-F,3,f2ac0220,Cold Storage,Small,1.68,23,2025-04-11 08:05:23,13,None,Ware-Jones,,Medium,2025-04-07 01:11:14,12,0,3,Spring,0,0,7
+2025-04-01 17:45:11,Furniture,Bed,Room-1,Row-J,4,441c101d,Bin,Small,0.26,13,2025-04-07 17:57:35,7,None,"Hood, Hudson and Lawson",,Medium,2025-04-01 17:45:11,48,0,7,Spring,1,0,14
+2025-04-09 00:09:31,Toys,Lego,Room-5,Row-I,9,33556d7c,Cold Storage,Small,1.57,97,2025-04-07 21:53:16,6,None,Griffith and Sons,,Medium,2025-04-09 00:09:31,33,0,6,Spring,0,4,14
+2025-03-13 15:38:46,Furniture,Bed,Room-3,Row-A,16,e600cb38,Pallet,Small,1.29,51,2025-04-11 06:50:01,5,None,Gray Inc,,Medium,2025-03-13 15:38:46,36,0,10,Spring,1,2,30
+2025-04-10 20:47:55,Furniture,Cupboard,Room-9,Row-C,5,9fb64546,Cold Storage,Medium,6.73,2,2025-04-11 13:24:22,15,None,Wilson Group,,Medium,2025-04-10 20:47:55,32,0,2,Spring,0,0,30
+2025-03-15 23:05:36,Electronics,Tablet,Room-7,Row-J,13,602b3d92,Pallet,Large,36.56,97,2025-04-07 20:59:24,9,None,Howe Ltd,,High,2025-03-15 23:05:36,11,2,14,Spring,1,0,14
+2025-04-05 22:50:18,Electronics,TV,Room-10,Row-B,6,0a500cb5,Pallet,Small,0.36,10,2025-04-11 08:37:08,14,None,"King, Crosby and Wolf",,Low,2025-04-05 22:50:18,15,0,9,Spring,1,2,30
+2025-03-14 12:30:13,Food,Eggs,Room-10,Row-J,17,5632cfb1,Bin,Small,0.83,14,2025-04-07 14:51:03,13,Refrigerated,Greene-Rush,2025-03-28 12:30:13,Low,2025-03-14 12:30:13,47,0,3,Spring,0,3,7
+2025-03-31 17:07:22,Electronics,TV,Room-6,Row-G,16,ee7a6882,Cold Storage,Large,30.14,86,2025-04-09 11:40:28,15,None,Richardson LLC,,High,2025-03-31 17:07:22,26,0,4,Spring,1,4,30
+2025-04-01 11:01:01,Clothing,T-Shirt,Room-6,Row-B,17,4556c144,Cold Storage,Large,24.19,92,2025-04-09 11:29:03,5,None,Holmes-Andrade,,Medium,2025-04-01 11:01:01,33,0,1,Spring,0,1,30
+2025-03-22 18:16:48,Toys,Lego,Room-2,Row-G,19,1b4d60f0,Shelf,Medium,7.12,77,2025-04-11 20:56:44,6,None,"Brown, Anderson and Adams",,Medium,2025-03-22 18:16:48,1,16,12,Spring,0,3,7
+2025-03-21 18:51:21,Toys,Doll,Room-3,Row-H,4,f76279be,Bin,Medium,7.84,15,2025-04-11 03:12:53,12,None,Maxwell Inc,,Medium,2025-03-21 18:51:21,43,0,12,Spring,0,0,7
+2025-04-08 21:50:17,Toys,Lego,Room-4,Row-I,20,d41bd559,Shelf,Large,28.45,29,2025-04-09 08:00:19,15,None,James-Dougherty,,Medium,2025-04-08 21:50:17,40,0,12,Spring,0,4,7
+2025-04-09 05:22:57,Furniture,Sofa,Room-1,Row-J,16,8e5b9455,Pallet,Small,1.99,78,2025-04-11 03:10:08,6,None,"Young, Bailey and Watts",,Medium,2025-04-09 05:22:57,0,23,5,Spring,0,1,14
+2025-04-06 13:38:35,Electronics,Smartphone,Room-8,Row-C,6,cc752013,Bin,Medium,8.33,50,2025-04-09 06:06:11,9,None,"Underwood, Berger and Brown",,High,2025-04-06 13:38:35,38,0,1,Spring,0,2,7
+2025-03-20 15:26:01,Electronics,Speaker,Room-1,Row-B,14,00ef0262,Shelf,Large,39.44,44,2025-04-11 12:57:18,10,None,"White, Johnson and Brown",,Low,2025-03-20 15:26:01,28,0,1,Spring,1,1,7
+2025-04-05 19:15:47,Furniture,Table,Room-9,Row-C,7,13d0d349,Cold Storage,Medium,4.53,18,2025-04-10 00:38:06,9,None,"White, Potter and Burnett",,Medium,2025-04-05 19:15:47,39,0,9,Spring,1,1,14
+2025-04-11 03:06:50,Electronics,Laptop,Room-10,Row-D,4,4854e69c,Shelf,Medium,7.56,60,2025-04-08 11:55:29,13,None,Nguyen-Martin,,High,2025-04-11 03:06:50,25,0,9,Spring,0,3,7
+2025-03-28 14:39:13,Furniture,Cupboard,Room-4,Row-H,13,567ff3ba,Shelf,Small,0.81,54,2025-04-08 11:08:40,13,None,"Ali, Brooks and Bass",,Medium,2025-03-28 14:39:13,6,6,6,Spring,1,3,7
+2025-04-07 13:16:32,Food,Rice,Room-6,Row-F,16,5aba247b,Bin,Small,1.81,79,2025-04-09 09:42:26,8,Refrigerated,"White, Espinoza and Flores",2025-04-27 13:16:32,Medium,2025-04-07 13:16:32,43,0,3,Spring,0,4,7
+2025-04-06 23:08:08,Food,Bread,Room-9,Row-E,3,68fa8d23,Bin,Large,17.87,96,2025-04-10 13:53:20,9,Refrigerated,"Saunders, Evans and Jones",2025-04-24 23:08:08,High,2025-04-06 23:08:08,36,0,2,Spring,1,1,14
+2025-03-19 14:13:52,Food,Eggs,Room-3,Row-G,12,aedca64b,Cold Storage,Small,1.52,38,2025-04-08 21:50:11,10,Refrigerated,Schultz-Clay,2025-04-10 14:13:52,Medium,2025-03-19 14:13:52,1,6,10,Spring,0,3,7
+2025-03-18 03:40:37,Furniture,Bed,Room-4,Row-D,2,df7093f9,Bin,Medium,2.89,36,2025-04-09 03:02:15,12,None,Willis-Craig,,Medium,2025-03-18 03:40:37,38,0,10,Spring,0,2,14
+2025-03-16 22:55:12,Furniture,Table,Room-8,Row-E,9,b4efcc86,Pallet,Large,24.22,54,2025-04-07 20:36:52,7,None,Bailey-Tucker,,Medium,2025-03-16 22:55:12,42,0,9,Spring,1,0,14
+2025-04-11 02:52:46,Clothing,Dress,Room-2,Row-I,3,c828b42c,Bin,Medium,2.98,2,2025-04-10 01:42:26,11,None,"Duke, King and Ingram",,Medium,2025-04-11 02:52:46,43,0,5,Spring,0,0,14
+2025-03-20 04:12:37,Food,Milk,Room-2,Row-C,2,2b2cd718,Shelf,Large,37.84,3,2025-04-08 00:10:19,7,Refrigerated,Castro-Ellison,2025-03-29 04:12:37,Low,2025-03-20 04:12:37,45,0,4,Spring,1,0,14
+2025-04-11 06:06:28,Electronics,Smartphone,Room-10,Row-E,15,6dc1b646,Bin,Large,26.23,98,2025-04-08 01:03:21,14,None,Ross-Quinn,,Low,2025-04-11 06:06:28,50,0,9,Spring,1,4,30
+2025-03-13 19:51:23,Toys,Puzzle,Room-9,Row-D,18,09c09ac8,Pallet,Large,19.5,71,2025-04-07 13:32:29,11,None,"Ellison, Harrison and Vega",,Medium,2025-03-13 19:51:23,20,0,5,Spring,1,4,7
+2025-03-23 03:16:43,Furniture,Chair,Room-4,Row-C,4,2cfce0c1,Shelf,Medium,3.69,19,2025-04-11 00:32:19,13,None,Green-Davis,,Medium,2025-03-23 03:16:43,2,10,14,Spring,0,0,30
+2025-04-05 23:12:45,Furniture,Bed,Room-10,Row-A,8,2b1e6275,Bin,Small,1.61,3,2025-04-08 21:51:31,14,None,Williams LLC,,Medium,2025-04-05 23:12:45,1,7,7,Spring,1,0,14
+2025-03-16 09:48:56,Toys,Puzzle,Room-3,Row-H,11,776493f6,Pallet,Large,47.91,86,2025-04-12 00:34:48,12,None,"Proctor, Ross and Jackson",,Medium,2025-03-16 09:48:56,4,8,3,Spring,1,1,14
+2025-04-06 21:31:48,Electronics,Speaker,Room-4,Row-B,8,5cd6de2b,Shelf,Small,0.98,96,2025-04-09 13:15:19,10,None,Martinez PLC,,Medium,2025-04-06 21:31:48,11,1,9,Spring,0,4,30
+2025-03-30 09:58:53,Food,Milk,Room-10,Row-A,14,cad433c8,Bin,Medium,6.54,6,2025-04-07 17:23:36,9,Refrigerated,Jacobs Group,2025-04-28 09:58:53,High,2025-03-30 09:58:53,20,0,10,Spring,1,4,7
+2025-04-06 04:20:03,Toys,Car,Room-6,Row-I,16,404dc8e6,Shelf,Small,1.91,35,2025-04-09 08:40:29,14,None,Johnson Ltd,,Medium,2025-04-06 04:20:03,43,0,11,Spring,1,3,14
+2025-04-05 01:21:33,Clothing,Dress,Room-7,Row-I,13,f03d2400,Cold Storage,Medium,2.02,32,2025-04-09 02:50:49,8,None,Gardner Inc,,Medium,2025-04-05 01:21:33,34,0,4,Spring,0,0,14
+2025-03-27 22:57:19,Food,Eggs,Room-1,Row-C,15,fdf877ca,Cold Storage,Large,11.36,19,2025-04-11 10:01:26,6,Refrigerated,King-Barnes,2025-04-18 22:57:19,High,2025-03-27 22:57:19,4,21,6,Spring,0,1,30
+2025-04-09 21:11:19,Toys,Puzzle,Room-9,Row-E,6,de1fdffe,Bin,Large,47.29,100,2025-04-08 10:17:42,12,None,Young-Martinez,,Medium,2025-04-09 21:11:19,19,0,11,Spring,1,0,14
+2025-04-11 22:12:31,Clothing,Shirt,Room-2,Row-H,15,a82d3235,Cold Storage,Medium,4.54,8,2025-04-08 14:55:39,14,None,Blackwell Inc,,Medium,2025-04-11 22:12:31,24,0,8,Spring,1,1,7
+2025-03-15 03:15:28,Toys,Puzzle,Room-4,Row-F,4,664d0b59,Shelf,Small,0.76,56,2025-04-09 11:44:28,9,None,"Shields, Ramos and Keller",,Medium,2025-03-15 03:15:28,31,0,12,Spring,1,0,7
+2025-04-07 11:44:36,Food,Bread,Room-10,Row-F,11,a488a759,Bin,Large,24.22,14,2025-04-09 22:04:17,6,Refrigerated,"Walker, Stewart and Deleon",2025-04-26 11:44:36,High,2025-04-07 11:44:36,6,2,4,Spring,1,2,30
+2025-03-31 18:11:03,Clothing,Jeans,Room-4,Row-C,11,5af677d8,Cold Storage,Large,47.44,48,2025-04-10 18:16:54,5,None,"Munoz, Hansen and Roberts",,Medium,2025-03-31 18:11:03,44,0,10,Spring,1,3,14
+2025-03-19 08:47:10,Clothing,T-Shirt,Room-5,Row-C,19,96718867,Pallet,Large,47.56,84,2025-04-10 07:40:36,8,None,Lyons Inc,,Medium,2025-03-19 08:47:10,48,0,13,Spring,1,2,14
+2025-04-12 08:47:41,Clothing,Dress,Room-4,Row-B,1,72ce2dcc,Bin,Medium,5.43,27,2025-04-09 14:11:52,10,None,"Mitchell, Hodges and Jackson",,Medium,2025-04-12 08:47:41,41,0,12,Spring,1,1,7
+2025-04-04 02:49:49,Toys,Blocks,Room-10,Row-F,1,3208ca1a,Pallet,Small,1.03,17,2025-04-10 22:16:45,7,None,Melendez LLC,,Medium,2025-04-04 02:49:49,5,0,3,Spring,0,3,30
+2025-03-16 10:29:48,Clothing,Jacket,Room-5,Row-J,4,3a36a2b0,Pallet,Large,19.45,88,2025-04-10 23:16:35,5,None,Rose-Johnson,,Medium,2025-03-16 10:29:48,29,0,4,Spring,1,3,7
+2025-04-12 08:40:58,Toys,Blocks,Room-9,Row-B,5,0a4f8b3b,Pallet,Medium,2.86,55,2025-04-09 04:54:51,7,None,"Smith, Crawford and Grant",,Medium,2025-04-12 08:40:58,41,0,8,Spring,0,1,14
+2025-04-06 00:17:20,Electronics,Tablet,Room-10,Row-A,3,d90d23f9,Shelf,Small,1.28,54,2025-04-08 11:17:32,11,None,James-Smith,,Medium,2025-04-06 00:17:20,5,0,7,Spring,1,1,7
+2025-03-21 01:21:40,Electronics,Speaker,Room-3,Row-H,10,ce50479e,Bin,Large,14.5,89,2025-04-08 20:41:45,11,None,Hughes Inc,,Medium,2025-03-21 01:21:40,37,0,11,Spring,1,3,30
+2025-03-16 21:33:24,Furniture,Chair,Room-1,Row-G,7,59122b17,Bin,Medium,2.48,55,2025-04-10 12:21:39,8,None,Bolton LLC,,Medium,2025-03-16 21:33:24,49,0,9,Spring,0,4,14
+2025-04-04 16:36:27,Food,Rice,Room-9,Row-A,18,3cb4a0b7,Bin,Medium,2.07,8,2025-04-09 09:58:22,13,Refrigerated,"Fernandez, Rodriguez and Townsend",2025-04-26 16:36:27,High,2025-04-04 16:36:27,38,0,12,Spring,0,0,7
+2025-03-18 09:16:09,Toys,Doll,Room-7,Row-G,14,5481bce2,Shelf,Large,45.88,28,2025-04-11 15:11:18,12,None,Ramirez-Adams,,Medium,2025-03-18 09:16:09,30,0,6,Spring,0,2,14
+2025-04-10 00:23:56,Electronics,Tablet,Room-2,Row-F,5,578c0a78,Pallet,Large,23.15,95,2025-04-08 04:42:15,12,None,Moore-Murphy,,Low,2025-04-10 00:23:56,2,0,14,Spring,1,0,30
+2025-03-26 12:44:52,Food,Eggs,Room-5,Row-F,10,98e38f76,Shelf,Large,34.63,5,2025-04-09 21:51:31,9,Refrigerated,"Wright, Russell and Meadows",2025-04-15 12:44:52,Low,2025-03-26 12:44:52,11,0,11,Spring,0,1,14
+2025-04-07 19:22:21,Toys,Doll,Room-5,Row-A,18,dc3d6cab,Cold Storage,Medium,9.31,69,2025-04-09 19:12:35,6,None,"Garza, Scott and Dixon",,Medium,2025-04-07 19:22:21,29,0,14,Spring,0,0,14
+2025-04-08 22:34:53,Electronics,Laptop,Room-5,Row-B,17,42c846a4,Bin,Large,33.26,15,2025-04-08 21:00:31,14,None,Johnson Ltd,,Medium,2025-04-08 22:34:53,31,0,2,Spring,1,3,7
+2025-04-05 05:52:01,Electronics,Speaker,Room-5,Row-E,3,32bc84e6,Pallet,Medium,7.58,18,2025-04-11 01:17:01,14,None,Wilson-Jacobs,,Medium,2025-04-05 05:52:01,6,0,11,Spring,1,4,30
+2025-04-09 19:52:09,Electronics,Smartphone,Room-5,Row-I,6,b88892c1,Pallet,Large,32.98,16,2025-04-07 20:10:14,8,None,Garcia Group,,Low,2025-04-09 19:52:09,10,0,11,Spring,0,3,14
+2025-03-22 16:01:21,Clothing,Jeans,Room-8,Row-G,5,fc7fd7fa,Cold Storage,Medium,6.31,72,2025-04-08 03:06:55,9,None,Shaw Ltd,,Medium,2025-03-22 16:01:21,1,5,5,Spring,0,1,14
+2025-04-03 01:31:13,Furniture,Table,Room-8,Row-J,7,31601e4d,Bin,Large,48.76,61,2025-04-12 01:17:18,15,None,Hernandez Group,,Medium,2025-04-03 01:31:13,20,0,14,Spring,0,1,30
+2025-04-04 16:27:22,Electronics,TV,Room-7,Row-E,20,add57677,Shelf,Small,1.63,32,2025-04-10 01:20:02,8,None,"Watson, Chavez and Pitts",,Low,2025-04-04 16:27:22,2,20,9,Spring,1,4,14
+2025-04-10 20:12:50,Food,Bread,Room-9,Row-B,3,cc5c943d,Bin,Medium,7.11,67,2025-04-07 18:32:58,11,Refrigerated,Green LLC,2025-04-30 20:12:50,Medium,2025-04-10 20:12:50,42,0,6,Spring,1,3,30
+2025-04-04 00:47:02,Clothing,Jacket,Room-9,Row-E,16,f42d99b0,Pallet,Small,0.63,64,2025-04-11 18:19:25,12,None,"Short, Marshall and Rich",,Medium,2025-04-04 00:47:02,3,16,11,Spring,1,3,30
+2025-03-31 15:49:10,Toys,Lego,Room-2,Row-D,11,4a7a2d01,Bin,Large,29.51,76,2025-04-07 14:48:15,10,None,"George, Hendricks and Day",,Medium,2025-03-31 15:49:10,48,0,8,Spring,0,1,7
+2025-03-17 08:30:59,Electronics,TV,Room-6,Row-G,8,83970261,Bin,Medium,7.48,39,2025-04-08 18:41:34,15,None,Smith-Faulkner,,Medium,2025-03-17 08:30:59,20,0,4,Spring,1,2,30
+2025-04-05 02:09:44,Electronics,TV,Room-4,Row-C,10,d2e412ac,Pallet,Medium,9.25,85,2025-04-07 22:40:36,12,None,"Hernandez, Huynh and Zimmerman",,Medium,2025-04-05 02:09:44,18,1,13,Spring,0,4,7
+2025-03-17 10:49:22,Clothing,T-Shirt,Room-2,Row-H,14,358f4bde,Shelf,Small,1.8,85,2025-04-09 08:43:08,15,None,"Fox, Clayton and Morales",,Medium,2025-03-17 10:49:22,35,0,14,Spring,1,2,30
+2025-03-13 19:19:37,Furniture,Table,Room-3,Row-E,14,03ed2c16,Pallet,Small,1.68,14,2025-04-11 19:40:29,5,None,"Miller, Combs and Lewis",,Medium,2025-03-13 19:19:37,36,0,1,Spring,1,3,14
+2025-04-02 07:04:07,Food,Bread,Room-2,Row-H,19,30faea24,Pallet,Medium,3.08,55,2025-04-08 10:58:31,9,Refrigerated,Ritter-Lester,2025-04-08 07:04:07,High,2025-04-02 07:04:07,36,0,3,Spring,1,0,30
+2025-03-29 02:26:22,Clothing,Dress,Room-9,Row-H,14,542fcd45,Bin,Large,10.51,30,2025-04-11 05:03:28,9,None,Thompson PLC,,Medium,2025-03-29 02:26:22,17,6,3,Spring,0,0,7
+2025-03-31 11:09:28,Furniture,Sofa,Room-7,Row-B,7,ba08bba5,Pallet,Small,1.55,90,2025-04-10 22:47:25,14,None,Holt Ltd,,Medium,2025-03-31 11:09:28,7,0,8,Spring,0,4,30
+2025-04-09 03:15:08,Food,Apple,Room-10,Row-H,17,47b7bc48,Cold Storage,Small,1.34,13,2025-04-08 19:59:26,15,Refrigerated,Torres Inc,2025-05-03 03:15:08,Medium,2025-04-09 03:15:08,28,0,7,Spring,0,1,30
+2025-03-27 10:50:22,Furniture,Bed,Room-9,Row-H,8,3abe3a4c,Shelf,Small,1.51,14,2025-04-10 21:17:33,5,None,"Boyd, Preston and Atkinson",,Medium,2025-03-27 10:50:22,26,0,4,Spring,1,3,14
+2025-03-28 13:25:20,Toys,Car,Room-3,Row-F,17,a38d7f71,Pallet,Large,33.8,24,2025-04-09 19:58:56,6,None,"Schaefer, Burke and Henry",,Medium,2025-03-28 13:25:20,9,4,9,Spring,1,4,30
+2025-04-08 13:30:46,Food,Milk,Room-8,Row-H,7,b4f18362,Shelf,Large,18.29,17,2025-04-12 00:16:23,7,Refrigerated,Young-Lin,2025-05-06 13:30:46,High,2025-04-08 13:30:46,35,0,9,Spring,1,3,7
+2025-03-30 13:59:30,Food,Eggs,Room-4,Row-I,16,f2f66dc8,Cold Storage,Medium,3.75,95,2025-04-09 02:35:25,8,Refrigerated,"Williams, Curry and Carlson",2025-04-27 13:59:30,Low,2025-03-30 13:59:30,6,19,6,Spring,0,4,30
+2025-03-17 05:02:34,Clothing,Jacket,Room-3,Row-G,3,f8ef7380,Shelf,Medium,7.65,10,2025-04-11 14:55:09,14,None,"Perez, Gonzalez and Rogers",,Medium,2025-03-17 05:02:34,28,0,1,Spring,1,3,14
+2025-03-14 14:39:24,Toys,Car,Room-6,Row-F,14,9bc47519,Cold Storage,Small,1.07,72,2025-04-09 17:47:59,7,None,Fields PLC,,Medium,2025-03-14 14:39:24,14,6,12,Spring,0,0,7
+2025-03-16 11:52:50,Clothing,Jacket,Room-1,Row-C,5,1719c413,Cold Storage,Medium,8.25,49,2025-04-09 20:24:46,10,None,Livingston-Willis,,Medium,2025-03-16 11:52:50,31,0,10,Spring,1,4,14
+2025-03-24 01:28:01,Furniture,Table,Room-8,Row-D,14,34161e5b,Shelf,Large,37.44,46,2025-04-09 00:55:02,15,None,"Padilla, Garcia and Buck",,Medium,2025-03-24 01:28:01,37,0,13,Spring,0,3,7
+2025-03-17 11:49:21,Toys,Blocks,Room-2,Row-D,12,1335b880,Cold Storage,Large,47.17,66,2025-04-09 23:50:39,5,None,Perez Inc,,Medium,2025-03-17 11:49:21,50,0,10,Spring,0,1,30
+2025-04-11 16:36:14,Toys,Puzzle,Room-10,Row-A,18,6226d1f1,Shelf,Small,0.93,31,2025-04-10 21:13:23,5,None,Guzman-Young,,Medium,2025-04-11 16:36:14,23,3,2,Spring,1,1,14
+2025-03-13 15:40:38,Toys,Lego,Room-7,Row-E,9,4a113c08,Shelf,Large,45.01,32,2025-04-07 16:44:55,11,None,Olson-Russell,,Medium,2025-03-13 15:40:38,22,0,11,Spring,1,0,14
+2025-04-06 13:49:13,Electronics,TV,Room-4,Row-J,18,4e9fe637,Cold Storage,Medium,6.56,56,2025-04-08 03:56:13,9,None,Barron Inc,,High,2025-04-06 13:49:13,33,0,9,Spring,0,4,14
+2025-04-11 11:05:49,Clothing,Jacket,Room-6,Row-I,15,d20ce9f8,Pallet,Large,32.68,9,2025-04-11 21:41:51,14,None,Mckinney LLC,,Medium,2025-04-11 11:05:49,39,0,1,Spring,1,2,30
+2025-03-26 23:20:41,Food,Rice,Room-7,Row-B,20,af8667a2,Cold Storage,Small,1.3,84,2025-04-11 04:50:58,8,Refrigerated,Campbell Inc,2025-04-11 23:20:41,Medium,2025-03-26 23:20:41,1,21,10,Spring,0,0,7
+2025-04-05 02:58:29,Food,Bread,Room-4,Row-H,18,e2b9a277,Cold Storage,Medium,4.21,97,2025-04-11 23:18:07,12,Refrigerated,"Martin, Smith and Martin",2025-04-16 02:58:29,Medium,2025-04-05 02:58:29,14,7,2,Spring,1,3,7
+2025-03-20 03:13:44,Toys,Puzzle,Room-7,Row-E,2,194fe2df,Bin,Small,1.71,5,2025-04-09 05:16:47,6,None,"Myers, Mitchell and Cruz",,Medium,2025-03-20 03:13:44,34,0,3,Spring,0,2,14
+2025-03-31 19:56:21,Furniture,Cupboard,Room-4,Row-J,15,ef1afd23,Pallet,Large,16.2,92,2025-04-08 09:49:37,15,None,Jordan Ltd,,Medium,2025-03-31 19:56:21,42,0,11,Spring,1,0,14
+2025-03-19 01:42:30,Toys,Lego,Room-10,Row-J,1,ad0b0c03,Pallet,Medium,6.9,62,2025-04-11 16:20:31,13,None,"Golden, Herrera and Estrada",,Medium,2025-03-19 01:42:30,27,0,7,Spring,1,2,7
+2025-03-27 01:15:38,Food,Milk,Room-3,Row-J,8,c26cf5f6,Cold Storage,Large,20.94,59,2025-04-09 20:22:00,7,Refrigerated,"Smith, Taylor and West",2025-04-25 01:15:38,High,2025-03-27 01:15:38,22,0,7,Spring,0,0,7
+2025-03-16 01:19:35,Toys,Doll,Room-1,Row-D,19,d1b8c482,Pallet,Large,44.14,6,2025-04-07 18:30:33,9,None,"Petty, Hernandez and Acevedo",,Medium,2025-03-16 01:19:35,35,0,9,Spring,1,0,30
+2025-03-16 00:54:48,Furniture,Cupboard,Room-6,Row-H,11,240fadd6,Bin,Large,11.25,67,2025-04-08 23:51:12,8,None,Baker and Sons,,Medium,2025-03-16 00:54:48,23,0,5,Spring,0,2,14
+2025-03-21 16:54:28,Electronics,Tablet,Room-10,Row-E,8,e12eb210,Cold Storage,Small,0.89,69,2025-04-08 22:26:07,8,None,"Clark, Mcgrath and Thompson",,Medium,2025-03-21 16:54:28,9,1,1,Spring,0,2,30
+2025-04-01 01:24:53,Clothing,T-Shirt,Room-9,Row-H,1,cd559d75,Shelf,Large,21.7,63,2025-04-11 05:37:34,6,None,"Padilla, Roberson and Wallace",,Medium,2025-04-01 01:24:53,22,0,11,Spring,0,3,14
+2025-03-14 07:02:02,Food,Eggs,Room-9,Row-E,11,34a713c1,Shelf,Large,47.98,20,2025-04-07 17:50:19,6,Refrigerated,Barnett-Morris,2025-04-05 07:02:02,Low,2025-03-14 07:02:02,18,0,3,Spring,1,3,14
+2025-03-15 04:51:12,Food,Rice,Room-3,Row-E,19,b5d45933,Pallet,Medium,4.76,28,2025-04-08 17:14:28,11,Refrigerated,"Frank, Kim and Cameron",2025-04-04 04:51:12,Medium,2025-03-15 04:51:12,18,1,10,Spring,1,4,30
+2025-04-12 07:58:32,Toys,Car,Room-10,Row-I,15,5ac0ca79,Cold Storage,Large,20.7,79,2025-04-09 05:23:36,11,None,Jordan Group,,Medium,2025-04-12 07:58:32,32,0,9,Spring,1,2,14
+2025-03-14 01:14:27,Clothing,T-Shirt,Room-7,Row-I,3,0f361fbf,Cold Storage,Small,0.7,34,2025-04-11 10:30:36,13,None,Dominguez LLC,,Medium,2025-03-14 01:14:27,33,0,6,Spring,1,0,7
+2025-04-02 22:01:36,Electronics,Speaker,Room-8,Row-G,5,cac5574a,Pallet,Small,1.56,35,2025-04-12 10:51:18,15,None,"Haynes, Smith and Morrow",,High,2025-04-02 22:01:36,33,0,10,Spring,1,4,30
+2025-04-09 03:12:02,Food,Eggs,Room-4,Row-G,13,fb326848,Shelf,Large,24.77,50,2025-04-07 22:41:59,11,Refrigerated,"Carter, Nichols and Mueller",2025-04-18 03:12:02,Medium,2025-04-09 03:12:02,9,5,9,Spring,0,4,7
+2025-03-20 04:48:03,Furniture,Sofa,Room-2,Row-G,9,368306bb,Bin,Large,16.48,89,2025-04-11 21:25:59,12,None,Murphy Inc,,Medium,2025-03-20 04:48:03,3,9,8,Spring,1,2,7
+2025-04-08 10:36:30,Food,Rice,Room-8,Row-H,19,7352636a,Bin,Medium,9.86,38,2025-04-11 10:21:33,10,Refrigerated,"Dunn, Chambers and Smith",2025-04-14 10:36:30,Medium,2025-04-08 10:36:30,11,17,8,Spring,0,0,30
+2025-03-16 02:17:06,Food,Milk,Room-6,Row-C,18,c58a33e4,Shelf,Small,0.71,39,2025-04-10 20:45:50,6,Refrigerated,Pugh Group,2025-04-11 02:17:06,Low,2025-03-16 02:17:06,27,0,6,Spring,0,0,30
+2025-03-22 09:35:31,Clothing,T-Shirt,Room-5,Row-F,17,a0cface7,Bin,Large,19.39,60,2025-04-12 07:50:29,9,None,Hardy-Dominguez,,Medium,2025-03-22 09:35:31,10,9,2,Spring,1,0,7
+2025-03-16 11:50:44,Food,Eggs,Room-10,Row-C,11,51709817,Shelf,Large,20.38,64,2025-04-09 18:33:43,14,Refrigerated,"Mendez, Lopez and Mayo",2025-04-08 11:50:44,High,2025-03-16 11:50:44,15,3,8,Spring,1,1,14
+2025-04-08 05:23:24,Clothing,Shirt,Room-9,Row-G,3,b15eb0e2,Pallet,Medium,8.45,1,2025-04-08 04:49:27,10,None,"Woods, Jennings and Mathis",,Medium,2025-04-08 05:23:24,47,0,7,Spring,0,2,7
+2025-03-25 09:01:45,Furniture,Cupboard,Room-3,Row-B,15,30a9c832,Cold Storage,Medium,5.69,70,2025-04-09 06:57:38,14,None,Williams Inc,,Medium,2025-03-25 09:01:45,37,0,8,Spring,0,3,30
+2025-04-03 16:11:13,Furniture,Cupboard,Room-4,Row-G,20,e0e9cbf1,Pallet,Small,0.52,79,2025-04-10 01:53:08,14,None,Smith-Holland,,Medium,2025-04-03 16:11:13,43,0,14,Spring,1,2,7
+2025-03-17 14:45:47,Toys,Lego,Room-10,Row-B,2,9b1a0d4d,Cold Storage,Small,0.52,80,2025-04-12 07:49:40,15,None,York Ltd,,Medium,2025-03-17 14:45:47,20,0,10,Spring,0,1,30
+2025-04-10 00:48:51,Electronics,Speaker,Room-7,Row-I,19,a69587c5,Shelf,Medium,4.4,42,2025-04-12 10:33:45,13,None,"Martin, Caldwell and Elliott",,Medium,2025-04-10 00:48:51,14,2,12,Spring,0,3,7
+2025-03-30 12:54:47,Food,Bread,Room-6,Row-H,18,8333d107,Shelf,Large,46.56,64,2025-04-08 00:09:25,11,Refrigerated,Martin-Landry,2025-04-13 12:54:47,High,2025-03-30 12:54:47,7,7,13,Spring,0,0,30
+2025-03-20 05:22:30,Furniture,Bed,Room-1,Row-J,2,4c7d68cf,Bin,Medium,9.98,64,2025-04-11 02:56:41,10,None,Elliott-Mendoza,,Medium,2025-03-20 05:22:30,12,0,12,Spring,1,2,7
+2025-03-19 06:52:04,Electronics,Tablet,Room-1,Row-G,12,1fd208c2,Shelf,Small,0.18,68,2025-04-10 17:59:46,6,None,"Perry, Allen and Freeman",,High,2025-03-19 06:52:04,40,0,2,Spring,1,0,14
+2025-04-10 19:28:59,Clothing,Shirt,Room-4,Row-A,7,4f417fb9,Cold Storage,Medium,7.64,71,2025-04-09 02:16:10,8,None,"Cardenas, Cantu and Jones",,Medium,2025-04-10 19:28:59,3,6,11,Spring,1,2,7
+2025-03-28 23:44:43,Toys,Car,Room-10,Row-A,4,d353b348,Shelf,Medium,5.94,4,2025-04-09 18:55:10,10,None,"Stark, Montgomery and Rodriguez",,Medium,2025-03-28 23:44:43,28,0,13,Spring,1,0,7
+2025-04-10 02:38:46,Furniture,Sofa,Room-3,Row-E,6,6c983742,Bin,Medium,6.88,5,2025-04-11 07:29:16,13,None,Andrews Group,,Medium,2025-04-10 02:38:46,13,2,13,Spring,0,3,7
+2025-04-07 01:44:03,Electronics,Speaker,Room-10,Row-E,9,50a2cb09,Cold Storage,Medium,9.18,100,2025-04-07 21:55:24,10,None,"Robinson, Ramirez and Johnson",,High,2025-04-07 01:44:03,30,0,6,Spring,0,1,30
+2025-03-30 14:18:17,Food,Apple,Room-6,Row-F,1,52b0789f,Shelf,Large,47.12,73,2025-04-11 04:04:00,11,Refrigerated,Hernandez Group,2025-04-20 14:18:17,Low,2025-03-30 14:18:17,49,0,5,Spring,1,0,30
+2025-03-19 07:32:08,Electronics,TV,Room-6,Row-F,4,19fe1af2,Pallet,Medium,6.89,45,2025-04-11 00:12:42,14,None,Carr LLC,,Medium,2025-03-19 07:32:08,20,0,6,Spring,1,2,14
+2025-03-31 16:30:37,Furniture,Table,Room-2,Row-D,12,68810124,Bin,Large,37.3,24,2025-04-09 11:53:53,8,None,Contreras-Garcia,,Medium,2025-03-31 16:30:37,1,15,11,Spring,1,4,7
+2025-04-08 23:49:45,Clothing,Jacket,Room-5,Row-D,15,92a93598,Bin,Large,35.38,87,2025-04-09 22:23:46,15,None,"Rodriguez, Holmes and Moran",,Medium,2025-04-08 23:49:45,7,13,9,Spring,0,3,30
+2025-04-12 11:31:49,Furniture,Table,Room-3,Row-B,15,e0bcf6eb,Pallet,Large,47.77,5,2025-04-09 16:24:36,5,None,Williams Group,,Medium,2025-04-12 11:31:49,11,11,7,Spring,0,4,14
+2025-04-09 10:42:50,Furniture,Table,Room-4,Row-F,17,7defcec3,Pallet,Medium,3.35,77,2025-04-08 03:36:06,7,None,Cook and Sons,,Medium,2025-04-09 10:42:50,24,0,14,Spring,1,2,30
+2025-04-08 17:58:21,Clothing,Shirt,Room-2,Row-A,18,97d29816,Cold Storage,Large,28.0,94,2025-04-12 09:52:25,14,None,Clark Inc,,Medium,2025-04-08 17:58:21,13,7,6,Spring,0,3,14
+2025-04-06 05:29:50,Furniture,Chair,Room-4,Row-D,3,31521c78,Cold Storage,Medium,3.01,97,2025-04-11 16:55:24,14,None,"Clark, Hartman and Le",,Medium,2025-04-06 05:29:50,43,0,2,Spring,1,0,7
+2025-03-21 09:32:46,Food,Milk,Room-7,Row-I,13,76f21093,Shelf,Small,1.86,37,2025-04-08 13:51:40,8,Refrigerated,Hudson-Marquez,2025-04-01 09:32:46,High,2025-03-21 09:32:46,31,0,10,Spring,1,0,7
+2025-04-08 15:39:15,Toys,Blocks,Room-3,Row-A,12,e7648e3a,Bin,Small,0.49,84,2025-04-11 16:30:28,9,None,"White, Ford and Mack",,Medium,2025-04-08 15:39:15,27,0,10,Spring,0,4,30
+2025-03-27 00:17:37,Food,Milk,Room-3,Row-A,10,e9e16887,Cold Storage,Medium,7.37,61,2025-04-08 17:34:24,15,Refrigerated,Nguyen-Johnson,2025-04-04 00:17:37,Low,2025-03-27 00:17:37,22,0,12,Spring,1,3,7
+2025-03-21 17:12:00,Clothing,Shirt,Room-7,Row-H,1,6fba502c,Cold Storage,Large,40.11,6,2025-04-12 08:01:02,15,None,Smith-Boyd,,Medium,2025-03-21 17:12:00,16,0,2,Spring,0,3,30
+2025-03-28 13:55:30,Furniture,Bed,Room-6,Row-J,13,f0b92ae9,Bin,Medium,7.38,4,2025-04-09 18:01:00,9,None,"Peterson, Sanders and Yang",,Medium,2025-03-28 13:55:30,29,0,6,Spring,1,1,7
+2025-03-30 00:38:01,Toys,Puzzle,Room-1,Row-C,15,45953d4b,Bin,Large,30.77,24,2025-04-08 05:44:53,8,None,"Johnson, Hayden and Jones",,Medium,2025-03-30 00:38:01,49,0,6,Spring,1,4,7
+2025-04-09 11:02:35,Electronics,Speaker,Room-2,Row-G,2,64ffb970,Shelf,Small,1.27,56,2025-04-08 06:20:57,7,None,Davis and Sons,,Low,2025-04-09 11:02:35,33,0,13,Spring,0,0,30
+2025-03-29 00:59:38,Electronics,TV,Room-8,Row-D,4,9d97e34e,Cold Storage,Small,0.82,90,2025-04-08 16:15:59,12,None,Stewart Inc,,Low,2025-03-29 00:59:38,23,0,1,Spring,0,4,7
+2025-03-20 13:37:50,Food,Apple,Room-4,Row-I,9,350c16f3,Cold Storage,Medium,3.44,58,2025-04-08 08:51:49,15,Refrigerated,"White, Montgomery and Rodriguez",2025-04-05 13:37:50,Medium,2025-03-20 13:37:50,19,0,10,Spring,0,1,30
+2025-03-22 13:57:20,Electronics,Speaker,Room-3,Row-A,12,210eb146,Shelf,Small,1.31,28,2025-04-10 06:29:25,6,None,"Lee, Chambers and Shepard",,High,2025-03-22 13:57:20,34,0,1,Spring,0,1,7
+2025-04-11 07:38:34,Food,Bread,Room-7,Row-C,2,c6a455fd,Pallet,Small,0.73,66,2025-04-08 08:13:03,10,Refrigerated,"Velasquez, Bray and Butler",2025-04-17 07:38:34,High,2025-04-11 07:38:34,1,9,8,Spring,1,0,30
+2025-03-28 00:49:03,Electronics,Speaker,Room-3,Row-I,20,cf41506d,Bin,Large,19.94,94,2025-04-12 04:12:35,5,None,Smith Inc,,Low,2025-03-28 00:49:03,45,0,7,Spring,1,4,14
+2025-04-10 16:57:27,Furniture,Chair,Room-5,Row-C,16,82e3f661,Pallet,Small,1.66,73,2025-04-12 13:09:35,14,None,Hinton-Williams,,Medium,2025-04-10 16:57:27,36,0,5,Spring,1,0,30
+2025-03-18 19:52:27,Food,Apple,Room-2,Row-C,19,80c370c1,Cold Storage,Medium,2.7,67,2025-04-08 03:33:21,5,Refrigerated,Castillo Ltd,2025-04-16 19:52:27,High,2025-03-18 19:52:27,41,0,3,Spring,0,4,14
+2025-04-03 07:44:24,Furniture,Cupboard,Room-8,Row-B,12,3d5b337c,Bin,Large,48.96,37,2025-04-10 21:56:28,14,None,Rodriguez Ltd,,Medium,2025-04-03 07:44:24,30,0,13,Spring,0,0,30
+2025-03-29 21:00:27,Food,Bread,Room-6,Row-J,1,c2faf0df,Pallet,Small,0.24,35,2025-04-10 06:29:56,14,Refrigerated,Gonzalez-Sherman,2025-04-18 21:00:27,Low,2025-03-29 21:00:27,19,0,13,Spring,1,2,14
+2025-04-03 22:08:44,Toys,Lego,Room-4,Row-E,1,467fe4eb,Bin,Medium,6.76,94,2025-04-09 23:45:00,12,None,Jones Ltd,,Medium,2025-04-03 22:08:44,37,0,4,Spring,1,1,7
+2025-03-14 12:17:44,Electronics,Tablet,Room-2,Row-C,9,c4757608,Bin,Small,0.53,76,2025-04-09 03:33:44,13,None,Sanchez Ltd,,High,2025-03-14 12:17:44,14,0,11,Spring,1,0,7
+2025-04-09 00:59:35,Food,Eggs,Room-8,Row-I,17,9ea8d5bf,Bin,Small,0.39,37,2025-04-11 08:07:43,6,Refrigerated,Smith-Bell,2025-04-19 00:59:35,Medium,2025-04-09 00:59:35,33,0,12,Spring,0,3,30
+2025-03-30 11:04:00,Electronics,Smartphone,Room-2,Row-J,16,80f2164d,Bin,Medium,7.87,68,2025-04-08 12:37:06,11,None,"Bradford, Vazquez and Garcia",,Medium,2025-03-30 11:04:00,15,3,9,Spring,0,2,30
+2025-03-17 20:57:15,Clothing,Dress,Room-9,Row-B,9,bc4e761e,Bin,Medium,4.32,4,2025-04-11 09:38:00,6,None,Flores Group,,Medium,2025-03-17 20:57:15,47,0,12,Spring,1,0,14
+2025-04-02 03:07:37,Food,Rice,Room-7,Row-A,2,e9c7ae26,Bin,Medium,6.59,69,2025-04-12 04:10:24,8,Refrigerated,Morales and Sons,2025-04-14 03:07:37,Medium,2025-04-02 03:07:37,48,0,11,Spring,1,3,7
+2025-03-22 10:01:57,Clothing,Shirt,Room-7,Row-C,9,0d61ee79,Cold Storage,Medium,3.68,64,2025-04-11 22:00:11,5,None,Lawson-Bradley,,Medium,2025-03-22 10:01:57,1,14,8,Spring,0,4,14
+2025-04-03 20:26:17,Furniture,Chair,Room-8,Row-A,8,f74ac249,Shelf,Medium,7.89,36,2025-04-10 07:46:19,5,None,Ramirez Group,,Medium,2025-04-03 20:26:17,37,0,9,Spring,0,4,30
+2025-04-09 07:18:16,Toys,Car,Room-3,Row-E,16,1209f583,Shelf,Large,23.88,38,2025-04-10 17:53:50,9,None,"Shah, Knight and Hamilton",,Medium,2025-04-09 07:18:16,13,6,3,Spring,0,0,14
+2025-03-29 21:57:54,Clothing,Jacket,Room-5,Row-B,20,637f3ce1,Cold Storage,Small,0.76,8,2025-04-08 12:17:49,8,None,"Murray, Torres and Johnson",,Medium,2025-03-29 21:57:54,33,0,6,Spring,1,0,7
+2025-03-17 11:25:33,Toys,Car,Room-8,Row-A,7,c52636ae,Pallet,Small,1.98,59,2025-04-09 09:21:27,11,None,Ramirez-Thomas,,Medium,2025-03-17 11:25:33,33,0,10,Spring,0,4,30
+2025-03-19 15:49:54,Toys,Lego,Room-5,Row-B,9,8349d28b,Pallet,Medium,3.34,55,2025-04-09 07:02:21,8,None,Haley Ltd,,Medium,2025-03-19 15:49:54,8,9,5,Spring,1,4,14
+2025-03-30 19:00:29,Electronics,Speaker,Room-3,Row-A,16,a39621f1,Pallet,Medium,7.41,96,2025-04-08 22:42:41,13,None,Fry Inc,,Low,2025-03-30 19:00:29,1,20,3,Spring,1,4,30
+2025-04-07 11:09:25,Toys,Lego,Room-1,Row-B,19,ba4c8824,Shelf,Large,19.33,16,2025-04-10 07:59:32,11,None,"Diaz, Ortiz and Jones",,Medium,2025-04-07 11:09:25,46,0,8,Spring,0,2,7
+2025-03-25 17:59:12,Toys,Puzzle,Room-10,Row-A,16,9163da14,Cold Storage,Medium,7.57,96,2025-04-10 22:15:06,10,None,Bell-Hebert,,Medium,2025-03-25 17:59:12,8,16,5,Spring,1,0,14
+2025-03-20 06:55:41,Clothing,Jacket,Room-2,Row-A,17,67f7bf87,Cold Storage,Small,1.23,99,2025-04-11 05:56:22,15,None,Munoz-Hamilton,,Medium,2025-03-20 06:55:41,32,0,10,Spring,0,3,7
+2025-03-24 10:35:55,Toys,Blocks,Room-2,Row-D,9,dec983e9,Cold Storage,Medium,3.84,40,2025-04-10 22:15:12,10,None,Gregory and Sons,,Medium,2025-03-24 10:35:55,7,9,13,Spring,1,3,7
+2025-03-15 16:00:00,Clothing,Jacket,Room-3,Row-B,10,1d9e8718,Pallet,Medium,5.99,85,2025-04-09 04:05:09,12,None,Fitzgerald and Sons,,Medium,2025-03-15 16:00:00,35,0,6,Spring,0,3,14
+2025-03-15 20:35:30,Toys,Doll,Room-2,Row-J,16,b4bb2f52,Bin,Small,1.23,68,2025-04-08 08:28:03,13,None,"Rich, Kramer and Scott",,Medium,2025-03-15 20:35:30,48,0,12,Spring,0,1,14
+2025-04-03 01:32:13,Food,Apple,Room-9,Row-A,9,94fde5d4,Bin,Small,0.59,71,2025-04-12 09:32:45,9,Refrigerated,"Smith, Mason and Newman",2025-04-08 01:32:13,High,2025-04-03 01:32:13,23,0,13,Spring,0,1,30
+2025-04-09 01:15:41,Food,Milk,Room-7,Row-G,13,6ebb0c94,Cold Storage,Medium,2.65,4,2025-04-11 12:25:13,10,Refrigerated,Henry and Sons,2025-04-26 01:15:41,Low,2025-04-09 01:15:41,15,0,12,Spring,1,3,7
+2025-03-25 08:34:16,Electronics,Smartphone,Room-3,Row-D,10,f5b99478,Pallet,Medium,9.6,46,2025-04-10 08:43:15,12,None,Gardner-Hernandez,,Low,2025-03-25 08:34:16,35,0,9,Spring,0,3,14
+2025-04-07 01:45:14,Food,Eggs,Room-1,Row-B,19,94a22b24,Cold Storage,Large,11.29,5,2025-04-12 10:52:57,14,Refrigerated,"Robinson, Keller and Rocha",2025-04-19 01:45:14,Medium,2025-04-07 01:45:14,8,6,13,Spring,1,3,30
+2025-03-28 05:02:51,Electronics,Laptop,Room-4,Row-J,10,788545a1,Shelf,Large,21.43,16,2025-04-11 06:06:38,10,None,Hancock and Sons,,High,2025-03-28 05:02:51,41,0,8,Spring,1,3,14
+2025-03-22 02:51:20,Toys,Puzzle,Room-1,Row-A,19,7395962a,Cold Storage,Large,12.17,79,2025-04-08 19:38:41,7,None,"Cooper, Warren and Miller",,Medium,2025-03-22 02:51:20,33,0,12,Spring,1,2,14
+2025-04-02 19:02:28,Furniture,Cupboard,Room-3,Row-A,14,c7c532b3,Cold Storage,Large,26.19,49,2025-04-09 16:43:58,7,None,Harris-Smith,,Medium,2025-04-02 19:02:28,38,0,1,Spring,0,1,7
+2025-04-03 16:50:22,Food,Bread,Room-9,Row-F,13,1f04edc1,Shelf,Small,0.21,15,2025-04-12 04:30:14,9,Refrigerated,Chapman-Hanna,2025-04-21 16:50:22,Medium,2025-04-03 16:50:22,34,0,12,Spring,1,4,14
+2025-03-23 04:41:11,Furniture,Cupboard,Room-6,Row-C,3,081decab,Cold Storage,Medium,8.36,49,2025-04-09 06:40:34,11,None,"Mason, Carter and Smith",,Medium,2025-03-23 04:41:11,49,0,3,Spring,1,0,14
+2025-04-03 05:24:43,Food,Bread,Room-3,Row-F,18,42e75928,Cold Storage,Small,0.34,69,2025-04-08 22:37:47,11,Refrigerated,"Reeves, Elliott and Thomas",2025-04-10 05:24:43,High,2025-04-03 05:24:43,4,11,7,Spring,1,1,14
+2025-04-11 07:25:11,Toys,Car,Room-5,Row-F,14,633c0412,Shelf,Large,43.37,15,2025-04-11 14:33:21,15,None,Henderson-Webb,,Medium,2025-04-11 07:25:11,14,3,4,Spring,0,2,14
+2025-03-26 11:03:37,Food,Rice,Room-5,Row-E,16,6cb2db20,Cold Storage,Small,0.6,54,2025-04-09 11:52:10,11,Refrigerated,Collins-Jones,2025-04-11 11:03:37,High,2025-03-26 11:03:37,40,0,3,Spring,1,0,7
+2025-03-22 04:39:41,Furniture,Sofa,Room-3,Row-A,11,746e3f42,Cold Storage,Small,0.52,35,2025-04-09 06:22:40,12,None,"Ramirez, Hansen and Marshall",,Medium,2025-03-22 04:39:41,31,0,9,Spring,0,1,7
+2025-03-18 23:26:38,Toys,Doll,Room-4,Row-F,7,f1b045f4,Shelf,Medium,8.24,41,2025-04-07 14:27:55,6,None,"Roberts, Flores and Rose",,Medium,2025-03-18 23:26:38,45,0,5,Spring,1,0,30
+2025-03-21 04:54:05,Food,Bread,Room-1,Row-H,3,44d1463c,Bin,Medium,9.01,6,2025-04-12 04:37:07,8,Refrigerated,Brown LLC,2025-03-31 04:54:05,High,2025-03-21 04:54:05,24,0,5,Spring,0,3,30
+2025-03-30 06:35:10,Toys,Lego,Room-5,Row-D,13,fd17a4e5,Shelf,Medium,9.9,82,2025-04-08 10:01:36,6,None,"Smith, Molina and Griffin",,Medium,2025-03-30 06:35:10,42,0,1,Spring,1,3,30
+2025-04-11 14:01:21,Furniture,Sofa,Room-1,Row-B,17,623d9447,Cold Storage,Large,33.22,68,2025-04-10 23:26:57,5,None,Sheppard Inc,,Medium,2025-04-11 14:01:21,46,0,1,Spring,0,4,30
+2025-03-16 19:35:05,Furniture,Cupboard,Room-3,Row-J,14,040c2ead,Pallet,Small,1.24,95,2025-04-07 17:35:36,15,None,"Smith, Bell and Mosley",,Medium,2025-03-16 19:35:05,7,2,4,Spring,1,4,30
+2025-03-30 22:55:17,Toys,Blocks,Room-9,Row-E,6,85d63d8c,Shelf,Small,1.89,59,2025-04-08 11:58:12,5,None,Ford-Kramer,,Medium,2025-03-30 22:55:17,26,0,2,Spring,1,4,14
+2025-04-03 04:57:33,Toys,Doll,Room-1,Row-D,19,52d2ce5f,Cold Storage,Medium,4.36,66,2025-04-08 02:57:09,11,None,"Lee, Jones and Nunez",,Medium,2025-04-03 04:57:33,9,19,11,Spring,0,3,14
+2025-04-03 19:47:48,Toys,Doll,Room-7,Row-J,2,27c89281,Cold Storage,Large,45.41,27,2025-04-07 14:41:39,5,None,"Russo, Jackson and Simon",,Medium,2025-04-03 19:47:48,41,0,2,Spring,0,0,30
+2025-03-17 00:48:47,Toys,Blocks,Room-6,Row-E,18,d84c93e2,Pallet,Large,30.49,66,2025-04-09 10:40:52,9,None,"Hughes, Stephens and Fitzgerald",,Medium,2025-03-17 00:48:47,0,19,11,Spring,0,2,7
+2025-03-25 10:41:26,Electronics,Speaker,Room-3,Row-I,2,0c7a2671,Cold Storage,Small,0.97,38,2025-04-11 03:35:28,15,None,"Weaver, Woods and Johnson",,Low,2025-03-25 10:41:26,33,0,10,Spring,0,1,7
+2025-04-08 17:58:17,Furniture,Cupboard,Room-5,Row-F,2,ebaab0d0,Bin,Small,1.97,82,2025-04-11 18:44:13,14,None,"Wood, Crawford and Knight",,Medium,2025-04-08 17:58:17,23,0,6,Spring,1,3,14
+2025-03-19 07:10:31,Food,Apple,Room-1,Row-I,17,e490db5f,Bin,Small,1.83,58,2025-04-08 11:07:39,9,Refrigerated,Wright-Taylor,2025-03-25 07:10:31,Low,2025-03-19 07:10:31,44,0,11,Spring,1,3,14
+2025-03-31 23:24:22,Electronics,Speaker,Room-8,Row-F,2,d8f4fa32,Shelf,Large,11.97,97,2025-04-09 08:43:57,8,None,Castillo and Sons,,High,2025-03-31 23:24:22,19,0,2,Spring,1,0,14
+2025-04-04 15:35:41,Electronics,Tablet,Room-1,Row-I,1,89e21f95,Pallet,Large,11.03,61,2025-04-09 15:24:48,8,None,Moore-West,,High,2025-04-04 15:35:41,49,0,10,Spring,0,2,30
+2025-04-10 19:41:44,Electronics,Smartphone,Room-7,Row-A,16,86f78885,Pallet,Medium,2.09,21,2025-04-09 19:11:14,15,None,Gross Ltd,,Medium,2025-04-10 19:41:44,10,12,11,Spring,1,2,14
+2025-03-25 00:55:05,Electronics,TV,Room-7,Row-G,12,e8a250c2,Bin,Small,0.21,6,2025-04-07 22:48:11,9,None,Castillo-Kelly,,Medium,2025-03-25 00:55:05,24,0,7,Spring,1,4,30
+2025-04-04 07:42:05,Furniture,Cupboard,Room-3,Row-J,5,80ff1824,Shelf,Large,13.16,89,2025-04-09 08:44:20,13,None,Murphy-Johnson,,Medium,2025-04-04 07:42:05,6,9,8,Spring,0,4,7
+2025-04-01 23:49:19,Clothing,Jeans,Room-4,Row-F,4,d8779a31,Pallet,Medium,5.21,15,2025-04-10 16:19:33,11,None,Bell-Patrick,,Medium,2025-04-01 23:49:19,16,0,10,Spring,0,0,7
+2025-03-27 08:54:44,Clothing,Shirt,Room-2,Row-I,18,e82aed03,Pallet,Large,27.96,96,2025-04-11 10:38:58,13,None,"Reese, Hamilton and Flores",,Medium,2025-03-27 08:54:44,9,7,11,Spring,0,0,7
+2025-04-03 09:59:33,Furniture,Chair,Room-10,Row-A,10,a98a43e2,Cold Storage,Large,43.71,49,2025-04-10 00:53:37,14,None,Galloway and Sons,,Medium,2025-04-03 09:59:33,45,0,14,Spring,0,4,7
+2025-04-09 13:49:29,Food,Rice,Room-4,Row-C,6,78df482f,Shelf,Medium,8.83,40,2025-04-10 23:44:09,9,Refrigerated,Marks-Lloyd,2025-05-02 13:49:29,High,2025-04-09 13:49:29,50,0,6,Spring,1,0,14
+2025-03-28 14:11:52,Electronics,Tablet,Room-3,Row-I,9,79b3d69a,Pallet,Large,17.2,9,2025-04-09 21:08:35,5,None,"Frye, Mosley and Thomas",,Medium,2025-03-28 14:11:52,24,0,8,Spring,1,3,30
+2025-03-17 17:54:57,Electronics,Speaker,Room-10,Row-H,1,523b75df,Cold Storage,Small,0.14,27,2025-04-09 06:21:51,15,None,"Gibbs, Edwards and Hull",,Low,2025-03-17 17:54:57,19,0,14,Spring,0,4,30
+2025-04-07 17:03:55,Food,Rice,Room-10,Row-F,2,6ee774b3,Cold Storage,Small,1.39,97,2025-04-09 05:05:02,5,Refrigerated,"Nelson, Hudson and Freeman",2025-04-29 17:03:55,High,2025-04-07 17:03:55,19,0,9,Spring,1,2,7
+2025-03-28 22:05:11,Clothing,T-Shirt,Room-7,Row-I,20,29a0b5bb,Shelf,Small,1.67,64,2025-04-12 02:19:04,15,None,"Lucero, Navarro and Wise",,Medium,2025-03-28 22:05:11,28,0,6,Spring,0,3,14
+2025-03-23 20:08:14,Food,Eggs,Room-1,Row-J,2,405039fd,Pallet,Medium,3.34,42,2025-04-07 20:13:48,5,Refrigerated,Frank Inc,2025-03-28 20:08:14,Medium,2025-03-23 20:08:14,14,0,7,Spring,1,1,7
+2025-03-14 11:00:39,Food,Milk,Room-9,Row-E,17,cf50b760,Cold Storage,Large,18.5,66,2025-04-11 00:26:54,10,Refrigerated,Melendez Inc,2025-04-11 11:00:39,Medium,2025-03-14 11:00:39,48,0,8,Spring,1,2,7
+2025-03-22 11:15:19,Electronics,Smartphone,Room-3,Row-A,1,4cc712f5,Pallet,Medium,6.35,2,2025-04-08 13:06:47,9,None,"Goodman, Adams and Henderson",,High,2025-03-22 11:15:19,23,0,5,Spring,1,1,7
+2025-03-17 22:55:26,Furniture,Bed,Room-9,Row-D,12,061d25d0,Pallet,Small,1.64,92,2025-04-07 20:58:21,10,None,"Flores, Cole and Mccarthy",,Medium,2025-03-17 22:55:26,9,10,9,Spring,1,1,14
+2025-04-05 05:54:37,Furniture,Sofa,Room-8,Row-G,18,3e7cd4bf,Cold Storage,Small,1.79,42,2025-04-10 09:31:42,11,None,Walters-Pham,,Medium,2025-04-05 05:54:37,50,0,12,Spring,0,2,30
+2025-03-30 13:52:10,Food,Eggs,Room-5,Row-I,16,0eccb83f,Shelf,Large,10.22,33,2025-04-07 19:39:43,5,Refrigerated,Marshall-Collins,2025-04-20 13:52:10,High,2025-03-30 13:52:10,17,5,6,Spring,1,3,14
+2025-04-03 18:46:24,Furniture,Sofa,Room-5,Row-A,18,0177ccd0,Cold Storage,Large,19.21,98,2025-04-09 11:42:25,8,None,Smith-Armstrong,,Medium,2025-04-03 18:46:24,41,0,11,Spring,1,4,14
+2025-03-24 00:14:18,Clothing,T-Shirt,Room-6,Row-I,14,72ba10bd,Shelf,Large,46.99,75,2025-04-10 12:52:58,8,None,Wheeler-Russell,,Medium,2025-03-24 00:14:18,2,8,13,Spring,1,0,7
+2025-03-22 23:01:39,Electronics,Tablet,Room-9,Row-B,3,debfeebb,Pallet,Medium,4.88,90,2025-04-09 00:57:13,5,None,Thompson-Arellano,,Low,2025-03-22 23:01:39,27,0,12,Spring,1,2,14
+2025-04-03 18:03:36,Food,Eggs,Room-8,Row-I,7,37a38fa3,Cold Storage,Large,10.54,40,2025-04-10 05:52:54,13,Refrigerated,Ball PLC,2025-04-24 18:03:36,Low,2025-04-03 18:03:36,20,0,12,Spring,1,1,7
+2025-03-14 10:15:00,Clothing,Shirt,Room-6,Row-B,10,a7ada0c5,Shelf,Medium,7.41,40,2025-04-08 18:37:30,11,None,Thornton-Jones,,Medium,2025-03-14 10:15:00,19,0,14,Spring,1,2,7
+2025-03-16 03:55:44,Electronics,Tablet,Room-5,Row-E,16,3738b6e4,Pallet,Large,22.86,18,2025-04-09 22:14:48,14,None,"Ferguson, Hayes and Collins",,High,2025-03-16 03:55:44,14,10,13,Spring,1,2,30
+2025-04-04 20:38:14,Toys,Doll,Room-7,Row-B,8,2e23c468,Bin,Medium,7.55,20,2025-04-08 01:42:44,13,None,"Mahoney, Johnson and Gomez",,Medium,2025-04-04 20:38:14,32,0,6,Spring,1,1,14
+2025-03-31 18:20:51,Toys,Puzzle,Room-4,Row-A,6,73b47f75,Shelf,Large,16.91,97,2025-04-10 04:40:00,15,None,"Keller, Barrett and Miller",,Medium,2025-03-31 18:20:51,45,0,4,Spring,1,0,30
+2025-04-09 00:59:57,Food,Bread,Room-9,Row-B,9,d15c855e,Bin,Medium,5.77,40,2025-04-09 13:00:37,13,Refrigerated,Fisher Inc,2025-04-20 00:59:57,High,2025-04-09 00:59:57,10,8,13,Spring,1,3,14
+2025-04-05 08:00:13,Toys,Blocks,Room-6,Row-C,5,5eee5138,Pallet,Small,0.34,45,2025-04-10 19:40:14,5,None,Wells-Scott,,Medium,2025-04-05 08:00:13,5,7,13,Spring,1,4,30
+2025-03-20 11:03:48,Furniture,Table,Room-8,Row-J,13,fe49ee15,Pallet,Medium,8.02,62,2025-04-10 02:07:27,15,None,"Martinez, Heath and Turner",,Medium,2025-03-20 11:03:48,0,13,12,Spring,0,2,30
+2025-03-18 21:36:36,Toys,Lego,Room-6,Row-J,16,fe9958a1,Bin,Medium,4.75,52,2025-04-11 06:53:52,9,None,"Thomas, Barrett and Estrada",,Medium,2025-03-18 21:36:36,33,0,11,Spring,0,4,14
+2025-04-05 21:05:24,Clothing,Jacket,Room-7,Row-J,9,bba59674,Shelf,Medium,2.78,80,2025-04-10 18:43:56,11,None,"Green, Stanley and Parker",,Medium,2025-04-05 21:05:24,3,11,11,Spring,0,1,7
+2025-03-22 05:57:57,Toys,Blocks,Room-6,Row-F,8,09c9e1c9,Bin,Medium,4.55,93,2025-04-07 16:50:13,13,None,Nguyen-Cooke,,Medium,2025-03-22 05:57:57,22,0,1,Spring,0,4,30
+2025-03-31 00:56:30,Food,Eggs,Room-9,Row-H,18,dae49697,Cold Storage,Large,35.4,37,2025-04-12 10:16:56,12,Refrigerated,Fisher-Benitez,2025-04-11 00:56:30,Low,2025-03-31 00:56:30,8,19,14,Spring,1,1,30
+2025-04-10 11:11:01,Food,Milk,Room-6,Row-I,19,d786324e,Shelf,Large,30.6,19,2025-04-11 05:43:55,12,Refrigerated,Schwartz-Brown,2025-04-24 11:11:01,Medium,2025-04-10 11:11:01,11,7,10,Spring,1,4,30
+2025-03-28 09:06:07,Furniture,Table,Room-1,Row-J,8,f4ec5e2a,Bin,Small,1.87,18,2025-04-11 20:24:00,7,None,"Mcfarland, Potter and Walker",,Medium,2025-03-28 09:06:07,5,5,2,Spring,0,4,14
+2025-03-21 00:14:20,Food,Milk,Room-2,Row-E,5,2c829357,Pallet,Large,21.73,57,2025-04-10 20:50:37,15,Refrigerated,Brown Inc,2025-03-27 00:14:20,Low,2025-03-21 00:14:20,21,0,2,Spring,0,2,14
+2025-03-18 05:30:38,Furniture,Cupboard,Room-5,Row-A,17,577aed45,Cold Storage,Large,18.11,86,2025-04-11 15:32:59,10,None,Stokes-Robinson,,Medium,2025-03-18 05:30:38,3,15,13,Spring,0,3,30
+2025-03-13 19:10:30,Electronics,TV,Room-3,Row-J,2,5a468650,Bin,Medium,5.48,44,2025-04-08 02:54:00,15,None,Perez-Foley,,High,2025-03-13 19:10:30,49,0,4,Spring,1,1,14
+2025-03-31 10:08:34,Food,Milk,Room-7,Row-C,1,d3bbd371,Bin,Small,1.85,81,2025-04-11 03:49:50,14,Refrigerated,"Lee, Garcia and Davis",2025-04-29 10:08:34,Low,2025-03-31 10:08:34,12,0,6,Spring,1,2,7
+2025-04-10 18:29:35,Electronics,TV,Room-4,Row-D,10,661bc4b5,Cold Storage,Small,0.22,99,2025-04-07 18:41:25,8,None,Liu-Peterson,,Medium,2025-04-10 18:29:35,8,4,9,Spring,0,1,30
+2025-03-19 06:36:26,Clothing,Shirt,Room-6,Row-J,9,3e06c70e,Cold Storage,Medium,7.16,57,2025-04-12 09:58:22,6,None,Scott-Velasquez,,Medium,2025-03-19 06:36:26,24,0,14,Spring,1,2,14
+2025-03-26 15:03:10,Food,Milk,Room-1,Row-H,13,1c1f8b92,Shelf,Small,1.06,85,2025-04-11 23:02:49,9,Refrigerated,"Gutierrez, Romero and Howell",2025-04-14 15:03:10,Medium,2025-03-26 15:03:10,28,0,12,Spring,1,1,14
+2025-04-03 01:34:46,Clothing,Jacket,Room-6,Row-G,4,535b9d67,Pallet,Small,0.51,11,2025-04-09 06:49:39,9,None,"Quinn, Cole and Johnson",,Medium,2025-04-03 01:34:46,3,3,12,Spring,0,1,14
+2025-03-19 00:44:17,Toys,Blocks,Room-3,Row-A,14,079b1608,Shelf,Medium,8.74,47,2025-04-09 02:48:18,6,None,"Nolan, Simmons and Clements",,Medium,2025-03-19 00:44:17,44,0,10,Spring,1,0,7
+2025-03-27 07:55:06,Clothing,Jeans,Room-3,Row-D,4,5e0e8e18,Bin,Large,18.71,33,2025-04-09 04:13:58,14,None,King Ltd,,Medium,2025-03-27 07:55:06,2,6,4,Spring,0,2,30
+2025-03-19 11:28:39,Furniture,Bed,Room-4,Row-A,13,45c07abd,Cold Storage,Large,39.15,19,2025-04-10 10:53:14,14,None,"Carter, Peterson and Booker",,Medium,2025-03-19 11:28:39,35,0,12,Spring,1,1,14
+2025-03-20 15:54:33,Furniture,Bed,Room-9,Row-G,9,8b00a9c4,Bin,Medium,2.91,40,2025-04-10 21:22:44,10,None,Griffin and Sons,,Medium,2025-03-20 15:54:33,9,0,1,Spring,1,4,7
+2025-04-03 11:23:52,Electronics,Tablet,Room-6,Row-H,12,0b21a78e,Bin,Medium,5.91,44,2025-04-10 22:17:29,11,None,Moore-Winters,,High,2025-04-03 11:23:52,20,0,14,Spring,0,4,7
+2025-03-24 22:15:35,Food,Bread,Room-4,Row-E,14,be90dd3d,Pallet,Large,40.78,1,2025-04-09 12:44:35,15,Refrigerated,Owen-Ibarra,2025-04-16 22:15:35,Low,2025-03-24 22:15:35,4,13,9,Spring,1,1,7
+2025-03-29 14:47:25,Furniture,Table,Room-10,Row-D,1,3f5c76e6,Bin,Medium,2.31,38,2025-04-11 08:44:40,10,None,Collins Group,,Medium,2025-03-29 14:47:25,11,0,2,Spring,1,3,30
+2025-04-07 18:00:12,Electronics,Smartphone,Room-5,Row-G,12,1423e5b5,Cold Storage,Medium,2.48,85,2025-04-07 17:14:51,6,None,"Hines, Ware and Bryan",,Medium,2025-04-07 18:00:12,46,0,12,Spring,0,0,7
+2025-04-08 22:44:24,Food,Rice,Room-6,Row-C,8,0da294f8,Pallet,Medium,8.71,25,2025-04-08 11:49:06,10,Refrigerated,Anderson-Harris,2025-04-24 22:44:24,Medium,2025-04-08 22:44:24,33,0,5,Spring,0,1,7
+2025-04-10 11:33:02,Food,Bread,Room-9,Row-E,18,100375c9,Bin,Large,45.8,98,2025-04-09 09:05:30,14,Refrigerated,"Martinez, Meyer and Shah",2025-05-06 11:33:02,Low,2025-04-10 11:33:02,23,0,3,Spring,0,0,14
+2025-03-15 18:33:49,Food,Milk,Room-5,Row-F,1,94f0ee72,Shelf,Medium,2.74,1,2025-04-10 10:17:50,7,Refrigerated,"Jackson, Walton and Martinez",2025-04-09 18:33:49,Medium,2025-03-15 18:33:49,5,0,2,Spring,1,4,30
+2025-04-02 10:11:52,Food,Rice,Room-4,Row-F,10,c19d52c6,Pallet,Large,46.52,47,2025-04-11 03:06:20,10,Refrigerated,Barnett Inc,2025-04-24 10:11:52,Medium,2025-04-02 10:11:52,45,0,3,Spring,1,2,14
+2025-03-15 15:30:27,Food,Rice,Room-2,Row-F,9,b3f38d5b,Pallet,Small,0.29,41,2025-04-10 06:14:24,9,Refrigerated,"Perez, Parker and Johnson",2025-03-22 15:30:27,High,2025-03-15 15:30:27,12,0,3,Spring,1,4,7
+2025-03-30 08:48:05,Electronics,TV,Room-5,Row-B,2,156c167f,Bin,Medium,6.04,36,2025-04-07 18:49:04,6,None,"Turner, Harris and West",,Medium,2025-03-30 08:48:05,3,0,12,Spring,0,2,14
+2025-04-07 22:37:34,Clothing,T-Shirt,Room-7,Row-F,1,569a79f9,Cold Storage,Medium,7.58,35,2025-04-10 11:51:21,15,None,Cunningham-Rush,,Medium,2025-04-07 22:37:34,26,0,9,Spring,1,2,14
+2025-03-20 13:40:05,Toys,Doll,Room-6,Row-G,12,887ec7f2,Pallet,Large,19.82,5,2025-04-11 02:26:19,6,None,"Guerrero, Rice and Silva",,Medium,2025-03-20 13:40:05,16,0,4,Spring,1,4,7
+2025-04-01 01:55:40,Furniture,Chair,Room-3,Row-C,16,c4f019e3,Shelf,Small,0.46,63,2025-04-10 13:01:12,10,None,Williams LLC,,Medium,2025-04-01 01:55:40,0,14,9,Spring,1,0,14
+2025-03-21 02:14:56,Food,Apple,Room-5,Row-G,16,ae903a58,Shelf,Small,0.24,5,2025-04-10 19:53:39,13,Refrigerated,Oliver Inc,2025-04-12 02:14:56,Low,2025-03-21 02:14:56,43,0,1,Spring,0,3,14
+2025-03-14 14:36:36,Furniture,Cupboard,Room-10,Row-H,15,262a4250,Cold Storage,Small,1.07,45,2025-04-09 00:22:05,8,None,"Miller, Wolf and Harper",,Medium,2025-03-14 14:36:36,47,0,8,Spring,0,2,30
+2025-04-04 04:23:08,Furniture,Bed,Room-9,Row-F,18,75588f9e,Cold Storage,Small,1.26,74,2025-04-08 18:24:09,13,None,"Wright, Dyer and Johnson",,Medium,2025-04-04 04:23:08,13,10,14,Spring,1,2,14
+2025-04-05 14:20:58,Electronics,TV,Room-8,Row-B,1,dffe8b58,Cold Storage,Medium,9.58,16,2025-04-07 22:55:21,10,None,"David, Sullivan and Camacho",,Low,2025-04-05 14:20:58,41,0,14,Spring,0,2,14
+2025-04-05 02:09:51,Toys,Doll,Room-6,Row-C,7,5a900abe,Pallet,Medium,3.95,82,2025-04-12 05:40:43,15,None,Valdez-Robinson,,Medium,2025-04-05 02:09:51,46,0,13,Spring,0,0,7
+2025-03-14 16:38:13,Toys,Blocks,Room-7,Row-J,16,72360e49,Pallet,Small,0.81,25,2025-04-10 21:56:36,13,None,Perry Group,,Medium,2025-03-14 16:38:13,12,2,13,Spring,0,2,30
+2025-03-24 22:58:56,Furniture,Cupboard,Room-2,Row-A,17,ddee227e,Pallet,Large,39.71,49,2025-04-12 02:09:30,9,None,Villegas Inc,,Medium,2025-03-24 22:58:56,19,0,14,Spring,0,1,30
+2025-04-04 00:06:46,Toys,Puzzle,Room-4,Row-D,8,5d3c59c3,Cold Storage,Medium,8.3,86,2025-04-10 07:30:37,9,None,Whitehead Inc,,Medium,2025-04-04 00:06:46,24,0,2,Spring,1,4,7
+2025-04-07 17:11:43,Clothing,Jacket,Room-6,Row-J,14,a722afa0,Bin,Medium,7.54,80,2025-04-11 17:20:47,13,None,Wyatt-Thompson,,Medium,2025-04-07 17:11:43,44,0,14,Spring,0,3,7
+2025-04-04 14:42:12,Furniture,Table,Room-3,Row-E,17,c6e1d01a,Bin,Large,23.88,80,2025-04-08 17:41:25,7,None,Johnson and Sons,,Medium,2025-04-04 14:42:12,15,2,1,Spring,1,1,30
+2025-04-10 20:42:04,Clothing,T-Shirt,Room-6,Row-B,2,874a3a45,Pallet,Medium,6.61,75,2025-04-12 01:41:08,13,None,Campbell-Gutierrez,,Medium,2025-04-10 20:42:04,15,0,5,Spring,1,2,7
+2025-03-31 18:53:27,Electronics,TV,Room-3,Row-J,15,c0a127dc,Cold Storage,Small,1.56,74,2025-04-07 23:44:24,6,None,Valdez Ltd,,Low,2025-03-31 18:53:27,48,0,11,Spring,0,3,30
+2025-04-03 09:17:04,Clothing,Jacket,Room-3,Row-J,5,c46ddf80,Cold Storage,Large,35.11,53,2025-04-11 15:05:43,5,None,"Ibarra, Love and Green",,Medium,2025-04-03 09:17:04,26,0,5,Spring,0,0,14
+2025-03-15 08:58:43,Electronics,Tablet,Room-6,Row-F,19,ef636b70,Bin,Medium,5.12,52,2025-04-10 14:23:45,6,None,Clarke LLC,,High,2025-03-15 08:58:43,33,0,11,Spring,1,1,14
+2025-04-02 05:20:48,Toys,Doll,Room-5,Row-B,14,05ece924,Cold Storage,Large,24.81,48,2025-04-09 15:50:12,15,None,"Hamilton, Stanley and Blanchard",,Medium,2025-04-02 05:20:48,3,8,9,Spring,1,1,30
+2025-03-26 08:06:18,Electronics,TV,Room-6,Row-D,4,51c74890,Bin,Medium,6.74,70,2025-04-11 02:21:56,14,None,"Buchanan, Flores and Schwartz",,Low,2025-03-26 08:06:18,30,0,5,Spring,1,2,14
+2025-03-14 14:56:12,Electronics,Laptop,Room-4,Row-D,1,2022a08e,Shelf,Small,1.85,99,2025-04-10 22:58:48,5,None,Vazquez-Owens,,Medium,2025-03-14 14:56:12,12,0,3,Spring,0,3,7
+2025-03-17 06:55:59,Furniture,Sofa,Room-2,Row-J,7,d2adb22a,Shelf,Small,1.53,8,2025-04-08 19:20:40,15,None,"Banks, Scott and Cox",,Medium,2025-03-17 06:55:59,0,12,2,Spring,0,2,14
+2025-03-16 22:10:10,Food,Apple,Room-10,Row-E,13,153e4819,Shelf,Medium,4.9,14,2025-04-11 12:59:08,7,Refrigerated,Hale-Lindsey,2025-04-01 22:10:10,Low,2025-03-16 22:10:10,23,0,8,Spring,0,3,7
+2025-04-05 23:29:06,Food,Apple,Room-9,Row-C,11,bba7db8c,Shelf,Large,30.02,12,2025-04-11 11:48:06,8,Refrigerated,Munoz-Gutierrez,2025-04-13 23:29:06,High,2025-04-05 23:29:06,25,0,4,Spring,0,1,7
+2025-03-18 17:42:14,Clothing,Shirt,Room-7,Row-F,18,d046cbcd,Pallet,Large,46.46,59,2025-04-08 20:46:35,12,None,Bennett-Cooley,,Medium,2025-03-18 17:42:14,9,15,4,Spring,0,1,7
+2025-03-30 12:01:42,Furniture,Cupboard,Room-3,Row-A,13,ee8f179e,Cold Storage,Small,1.81,82,2025-04-12 02:54:20,15,None,"Collins, Turner and Williams",,Medium,2025-03-30 12:01:42,42,0,11,Spring,1,3,14
+2025-03-20 15:31:59,Clothing,Shirt,Room-2,Row-J,10,3848c96a,Bin,Large,14.03,80,2025-04-09 21:31:49,13,None,Herrera PLC,,Medium,2025-03-20 15:31:59,40,0,8,Spring,0,2,30
+2025-03-31 01:51:41,Food,Bread,Room-9,Row-A,9,00e25683,Cold Storage,Small,1.2,65,2025-04-07 19:22:39,9,Refrigerated,Montgomery Group,2025-04-16 01:51:41,High,2025-03-31 01:51:41,38,0,1,Spring,1,1,30
+2025-03-26 11:51:28,Furniture,Table,Room-3,Row-J,17,c12a5917,Cold Storage,Medium,9.68,23,2025-04-09 09:23:12,7,None,Robinson Ltd,,Medium,2025-03-26 11:51:28,42,0,14,Spring,1,2,30
+2025-03-22 10:25:53,Food,Apple,Room-9,Row-F,11,c12efc4c,Pallet,Medium,3.74,75,2025-04-08 12:46:21,10,Refrigerated,Jimenez and Sons,2025-03-27 10:25:53,High,2025-03-22 10:25:53,16,0,11,Spring,1,1,14
+2025-04-02 04:56:21,Clothing,T-Shirt,Room-9,Row-F,13,6b1827f0,Bin,Small,0.68,40,2025-04-12 07:08:29,5,None,Ashley-Shah,,Medium,2025-04-02 04:56:21,26,0,11,Spring,0,3,30
+2025-04-12 07:08:54,Food,Milk,Room-9,Row-I,13,ff66be29,Pallet,Large,24.35,72,2025-04-07 15:22:51,11,Refrigerated,Sullivan Ltd,2025-05-01 07:08:54,Low,2025-04-12 07:08:54,40,0,5,Spring,0,2,7
+2025-03-28 23:58:35,Food,Bread,Room-8,Row-E,12,1043a236,Cold Storage,Medium,2.25,14,2025-04-11 17:21:03,12,Refrigerated,Thompson LLC,2025-04-17 23:58:35,Medium,2025-03-28 23:58:35,23,0,8,Spring,0,1,14
+2025-03-18 21:37:13,Electronics,TV,Room-3,Row-D,19,b4698c14,Cold Storage,Small,1.05,25,2025-04-08 18:27:34,11,None,"James, Meyer and Leonard",,High,2025-03-18 21:37:13,39,0,13,Spring,0,3,7
+2025-04-04 21:34:36,Furniture,Cupboard,Room-8,Row-H,4,1a993ed4,Cold Storage,Medium,5.66,59,2025-04-11 12:22:39,8,None,"Beard, Fitzgerald and Foster",,Medium,2025-04-04 21:34:36,4,1,4,Spring,0,4,14
+2025-03-20 21:05:30,Food,Bread,Room-8,Row-C,2,d1b4661c,Pallet,Medium,4.05,50,2025-04-08 21:46:14,8,Refrigerated,"Ryan, Anderson and Johnson",2025-04-18 21:05:30,High,2025-03-20 21:05:30,11,0,10,Spring,1,3,7
+2025-04-03 15:51:01,Furniture,Table,Room-3,Row-I,17,b3aaac3d,Cold Storage,Large,42.39,94,2025-04-10 20:15:12,7,None,Nelson Ltd,,Medium,2025-04-03 15:51:01,40,0,6,Spring,1,2,7
+2025-03-21 09:48:12,Electronics,Smartphone,Room-7,Row-D,8,6da9dd4d,Bin,Large,18.01,25,2025-04-09 14:11:12,6,None,Wilson LLC,,High,2025-03-21 09:48:12,34,0,6,Spring,0,1,7
+2025-03-24 12:48:59,Clothing,Jacket,Room-4,Row-D,12,6fa65463,Cold Storage,Medium,5.76,16,2025-04-08 00:33:15,15,None,Owens PLC,,Medium,2025-03-24 12:48:59,47,0,9,Spring,0,2,30
+2025-03-29 05:46:07,Electronics,Laptop,Room-5,Row-J,12,b4df3665,Shelf,Large,14.23,61,2025-04-12 01:52:46,9,None,Tran Ltd,,Low,2025-03-29 05:46:07,27,0,13,Spring,1,3,7
+2025-04-09 20:43:02,Toys,Car,Room-6,Row-G,4,474835ec,Bin,Medium,5.09,27,2025-04-09 21:15:52,9,None,Young LLC,,Medium,2025-04-09 20:43:02,38,0,12,Spring,1,4,30
+2025-03-20 12:26:04,Toys,Puzzle,Room-1,Row-H,17,9c8964c6,Shelf,Medium,6.32,65,2025-04-10 10:14:29,9,None,Schwartz-Davis,,Medium,2025-03-20 12:26:04,0,23,5,Spring,0,3,30
+2025-03-24 00:12:29,Clothing,Shirt,Room-4,Row-H,11,726bee8f,Cold Storage,Large,34.54,24,2025-04-07 20:25:33,6,None,"Robinson, Rivera and Craig",,Medium,2025-03-24 00:12:29,18,0,1,Spring,0,3,7
+2025-03-26 02:07:10,Food,Eggs,Room-1,Row-F,15,4e729186,Pallet,Large,14.67,39,2025-04-10 15:35:27,12,Refrigerated,"Duke, Fuller and Glover",2025-04-08 02:07:10,Medium,2025-03-26 02:07:10,45,0,9,Spring,0,2,7
+2025-04-04 17:03:47,Clothing,Jeans,Room-4,Row-I,6,bcdab4ab,Pallet,Medium,4.38,75,2025-04-09 03:24:32,15,None,"Reid, Williams and Acevedo",,Medium,2025-04-04 17:03:47,15,0,3,Spring,0,4,30
+2025-04-05 14:20:04,Electronics,Laptop,Room-4,Row-A,8,84b691ac,Bin,Large,40.79,85,2025-04-11 16:22:05,8,None,Sanders-Jimenez,,High,2025-04-05 14:20:04,6,0,14,Spring,0,4,30
+2025-04-11 04:25:41,Furniture,Bed,Room-3,Row-D,14,ebcc4207,Shelf,Medium,9.46,6,2025-04-08 20:16:45,15,None,Wells-Faulkner,,Medium,2025-04-11 04:25:41,24,0,5,Spring,1,3,14
+2025-04-02 08:32:32,Food,Bread,Room-8,Row-J,2,14d68f47,Cold Storage,Large,25.46,16,2025-04-10 20:26:11,14,Refrigerated,Blackburn and Sons,2025-04-29 08:32:32,High,2025-04-02 08:32:32,45,0,13,Spring,0,4,30
+2025-04-03 17:21:39,Toys,Doll,Room-2,Row-H,19,507fe39b,Pallet,Medium,7.44,52,2025-04-10 21:50:51,11,None,"Allen, Morris and Lopez",,Medium,2025-04-03 17:21:39,27,0,12,Spring,1,1,14
+2025-03-20 09:18:20,Clothing,Shirt,Room-10,Row-F,18,9d34c3d7,Cold Storage,Large,48.39,51,2025-04-10 23:26:15,10,None,"Vasquez, Foley and Flores",,Medium,2025-03-20 09:18:20,48,0,12,Spring,1,2,7
+2025-04-03 19:27:20,Electronics,Tablet,Room-7,Row-D,7,229e74a5,Bin,Medium,4.23,13,2025-04-07 22:07:31,7,None,Orr PLC,,High,2025-04-03 19:27:20,14,0,8,Spring,0,0,30
+2025-04-01 07:38:49,Toys,Puzzle,Room-4,Row-I,13,7b824f67,Pallet,Large,31.32,29,2025-04-11 12:59:37,7,None,"Peterson, Chang and Berg",,Medium,2025-04-01 07:38:49,26,0,1,Spring,1,2,30
+2025-04-05 06:19:47,Clothing,Jeans,Room-9,Row-H,16,79e3dc75,Bin,Medium,8.12,9,2025-04-11 21:22:20,5,None,"Harris, Parker and Jones",,Medium,2025-04-05 06:19:47,14,10,2,Spring,1,0,7
+2025-04-09 02:11:12,Clothing,Dress,Room-6,Row-H,20,7b0f789d,Bin,Large,28.27,95,2025-04-07 20:12:37,15,None,Gates-Carey,,Medium,2025-04-09 02:11:12,15,9,14,Spring,0,2,7
+2025-03-27 03:51:24,Toys,Lego,Room-9,Row-G,3,b75b3e0e,Cold Storage,Large,33.51,59,2025-04-11 14:32:12,7,None,Chambers-Fitzpatrick,,Medium,2025-03-27 03:51:24,49,0,10,Spring,1,1,30
+2025-04-12 00:14:55,Furniture,Cupboard,Room-8,Row-A,20,bbb5948e,Bin,Small,0.49,62,2025-04-10 18:49:00,8,None,Morales-Blackwell,,Medium,2025-04-12 00:14:55,46,0,11,Spring,1,3,14
+2025-03-22 00:42:31,Clothing,Dress,Room-2,Row-A,7,ad07430e,Bin,Large,44.68,32,2025-04-11 15:38:01,15,None,Casey and Sons,,Medium,2025-03-22 00:42:31,39,0,13,Spring,0,3,30
+2025-03-26 15:43:13,Electronics,Laptop,Room-2,Row-E,4,14ddb5f1,Cold Storage,Small,0.5,4,2025-04-07 14:33:48,10,None,"Patterson, Lamb and Fisher",,High,2025-03-26 15:43:13,23,0,8,Spring,1,0,14
+2025-04-12 07:52:39,Food,Bread,Room-3,Row-I,10,42cd0049,Shelf,Small,1.41,3,2025-04-09 20:43:50,5,Refrigerated,"Moore, Day and Malone",2025-05-09 07:52:39,Low,2025-04-12 07:52:39,3,11,1,Spring,0,3,30
+2025-04-04 23:15:16,Furniture,Sofa,Room-9,Row-H,5,328bf3aa,Pallet,Medium,8.13,42,2025-04-11 01:04:10,12,None,Wilcox Ltd,,Medium,2025-04-04 23:15:16,34,0,10,Spring,1,3,14
+2025-03-31 09:35:06,Furniture,Cupboard,Room-8,Row-E,15,879594c9,Bin,Medium,6.4,79,2025-04-10 18:27:13,5,None,Saunders-Villa,,Medium,2025-03-31 09:35:06,47,0,3,Spring,0,0,30
+2025-03-21 22:28:03,Clothing,Shirt,Room-10,Row-F,14,f82ef68a,Pallet,Large,29.1,45,2025-04-08 05:58:26,5,None,Price-Evans,,Medium,2025-03-21 22:28:03,17,6,6,Spring,0,3,30
+2025-03-16 14:18:57,Furniture,Bed,Room-10,Row-E,7,9f96b3a3,Pallet,Large,40.21,8,2025-04-09 13:06:38,9,None,Rice Inc,,Medium,2025-03-16 14:18:57,43,0,14,Spring,0,0,30
+2025-04-09 00:32:20,Toys,Car,Room-10,Row-D,16,3b98eb1e,Shelf,Small,0.36,6,2025-04-08 07:22:54,13,None,Robbins-Roth,,Medium,2025-04-09 00:32:20,44,0,10,Spring,1,3,7
+2025-03-14 19:40:15,Furniture,Table,Room-2,Row-E,15,a31737dd,Shelf,Large,17.44,86,2025-04-10 01:58:48,6,None,Andrews-Collins,,Medium,2025-03-14 19:40:15,2,8,2,Spring,0,3,30
+2025-04-06 02:48:45,Clothing,Dress,Room-1,Row-E,11,aafb8864,Cold Storage,Medium,8.35,47,2025-04-08 04:32:46,7,None,Wu-Salazar,,Medium,2025-04-06 02:48:45,8,8,12,Spring,0,1,14
+2025-04-03 00:03:25,Clothing,Jacket,Room-1,Row-F,6,c547e8be,Shelf,Small,1.4,69,2025-04-11 08:45:30,6,None,Hill-Weaver,,Medium,2025-04-03 00:03:25,44,0,1,Spring,1,1,14
+2025-04-11 17:44:39,Electronics,Laptop,Room-5,Row-H,8,728d47e3,Pallet,Large,32.99,73,2025-04-09 23:23:35,15,None,Nixon-Miller,,Low,2025-04-11 17:44:39,29,0,10,Spring,0,3,7
+2025-03-17 22:48:12,Furniture,Cupboard,Room-7,Row-D,2,7a6f9d6a,Shelf,Large,41.7,12,2025-04-08 05:50:51,9,None,"Schultz, Stanley and Garcia",,Medium,2025-03-17 22:48:12,13,0,7,Spring,0,3,14
+2025-04-11 09:56:38,Furniture,Sofa,Room-7,Row-C,3,3be0574b,Pallet,Small,0.43,93,2025-04-08 05:00:21,8,None,Miller-Young,,Medium,2025-04-11 09:56:38,13,0,7,Spring,1,1,14
+2025-04-01 06:36:51,Furniture,Chair,Room-7,Row-D,11,b2cda8e7,Cold Storage,Medium,3.28,80,2025-04-11 08:50:24,13,None,Brock Inc,,Medium,2025-04-01 06:36:51,5,16,10,Spring,1,0,7
+2025-03-24 00:23:34,Furniture,Sofa,Room-10,Row-H,8,7c443170,Shelf,Medium,4.64,17,2025-04-12 10:39:02,11,None,Dunlap PLC,,Medium,2025-03-24 00:23:34,39,0,8,Spring,1,3,30
+2025-04-03 02:58:40,Food,Milk,Room-1,Row-A,15,fec57543,Cold Storage,Large,16.95,70,2025-04-11 13:53:28,9,Refrigerated,"Smith, Lambert and Smith",2025-04-27 02:58:40,Low,2025-04-03 02:58:40,7,7,4,Spring,0,4,14
+2025-03-24 06:33:13,Electronics,Smartphone,Room-10,Row-F,13,352fccc8,Cold Storage,Medium,9.84,69,2025-04-09 09:59:36,6,None,Crawford Ltd,,Low,2025-03-24 06:33:13,8,4,11,Spring,0,3,7
+2025-04-02 20:53:50,Food,Bread,Room-4,Row-F,14,bbf5de3a,Bin,Small,1.13,75,2025-04-10 11:33:24,15,Refrigerated,Wood-Orozco,2025-04-23 20:53:50,High,2025-04-02 20:53:50,46,0,3,Spring,1,3,7
+2025-03-20 02:52:13,Food,Milk,Room-1,Row-G,3,d2911ae4,Shelf,Large,18.47,82,2025-04-11 07:21:20,12,Refrigerated,Williams and Sons,2025-04-04 02:52:13,Medium,2025-03-20 02:52:13,30,0,10,Spring,1,2,30
+2025-04-07 22:16:22,Food,Milk,Room-3,Row-D,11,8d35d94d,Bin,Medium,6.9,32,2025-04-12 00:47:55,7,Refrigerated,"Medina, Parrish and Mcbride",2025-04-21 22:16:22,Medium,2025-04-07 22:16:22,0,21,6,Spring,1,0,7
+2025-04-01 14:15:08,Toys,Car,Room-10,Row-C,16,7fbdde8c,Pallet,Medium,6.41,31,2025-04-08 12:20:52,8,None,Morgan-Ward,,Medium,2025-04-01 14:15:08,26,0,9,Spring,0,2,14
+2025-04-09 12:41:51,Furniture,Chair,Room-4,Row-B,4,a80f6c59,Shelf,Large,46.95,56,2025-04-12 09:20:40,8,None,Medina-Hoffman,,Medium,2025-04-09 12:41:51,15,0,1,Spring,0,1,7
+2025-03-23 19:29:45,Toys,Puzzle,Room-9,Row-D,15,bec9c8a0,Cold Storage,Small,1.94,3,2025-04-11 17:34:55,11,None,"Smith, Moore and Allen",,Medium,2025-03-23 19:29:45,29,0,10,Spring,1,3,30
+2025-03-19 14:41:56,Food,Apple,Room-10,Row-B,20,fd9816e3,Shelf,Large,42.76,59,2025-04-11 20:59:10,14,Refrigerated,Gonzalez-Davis,2025-03-25 14:41:56,Low,2025-03-19 14:41:56,5,22,11,Spring,1,4,14
+2025-03-29 11:59:00,Food,Milk,Room-1,Row-C,12,9206b4f9,Shelf,Large,47.58,28,2025-04-08 15:26:25,9,Refrigerated,Turner-Myers,2025-04-20 11:59:00,Low,2025-03-29 11:59:00,9,7,10,Spring,1,4,7
+2025-03-28 04:16:47,Furniture,Table,Room-4,Row-J,1,b91a5d1e,Bin,Small,0.3,5,2025-04-08 19:32:14,13,None,Robinson-Murray,,Medium,2025-03-28 04:16:47,4,0,7,Spring,0,4,7
+2025-03-21 00:10:31,Food,Eggs,Room-10,Row-J,5,dd608bea,Pallet,Medium,7.1,50,2025-04-10 00:04:41,12,Refrigerated,Salinas PLC,2025-04-11 00:10:31,High,2025-03-21 00:10:31,43,0,10,Spring,0,4,30
+2025-03-16 01:18:57,Electronics,Smartphone,Room-1,Row-E,17,d2b566b9,Shelf,Large,16.74,75,2025-04-08 06:50:27,8,None,Adkins LLC,,High,2025-03-16 01:18:57,28,0,1,Spring,0,0,30
+2025-03-22 19:30:44,Food,Milk,Room-9,Row-F,6,d7e0a4a8,Pallet,Large,27.96,29,2025-04-08 12:24:26,10,Refrigerated,"Nelson, Jones and Walker",2025-03-29 19:30:44,Low,2025-03-22 19:30:44,33,0,5,Spring,1,4,30
+2025-04-09 00:48:01,Toys,Lego,Room-8,Row-D,13,650136e5,Pallet,Large,38.38,58,2025-04-09 10:58:02,9,None,Lang-Keller,,Medium,2025-04-09 00:48:01,20,3,3,Spring,1,0,7
+2025-04-09 08:15:25,Electronics,Speaker,Room-1,Row-G,15,df134a77,Cold Storage,Medium,2.51,33,2025-04-12 12:30:51,6,None,"Morrison, Williams and Barnes",,Low,2025-04-09 08:15:25,40,0,6,Spring,1,1,14
+2025-04-03 16:56:17,Electronics,Laptop,Room-9,Row-H,5,71f06d4d,Bin,Medium,8.02,48,2025-04-10 12:22:29,10,None,Foster and Sons,,Medium,2025-04-03 16:56:17,32,0,2,Spring,0,3,30
+2025-03-31 07:58:32,Electronics,TV,Room-3,Row-A,9,7499b21c,Cold Storage,Small,1.76,73,2025-04-09 09:01:10,10,None,"Franklin, Avila and Wallace",,High,2025-03-31 07:58:32,12,4,4,Spring,0,1,30
+2025-03-21 01:12:45,Furniture,Cupboard,Room-3,Row-H,15,331f2c67,Cold Storage,Medium,8.02,45,2025-04-08 08:29:12,10,None,"Lee, Macdonald and Gilbert",,Medium,2025-03-21 01:12:45,6,18,13,Spring,0,1,14
+2025-03-31 17:00:52,Electronics,Laptop,Room-5,Row-H,8,d8bbf2a3,Cold Storage,Large,19.18,35,2025-04-11 02:11:48,7,None,"Mcdonald, Page and Richard",,Low,2025-03-31 17:00:52,29,0,3,Spring,1,2,14
+2025-04-07 15:43:22,Electronics,Smartphone,Room-6,Row-C,11,0f1dc55a,Shelf,Medium,3.95,65,2025-04-08 11:11:28,10,None,Ware-Diaz,,High,2025-04-07 15:43:22,0,14,11,Spring,1,2,14
+2025-04-09 15:34:28,Food,Milk,Room-5,Row-D,11,9a057051,Pallet,Large,29.23,37,2025-04-07 15:32:35,8,Refrigerated,"Zimmerman, Hoffman and Griffith",2025-05-01 15:34:28,High,2025-04-09 15:34:28,36,0,1,Spring,1,1,14
+2025-03-28 21:21:53,Furniture,Sofa,Room-6,Row-E,3,298dcb54,Shelf,Medium,8.56,98,2025-04-09 06:58:12,6,None,Ross-Nelson,,Medium,2025-03-28 21:21:53,43,0,6,Spring,1,0,30
+2025-03-31 12:25:30,Toys,Puzzle,Room-1,Row-G,18,d1d9c23f,Pallet,Medium,2.15,31,2025-04-11 20:18:19,12,None,Logan-English,,Medium,2025-03-31 12:25:30,30,0,7,Spring,1,1,7
+2025-04-03 14:36:30,Toys,Puzzle,Room-9,Row-E,20,05156dca,Shelf,Medium,7.9,94,2025-04-11 07:57:20,9,None,Johnson Inc,,Medium,2025-04-03 14:36:30,45,0,14,Spring,0,4,14
+2025-03-20 08:35:05,Toys,Lego,Room-9,Row-A,8,ca275518,Pallet,Medium,6.79,29,2025-04-09 15:16:45,6,None,Anderson-Reed,,Medium,2025-03-20 08:35:05,49,0,7,Spring,1,2,7
+2025-04-12 06:46:40,Food,Bread,Room-9,Row-F,3,5f1b8486,Shelf,Small,1.06,47,2025-04-11 13:49:48,9,Refrigerated,Cline Inc,2025-04-25 06:46:40,Medium,2025-04-12 06:46:40,32,0,9,Spring,1,2,7
+2025-03-19 17:28:55,Electronics,Speaker,Room-6,Row-G,20,e9b5ec5d,Bin,Small,1.28,30,2025-04-12 08:18:05,7,None,Moreno Group,,Low,2025-03-19 17:28:55,17,12,8,Spring,0,2,7
+2025-03-24 04:19:05,Food,Milk,Room-10,Row-G,3,ccdfdd5a,Cold Storage,Small,1.71,23,2025-04-10 14:58:14,15,Refrigerated,Kim PLC,2025-04-05 04:19:05,Medium,2025-03-24 04:19:05,32,0,7,Spring,0,1,7
+2025-04-10 04:37:52,Food,Apple,Room-2,Row-D,9,d0f9b8b1,Pallet,Medium,8.84,90,2025-04-11 23:15:41,8,Refrigerated,"Jones, Howard and Diaz",2025-05-02 04:37:52,High,2025-04-10 04:37:52,43,0,11,Spring,1,3,30
+2025-03-27 01:08:22,Furniture,Bed,Room-9,Row-E,2,986b68c1,Shelf,Large,32.56,10,2025-04-09 00:38:10,11,None,"Stone, Shepard and Garcia",,Medium,2025-03-27 01:08:22,48,0,9,Spring,0,1,30
+2025-03-22 17:10:54,Food,Bread,Room-9,Row-G,18,c29e812e,Cold Storage,Medium,5.59,73,2025-04-10 08:30:51,15,Refrigerated,"Phillips, Murphy and Newman",2025-03-28 17:10:54,Low,2025-03-22 17:10:54,39,0,9,Spring,1,2,7
+2025-03-20 06:42:20,Furniture,Table,Room-5,Row-A,9,672fa693,Cold Storage,Small,1.22,46,2025-04-12 12:29:36,10,None,Russell-Walker,,Medium,2025-03-20 06:42:20,37,0,8,Spring,0,1,14
+2025-03-28 11:30:48,Clothing,Jacket,Room-3,Row-I,17,156ea38b,Pallet,Medium,7.63,31,2025-04-10 06:18:19,15,None,"Price, Collins and Browning",,Medium,2025-03-28 11:30:48,8,6,6,Spring,0,3,7
+2025-04-12 00:51:14,Clothing,Shirt,Room-4,Row-D,11,0f0435fa,Pallet,Small,1.05,45,2025-04-11 09:37:27,14,None,"Harding, Barker and Campbell",,Medium,2025-04-12 00:51:14,18,1,9,Spring,1,1,14
+2025-03-31 11:06:02,Furniture,Chair,Room-6,Row-E,13,cb07569d,Pallet,Medium,2.97,62,2025-04-12 04:53:00,13,None,Jackson LLC,,Medium,2025-03-31 11:06:02,50,0,9,Spring,1,1,7
+2025-03-23 15:43:31,Furniture,Bed,Room-9,Row-C,7,0f823638,Pallet,Small,0.39,9,2025-04-08 13:09:16,14,None,Knapp PLC,,Medium,2025-03-23 15:43:31,37,0,11,Spring,0,2,14
+2025-04-01 04:07:11,Clothing,T-Shirt,Room-3,Row-B,18,da05600e,Cold Storage,Medium,4.18,31,2025-04-11 16:06:41,7,None,Johnson LLC,,Medium,2025-04-01 04:07:11,45,0,14,Spring,0,1,30
+2025-03-15 18:58:11,Clothing,Jacket,Room-6,Row-H,19,67cd6747,Cold Storage,Medium,5.69,6,2025-04-09 22:04:41,14,None,Miller-Allen,,Medium,2025-03-15 18:58:11,4,19,14,Spring,1,0,7
+2025-03-16 12:01:51,Toys,Puzzle,Room-6,Row-A,15,ed38719d,Shelf,Medium,2.9,68,2025-04-10 11:34:39,6,None,Wallace-Dyer,,Medium,2025-03-16 12:01:51,34,0,8,Spring,1,3,7
+2025-04-12 04:29:16,Furniture,Bed,Room-10,Row-C,18,7946bf68,Pallet,Large,41.69,70,2025-04-08 12:35:37,10,None,Powell-Parker,,Medium,2025-04-12 04:29:16,4,18,11,Spring,0,0,14
+2025-03-24 20:40:34,Electronics,Tablet,Room-10,Row-A,9,c5f2c05b,Cold Storage,Large,32.65,66,2025-04-09 03:59:09,5,None,"Serrano, Stevens and Baker",,Medium,2025-03-24 20:40:34,38,0,3,Spring,1,2,30
+2025-03-28 01:34:26,Food,Milk,Room-9,Row-C,7,730d280b,Shelf,Medium,5.86,72,2025-04-10 17:51:58,8,Refrigerated,Arnold Ltd,2025-04-11 01:34:26,High,2025-03-28 01:34:26,22,0,12,Spring,0,0,7
+2025-03-22 03:45:55,Toys,Blocks,Room-10,Row-A,11,19b0c4cc,Cold Storage,Large,33.82,77,2025-04-10 06:36:18,7,None,"Sanders, Wright and Hamilton",,Medium,2025-03-22 03:45:55,18,0,8,Spring,1,3,30
+2025-03-16 04:05:43,Electronics,TV,Room-10,Row-E,13,a96c6922,Pallet,Medium,9.05,19,2025-04-11 03:36:19,11,None,Crawford-Sullivan,,Low,2025-03-16 04:05:43,50,0,13,Spring,1,4,30
+2025-03-30 08:56:24,Furniture,Chair,Room-5,Row-F,8,bee90fa4,Cold Storage,Medium,4.83,44,2025-04-09 10:23:02,14,None,Solis LLC,,Medium,2025-03-30 08:56:24,41,0,6,Spring,0,4,7
+2025-04-03 05:20:57,Food,Milk,Room-5,Row-A,16,c7df27e1,Cold Storage,Medium,8.78,35,2025-04-12 02:28:38,6,Refrigerated,Hicks Inc,2025-04-30 05:20:57,Low,2025-04-03 05:20:57,4,15,12,Spring,0,4,7
+2025-03-20 03:11:30,Toys,Lego,Room-6,Row-F,18,05118f50,Pallet,Medium,5.39,90,2025-04-12 01:20:22,5,None,Lee Inc,,Medium,2025-03-20 03:11:30,22,0,5,Spring,0,3,7
+2025-04-09 01:15:38,Furniture,Bed,Room-2,Row-I,18,485e0b1f,Bin,Medium,6.25,86,2025-04-11 19:07:13,10,None,Walters PLC,,Medium,2025-04-09 01:15:38,25,3,9,Spring,1,4,30
+2025-03-16 21:59:37,Toys,Blocks,Room-10,Row-F,7,cc2d7d7d,Cold Storage,Large,36.78,95,2025-04-09 01:14:29,10,None,"Wade, Sloan and Pope",,Medium,2025-03-16 21:59:37,32,0,11,Spring,1,1,14
+2025-04-03 07:24:19,Food,Eggs,Room-4,Row-H,1,f79130f1,Shelf,Medium,5.1,29,2025-04-10 08:59:59,11,Refrigerated,Rodriguez-Martin,2025-04-28 07:24:19,Low,2025-04-03 07:24:19,35,0,10,Spring,1,3,30
+2025-03-15 05:47:17,Toys,Doll,Room-3,Row-A,7,30af2c36,Cold Storage,Large,26.93,40,2025-04-08 03:39:16,7,None,"Lewis, Williams and Noble",,Medium,2025-03-15 05:47:17,10,7,3,Spring,0,0,30
+2025-03-16 02:34:56,Toys,Lego,Room-1,Row-G,16,9e63cb3d,Bin,Large,14.45,65,2025-04-10 18:41:25,14,None,"Parker, Durham and Reeves",,Medium,2025-03-16 02:34:56,48,0,1,Spring,1,4,14
+2025-03-26 01:34:05,Electronics,Smartphone,Room-2,Row-D,15,968e0ea9,Bin,Large,32.54,13,2025-04-07 22:52:39,13,None,Sheppard Group,,High,2025-03-26 01:34:05,2,12,1,Spring,1,3,14
+2025-04-12 11:27:55,Clothing,Jeans,Room-5,Row-G,4,1ad7fd82,Shelf,Small,1.24,65,2025-04-11 11:17:22,7,None,"Dixon, Morales and Bennett",,Medium,2025-04-12 11:27:55,2,1,1,Spring,0,4,7
+2025-04-11 03:32:38,Toys,Blocks,Room-8,Row-J,2,f2b1b876,Cold Storage,Medium,2.15,39,2025-04-07 17:24:24,13,None,Wilcox Inc,,Medium,2025-04-11 03:32:38,30,0,3,Spring,1,1,30
+2025-04-05 18:37:27,Toys,Car,Room-4,Row-C,12,4baf9cf4,Shelf,Medium,4.11,5,2025-04-12 03:29:17,6,None,Ray-Rice,,Medium,2025-04-05 18:37:27,26,0,7,Spring,1,3,30
+2025-04-08 05:58:50,Furniture,Chair,Room-4,Row-G,6,d1ade22c,Pallet,Small,1.49,12,2025-04-12 06:58:56,6,None,Jones-Smith,,Medium,2025-04-08 05:58:50,44,0,3,Spring,0,3,7
+2025-03-22 23:45:25,Electronics,TV,Room-1,Row-H,3,94395834,Cold Storage,Large,33.65,6,2025-04-12 08:01:15,8,None,Zuniga Ltd,,High,2025-03-22 23:45:25,25,0,11,Spring,1,0,7
+2025-03-26 12:28:45,Food,Milk,Room-4,Row-A,6,1439c907,Bin,Large,16.01,10,2025-04-10 10:14:48,6,Refrigerated,Clark-Davis,2025-04-14 12:28:45,Low,2025-03-26 12:28:45,19,0,10,Spring,1,4,7
+2025-03-28 04:00:20,Toys,Blocks,Room-4,Row-F,11,82ed472d,Pallet,Large,32.9,28,2025-04-08 01:27:07,12,None,Lawson LLC,,Medium,2025-03-28 04:00:20,17,0,6,Spring,1,4,30
+2025-04-08 05:49:24,Electronics,Smartphone,Room-6,Row-D,6,4329bdc1,Bin,Medium,2.17,54,2025-04-12 06:50:31,15,None,"Duran, Brown and Martinez",,Medium,2025-04-08 05:49:24,36,0,1,Spring,0,2,14
+2025-03-16 17:18:05,Toys,Blocks,Room-8,Row-E,11,0d4462c7,Shelf,Small,0.92,96,2025-04-10 05:03:01,11,None,Sutton LLC,,Medium,2025-03-16 17:18:05,32,0,7,Spring,0,2,14
+2025-04-05 04:11:02,Furniture,Cupboard,Room-5,Row-F,8,1e1cbbea,Cold Storage,Small,0.5,88,2025-04-10 06:33:47,8,None,Herrera-Williams,,Medium,2025-04-05 04:11:02,19,0,9,Spring,1,1,14
+2025-03-21 00:27:13,Electronics,Laptop,Room-1,Row-I,1,195ae0ae,Cold Storage,Medium,9.36,35,2025-04-07 16:36:26,10,None,"Figueroa, Woodard and Lopez",,Low,2025-03-21 00:27:13,34,0,6,Spring,0,0,14
+2025-04-05 14:11:33,Toys,Doll,Room-4,Row-C,14,9b7a91d9,Bin,Small,1.62,88,2025-04-07 21:13:50,10,None,Morris Ltd,,Medium,2025-04-05 14:11:33,42,0,6,Spring,1,3,30
+2025-04-11 20:08:54,Clothing,Dress,Room-8,Row-H,15,27bda4a0,Shelf,Medium,4.19,7,2025-04-09 09:10:16,11,None,"Vasquez, Mcconnell and Green",,Medium,2025-04-11 20:08:54,15,4,1,Spring,1,1,14
+2025-03-26 21:43:56,Clothing,Dress,Room-2,Row-E,8,5a09ef30,Shelf,Large,17.72,5,2025-04-09 12:02:02,5,None,Horne-Carter,,Medium,2025-03-26 21:43:56,30,0,9,Spring,0,4,30
+2025-04-04 00:58:33,Clothing,Jeans,Room-6,Row-D,14,38568937,Bin,Medium,7.2,33,2025-04-12 04:59:22,10,None,"Miller, Taylor and Martinez",,Medium,2025-04-04 00:58:33,23,0,4,Spring,0,1,7
+2025-03-23 08:49:36,Electronics,Laptop,Room-9,Row-F,1,c27431d7,Pallet,Medium,7.64,52,2025-04-07 23:41:59,6,None,"Lee, Evans and Mack",,Low,2025-03-23 08:49:36,5,4,9,Spring,1,4,30
+2025-03-18 01:04:43,Electronics,Tablet,Room-4,Row-D,19,70613d12,Shelf,Medium,2.97,38,2025-04-11 13:58:29,11,None,"Hayes, Fry and Watkins",,Medium,2025-03-18 01:04:43,38,0,10,Spring,0,1,7
+2025-04-09 14:27:07,Toys,Doll,Room-7,Row-F,6,329353a6,Shelf,Medium,5.44,78,2025-04-12 05:58:59,10,None,Harrell Inc,,Medium,2025-04-09 14:27:07,39,0,11,Spring,1,1,30
+2025-03-19 11:52:47,Toys,Puzzle,Room-7,Row-D,20,0433cf55,Cold Storage,Small,1.13,41,2025-04-09 19:10:35,13,None,"Bautista, Fitzgerald and Scott",,Medium,2025-03-19 11:52:47,13,17,2,Spring,0,4,7
+2025-04-01 16:47:11,Food,Milk,Room-3,Row-A,15,52cf4f89,Pallet,Large,44.79,93,2025-04-07 19:27:53,8,Refrigerated,Morgan-Cardenas,2025-05-01 16:47:11,High,2025-04-01 16:47:11,20,0,7,Spring,1,1,14
+2025-03-19 11:46:31,Furniture,Table,Room-5,Row-J,6,ab687ff9,Shelf,Large,21.86,28,2025-04-07 22:30:09,7,None,Kennedy Inc,,Medium,2025-03-19 11:46:31,40,0,3,Spring,0,3,7
+2025-03-30 21:51:10,Clothing,T-Shirt,Room-7,Row-H,9,ebc20475,Bin,Medium,2.45,11,2025-04-09 21:54:22,9,None,Glass-Spencer,,Medium,2025-03-30 21:51:10,34,0,6,Spring,1,3,14
+2025-04-08 20:23:18,Clothing,T-Shirt,Room-3,Row-I,2,ebfe9f7d,Cold Storage,Small,1.54,58,2025-04-08 20:44:59,9,None,"Kelley, Washington and King",,Medium,2025-04-08 20:23:18,41,0,5,Spring,0,2,14
+2025-03-23 16:45:39,Clothing,Dress,Room-2,Row-J,12,342977b4,Cold Storage,Small,1.7,92,2025-04-09 22:51:34,9,None,"Simpson, Ellison and Wallace",,Medium,2025-03-23 16:45:39,46,0,13,Spring,1,0,14
+2025-03-25 07:26:17,Toys,Blocks,Room-9,Row-F,19,6cc29e82,Bin,Small,0.75,92,2025-04-08 03:00:22,12,None,"Johnson, Harding and Jensen",,Medium,2025-03-25 07:26:17,43,0,14,Spring,0,4,30
+2025-04-02 00:08:13,Toys,Car,Room-9,Row-G,7,b776144b,Bin,Small,1.66,71,2025-04-11 06:53:39,5,None,Powell-Hall,,Medium,2025-04-02 00:08:13,45,0,14,Spring,0,2,30
+2025-03-24 12:11:34,Food,Rice,Room-2,Row-J,4,51928841,Cold Storage,Small,1.97,7,2025-04-08 17:20:01,12,Refrigerated,"Bright, Simpson and Wallace",2025-04-04 12:11:34,Medium,2025-03-24 12:11:34,40,0,4,Spring,1,2,14
+2025-04-04 02:52:26,Food,Rice,Room-9,Row-C,4,d78c6db8,Cold Storage,Small,0.32,26,2025-04-11 21:48:15,14,Refrigerated,"Hamilton, Williams and Norman",2025-04-19 02:52:26,Low,2025-04-04 02:52:26,20,0,1,Spring,1,3,30
+2025-04-10 11:13:16,Clothing,Jeans,Room-9,Row-B,9,fbc99598,Pallet,Small,1.19,81,2025-04-07 22:01:20,15,None,"Jackson, Santana and Brooks",,Medium,2025-04-10 11:13:16,15,0,1,Spring,0,4,7
+2025-04-04 14:43:53,Toys,Doll,Room-5,Row-G,11,2b05123e,Cold Storage,Medium,6.71,56,2025-04-12 00:02:44,12,None,"Anderson, Morris and Chandler",,Medium,2025-04-04 14:43:53,1,19,11,Spring,1,0,14
+2025-03-26 02:59:58,Food,Bread,Room-2,Row-E,16,47e71fe4,Cold Storage,Large,20.13,53,2025-04-09 20:20:44,6,Refrigerated,"Mckenzie, Warren and Elliott",2025-04-13 02:59:58,High,2025-03-26 02:59:58,39,0,9,Spring,0,4,7
+2025-04-12 00:02:29,Food,Apple,Room-4,Row-H,7,513a2bdf,Pallet,Medium,5.18,19,2025-04-11 18:31:45,6,Refrigerated,Smith Ltd,2025-04-27 00:02:29,Low,2025-04-12 00:02:29,24,0,9,Spring,1,4,14
+2025-03-30 19:45:06,Toys,Lego,Room-7,Row-I,1,b6ec4b4e,Bin,Large,44.8,37,2025-04-08 13:17:20,15,None,Clay Inc,,Medium,2025-03-30 19:45:06,23,0,2,Spring,0,0,14
+2025-04-07 16:59:07,Food,Milk,Room-10,Row-B,2,a5f2393d,Shelf,Large,14.19,38,2025-04-11 12:24:36,14,Refrigerated,"Weaver, Wright and Medina",2025-04-30 16:59:07,Low,2025-04-07 16:59:07,30,0,13,Spring,1,2,30
+2025-03-25 01:50:35,Clothing,Jeans,Room-7,Row-G,11,0f16ab6c,Bin,Small,1.35,65,2025-04-10 21:43:00,9,None,Gonzalez-Goodwin,,Medium,2025-03-25 01:50:35,41,0,12,Spring,1,0,7
+2025-04-01 17:49:45,Electronics,Speaker,Room-10,Row-F,2,963ddc68,Shelf,Medium,6.12,69,2025-04-11 02:33:49,11,None,Lee PLC,,High,2025-04-01 17:49:45,3,1,14,Spring,1,3,30
+2025-04-08 11:13:47,Electronics,Tablet,Room-2,Row-D,16,6c897d8f,Shelf,Medium,8.9,7,2025-04-09 05:59:32,11,None,"Walsh, Lawrence and Wilson",,High,2025-04-08 11:13:47,17,0,5,Spring,0,0,7
+2025-04-11 07:14:51,Toys,Puzzle,Room-4,Row-B,9,8be943b0,Cold Storage,Small,1.19,29,2025-04-11 20:57:52,15,None,Hopkins Group,,Medium,2025-04-11 07:14:51,25,0,11,Spring,0,2,30
+2025-03-26 14:42:13,Toys,Puzzle,Room-1,Row-B,4,2b1ac97f,Pallet,Medium,7.3,15,2025-04-09 09:36:56,7,None,Johnson-Rubio,,Medium,2025-03-26 14:42:13,48,0,8,Spring,0,2,7
+2025-04-07 15:36:31,Food,Milk,Room-3,Row-A,15,7a0588e7,Shelf,Small,0.31,81,2025-04-09 00:47:23,7,Refrigerated,"Little, Thompson and Donovan",2025-05-02 15:36:31,Low,2025-04-07 15:36:31,37,0,14,Spring,1,1,7
+2025-04-12 00:09:51,Food,Bread,Room-7,Row-A,12,ecaf3440,Shelf,Small,1.95,28,2025-04-12 02:26:52,7,Refrigerated,"Melendez, Bates and Scott",2025-04-25 00:09:51,Low,2025-04-12 00:09:51,2,14,7,Spring,0,1,30
+2025-03-25 19:24:00,Toys,Lego,Room-6,Row-A,15,a976caa3,Shelf,Small,1.46,63,2025-04-10 23:51:44,8,None,"Koch, Carter and Clark",,Medium,2025-03-25 19:24:00,4,21,7,Spring,1,2,7
+2025-04-04 15:13:41,Toys,Lego,Room-7,Row-E,16,16e2c2c0,Cold Storage,Small,1.81,80,2025-04-11 00:42:05,15,None,Skinner-Jones,,Medium,2025-04-04 15:13:41,15,11,9,Spring,0,2,14
+2025-04-05 09:24:14,Clothing,Jeans,Room-1,Row-B,15,84c08730,Cold Storage,Medium,5.7,80,2025-04-08 17:38:32,9,None,"Butler, Black and Davis",,Medium,2025-04-05 09:24:14,36,0,7,Spring,0,1,14
+2025-03-31 16:16:47,Food,Eggs,Room-7,Row-G,16,88e35783,Cold Storage,Large,24.83,23,2025-04-08 16:40:02,12,Refrigerated,Holland-Miller,2025-04-23 16:16:47,Low,2025-03-31 16:16:47,12,0,11,Spring,1,3,7
+2025-03-20 01:37:09,Furniture,Cupboard,Room-2,Row-I,14,c098e6d0,Shelf,Small,1.1,24,2025-04-09 16:49:51,6,None,"Walker, Smith and Davis",,Medium,2025-03-20 01:37:09,24,0,10,Spring,1,1,14
+2025-03-16 04:42:43,Food,Rice,Room-8,Row-E,12,47ed3c11,Bin,Small,0.73,38,2025-04-11 23:17:50,9,Refrigerated,"Allen, Hester and Hess",2025-04-10 04:42:43,Low,2025-03-16 04:42:43,15,1,3,Spring,0,0,30
+2025-03-26 18:57:03,Clothing,Dress,Room-1,Row-D,5,1ad93118,Pallet,Large,46.45,9,2025-04-12 11:23:43,10,None,Williamson Ltd,,Medium,2025-03-26 18:57:03,24,0,4,Spring,0,0,14
+2025-04-02 15:02:35,Clothing,Jacket,Room-2,Row-F,5,fc134b6a,Cold Storage,Medium,6.58,21,2025-04-11 21:09:55,7,None,"Sanford, Cunningham and Cook",,Medium,2025-04-02 15:02:35,30,0,7,Spring,1,1,14
+2025-04-09 19:30:03,Electronics,TV,Room-5,Row-G,9,8017a513,Bin,Medium,5.36,58,2025-04-09 05:01:03,5,None,Chambers Inc,,High,2025-04-09 19:30:03,13,0,2,Spring,1,4,7
+2025-04-01 05:39:55,Clothing,Jeans,Room-2,Row-D,13,c0c3867f,Shelf,Medium,2.56,51,2025-04-10 17:14:01,7,None,"Hamilton, Malone and Munoz",,Medium,2025-04-01 05:39:55,47,0,6,Spring,0,0,30
+2025-03-24 13:03:21,Furniture,Cupboard,Room-7,Row-A,11,3cfe64f6,Pallet,Large,30.13,49,2025-04-09 13:28:04,13,None,Martinez-Stein,,Medium,2025-03-24 13:03:21,20,0,5,Spring,1,4,30
+2025-03-27 05:17:25,Electronics,Laptop,Room-6,Row-B,13,50dacb9c,Shelf,Medium,5.55,35,2025-04-11 20:33:15,6,None,Munoz LLC,,High,2025-03-27 05:17:25,9,0,5,Spring,0,2,30
+2025-04-05 10:59:43,Furniture,Cupboard,Room-6,Row-B,7,8a29c3bd,Bin,Large,17.94,25,2025-04-07 14:07:12,12,None,Nichols-Young,,Medium,2025-04-05 10:59:43,30,0,13,Spring,1,2,7
+2025-03-18 05:33:28,Food,Rice,Room-8,Row-J,17,c17d3a3b,Cold Storage,Medium,5.58,59,2025-04-09 06:01:58,15,Refrigerated,King and Sons,2025-04-06 05:33:28,Medium,2025-03-18 05:33:28,38,0,3,Spring,0,0,30
+2025-03-19 04:22:05,Food,Apple,Room-9,Row-B,11,1f8b2d18,Shelf,Medium,9.98,15,2025-04-08 02:45:41,12,Refrigerated,Gallagher PLC,2025-04-15 04:22:05,Low,2025-03-19 04:22:05,41,0,6,Spring,0,3,7
+2025-03-24 13:26:39,Food,Milk,Room-10,Row-H,3,331c8517,Cold Storage,Small,1.4,78,2025-04-10 00:37:01,7,Refrigerated,Hobbs-Griffin,2025-04-14 13:26:39,Medium,2025-03-24 13:26:39,5,0,9,Spring,1,1,30
+2025-03-24 11:43:36,Electronics,Speaker,Room-3,Row-C,2,9d808bad,Shelf,Medium,4.64,41,2025-04-10 20:24:20,12,None,Sullivan-Carey,,Medium,2025-03-24 11:43:36,26,0,11,Spring,0,3,14
+2025-04-10 08:42:29,Electronics,TV,Room-9,Row-E,16,e483512c,Cold Storage,Medium,5.06,32,2025-04-09 15:41:28,15,None,"Parker, Kennedy and Jarvis",,Low,2025-04-10 08:42:29,48,0,4,Spring,0,2,14
+2025-04-03 22:00:50,Electronics,Smartphone,Room-7,Row-B,5,d07bc9f6,Bin,Medium,4.67,12,2025-04-11 17:20:02,9,None,Alexander-Marshall,,High,2025-04-03 22:00:50,32,0,13,Spring,0,2,30
+2025-04-03 05:52:14,Toys,Doll,Room-1,Row-A,1,1ecfb3a3,Cold Storage,Medium,6.41,5,2025-04-10 12:57:19,14,None,Jackson PLC,,Medium,2025-04-03 05:52:14,44,0,11,Spring,1,4,30
+2025-04-07 22:13:49,Clothing,T-Shirt,Room-9,Row-D,4,4717ce9b,Pallet,Small,1.48,3,2025-04-10 05:40:55,10,None,Wright LLC,,Medium,2025-04-07 22:13:49,2,10,12,Spring,1,3,14
+2025-04-05 19:17:42,Toys,Car,Room-6,Row-H,4,3f6c1d83,Pallet,Small,1.94,1,2025-04-11 03:59:19,8,None,"Bridges, Mckee and Anderson",,Medium,2025-04-05 19:17:42,40,0,1,Spring,1,2,7
+2025-04-12 06:09:26,Toys,Blocks,Room-1,Row-C,13,6d99a5f4,Bin,Medium,8.36,68,2025-04-08 09:06:22,14,None,"Lane, Smith and Ramos",,Medium,2025-04-12 06:09:26,39,0,12,Spring,1,3,14
+2025-03-14 20:52:02,Food,Bread,Room-1,Row-A,13,049b0238,Shelf,Medium,6.1,9,2025-04-08 16:33:07,12,Refrigerated,"Griffin, Allison and Knight",2025-03-28 20:52:02,Medium,2025-03-14 20:52:02,8,9,7,Spring,1,3,14
+2025-04-02 20:23:07,Clothing,Shirt,Room-6,Row-D,1,f9435944,Cold Storage,Small,1.04,27,2025-04-07 15:52:44,15,None,"Moore, Rice and Williams",,Medium,2025-04-02 20:23:07,37,0,5,Spring,0,4,14
+2025-04-02 22:43:43,Furniture,Chair,Room-7,Row-E,5,83476cc1,Bin,Small,0.83,95,2025-04-11 09:19:40,7,None,Wilkerson LLC,,Medium,2025-04-02 22:43:43,18,0,5,Spring,1,4,7
+2025-03-23 05:20:24,Electronics,TV,Room-7,Row-D,2,d1eab0af,Cold Storage,Medium,6.82,45,2025-04-10 14:31:40,11,None,"Roy, King and Peterson",,Medium,2025-03-23 05:20:24,8,0,11,Spring,1,0,14
+2025-03-25 12:17:48,Furniture,Chair,Room-7,Row-D,8,1ac30cdd,Bin,Small,0.8,5,2025-04-07 19:58:04,12,None,"Lopez, Stevens and Robinson",,Medium,2025-03-25 12:17:48,40,0,2,Spring,0,2,7
+2025-04-11 03:40:17,Toys,Doll,Room-10,Row-J,8,659ea896,Pallet,Large,33.66,16,2025-04-09 10:27:11,6,None,Fisher-Perry,,Medium,2025-04-11 03:40:17,20,0,5,Spring,1,0,14
+2025-03-17 22:04:59,Toys,Lego,Room-1,Row-E,20,7ed423e3,Cold Storage,Medium,6.59,45,2025-04-09 15:56:03,5,None,"Hill, Stevens and Neal",,Medium,2025-03-17 22:04:59,31,0,5,Spring,0,1,14
+2025-03-23 17:39:31,Clothing,Jeans,Room-3,Row-J,1,3de6c973,Cold Storage,Medium,3.23,98,2025-04-07 14:37:41,7,None,"Rose, Ford and Hart",,Medium,2025-03-23 17:39:31,2,6,13,Spring,1,4,7
+2025-03-24 09:00:45,Furniture,Sofa,Room-7,Row-H,10,078654be,Pallet,Medium,4.84,4,2025-04-12 01:00:06,9,None,"Robinson, Jimenez and Hardin",,Medium,2025-03-24 09:00:45,31,0,5,Spring,1,3,7
+2025-03-26 09:45:13,Food,Apple,Room-7,Row-B,18,9a19b4da,Shelf,Large,45.57,13,2025-04-11 00:59:14,11,Refrigerated,"Johnson, Thompson and Ramirez",2025-04-10 09:45:13,Low,2025-03-26 09:45:13,15,7,2,Spring,1,0,30
+2025-03-27 21:27:36,Electronics,Tablet,Room-9,Row-F,13,4b900979,Shelf,Small,1.35,58,2025-04-11 23:25:12,8,None,Carpenter-Moody,,Low,2025-03-27 21:27:36,30,0,13,Spring,0,2,14
+2025-03-18 23:33:15,Toys,Car,Room-4,Row-B,15,73abaa9f,Pallet,Small,0.1,42,2025-04-07 18:08:40,6,None,Love PLC,,Medium,2025-03-18 23:33:15,31,0,7,Spring,1,2,30
+2025-03-26 03:10:54,Clothing,Dress,Room-7,Row-D,1,c10756f3,Cold Storage,Small,1.37,24,2025-04-09 11:44:59,8,None,"Martinez, Campbell and Carroll",,Medium,2025-03-26 03:10:54,18,0,10,Spring,1,2,14
+2025-04-04 12:27:50,Toys,Doll,Room-3,Row-D,7,30500423,Cold Storage,Large,23.29,63,2025-04-09 04:29:45,10,None,Jimenez LLC,,Medium,2025-04-04 12:27:50,18,0,9,Spring,0,2,14
+2025-03-23 20:57:03,Toys,Blocks,Room-2,Row-D,9,2399da89,Pallet,Small,1.53,55,2025-04-12 04:33:48,13,None,"Brown, Ray and Benson",,Medium,2025-03-23 20:57:03,27,0,9,Spring,0,2,7
+2025-03-25 12:45:34,Food,Bread,Room-9,Row-C,5,34a998a4,Bin,Medium,3.15,25,2025-04-10 10:12:41,15,Refrigerated,"Krause, Obrien and Mitchell",2025-04-22 12:45:34,Medium,2025-03-25 12:45:34,23,0,12,Spring,1,3,7
+2025-04-08 19:21:09,Electronics,Speaker,Room-1,Row-E,11,faaafaf3,Cold Storage,Large,19.87,4,2025-04-08 03:29:56,5,None,Medina and Sons,,Low,2025-04-08 19:21:09,48,0,3,Spring,0,4,7
+2025-03-24 06:46:03,Electronics,Tablet,Room-6,Row-H,5,da88043b,Shelf,Small,1.87,84,2025-04-08 17:03:39,9,None,"Harris, Solis and Byrd",,Medium,2025-03-24 06:46:03,8,6,14,Spring,0,3,14
+2025-04-10 07:51:39,Clothing,Shirt,Room-3,Row-J,11,ac80f3f2,Pallet,Medium,2.61,31,2025-04-10 17:46:39,14,None,"Reyes, Oliver and Johnson",,Medium,2025-04-10 07:51:39,34,0,3,Spring,0,4,30
+2025-03-22 08:11:26,Clothing,T-Shirt,Room-6,Row-J,3,bfee7bd5,Pallet,Large,27.1,92,2025-04-09 00:21:49,8,None,"Adams, Simpson and Howard",,Medium,2025-03-22 08:11:26,17,0,11,Spring,1,2,14
+2025-03-15 22:16:43,Clothing,T-Shirt,Room-4,Row-F,12,0ca74f00,Bin,Small,0.17,40,2025-04-10 15:49:23,15,None,Jacobson-Obrien,,Medium,2025-03-15 22:16:43,16,1,13,Spring,0,4,30
+2025-03-18 07:23:43,Electronics,TV,Room-9,Row-C,11,87109bfa,Shelf,Medium,2.08,59,2025-04-07 23:53:45,9,None,Delgado Group,,Low,2025-03-18 07:23:43,14,0,3,Spring,1,2,30
+2025-04-02 12:05:38,Electronics,Speaker,Room-1,Row-A,7,465946f5,Cold Storage,Small,0.66,45,2025-04-07 20:29:20,15,None,Flores Inc,,Medium,2025-04-02 12:05:38,17,0,12,Spring,0,2,30
+2025-03-31 20:16:59,Toys,Puzzle,Room-9,Row-F,3,aa6777fe,Shelf,Large,48.41,12,2025-04-08 07:11:23,5,None,Carroll Ltd,,Medium,2025-03-31 20:16:59,20,0,9,Spring,0,1,30
+2025-03-23 17:43:48,Electronics,Tablet,Room-4,Row-J,9,7b52a107,Cold Storage,Small,0.89,98,2025-04-08 13:04:27,12,None,Stewart-Estrada,,Low,2025-03-23 17:43:48,35,0,12,Spring,1,2,7
+2025-04-10 17:44:42,Electronics,Speaker,Room-2,Row-B,6,6912d205,Shelf,Small,1.84,36,2025-04-10 11:41:14,8,None,"Wood, Smith and Larson",,Medium,2025-04-10 17:44:42,3,10,11,Spring,1,4,14
+2025-04-12 11:41:45,Furniture,Table,Room-9,Row-H,11,962c432c,Pallet,Medium,3.38,79,2025-04-07 14:41:40,10,None,Thompson-Bailey,,Medium,2025-04-12 11:41:45,6,2,4,Spring,0,1,14
+2025-04-02 17:54:12,Clothing,Dress,Room-5,Row-C,7,1f1a654c,Bin,Medium,3.81,77,2025-04-09 18:33:12,14,None,Clark PLC,,Medium,2025-04-02 17:54:12,50,0,6,Spring,0,1,30
+2025-03-29 22:23:32,Electronics,Smartphone,Room-3,Row-B,14,d5e4ba15,Shelf,Large,41.67,95,2025-04-07 22:51:11,11,None,"Rice, Wheeler and Rodgers",,Low,2025-03-29 22:23:32,11,4,9,Spring,1,2,30
+2025-04-06 11:11:22,Electronics,TV,Room-1,Row-C,14,914c6d84,Shelf,Large,18.52,64,2025-04-07 15:52:42,8,None,"Medina, Bailey and Harris",,Medium,2025-04-06 11:11:22,6,7,7,Spring,1,2,14
+2025-04-05 11:41:54,Electronics,Speaker,Room-7,Row-D,4,d6459421,Pallet,Medium,5.61,77,2025-04-08 02:50:52,10,None,"Leonard, Campbell and Chavez",,Medium,2025-04-05 11:41:54,48,0,12,Spring,0,4,14
+2025-04-11 06:24:40,Food,Bread,Room-7,Row-G,5,e404676b,Cold Storage,Medium,6.59,93,2025-04-09 00:03:29,7,Refrigerated,Ortiz-Clark,2025-05-01 06:24:40,Low,2025-04-11 06:24:40,17,0,14,Spring,1,4,7
+2025-03-25 03:54:14,Food,Milk,Room-4,Row-H,19,efc953f7,Shelf,Small,1.22,19,2025-04-11 20:36:11,15,Refrigerated,"Stewart, Brooks and Howard",2025-04-08 03:54:14,Low,2025-03-25 03:54:14,40,0,7,Spring,1,4,7
+2025-03-21 23:35:08,Furniture,Cupboard,Room-3,Row-I,17,3186cc96,Bin,Medium,4.21,27,2025-04-12 05:47:13,6,None,Daniel-Roberts,,Medium,2025-03-21 23:35:08,34,0,3,Spring,0,4,7
+2025-04-07 14:07:55,Food,Milk,Room-3,Row-H,13,93867508,Cold Storage,Medium,2.4,48,2025-04-09 03:06:08,7,Refrigerated,"Martinez, King and Lopez",2025-04-13 14:07:55,Low,2025-04-07 14:07:55,27,0,12,Spring,0,1,7
+2025-03-13 14:51:02,Electronics,Tablet,Room-2,Row-J,19,af1945cb,Bin,Large,16.19,10,2025-04-07 15:41:18,7,None,"Reyes, Davis and Williams",,Medium,2025-03-13 14:51:02,49,0,4,Spring,0,0,7
+2025-04-02 00:36:27,Electronics,Speaker,Room-7,Row-D,13,53ead538,Pallet,Medium,7.24,64,2025-04-10 20:21:03,11,None,"Gutierrez, Reid and Wilkins",,Medium,2025-04-02 00:36:27,7,16,8,Spring,0,4,7
+2025-04-11 22:03:33,Furniture,Sofa,Room-3,Row-H,10,7f53e1ee,Shelf,Medium,5.46,75,2025-04-07 19:58:45,11,None,"Marshall, Turner and Lynch",,Medium,2025-04-11 22:03:33,3,14,7,Spring,1,1,30
+2025-03-25 07:38:25,Clothing,T-Shirt,Room-9,Row-H,17,bbb1276b,Bin,Small,1.47,100,2025-04-09 16:53:05,9,None,Jensen-Lopez,,Medium,2025-03-25 07:38:25,46,0,9,Spring,1,4,30
+2025-03-21 21:46:25,Furniture,Cupboard,Room-6,Row-H,14,9e5bbfe1,Cold Storage,Medium,5.3,91,2025-04-11 00:49:51,11,None,"Miller, Reese and Collins",,Medium,2025-03-21 21:46:25,29,0,14,Spring,1,3,7
+2025-03-29 13:03:10,Food,Eggs,Room-4,Row-C,9,25bd34a8,Cold Storage,Medium,9.98,61,2025-04-09 20:18:03,12,Refrigerated,"Jackson, Nelson and Kelley",2025-04-08 13:03:10,Medium,2025-03-29 13:03:10,34,0,4,Spring,1,4,7
+2025-04-03 15:49:37,Clothing,Dress,Room-8,Row-C,13,abb20192,Cold Storage,Large,32.84,88,2025-04-10 11:35:57,5,None,Medina-Morton,,Medium,2025-04-03 15:49:37,38,0,5,Spring,1,4,7
+2025-03-16 02:03:41,Furniture,Cupboard,Room-8,Row-B,17,60485137,Shelf,Large,43.83,3,2025-04-09 07:21:49,6,None,"Weaver, Lin and Bowen",,Medium,2025-03-16 02:03:41,4,18,14,Spring,0,0,7
+2025-04-03 06:49:42,Food,Bread,Room-6,Row-F,14,c850b304,Bin,Small,1.35,5,2025-04-07 16:27:28,7,Refrigerated,Fitzpatrick-Simmons,2025-04-29 06:49:42,High,2025-04-03 06:49:42,50,0,13,Spring,0,1,14
+2025-04-10 19:15:01,Clothing,Shirt,Room-6,Row-C,14,8f2f6ce8,Bin,Large,31.18,65,2025-04-12 01:12:28,14,None,Ellis Ltd,,Medium,2025-04-10 19:15:01,16,3,1,Spring,1,1,14
+2025-03-24 06:02:17,Electronics,Speaker,Room-2,Row-B,6,6c627c47,Shelf,Small,1.79,50,2025-04-11 22:59:22,11,None,"Griffin, Sanchez and Ferrell",,Medium,2025-03-24 06:02:17,38,0,3,Spring,1,2,14
+2025-03-28 21:33:23,Food,Apple,Room-7,Row-H,20,1784c54a,Pallet,Medium,5.34,94,2025-04-11 08:25:23,12,Refrigerated,Nguyen-Knox,2025-04-17 21:33:23,Low,2025-03-28 21:33:23,4,26,13,Spring,0,3,14
+2025-04-04 10:03:45,Clothing,Shirt,Room-9,Row-H,7,0b0bb307,Pallet,Large,46.21,42,2025-04-10 13:36:57,6,None,"Rivera, Jones and Santana",,Medium,2025-04-04 10:03:45,13,3,5,Spring,0,0,7
+2025-03-27 06:01:34,Electronics,TV,Room-9,Row-E,18,240d24f2,Pallet,Small,1.12,49,2025-04-11 11:29:34,13,None,Walker Group,,Medium,2025-03-27 06:01:34,25,3,13,Spring,0,3,30
+2025-04-11 16:26:23,Electronics,Laptop,Room-1,Row-C,1,b87fb35b,Shelf,Large,47.46,5,2025-04-10 08:06:16,11,None,Cuevas PLC,,Medium,2025-04-11 16:26:23,39,0,1,Spring,0,1,14
+2025-03-25 18:07:49,Furniture,Chair,Room-6,Row-A,2,37d1100d,Bin,Medium,6.06,54,2025-04-08 18:50:59,15,None,Jenkins Group,,Medium,2025-03-25 18:07:49,14,0,12,Spring,0,1,7
+2025-04-01 16:02:41,Food,Eggs,Room-5,Row-H,7,915ae66e,Shelf,Medium,4.74,20,2025-04-12 05:25:07,15,Refrigerated,Green and Sons,2025-04-15 16:02:41,Medium,2025-04-01 16:02:41,5,3,13,Spring,1,4,30
+2025-03-14 19:12:48,Electronics,Tablet,Room-7,Row-J,19,cc2da6a6,Pallet,Small,1.52,92,2025-04-10 02:33:38,14,None,Morales-Santana,,Low,2025-03-14 19:12:48,13,7,5,Spring,1,2,30
+2025-03-25 07:28:15,Food,Rice,Room-9,Row-H,16,617062da,Bin,Large,10.61,34,2025-04-12 08:08:24,5,Refrigerated,Osborne-Williams,2025-04-04 07:28:15,High,2025-03-25 07:28:15,34,0,12,Spring,1,3,14
+2025-04-10 20:28:47,Clothing,Shirt,Room-5,Row-B,13,14592d0f,Shelf,Small,1.74,69,2025-04-10 07:55:40,15,None,"Morales, Murray and Wilson",,Medium,2025-04-10 20:28:47,32,0,3,Spring,0,4,30
+2025-04-06 06:41:51,Food,Rice,Room-4,Row-A,8,3f12d177,Cold Storage,Medium,3.34,28,2025-04-11 21:02:48,9,Refrigerated,Lawrence Group,2025-04-22 06:41:51,Medium,2025-04-06 06:41:51,21,0,9,Spring,0,3,14
+2025-03-30 13:23:25,Clothing,Jeans,Room-4,Row-B,5,faa2e876,Bin,Medium,4.7,48,2025-04-08 03:48:40,5,None,"Peterson, Carlson and Clements",,Medium,2025-03-30 13:23:25,37,0,13,Spring,0,2,14
+2025-03-27 09:26:47,Clothing,Jacket,Room-9,Row-A,3,56b7ea79,Pallet,Medium,6.04,33,2025-04-09 10:12:37,6,None,Rose-Lynch,,Medium,2025-03-27 09:26:47,7,0,12,Spring,1,3,30
+2025-04-06 11:49:46,Toys,Puzzle,Room-7,Row-H,2,82215460,Shelf,Small,1.85,54,2025-04-09 06:57:29,12,None,Davis Inc,,Medium,2025-04-06 11:49:46,46,0,3,Spring,1,3,7
+2025-03-24 04:51:30,Food,Rice,Room-4,Row-G,14,1c37d6e0,Bin,Medium,7.54,21,2025-04-08 18:59:58,14,Refrigerated,Barker Ltd,2025-04-01 04:51:30,Medium,2025-03-24 04:51:30,29,0,5,Spring,1,3,7
+2025-03-15 14:10:14,Toys,Car,Room-3,Row-E,10,08fcac33,Shelf,Small,0.94,67,2025-04-10 19:00:21,15,None,"Rodriguez, Gonzales and Cook",,Medium,2025-03-15 14:10:14,2,17,11,Spring,1,1,7
+2025-03-27 00:03:11,Clothing,Shirt,Room-1,Row-F,18,08918b47,Pallet,Small,0.84,18,2025-04-12 05:28:58,10,None,Church-Pearson,,Medium,2025-03-27 00:03:11,42,0,5,Spring,0,2,7
+2025-03-30 12:12:27,Clothing,Shirt,Room-5,Row-G,9,f1931f3d,Cold Storage,Medium,5.78,91,2025-04-11 13:48:40,14,None,"Gutierrez, Cowan and Bradshaw",,Medium,2025-03-30 12:12:27,0,18,2,Spring,1,2,14
+2025-03-24 02:45:44,Food,Apple,Room-1,Row-A,20,23fdabce,Cold Storage,Medium,8.75,78,2025-04-11 00:43:36,10,Refrigerated,Stephens-Russell,2025-04-19 02:45:44,High,2025-03-24 02:45:44,26,2,4,Spring,1,4,30
+2025-03-28 18:01:29,Toys,Car,Room-3,Row-A,2,2c2c0715,Bin,Large,21.12,92,2025-04-09 23:16:50,15,None,Oneill Ltd,,Medium,2025-03-28 18:01:29,6,1,2,Spring,0,1,30
+2025-03-14 12:03:59,Food,Rice,Room-2,Row-E,4,24c0c6ff,Pallet,Medium,6.48,56,2025-04-09 15:56:08,6,Refrigerated,Peterson LLC,2025-04-07 12:03:59,High,2025-03-14 12:03:59,33,0,10,Spring,1,2,30
+2025-04-03 18:49:28,Food,Eggs,Room-1,Row-F,6,d0804a9a,Cold Storage,Large,41.75,1,2025-04-11 15:05:37,13,Refrigerated,Smith-Morgan,2025-04-18 18:49:28,Medium,2025-04-03 18:49:28,40,0,11,Spring,1,2,30
+2025-03-29 13:17:34,Furniture,Cupboard,Room-1,Row-G,10,16bbf1bc,Pallet,Large,23.22,93,2025-04-09 09:20:21,8,None,Welch Ltd,,Medium,2025-03-29 13:17:34,32,0,12,Spring,1,1,7
+2025-03-15 06:52:38,Toys,Puzzle,Room-9,Row-B,13,12441e71,Bin,Large,43.2,65,2025-04-08 06:10:39,7,None,"Hayden, Butler and Garcia",,Medium,2025-03-15 06:52:38,45,0,7,Spring,1,3,30
+2025-03-17 11:08:03,Electronics,Tablet,Room-6,Row-C,1,9264428d,Pallet,Medium,9.7,84,2025-04-10 00:16:20,13,None,Reese-Wagner,,High,2025-03-17 11:08:03,1,5,13,Spring,1,2,14
+2025-03-26 23:13:45,Electronics,TV,Room-3,Row-I,10,53e0244a,Cold Storage,Small,1.93,14,2025-04-08 16:38:30,13,None,Macias-Bush,,High,2025-03-26 23:13:45,30,0,5,Spring,0,2,7
+2025-03-25 08:55:01,Toys,Blocks,Room-8,Row-J,20,d067914b,Pallet,Medium,9.71,77,2025-04-09 23:49:14,11,None,"Rojas, Alvarez and Martin",,Medium,2025-03-25 08:55:01,11,6,8,Spring,1,4,7
+2025-04-10 18:12:39,Electronics,Tablet,Room-7,Row-E,1,6f22444d,Shelf,Small,1.78,57,2025-04-10 22:59:44,7,None,Morse-Gonzalez,,High,2025-04-10 18:12:39,27,0,1,Spring,0,0,7
+2025-04-04 03:39:27,Furniture,Chair,Room-2,Row-A,2,522e5fee,Shelf,Small,1.43,8,2025-04-08 11:52:26,11,None,"Zavala, Henry and Torres",,Medium,2025-04-04 03:39:27,44,0,13,Spring,0,0,30
+2025-04-06 23:12:49,Electronics,Smartphone,Room-8,Row-C,13,8d64ab2d,Bin,Small,1.67,92,2025-04-07 20:29:15,9,None,Frey PLC,,Medium,2025-04-06 23:12:49,38,0,2,Spring,1,4,30
+2025-04-06 17:47:49,Food,Rice,Room-1,Row-H,7,bfa0d5c8,Cold Storage,Large,22.27,24,2025-04-12 10:17:20,7,Refrigerated,Ibarra Group,2025-05-02 17:47:49,Low,2025-04-06 17:47:49,46,0,6,Spring,0,3,30
+2025-03-23 11:39:45,Furniture,Chair,Room-1,Row-B,20,a96429f1,Bin,Medium,4.64,50,2025-04-09 20:42:05,13,None,"Nguyen, Powers and Dalton",,Medium,2025-03-23 11:39:45,37,0,8,Spring,1,0,14
+2025-03-31 03:59:00,Furniture,Bed,Room-2,Row-G,1,2a6125fc,Cold Storage,Small,0.75,73,2025-04-09 20:53:06,7,None,Weber-Davis,,Medium,2025-03-31 03:59:00,22,0,12,Spring,0,3,30
+2025-04-11 08:22:01,Food,Bread,Room-1,Row-F,13,1bca645c,Shelf,Medium,3.45,2,2025-04-10 17:17:55,5,Refrigerated,Fernandez PLC,2025-04-21 08:22:01,High,2025-04-11 08:22:01,31,0,12,Spring,0,0,30
+2025-04-07 20:43:25,Food,Apple,Room-1,Row-A,6,793a64be,Bin,Medium,7.93,53,2025-04-09 04:27:28,11,Refrigerated,"Davis, Campbell and Wood",2025-05-06 20:43:25,Medium,2025-04-07 20:43:25,36,0,4,Spring,1,2,14
+2025-03-28 15:02:08,Toys,Blocks,Room-10,Row-I,10,4a5bb318,Cold Storage,Small,0.25,76,2025-04-09 08:57:20,13,None,Jones-Woods,,Medium,2025-03-28 15:02:08,19,0,1,Spring,1,0,30
+2025-04-04 10:57:25,Clothing,T-Shirt,Room-5,Row-E,1,77b3d0f4,Pallet,Medium,4.7,98,2025-04-12 06:37:24,8,None,"Singh, Robinson and Gomez",,Medium,2025-04-04 10:57:25,35,0,11,Spring,0,0,30
+2025-04-08 09:16:30,Food,Milk,Room-2,Row-F,19,12bf4518,Cold Storage,Large,32.09,11,2025-04-08 18:30:58,9,Refrigerated,"Boone, Wilkinson and Graham",2025-04-24 09:16:30,Medium,2025-04-08 09:16:30,43,0,6,Spring,1,0,7
+2025-03-30 23:02:47,Clothing,T-Shirt,Room-3,Row-D,19,ad543523,Bin,Medium,5.67,33,2025-04-07 16:37:07,8,None,Davidson-Sanchez,,Medium,2025-03-30 23:02:47,12,2,7,Spring,1,3,30
+2025-04-07 16:53:36,Toys,Car,Room-3,Row-A,6,d30a0ab9,Shelf,Small,1.32,86,2025-04-08 02:11:51,6,None,Dunn Group,,Medium,2025-04-07 16:53:36,22,0,9,Spring,1,4,7
+2025-03-26 10:45:43,Food,Eggs,Room-4,Row-I,9,dc48c65a,Cold Storage,Medium,3.95,60,2025-04-11 11:04:25,7,Refrigerated,"Hernandez, Gomez and Allen",2025-04-17 10:45:43,High,2025-03-26 10:45:43,43,0,12,Spring,0,3,30
+2025-04-08 07:38:56,Food,Eggs,Room-8,Row-B,5,1fa2e2b0,Pallet,Large,29.24,84,2025-04-08 02:24:34,15,Refrigerated,Lopez Inc,2025-05-06 07:38:56,Low,2025-04-08 07:38:56,31,0,8,Spring,1,1,14
+2025-04-06 06:59:25,Clothing,Jeans,Room-7,Row-B,20,8210a217,Bin,Large,39.25,45,2025-04-12 03:24:07,9,None,Woodard-Daniel,,Medium,2025-04-06 06:59:25,9,10,13,Spring,0,2,14
+2025-03-25 21:03:26,Electronics,TV,Room-10,Row-J,12,c792ce9a,Shelf,Small,0.73,24,2025-04-12 06:15:16,8,None,Graham and Sons,,Medium,2025-03-25 21:03:26,46,0,11,Spring,1,3,30
+2025-03-20 20:37:45,Food,Eggs,Room-10,Row-H,2,1143f3f4,Cold Storage,Medium,9.68,90,2025-04-12 01:33:55,8,Refrigerated,"Morse, Adams and Johnson",2025-04-19 20:37:45,Medium,2025-03-20 20:37:45,35,0,2,Spring,1,0,7
+2025-03-15 08:57:53,Clothing,Jacket,Room-2,Row-E,13,e3c559c2,Bin,Large,40.08,88,2025-04-07 19:09:11,6,None,Rubio LLC,,Medium,2025-03-15 08:57:53,32,0,12,Spring,1,0,14
+2025-04-04 07:46:13,Toys,Blocks,Room-10,Row-A,12,07cfb309,Shelf,Small,1.01,45,2025-04-09 14:47:09,11,None,Chang PLC,,Medium,2025-04-04 07:46:13,35,0,5,Spring,0,2,30
+2025-03-20 04:03:46,Toys,Lego,Room-1,Row-C,12,b989606b,Cold Storage,Large,45.03,50,2025-04-11 06:33:34,6,None,Clark-Washington,,Medium,2025-03-20 04:03:46,37,0,14,Spring,0,1,7
+2025-03-30 11:43:46,Electronics,TV,Room-7,Row-G,19,0455f957,Pallet,Small,0.88,88,2025-04-09 20:44:08,11,None,Thomas-Frazier,,Medium,2025-03-30 11:43:46,10,18,1,Spring,0,3,7
+2025-04-10 10:10:56,Toys,Blocks,Room-10,Row-C,6,109a2502,Shelf,Medium,8.02,78,2025-04-11 02:29:42,7,None,Hardy-Harris,,Medium,2025-04-10 10:10:56,49,0,2,Spring,0,0,30
+2025-03-24 20:38:07,Toys,Doll,Room-8,Row-C,1,4421e835,Pallet,Medium,2.32,84,2025-04-10 04:24:56,10,None,Randolph-Bowman,,Medium,2025-03-24 20:38:07,12,0,1,Spring,1,1,30
+2025-04-10 14:13:44,Electronics,Smartphone,Room-1,Row-H,13,1dbb2f6d,Pallet,Large,35.72,51,2025-04-11 05:01:16,12,None,Young LLC,,High,2025-04-10 14:13:44,11,3,14,Spring,0,0,7
+2025-03-18 02:30:17,Toys,Puzzle,Room-1,Row-F,15,f8e8b660,Pallet,Large,36.54,44,2025-04-08 08:22:09,15,None,"Johnston, Nguyen and Ward",,Medium,2025-03-18 02:30:17,6,8,12,Spring,1,4,14
+2025-04-05 10:24:19,Electronics,Laptop,Room-10,Row-B,12,e7764612,Bin,Small,0.58,36,2025-04-12 10:22:59,9,None,"Newman, Hernandez and Collier",,High,2025-04-05 10:24:19,27,0,6,Spring,0,3,7
+2025-03-26 19:16:58,Clothing,Jacket,Room-8,Row-I,8,41d3da41,Bin,Large,39.36,86,2025-04-10 00:05:06,9,None,Mcconnell PLC,,Medium,2025-03-26 19:16:58,44,0,11,Spring,1,3,14
+2025-03-24 17:32:28,Furniture,Chair,Room-4,Row-A,11,7f3b3b7e,Shelf,Medium,4.04,90,2025-04-09 07:32:49,13,None,Vaughan-Newman,,Medium,2025-03-24 17:32:28,24,0,7,Spring,1,1,7
+2025-03-16 11:08:10,Toys,Car,Room-8,Row-I,1,734685c0,Bin,Small,1.02,61,2025-04-09 16:53:54,6,None,Harris-Norman,,Medium,2025-03-16 11:08:10,40,0,6,Spring,0,2,30
+2025-04-07 20:25:13,Electronics,Smartphone,Room-6,Row-I,17,8104f9c3,Pallet,Small,0.25,49,2025-04-09 15:04:04,8,None,"Williams, Parsons and Davis",,Low,2025-04-07 20:25:13,38,0,13,Spring,1,1,14
+2025-04-11 21:46:11,Toys,Doll,Room-5,Row-A,19,2cd0a1b0,Bin,Large,11.6,6,2025-04-10 19:08:06,14,None,Taylor-Barnett,,Medium,2025-04-11 21:46:11,26,0,6,Spring,0,1,7
+2025-04-11 04:18:29,Toys,Doll,Room-4,Row-E,7,839e7aa0,Bin,Medium,4.76,61,2025-04-07 14:08:39,9,None,"Cannon, Cruz and Kim",,Medium,2025-04-11 04:18:29,3,14,12,Spring,1,1,30
+2025-03-14 19:06:28,Electronics,TV,Room-8,Row-G,20,1b404fbe,Cold Storage,Small,1.66,84,2025-04-10 13:26:10,15,None,Watson Ltd,,Low,2025-03-14 19:06:28,12,14,8,Spring,1,0,30
+2025-03-24 15:17:02,Food,Rice,Room-1,Row-I,15,29afd376,Shelf,Small,1.3,32,2025-04-08 07:14:09,9,Refrigerated,"Green, Reyes and Anderson",2025-04-08 15:17:02,Low,2025-03-24 15:17:02,28,0,9,Spring,0,4,14
+2025-03-13 16:45:03,Clothing,T-Shirt,Room-5,Row-B,6,0d2376ad,Bin,Large,20.96,75,2025-04-11 19:41:35,12,None,Jones-Collier,,Medium,2025-03-13 16:45:03,27,0,13,Spring,0,2,14
+2025-03-25 23:46:02,Furniture,Cupboard,Room-2,Row-D,8,9806b531,Bin,Medium,5.99,63,2025-04-11 01:50:21,15,None,"Williams, Wilkerson and Daniels",,Medium,2025-03-25 23:46:02,27,0,12,Spring,0,1,7
+2025-03-17 17:29:18,Food,Milk,Room-4,Row-F,1,c32f1ed0,Pallet,Small,0.37,77,2025-04-10 15:38:10,15,Refrigerated,Johnson-Joseph,2025-04-06 17:29:18,Medium,2025-03-17 17:29:18,14,0,1,Spring,0,1,14
+2025-04-11 14:30:27,Furniture,Cupboard,Room-5,Row-D,4,1a959aa5,Pallet,Medium,5.94,34,2025-04-08 03:46:35,6,None,"Lynch, Osborne and Sullivan",,Medium,2025-04-11 14:30:27,18,0,6,Spring,0,1,7
+2025-04-08 13:28:48,Furniture,Bed,Room-4,Row-J,17,beb5ef22,Pallet,Small,0.97,34,2025-04-08 12:27:59,6,None,"Franklin, Cooper and Harrison",,Medium,2025-04-08 13:28:48,28,0,10,Spring,0,4,14
+2025-03-17 17:10:03,Furniture,Table,Room-6,Row-H,14,43c56d82,Bin,Medium,5.9,38,2025-04-12 07:15:37,13,None,"Jackson, Brennan and Lyons",,Medium,2025-03-17 17:10:03,41,0,8,Spring,0,3,7
+2025-03-21 22:53:21,Electronics,Tablet,Room-5,Row-I,9,d5d817d7,Bin,Medium,3.72,68,2025-04-12 01:37:46,8,None,Freeman-Williams,,High,2025-03-21 22:53:21,16,0,12,Spring,1,0,7
+2025-03-19 07:35:42,Toys,Lego,Room-4,Row-A,14,835bd245,Shelf,Large,20.92,17,2025-04-07 21:05:22,13,None,"Atkinson, Robinson and Morgan",,Medium,2025-03-19 07:35:42,26,0,4,Spring,1,2,14
+2025-04-07 00:28:03,Electronics,Tablet,Room-3,Row-H,7,de9a5c6a,Pallet,Medium,2.97,30,2025-04-11 06:52:03,7,None,Garcia-Wagner,,Medium,2025-04-07 00:28:03,30,0,12,Spring,0,1,30
+2025-03-28 09:51:47,Furniture,Table,Room-7,Row-E,17,395ad129,Bin,Medium,7.04,12,2025-04-11 03:11:57,13,None,Dixon PLC,,Medium,2025-03-28 09:51:47,50,0,7,Spring,1,2,14
+2025-04-08 13:05:37,Food,Bread,Room-7,Row-F,10,6aabbc6a,Cold Storage,Medium,2.18,18,2025-04-08 14:33:09,9,Refrigerated,Warren and Sons,2025-04-24 13:05:37,High,2025-04-08 13:05:37,25,0,12,Spring,1,1,14
+2025-03-31 04:34:41,Food,Apple,Room-2,Row-F,6,e4166f13,Bin,Large,23.61,25,2025-04-09 16:16:39,7,Refrigerated,"Tran, Mcguire and Burns",2025-04-14 04:34:41,High,2025-03-31 04:34:41,36,0,10,Spring,0,4,30
+2025-04-07 12:11:28,Electronics,Smartphone,Room-6,Row-G,5,fdac0cb0,Shelf,Medium,3.43,48,2025-04-10 11:28:16,10,None,"Martinez, Davenport and Sherman",,Low,2025-04-07 12:11:28,20,0,5,Spring,0,4,7
+2025-03-19 22:37:48,Food,Eggs,Room-3,Row-E,13,7b58ce53,Cold Storage,Large,14.84,82,2025-04-08 04:22:03,9,Refrigerated,Scott-Michael,2025-03-31 22:37:48,Medium,2025-03-19 22:37:48,23,0,12,Spring,0,0,7
+2025-03-24 17:07:31,Furniture,Chair,Room-9,Row-A,13,cfd859ab,Bin,Large,43.25,64,2025-04-07 23:02:15,14,None,"Wright, Glenn and Landry",,Medium,2025-03-24 17:07:31,39,0,11,Spring,1,0,30
+2025-04-10 18:25:40,Toys,Doll,Room-7,Row-B,4,1470db0f,Shelf,Large,23.62,1,2025-04-08 12:41:44,10,None,Faulkner PLC,,Medium,2025-04-10 18:25:40,33,0,9,Spring,0,1,7
+2025-04-08 15:58:23,Furniture,Bed,Room-8,Row-G,12,d8e58344,Shelf,Small,0.26,8,2025-04-09 10:33:33,10,None,Howard PLC,,Medium,2025-04-08 15:58:23,33,0,1,Spring,1,4,30
+2025-04-01 00:53:56,Electronics,Laptop,Room-5,Row-F,15,1e15b5c0,Cold Storage,Large,43.57,24,2025-04-12 13:24:36,5,None,Smith Ltd,,High,2025-04-01 00:53:56,34,0,6,Spring,1,3,30
+2025-03-15 01:40:13,Furniture,Sofa,Room-8,Row-I,2,a44adc24,Pallet,Small,0.37,60,2025-04-10 01:59:04,8,None,White Ltd,,Medium,2025-03-15 01:40:13,20,0,2,Spring,1,2,14
+2025-04-12 04:32:57,Toys,Lego,Room-7,Row-A,4,c6e75694,Cold Storage,Small,1.27,20,2025-04-07 17:12:44,10,None,Mitchell-Brock,,Medium,2025-04-12 04:32:57,41,0,13,Spring,0,4,30
+2025-04-06 09:49:05,Furniture,Table,Room-1,Row-C,2,db18099e,Shelf,Small,0.4,13,2025-04-11 02:01:22,11,None,Sullivan Inc,,Medium,2025-04-06 09:49:05,46,0,6,Spring,0,0,14
+2025-03-16 08:28:45,Electronics,TV,Room-9,Row-J,19,96de88ce,Shelf,Medium,4.41,89,2025-04-10 16:38:32,6,None,"Webb, Figueroa and Carrillo",,High,2025-03-16 08:28:45,3,16,1,Spring,1,1,7
+2025-04-07 09:55:44,Clothing,T-Shirt,Room-7,Row-J,17,e13cca6b,Cold Storage,Large,25.24,27,2025-04-09 18:10:46,11,None,Dalton-Coleman,,Medium,2025-04-07 09:55:44,36,0,7,Spring,0,0,30
+2025-03-21 13:55:44,Toys,Car,Room-3,Row-F,1,cb0dd135,Bin,Small,1.94,100,2025-04-09 01:25:26,13,None,Davis-Estes,,Medium,2025-03-21 13:55:44,2,6,6,Spring,0,1,14
+2025-03-24 12:31:07,Clothing,Jeans,Room-3,Row-J,7,92f10e82,Pallet,Large,48.49,4,2025-04-08 15:46:00,10,None,Bell LLC,,Medium,2025-03-24 12:31:07,43,0,11,Spring,1,3,30
+2025-03-19 21:50:46,Food,Eggs,Room-2,Row-H,13,e46e5c0a,Cold Storage,Medium,5.26,55,2025-04-11 01:57:55,10,Refrigerated,Elliott PLC,2025-03-30 21:50:46,Medium,2025-03-19 21:50:46,40,0,11,Spring,1,1,7
+2025-04-02 16:09:03,Toys,Doll,Room-1,Row-G,1,f10d69f7,Shelf,Medium,9.71,40,2025-04-12 03:37:59,6,None,"Nguyen, Rogers and Finley",,Medium,2025-04-02 16:09:03,42,0,6,Spring,0,2,14
+2025-04-03 23:01:38,Toys,Blocks,Room-3,Row-G,18,b73859ba,Pallet,Small,1.65,85,2025-04-11 01:40:59,10,None,"Hurley, Williams and Oneal",,Medium,2025-04-03 23:01:38,21,7,8,Spring,1,4,7
+2025-03-24 22:05:45,Toys,Puzzle,Room-5,Row-H,18,cdc5d956,Cold Storage,Medium,3.84,15,2025-04-12 10:20:42,10,None,"Anderson, Valdez and Briggs",,Medium,2025-03-24 22:05:45,14,7,5,Spring,0,3,30
+2025-04-11 18:19:34,Clothing,Shirt,Room-7,Row-C,1,e9bddd4d,Shelf,Small,1.58,44,2025-04-11 23:28:39,5,None,Ray-Hurley,,Medium,2025-04-11 18:19:34,12,0,5,Spring,0,1,30
+2025-03-16 02:09:39,Toys,Blocks,Room-10,Row-A,2,3cce82dd,Cold Storage,Small,1.97,59,2025-04-08 04:03:37,10,None,Pitts LLC,,Medium,2025-03-16 02:09:39,17,0,12,Spring,0,4,14
+2025-03-26 12:38:49,Electronics,TV,Room-6,Row-F,18,44aa32d7,Bin,Small,1.0,14,2025-04-10 18:07:28,15,None,"Strickland, Gallagher and Green",,High,2025-03-26 12:38:49,22,0,11,Spring,0,2,30
+2025-03-31 16:14:32,Furniture,Bed,Room-2,Row-J,16,6c00868c,Shelf,Large,38.76,44,2025-04-08 06:53:05,5,None,Rivas Inc,,Medium,2025-03-31 16:14:32,41,0,2,Spring,1,4,14
+2025-03-18 06:17:50,Food,Milk,Room-2,Row-J,4,39030578,Cold Storage,Large,48.52,1,2025-04-08 03:03:36,13,Refrigerated,"Turner, Thomas and White",2025-04-16 06:17:50,High,2025-03-18 06:17:50,23,0,11,Spring,0,3,14
+2025-04-01 05:40:49,Furniture,Sofa,Room-8,Row-I,20,a85b8873,Shelf,Small,1.76,23,2025-04-10 02:40:15,15,None,Spears-Morgan,,Medium,2025-04-01 05:40:49,25,0,8,Spring,1,2,7
+2025-03-27 16:22:07,Toys,Doll,Room-2,Row-F,15,1ac0b02a,Bin,Medium,9.7,30,2025-04-10 12:05:12,15,None,Li-Williams,,Medium,2025-03-27 16:22:07,20,0,14,Spring,0,1,30
+2025-04-11 19:14:32,Furniture,Table,Room-1,Row-H,7,d0107258,Pallet,Large,38.1,9,2025-04-08 05:02:00,7,None,"Nguyen, Perry and Lucas",,Medium,2025-04-11 19:14:32,4,10,3,Spring,0,1,30
+2025-03-14 08:12:24,Electronics,Smartphone,Room-3,Row-A,8,318fa810,Pallet,Large,23.16,11,2025-04-10 05:39:24,5,None,"Larsen, French and Duncan",,Medium,2025-03-14 08:12:24,48,0,7,Spring,0,0,30
+2025-03-20 08:16:59,Clothing,T-Shirt,Room-10,Row-A,18,9a0a6dc0,Shelf,Large,44.61,2,2025-04-09 16:12:43,10,None,Cole Group,,Medium,2025-03-20 08:16:59,33,0,8,Spring,1,4,14
+2025-03-28 04:36:26,Electronics,Tablet,Room-6,Row-H,17,625300db,Cold Storage,Large,49.32,3,2025-04-11 05:48:25,5,None,Cooper-Cannon,,High,2025-03-28 04:36:26,28,0,7,Spring,1,2,7
+2025-03-30 12:13:14,Clothing,Jacket,Room-1,Row-A,6,177e9344,Bin,Large,34.61,50,2025-04-10 10:12:17,5,None,"Mcclure, Santos and Garcia",,Medium,2025-03-30 12:13:14,6,0,14,Spring,0,4,30
+2025-03-30 03:13:21,Toys,Doll,Room-1,Row-B,19,2fc68536,Shelf,Medium,8.51,14,2025-04-10 04:44:03,10,None,Rodriguez-Fitzpatrick,,Medium,2025-03-30 03:13:21,9,10,2,Spring,0,3,7
+2025-04-05 05:07:52,Electronics,Speaker,Room-4,Row-F,4,1f6c8fd0,Cold Storage,Medium,7.52,58,2025-04-08 19:52:42,10,None,"Clark, Morrison and Schaefer",,High,2025-04-05 05:07:52,35,0,4,Spring,0,1,14
+2025-04-07 07:06:45,Toys,Doll,Room-10,Row-G,20,56f0571c,Cold Storage,Small,0.88,11,2025-04-11 16:34:29,9,None,Hall-Smith,,Medium,2025-04-07 07:06:45,11,16,9,Spring,0,0,30
+2025-03-29 17:17:53,Furniture,Chair,Room-9,Row-F,16,43ebf45c,Bin,Small,1.12,83,2025-04-11 02:13:36,5,None,Huff-Brown,,Medium,2025-03-29 17:17:53,26,0,5,Spring,1,3,30
+2025-03-19 23:37:11,Food,Bread,Room-8,Row-A,5,32894c45,Bin,Medium,2.17,90,2025-04-09 10:59:34,13,Refrigerated,Hill-Fitzpatrick,2025-04-14 23:37:11,Medium,2025-03-19 23:37:11,6,7,6,Spring,1,3,14
+2025-04-10 23:16:46,Clothing,Shirt,Room-4,Row-J,14,56d819a1,Cold Storage,Medium,2.97,61,2025-04-10 11:03:20,11,None,"Sanchez, Brandt and Johnson",,Medium,2025-04-10 23:16:46,9,14,7,Spring,0,1,30
+2025-04-04 19:49:20,Toys,Car,Room-10,Row-H,16,210abc51,Cold Storage,Large,47.69,60,2025-04-10 03:26:27,9,None,Flynn Group,,Medium,2025-04-04 19:49:20,15,0,9,Spring,0,4,30
+2025-04-07 05:05:47,Clothing,Jacket,Room-3,Row-I,2,4c0964a0,Cold Storage,Large,25.46,61,2025-04-11 21:00:41,15,None,"Collier, Martinez and Watkins",,Medium,2025-04-07 05:05:47,17,0,3,Spring,0,3,14
+2025-03-17 14:27:11,Furniture,Chair,Room-4,Row-I,13,08d1a768,Bin,Large,32.2,10,2025-04-12 09:20:54,7,None,Freeman LLC,,Medium,2025-03-17 14:27:11,35,0,11,Spring,1,0,14
+2025-03-15 00:00:41,Furniture,Bed,Room-3,Row-A,10,295bfd90,Pallet,Large,22.46,87,2025-04-09 18:16:23,5,None,"Lawrence, Hill and Reyes",,Medium,2025-03-15 00:00:41,36,0,9,Spring,0,3,14
+2025-04-08 20:18:55,Food,Milk,Room-1,Row-F,16,5879841a,Cold Storage,Small,1.74,17,2025-04-10 18:05:51,7,Refrigerated,Monroe PLC,2025-04-14 20:18:55,High,2025-04-08 20:18:55,40,0,5,Spring,0,0,7
+2025-04-05 02:20:22,Electronics,Tablet,Room-6,Row-C,11,c8d55f68,Pallet,Small,0.72,25,2025-04-11 16:06:19,8,None,Herman-Woodard,,High,2025-04-05 02:20:22,9,0,12,Spring,1,1,30
+2025-04-09 04:52:02,Furniture,Chair,Room-3,Row-H,15,4ccc37f0,Cold Storage,Large,16.8,33,2025-04-11 17:56:39,9,None,Frye-Chen,,Medium,2025-04-09 04:52:02,27,0,12,Spring,1,0,7
+2025-03-14 01:35:42,Clothing,T-Shirt,Room-4,Row-J,2,970c0dd7,Pallet,Medium,9.06,39,2025-04-11 12:10:34,5,None,"Hanson, Yu and Carter",,Medium,2025-03-14 01:35:42,12,0,5,Spring,0,1,7
+2025-03-19 06:11:29,Food,Apple,Room-5,Row-F,6,8b31d208,Cold Storage,Large,47.21,38,2025-04-09 13:22:08,7,Refrigerated,Chapman-Brown,2025-04-08 06:11:29,Low,2025-03-19 06:11:29,32,0,8,Spring,1,4,14
+2025-03-26 04:41:53,Furniture,Cupboard,Room-10,Row-D,8,3bf3f1e0,Bin,Medium,5.35,98,2025-04-11 10:43:34,11,None,Lopez Ltd,,Medium,2025-03-26 04:41:53,2,16,4,Spring,0,2,14
+2025-04-05 03:33:05,Toys,Lego,Room-8,Row-C,3,5cdd1c8f,Pallet,Medium,5.89,67,2025-04-08 13:23:27,10,None,Cisneros Group,,Medium,2025-04-05 03:33:05,50,0,2,Spring,0,1,14
+2025-03-30 00:42:09,Electronics,Laptop,Room-1,Row-G,8,4f740b57,Pallet,Medium,8.37,10,2025-04-12 12:42:19,10,None,"Dudley, Jackson and Howard",,Low,2025-03-30 00:42:09,43,0,2,Spring,0,0,30
+2025-03-27 14:12:10,Clothing,Shirt,Room-2,Row-H,20,d6bbfa3f,Pallet,Large,29.94,96,2025-04-11 03:17:12,10,None,"Williams, Russell and Bond",,Medium,2025-03-27 14:12:10,33,0,11,Spring,1,4,30
+2025-03-19 02:33:30,Toys,Blocks,Room-5,Row-B,9,f31ffbbf,Pallet,Small,0.91,52,2025-04-09 19:06:54,11,None,Lam-Calderon,,Medium,2025-03-19 02:33:30,0,4,12,Spring,0,0,30
+2025-03-13 21:11:26,Food,Milk,Room-4,Row-J,6,e60834b8,Shelf,Medium,2.67,23,2025-04-12 07:15:25,11,Refrigerated,Ortega Inc,2025-04-04 21:11:26,Low,2025-03-13 21:11:26,40,0,8,Spring,0,1,14
+2025-03-26 19:09:48,Clothing,Jacket,Room-10,Row-D,8,826954c2,Bin,Large,16.94,3,2025-04-08 10:36:16,5,None,Smith Group,,Medium,2025-03-26 19:09:48,24,0,12,Spring,1,3,7
+2025-03-31 19:36:30,Furniture,Table,Room-6,Row-D,14,f8e3bbad,Bin,Medium,9.3,93,2025-04-08 15:01:52,12,None,"Riley, Lynch and Rivera",,Medium,2025-03-31 19:36:30,28,0,6,Spring,1,4,30
+2025-03-29 16:39:32,Clothing,T-Shirt,Room-5,Row-E,14,5cce83de,Pallet,Small,0.79,70,2025-04-09 01:11:39,14,None,Quinn-Smith,,Medium,2025-03-29 16:39:32,49,0,1,Spring,0,1,14
+2025-03-14 15:44:43,Clothing,Shirt,Room-5,Row-H,11,7691548f,Cold Storage,Medium,7.76,47,2025-04-09 10:21:24,15,None,Brown LLC,,Medium,2025-03-14 15:44:43,27,0,14,Spring,0,2,7
+2025-04-03 15:46:32,Furniture,Sofa,Room-3,Row-F,7,d4aee535,Shelf,Large,40.17,42,2025-04-10 08:26:39,11,None,Hicks-Chang,,Medium,2025-04-03 15:46:32,46,0,3,Spring,0,3,14
+2025-03-17 01:11:19,Furniture,Chair,Room-8,Row-G,9,efa95aaa,Shelf,Small,0.88,39,2025-04-10 16:07:13,5,None,Cisneros-Mullins,,Medium,2025-03-17 01:11:19,42,0,11,Spring,0,1,7
+2025-04-08 06:22:54,Electronics,Smartphone,Room-6,Row-B,2,32c05c9b,Bin,Small,1.78,97,2025-04-08 07:47:32,11,None,"Thompson, White and Oneal",,High,2025-04-08 06:22:54,2,7,6,Spring,1,3,7
+2025-04-07 05:02:59,Clothing,T-Shirt,Room-3,Row-F,14,89df82be,Pallet,Large,47.01,14,2025-04-11 18:51:36,15,None,"Serrano, Valenzuela and Walter",,Medium,2025-04-07 05:02:59,22,2,3,Spring,1,3,7
+2025-04-07 00:27:18,Furniture,Sofa,Room-3,Row-J,15,47b9c58d,Pallet,Small,1.8,55,2025-04-11 23:44:49,11,None,Khan LLC,,Medium,2025-04-07 00:27:18,29,0,13,Spring,1,4,30
+2025-03-21 04:02:55,Furniture,Cupboard,Room-6,Row-J,18,4905b0ef,Bin,Small,0.84,76,2025-04-11 23:02:47,10,None,"Washington, Baker and Palmer",,Medium,2025-03-21 04:02:55,8,15,8,Spring,1,4,30
+2025-04-08 02:25:40,Electronics,TV,Room-5,Row-F,19,be86e666,Bin,Small,1.74,64,2025-04-11 05:26:28,15,None,Thornton-Simpson,,Medium,2025-04-08 02:25:40,18,5,6,Spring,1,3,7
+2025-04-05 17:56:29,Toys,Doll,Room-2,Row-H,8,26746513,Bin,Small,1.24,81,2025-04-10 11:39:05,11,None,Martinez-Mora,,Medium,2025-04-05 17:56:29,27,0,13,Spring,1,0,7
+2025-03-27 18:04:11,Electronics,TV,Room-6,Row-E,8,fe4c2294,Pallet,Medium,5.28,72,2025-04-12 02:30:23,10,None,Anderson-Lopez,,High,2025-03-27 18:04:11,7,11,1,Spring,1,3,14
+2025-03-19 15:14:08,Electronics,Smartphone,Room-10,Row-D,19,7f9fd6e0,Pallet,Medium,5.68,22,2025-04-12 00:16:34,6,None,Cortez LLC,,High,2025-03-19 15:14:08,17,0,6,Spring,1,1,30
+2025-03-15 06:21:15,Food,Bread,Room-10,Row-G,10,0729ed03,Bin,Small,0.18,82,2025-04-09 17:04:26,11,Refrigerated,"Gordon, Mcpherson and Berry",2025-04-10 06:21:15,Low,2025-03-15 06:21:15,43,0,1,Spring,0,2,30
+2025-04-06 05:20:18,Electronics,Tablet,Room-3,Row-H,13,0af586a2,Shelf,Small,0.47,56,2025-04-08 01:25:00,7,None,"Rivera, Mckee and Myers",,Medium,2025-04-06 05:20:18,15,6,6,Spring,0,0,7
+2025-03-26 13:59:10,Toys,Blocks,Room-9,Row-F,19,fccead2d,Pallet,Medium,2.91,41,2025-04-07 21:09:30,10,None,Greene-Ball,,Medium,2025-03-26 13:59:10,49,0,4,Spring,0,2,7
+2025-03-31 10:56:23,Electronics,Laptop,Room-3,Row-H,1,8e13d798,Shelf,Small,1.68,23,2025-04-08 01:19:36,7,None,Johns Inc,,High,2025-03-31 10:56:23,21,0,14,Spring,1,3,7
+2025-03-26 15:05:02,Food,Apple,Room-3,Row-F,16,cef0d4b5,Bin,Small,1.32,7,2025-04-08 13:46:31,6,Refrigerated,Gaines-Cole,2025-04-01 15:05:02,Low,2025-03-26 15:05:02,47,0,12,Spring,1,0,14
+2025-03-20 12:52:32,Clothing,T-Shirt,Room-1,Row-I,8,801409b7,Pallet,Large,17.18,17,2025-04-08 09:17:10,12,None,Newman Group,,Medium,2025-03-20 12:52:32,36,0,14,Spring,0,1,30
+2025-03-21 02:12:37,Clothing,T-Shirt,Room-7,Row-A,14,b1a0907e,Shelf,Large,12.45,24,2025-04-08 07:10:26,14,None,Johnson LLC,,Medium,2025-03-21 02:12:37,9,14,6,Spring,1,4,14
+2025-04-05 22:20:15,Food,Apple,Room-6,Row-B,16,8e246e11,Pallet,Large,24.09,83,2025-04-07 20:04:11,5,Refrigerated,Evans PLC,2025-04-19 22:20:15,Low,2025-04-05 22:20:15,31,0,2,Spring,1,3,14
+2025-03-28 21:41:35,Toys,Car,Room-7,Row-I,12,ce9d84af,Bin,Large,20.28,84,2025-04-09 11:27:54,13,None,"Snow, Frank and Becker",,Medium,2025-03-28 21:41:35,1,6,8,Spring,1,1,14
+2025-04-06 03:37:05,Clothing,Shirt,Room-2,Row-H,18,10a44e0d,Bin,Large,25.3,53,2025-04-12 01:19:49,13,None,"Horton, Spears and Gonzalez",,Medium,2025-04-06 03:37:05,43,0,2,Spring,1,2,30
+2025-04-09 00:40:47,Clothing,Dress,Room-7,Row-H,13,8bd6e343,Pallet,Large,29.31,5,2025-04-11 10:03:51,8,None,"Sosa, Cox and Taylor",,Medium,2025-04-09 00:40:47,0,20,3,Spring,0,0,14
+2025-03-22 09:31:51,Electronics,Laptop,Room-10,Row-C,8,c6ad6f6d,Bin,Large,23.28,91,2025-04-11 21:23:23,8,None,"Thompson, Mcdaniel and King",,Low,2025-03-22 09:31:51,37,0,9,Spring,1,4,14
+2025-03-26 22:40:59,Electronics,Laptop,Room-8,Row-J,11,b199c72c,Cold Storage,Small,0.34,4,2025-04-11 12:33:52,12,None,Shah-Thompson,,Medium,2025-03-26 22:40:59,27,0,7,Spring,1,3,30
+2025-04-09 11:53:15,Clothing,Jacket,Room-10,Row-D,6,67bc4b83,Shelf,Small,0.14,50,2025-04-08 22:30:19,7,None,Prince PLC,,Medium,2025-04-09 11:53:15,17,0,11,Spring,0,2,14
+2025-03-22 16:59:30,Furniture,Bed,Room-10,Row-H,19,a78ce3d0,Pallet,Small,0.97,35,2025-04-08 00:18:09,15,None,Lucas-Henson,,Medium,2025-03-22 16:59:30,46,0,12,Spring,0,3,7
+2025-03-27 11:33:03,Clothing,Shirt,Room-2,Row-C,19,5a6831d0,Pallet,Small,0.16,87,2025-04-12 06:27:37,9,None,Johnson-Long,,Medium,2025-03-27 11:33:03,34,0,3,Spring,1,0,14
+2025-03-31 20:13:25,Electronics,TV,Room-3,Row-B,16,0bf22832,Bin,Small,1.4,17,2025-04-07 15:47:18,11,None,Glass Ltd,,High,2025-03-31 20:13:25,22,0,6,Spring,1,3,14
+2025-04-11 21:24:25,Toys,Blocks,Room-2,Row-I,16,adce0ebc,Cold Storage,Small,0.98,17,2025-04-12 06:22:59,14,None,"Ramirez, Martinez and Black",,Medium,2025-04-11 21:24:25,19,7,12,Spring,1,1,30
+2025-03-17 22:30:03,Clothing,T-Shirt,Room-10,Row-I,14,ccc1bea8,Pallet,Medium,6.56,62,2025-04-10 06:01:38,15,None,Mathews-Anderson,,Medium,2025-03-17 22:30:03,17,0,9,Spring,1,2,7
+2025-03-24 03:17:55,Furniture,Chair,Room-8,Row-F,12,7a8e6189,Pallet,Medium,3.09,56,2025-04-09 02:20:05,11,None,"Miles, Smith and Stewart",,Medium,2025-03-24 03:17:55,16,0,5,Spring,1,0,14
+2025-03-17 22:17:40,Toys,Blocks,Room-6,Row-G,18,46346542,Cold Storage,Large,43.13,12,2025-04-10 22:52:39,11,None,"Harris, Hicks and Coleman",,Medium,2025-03-17 22:17:40,39,0,8,Spring,1,3,30
+2025-03-16 13:01:27,Electronics,Laptop,Room-8,Row-G,20,1abf5733,Cold Storage,Small,0.27,19,2025-04-09 15:22:11,11,None,"Cardenas, Henderson and Allen",,High,2025-03-16 13:01:27,32,0,2,Spring,1,1,14
+2025-03-17 08:28:37,Clothing,T-Shirt,Room-3,Row-G,19,309e21fa,Cold Storage,Large,13.18,91,2025-04-09 01:28:36,9,None,Cox Group,,Medium,2025-03-17 08:28:37,45,0,2,Spring,0,0,30
+2025-03-21 09:16:08,Food,Eggs,Room-7,Row-G,8,2521d9d6,Bin,Medium,3.89,11,2025-04-11 08:59:49,5,Refrigerated,Lindsey-Fisher,2025-04-18 09:16:08,High,2025-03-21 09:16:08,14,1,12,Spring,0,2,30
+2025-03-26 06:20:20,Toys,Doll,Room-2,Row-G,12,90b4b3fc,Shelf,Small,1.9,56,2025-04-09 00:35:43,11,None,"Nunez, Deleon and Allen",,Medium,2025-03-26 06:20:20,8,8,6,Spring,0,3,14
+2025-03-17 04:05:32,Food,Bread,Room-3,Row-H,14,d9e2fb42,Cold Storage,Small,0.52,14,2025-04-09 12:09:03,11,Refrigerated,Wallace-Duffy,2025-04-09 04:05:32,Medium,2025-03-17 04:05:32,41,0,6,Spring,0,2,7
+2025-03-21 19:34:18,Electronics,TV,Room-7,Row-B,8,2685fa43,Pallet,Small,0.52,75,2025-04-08 06:53:08,14,None,Owens LLC,,High,2025-03-21 19:34:18,16,0,8,Spring,0,2,30
+2025-04-09 16:24:48,Food,Milk,Room-6,Row-B,18,915afff9,Bin,Medium,3.17,59,2025-04-10 23:56:45,12,Refrigerated,"Byrd, Randolph and Brown",2025-05-02 16:24:48,High,2025-04-09 16:24:48,41,0,3,Spring,0,0,7
+2025-04-09 22:56:53,Food,Milk,Room-5,Row-B,6,2ec44111,Pallet,Small,1.63,88,2025-04-11 15:38:44,8,Refrigerated,"Hicks, Wilson and Boyd",2025-04-23 22:56:53,Medium,2025-04-09 22:56:53,14,0,1,Spring,1,4,7
+2025-04-02 23:05:48,Food,Bread,Room-9,Row-D,6,73bc447a,Pallet,Small,0.73,42,2025-04-12 11:52:58,6,Refrigerated,"Li, Navarro and Shaffer",2025-04-20 23:05:48,Low,2025-04-02 23:05:48,14,0,8,Spring,1,2,14
+2025-03-26 04:42:51,Food,Apple,Room-4,Row-J,17,9938e384,Pallet,Large,24.2,48,2025-04-11 05:43:24,11,Refrigerated,Mann-Patton,2025-04-19 04:42:51,Low,2025-03-26 04:42:51,43,0,1,Spring,1,4,30
+2025-03-31 19:08:12,Clothing,Shirt,Room-6,Row-I,2,d524495a,Pallet,Medium,6.53,63,2025-04-09 04:04:28,14,None,Jones-Carr,,Medium,2025-03-31 19:08:12,18,0,9,Spring,1,3,14
+2025-04-03 20:36:14,Food,Bread,Room-7,Row-H,4,ab78972d,Pallet,Medium,5.54,33,2025-04-09 18:03:40,9,Refrigerated,Keller LLC,2025-04-17 20:36:14,Low,2025-04-03 20:36:14,1,3,11,Spring,0,3,30
+2025-04-03 04:41:16,Food,Bread,Room-6,Row-D,2,2f62db27,Bin,Large,20.15,18,2025-04-07 20:05:19,9,Refrigerated,"Frazier, Thornton and Jenkins",2025-04-19 04:41:16,Low,2025-04-03 04:41:16,41,0,4,Spring,1,1,14
+2025-03-28 08:30:09,Food,Rice,Room-7,Row-E,12,b846da82,Shelf,Small,0.45,39,2025-04-08 14:51:12,10,Refrigerated,Mccoy and Sons,2025-04-20 08:30:09,Medium,2025-03-28 08:30:09,45,0,12,Spring,0,1,14
+2025-04-05 12:34:11,Toys,Car,Room-7,Row-F,11,6bdc1340,Shelf,Medium,4.38,70,2025-04-11 01:24:10,13,None,Daniels-Hodges,,Medium,2025-04-05 12:34:11,5,7,8,Spring,0,3,14
+2025-03-16 22:22:46,Toys,Puzzle,Room-8,Row-D,8,9aab6264,Pallet,Large,46.2,40,2025-04-12 04:30:51,11,None,"Simmons, Taylor and Grant",,Medium,2025-03-16 22:22:46,28,0,3,Spring,0,1,7
+2025-03-20 18:11:36,Clothing,Shirt,Room-3,Row-B,16,14f810c6,Pallet,Medium,2.98,58,2025-04-08 11:36:39,6,None,Jones-Mcknight,,Medium,2025-03-20 18:11:36,19,5,5,Spring,0,3,7
+2025-03-30 15:22:30,Clothing,Jacket,Room-2,Row-J,8,f80cf450,Pallet,Small,1.89,64,2025-04-12 03:09:59,7,None,Jones LLC,,Medium,2025-03-30 15:22:30,48,0,9,Spring,1,1,7
+2025-03-18 22:13:44,Electronics,Smartphone,Room-2,Row-B,17,675a6ba8,Pallet,Medium,6.03,95,2025-04-11 18:54:55,15,None,Rocha-Collins,,Low,2025-03-18 22:13:44,29,0,13,Spring,0,2,7
+2025-04-07 18:14:48,Toys,Car,Room-2,Row-A,14,5092f75c,Shelf,Small,0.19,4,2025-04-09 11:27:20,11,None,Patton Inc,,Medium,2025-04-07 18:14:48,3,10,3,Spring,1,4,7
+2025-04-05 08:01:56,Clothing,Shirt,Room-5,Row-H,2,5b6d1af9,Bin,Medium,8.75,76,2025-04-08 05:28:13,5,None,"Martinez, Scott and Davis",,Medium,2025-04-05 08:01:56,13,0,14,Spring,0,3,30
+2025-03-28 18:47:00,Clothing,Jacket,Room-8,Row-D,4,17309562,Bin,Medium,5.06,58,2025-04-09 18:10:12,5,None,"Patterson, Andrews and Robinson",,Medium,2025-03-28 18:47:00,10,0,7,Spring,0,0,30
+2025-03-31 08:04:42,Food,Rice,Room-2,Row-D,4,f684b2a8,Pallet,Medium,4.08,99,2025-04-08 10:56:51,11,Refrigerated,Williams PLC,2025-04-22 08:04:42,High,2025-03-31 08:04:42,11,0,14,Spring,1,3,7
+2025-04-08 03:15:19,Food,Rice,Room-10,Row-B,13,b7bb7610,Cold Storage,Medium,8.9,74,2025-04-07 20:42:42,7,Refrigerated,Johnson-Baker,2025-04-15 03:15:19,Medium,2025-04-08 03:15:19,33,0,14,Spring,0,1,30
+2025-03-30 01:33:05,Toys,Lego,Room-8,Row-D,13,f85743c8,Bin,Medium,4.83,5,2025-04-10 04:22:37,11,None,Gordon LLC,,Medium,2025-03-30 01:33:05,9,9,9,Spring,0,3,14
+2025-03-19 10:38:20,Furniture,Bed,Room-9,Row-A,13,a26a67d3,Cold Storage,Medium,6.81,8,2025-04-12 09:20:14,13,None,Cox-Chavez,,Medium,2025-03-19 10:38:20,39,0,13,Spring,0,2,7
+2025-04-05 04:46:16,Toys,Puzzle,Room-7,Row-F,16,ca5efe5e,Cold Storage,Medium,8.37,30,2025-04-09 12:30:32,14,None,Robinson Inc,,Medium,2025-04-05 04:46:16,31,0,9,Spring,0,1,14
+2025-03-31 20:31:53,Food,Milk,Room-3,Row-B,10,7449fe63,Shelf,Large,46.36,6,2025-04-11 21:16:11,13,Refrigerated,Martinez Ltd,2025-04-10 20:31:53,Medium,2025-03-31 20:31:53,37,0,10,Spring,1,0,7
+2025-04-08 03:42:19,Furniture,Table,Room-4,Row-B,15,f85c9b06,Shelf,Large,33.48,40,2025-04-11 16:28:07,11,None,Simon and Sons,,Medium,2025-04-08 03:42:19,12,7,14,Spring,1,0,30
+2025-04-07 22:20:29,Furniture,Cupboard,Room-7,Row-H,4,4d555ef1,Shelf,Large,24.56,32,2025-04-08 09:32:19,10,None,Taylor Group,,Medium,2025-04-07 22:20:29,3,0,2,Spring,1,2,7
+2025-04-10 11:42:49,Clothing,Jeans,Room-9,Row-F,5,542edab3,Pallet,Small,1.34,73,2025-04-10 19:23:06,12,None,Taylor-Lopez,,Medium,2025-04-10 11:42:49,20,0,11,Spring,1,3,7
+2025-03-30 04:20:50,Furniture,Table,Room-9,Row-D,12,2a837fa1,Cold Storage,Medium,4.82,20,2025-04-11 12:41:04,9,None,Thomas-Smith,,Medium,2025-03-30 04:20:50,45,0,11,Spring,0,4,14
+2025-04-08 19:21:38,Food,Rice,Room-8,Row-G,18,9bdccbf4,Cold Storage,Large,47.24,44,2025-04-11 16:35:54,10,Refrigerated,Mcmillan Inc,2025-05-08 19:21:38,Low,2025-04-08 19:21:38,17,0,7,Spring,1,1,7
+2025-03-24 17:08:04,Electronics,Laptop,Room-4,Row-I,12,37a493ba,Shelf,Small,0.38,64,2025-04-11 17:46:08,13,None,George-Thompson,,Medium,2025-03-24 17:08:04,4,18,8,Spring,0,4,30
+2025-03-27 07:00:15,Clothing,Jacket,Room-1,Row-G,3,59da867f,Pallet,Small,0.38,40,2025-04-10 14:05:56,10,None,Johnson-Davis,,Medium,2025-03-27 07:00:15,1,12,9,Spring,0,2,14
+2025-04-04 04:30:28,Electronics,Smartphone,Room-6,Row-E,6,d27020bc,Cold Storage,Small,0.72,3,2025-04-10 19:41:12,5,None,Clark-Long,,Medium,2025-04-04 04:30:28,25,0,3,Spring,0,4,7
+2025-03-25 09:11:54,Food,Apple,Room-5,Row-F,10,44044b18,Cold Storage,Large,34.19,18,2025-04-09 10:26:57,12,Refrigerated,Hughes-Taylor,2025-04-02 09:11:54,Low,2025-03-25 09:11:54,25,0,14,Spring,0,2,7
+2025-03-29 22:48:19,Furniture,Sofa,Room-6,Row-C,3,8d88ae87,Shelf,Medium,5.7,66,2025-04-10 18:39:27,8,None,"Bass, Reid and Romero",,Medium,2025-03-29 22:48:19,10,0,7,Spring,1,2,30
+2025-03-27 06:26:57,Clothing,Dress,Room-3,Row-J,7,3ccf9bd7,Pallet,Large,12.56,93,2025-04-10 11:08:50,13,None,Thomas-Roberts,,Medium,2025-03-27 06:26:57,38,0,2,Spring,0,2,7
+2025-03-23 18:11:57,Toys,Lego,Room-10,Row-F,10,2c233b4a,Cold Storage,Medium,5.67,63,2025-04-11 11:37:35,13,None,Arnold Inc,,Medium,2025-03-23 18:11:57,41,0,12,Spring,0,2,7
+2025-03-26 21:02:20,Furniture,Chair,Room-7,Row-I,10,98ee5009,Shelf,Medium,2.13,81,2025-04-10 05:24:24,5,None,Johnson-Kirk,,Medium,2025-03-26 21:02:20,31,0,14,Spring,1,3,14
+2025-03-29 16:55:17,Food,Eggs,Room-5,Row-H,4,b771aa6f,Bin,Large,45.18,96,2025-04-09 16:31:43,15,Refrigerated,Burton-Fitzgerald,2025-04-14 16:55:17,High,2025-03-29 16:55:17,22,0,3,Spring,0,4,14
+2025-03-14 05:52:33,Toys,Lego,Room-8,Row-A,19,c3aa050b,Bin,Medium,4.23,19,2025-04-09 02:43:45,10,None,Rocha-Reed,,Medium,2025-03-14 05:52:33,39,0,12,Spring,1,2,30
+2025-03-17 12:32:22,Furniture,Sofa,Room-1,Row-D,12,5a1c13be,Pallet,Medium,8.8,89,2025-04-10 09:49:08,13,None,Mclean Group,,Medium,2025-03-17 12:32:22,28,0,12,Spring,1,3,14
+2025-03-27 20:44:33,Toys,Lego,Room-4,Row-C,6,4506f574,Bin,Large,45.54,1,2025-04-07 17:14:35,14,None,"Conner, Hubbard and Lewis",,Medium,2025-03-27 20:44:33,40,0,8,Spring,1,4,7
+2025-03-17 13:24:33,Clothing,Jacket,Room-5,Row-B,10,b3b8374a,Pallet,Large,36.59,38,2025-04-11 10:22:25,14,None,Jordan-Rivera,,Medium,2025-03-17 13:24:33,40,0,14,Spring,0,2,14
+2025-04-10 02:05:00,Food,Apple,Room-10,Row-E,11,1c90bee9,Bin,Small,1.98,48,2025-04-10 13:26:02,10,Refrigerated,Stewart PLC,2025-05-05 02:05:00,Medium,2025-04-10 02:05:00,13,2,6,Spring,0,0,7
+2025-04-09 00:28:15,Electronics,Tablet,Room-4,Row-E,4,d03a2fda,Shelf,Small,0.56,27,2025-04-08 01:55:00,6,None,Stevens-Turner,,Low,2025-04-09 00:28:15,6,3,2,Spring,1,0,7
+2025-04-10 11:03:53,Electronics,TV,Room-6,Row-D,5,0fb6bc90,Pallet,Large,47.54,45,2025-04-08 12:54:33,6,None,"Hall, Mata and Cameron",,High,2025-04-10 11:03:53,36,0,10,Spring,0,3,30
+2025-03-14 14:58:20,Food,Rice,Room-4,Row-F,9,22632b44,Pallet,Large,46.73,9,2025-04-11 00:14:42,15,Refrigerated,Jones Inc,2025-03-27 14:58:20,High,2025-03-14 14:58:20,23,0,5,Spring,0,3,7
+2025-03-28 14:37:01,Toys,Doll,Room-7,Row-B,1,8be2d919,Shelf,Large,15.53,23,2025-04-11 02:18:07,14,None,"Fisher, Henderson and Garrison",,Medium,2025-03-28 14:37:01,6,5,13,Spring,1,4,14
+2025-03-16 23:01:07,Furniture,Cupboard,Room-4,Row-B,5,aa6d5ede,Bin,Small,0.26,74,2025-04-09 12:08:23,9,None,Smith and Sons,,Medium,2025-03-16 23:01:07,5,2,6,Spring,1,0,7
+2025-03-18 18:52:20,Toys,Puzzle,Room-2,Row-E,1,54bd0be6,Shelf,Medium,3.6,40,2025-04-09 13:04:54,6,None,Kirby-Stewart,,Medium,2025-03-18 18:52:20,33,0,10,Spring,0,2,30
+2025-03-19 19:57:58,Furniture,Table,Room-1,Row-C,1,05962920,Pallet,Medium,6.85,10,2025-04-09 08:24:09,10,None,Morris LLC,,Medium,2025-03-19 19:57:58,8,0,2,Spring,1,4,14
+2025-04-03 07:00:47,Furniture,Bed,Room-4,Row-F,17,fecdcc83,Pallet,Small,0.86,76,2025-04-09 04:03:12,12,None,Adams LLC,,Medium,2025-04-03 07:00:47,31,0,11,Spring,1,3,14
+2025-04-06 18:56:07,Clothing,Shirt,Room-6,Row-H,8,48854e85,Pallet,Small,1.1,25,2025-04-10 15:51:59,11,None,Duncan and Sons,,Medium,2025-04-06 18:56:07,8,8,5,Spring,1,4,30
+2025-04-06 16:40:14,Clothing,Dress,Room-3,Row-D,13,9745b924,Pallet,Small,0.45,18,2025-04-10 16:04:31,14,None,"Warren, Ingram and Rocha",,Medium,2025-04-06 16:40:14,9,13,13,Spring,0,1,30
+2025-04-07 03:48:10,Food,Milk,Room-1,Row-G,2,42de9318,Shelf,Large,21.57,61,2025-04-09 01:04:31,14,Refrigerated,"Walker, Bryant and Marks",2025-04-18 03:48:10,High,2025-04-07 03:48:10,41,0,7,Spring,0,3,14
+2025-04-05 14:55:19,Furniture,Bed,Room-8,Row-I,8,d46a5c07,Shelf,Large,13.35,66,2025-04-10 10:52:15,8,None,"Carlson, Gomez and Contreras",,Medium,2025-04-05 14:55:19,16,0,9,Spring,0,0,14
+2025-04-07 09:36:23,Clothing,T-Shirt,Room-6,Row-J,6,7cff2e51,Shelf,Medium,2.44,15,2025-04-08 23:01:23,11,None,Vasquez and Sons,,Medium,2025-04-07 09:36:23,6,0,3,Spring,0,3,30
+2025-04-12 09:24:28,Food,Bread,Room-5,Row-B,17,dd1c30be,Bin,Medium,7.54,43,2025-04-11 14:23:25,7,Refrigerated,"Johnson, Hoover and Stevens",2025-04-23 09:24:28,Low,2025-04-12 09:24:28,29,0,12,Spring,0,4,7
+2025-03-21 15:04:04,Clothing,Jacket,Room-7,Row-F,13,abf82f4a,Shelf,Large,47.75,77,2025-04-10 06:21:07,10,None,White-Woods,,Medium,2025-03-21 15:04:04,7,7,5,Spring,0,0,30
+2025-04-01 07:46:02,Electronics,Tablet,Room-7,Row-I,16,5fb45e64,Shelf,Large,18.9,6,2025-04-10 00:46:05,13,None,Moore LLC,,High,2025-04-01 07:46:02,10,11,13,Spring,0,1,7
+2025-03-28 17:34:21,Clothing,Dress,Room-7,Row-F,9,8e524612,Cold Storage,Large,28.56,6,2025-04-10 22:46:43,8,None,"Edwards, Russell and Conway",,Medium,2025-03-28 17:34:21,41,0,2,Spring,1,2,7
+2025-03-28 08:59:15,Clothing,Dress,Room-2,Row-J,7,e3cb9a1a,Bin,Medium,6.27,47,2025-04-11 00:12:27,12,None,Atkinson-Smith,,Medium,2025-03-28 08:59:15,28,0,10,Spring,1,2,30
+2025-04-07 16:50:13,Toys,Lego,Room-1,Row-B,9,b6cda870,Pallet,Small,1.41,86,2025-04-11 04:15:55,15,None,Scott Group,,Medium,2025-04-07 16:50:13,41,0,5,Spring,0,4,30
+2025-03-16 19:44:14,Furniture,Cupboard,Room-1,Row-D,16,8cfac5a3,Shelf,Medium,5.41,5,2025-04-11 22:37:04,12,None,"Weaver, Bush and Jimenez",,Medium,2025-03-16 19:44:14,43,0,12,Spring,0,2,7
+2025-03-13 15:09:18,Electronics,Speaker,Room-10,Row-D,15,20c6eaf3,Cold Storage,Small,1.81,52,2025-04-09 17:48:57,9,None,Martinez-Morgan,,High,2025-03-13 15:09:18,22,0,6,Spring,0,1,14
+2025-04-08 05:17:23,Clothing,Jeans,Room-3,Row-F,5,f37c3ebc,Pallet,Large,25.04,84,2025-04-08 13:47:06,10,None,"Spencer, Paul and Rush",,Medium,2025-04-08 05:17:23,33,0,12,Spring,0,3,14
+2025-03-23 00:45:02,Food,Milk,Room-10,Row-F,12,6468efdb,Bin,Large,27.3,56,2025-04-08 22:47:41,5,Refrigerated,Russell Group,2025-04-11 00:45:02,High,2025-03-23 00:45:02,37,0,13,Spring,1,1,7
+2025-04-03 10:47:09,Food,Rice,Room-10,Row-A,19,17a0637b,Shelf,Medium,2.14,43,2025-04-07 18:42:16,9,Refrigerated,Edwards and Sons,2025-04-13 10:47:09,High,2025-04-03 10:47:09,3,18,3,Spring,0,3,7
+2025-04-04 15:07:06,Food,Rice,Room-3,Row-J,13,eaf89df2,Bin,Small,1.75,11,2025-04-09 09:05:16,10,Refrigerated,"Rodriguez, Martin and Mason",2025-05-01 15:07:06,High,2025-04-04 15:07:06,29,0,4,Spring,0,0,7
+2025-03-14 11:26:40,Electronics,TV,Room-3,Row-A,18,5cd41cb3,Pallet,Large,33.31,25,2025-04-12 06:43:29,7,None,"Jimenez, Shaffer and Mata",,Medium,2025-03-14 11:26:40,15,10,7,Spring,0,3,30
+2025-04-10 21:11:06,Furniture,Cupboard,Room-10,Row-A,8,1b81ae46,Pallet,Medium,2.06,36,2025-04-08 12:54:30,13,None,Hunter-Fields,,Medium,2025-04-10 21:11:06,50,0,14,Spring,0,0,14
+2025-03-27 18:53:31,Furniture,Sofa,Room-4,Row-B,3,4f3005fb,Pallet,Large,13.36,72,2025-04-11 18:41:03,5,None,Martin LLC,,Medium,2025-03-27 18:53:31,13,0,11,Spring,1,4,7
+2025-03-30 20:21:55,Electronics,Speaker,Room-5,Row-A,18,7fdc4e32,Cold Storage,Small,1.43,66,2025-04-10 04:36:20,12,None,Meyer-Lee,,Low,2025-03-30 20:21:55,29,0,14,Spring,1,3,7
+2025-03-18 13:11:34,Clothing,T-Shirt,Room-2,Row-E,13,4d39efb1,Shelf,Medium,3.11,41,2025-04-12 12:06:18,6,None,Davis and Sons,,Medium,2025-03-18 13:11:34,12,0,9,Spring,1,2,7
+2025-03-19 09:41:47,Clothing,Jacket,Room-1,Row-E,10,6b8f5794,Pallet,Large,44.2,85,2025-04-08 02:57:29,5,None,Hernandez Group,,Medium,2025-03-19 09:41:47,26,0,3,Spring,1,3,14
+2025-03-14 09:18:21,Electronics,TV,Room-10,Row-J,13,0c803935,Bin,Small,1.77,55,2025-04-07 19:02:16,10,None,Bishop Group,,Low,2025-03-14 09:18:21,14,3,7,Spring,0,1,14
+2025-03-22 13:03:57,Furniture,Sofa,Room-7,Row-B,16,88adf592,Pallet,Large,12.29,15,2025-04-11 03:52:34,11,None,Perry-Turner,,Medium,2025-03-22 13:03:57,2,24,5,Spring,0,1,7
+2025-04-03 03:26:25,Toys,Lego,Room-5,Row-E,9,2fc0e92b,Pallet,Medium,4.76,6,2025-04-12 09:31:00,11,None,"Allen, Campbell and Hodges",,Medium,2025-04-03 03:26:25,30,0,10,Spring,1,3,7
+2025-03-29 05:05:11,Food,Milk,Room-4,Row-C,9,4257f75f,Shelf,Small,0.15,18,2025-04-10 07:02:56,5,Refrigerated,Buchanan Inc,2025-04-22 05:05:11,High,2025-03-29 05:05:11,6,0,2,Spring,0,2,30
+2025-03-30 14:04:50,Toys,Blocks,Room-7,Row-F,16,13143065,Bin,Large,35.39,20,2025-04-11 15:17:49,13,None,Tran-Nelson,,Medium,2025-03-30 14:04:50,24,0,1,Spring,1,4,30
+2025-03-24 10:23:47,Food,Apple,Room-7,Row-B,14,bda0fb61,Pallet,Small,0.98,63,2025-04-08 06:39:56,11,Refrigerated,"Deleon, Johnson and Russell",2025-04-08 10:23:47,High,2025-03-24 10:23:47,17,0,12,Spring,0,0,14
+2025-04-12 00:31:25,Clothing,Shirt,Room-4,Row-E,2,b217c4dc,Bin,Small,0.9,23,2025-04-09 03:05:31,13,None,Peterson-Hurst,,Medium,2025-04-12 00:31:25,23,0,7,Spring,1,3,30
+2025-04-08 05:14:13,Clothing,Dress,Room-6,Row-D,14,50a3c8a3,Bin,Medium,3.23,95,2025-04-10 14:23:13,8,None,"Howe, Peters and Johnson",,Medium,2025-04-08 05:14:13,8,4,2,Spring,0,0,30
+2025-04-06 18:53:48,Clothing,Shirt,Room-3,Row-G,2,77bea32b,Shelf,Large,19.32,5,2025-04-11 08:17:14,15,None,Chavez Group,,Medium,2025-04-06 18:53:48,30,0,10,Spring,0,4,14
+2025-03-17 08:08:17,Furniture,Bed,Room-7,Row-A,14,77ff5afe,Cold Storage,Medium,6.38,56,2025-04-12 08:11:47,12,None,Salinas and Sons,,Medium,2025-03-17 08:08:17,33,0,11,Spring,0,3,7
+2025-03-20 20:15:35,Toys,Lego,Room-5,Row-J,20,25e88742,Cold Storage,Medium,5.26,72,2025-04-09 21:58:37,8,None,Richardson LLC,,Medium,2025-03-20 20:15:35,24,0,14,Spring,1,1,14
+2025-03-29 13:56:11,Food,Bread,Room-2,Row-G,7,97db3728,Shelf,Medium,2.81,58,2025-04-10 15:23:48,14,Refrigerated,Davis PLC,2025-04-26 13:56:11,Medium,2025-03-29 13:56:11,9,4,8,Spring,0,3,14
+2025-04-01 04:43:03,Food,Milk,Room-5,Row-A,6,6d96cab2,Pallet,Medium,2.56,77,2025-04-09 08:33:53,8,Refrigerated,"Andrews, Greer and Craig",2025-04-14 04:43:03,High,2025-04-01 04:43:03,14,0,1,Spring,1,3,30
+2025-04-05 08:44:22,Toys,Blocks,Room-10,Row-H,11,cbf24737,Cold Storage,Large,13.5,60,2025-04-10 02:35:48,10,None,"Lewis, Perkins and Singleton",,Medium,2025-04-05 08:44:22,42,0,10,Spring,0,4,30
+2025-03-28 00:41:07,Electronics,Speaker,Room-3,Row-C,10,d80b6bcf,Cold Storage,Small,0.48,59,2025-04-11 08:10:53,6,None,"Thornton, Mcfarland and Stone",,Low,2025-03-28 00:41:07,34,0,5,Spring,1,0,14
+2025-04-06 18:55:41,Food,Bread,Room-3,Row-J,1,7015286a,Shelf,Small,1.27,73,2025-04-10 02:50:51,11,Refrigerated,"Singh, Thomas and Cooper",2025-04-12 18:55:41,Low,2025-04-06 18:55:41,24,0,4,Spring,0,2,7
+2025-04-02 02:23:01,Electronics,Speaker,Room-9,Row-F,17,8ae91c21,Bin,Large,45.38,55,2025-04-09 04:39:26,11,None,Owens PLC,,High,2025-04-02 02:23:01,42,0,13,Spring,1,3,7
+2025-03-22 20:36:59,Toys,Lego,Room-7,Row-D,11,767098da,Pallet,Small,1.45,62,2025-04-10 15:21:24,15,None,"Allen, Sanchez and Johnson",,Medium,2025-03-22 20:36:59,21,0,10,Spring,0,2,14
+2025-03-13 16:05:46,Electronics,Speaker,Room-10,Row-J,12,2b8b7670,Bin,Large,28.43,68,2025-04-11 23:19:50,9,None,Guzman-Vasquez,,Medium,2025-03-13 16:05:46,0,19,11,Spring,1,3,7
+2025-04-10 12:36:35,Furniture,Cupboard,Room-5,Row-H,1,ca7ddf04,Cold Storage,Medium,5.6,26,2025-04-08 18:57:10,14,None,Becker-Ball,,Medium,2025-04-10 12:36:35,16,0,1,Spring,0,3,30
+2025-04-01 11:27:44,Toys,Doll,Room-3,Row-G,2,e0dbadb5,Bin,Small,0.65,20,2025-04-08 17:50:18,10,None,Patton Ltd,,Medium,2025-04-01 11:27:44,12,0,1,Spring,1,3,30
+2025-03-15 04:19:23,Furniture,Bed,Room-10,Row-G,5,abd56d46,Pallet,Medium,7.77,65,2025-04-08 22:46:14,12,None,Tucker Group,,Medium,2025-03-15 04:19:23,27,0,9,Spring,1,4,30
+2025-03-21 01:12:48,Electronics,Tablet,Room-4,Row-G,8,b0d1849e,Cold Storage,Large,23.29,16,2025-04-11 02:08:04,12,None,"Castillo, Maldonado and George",,High,2025-03-21 01:12:48,0,4,8,Spring,0,0,30
+2025-04-01 12:33:22,Electronics,Smartphone,Room-10,Row-H,3,73ce663c,Shelf,Large,43.71,4,2025-04-11 23:11:14,15,None,"Castillo, Powell and Wright",,Medium,2025-04-01 12:33:22,14,0,5,Spring,1,3,7
+2025-04-03 03:21:26,Furniture,Cupboard,Room-2,Row-C,9,34909041,Cold Storage,Small,0.71,82,2025-04-10 02:54:25,6,None,Morris Group,,Medium,2025-04-03 03:21:26,8,9,10,Spring,0,3,14
+2025-03-16 14:37:39,Furniture,Sofa,Room-5,Row-C,7,5c2fa3b6,Pallet,Small,1.01,51,2025-04-10 17:49:06,8,None,Miller Inc,,Medium,2025-03-16 14:37:39,13,0,7,Spring,0,4,7
+2025-03-20 10:30:47,Toys,Car,Room-6,Row-H,16,9ee1b31c,Pallet,Small,0.85,34,2025-04-09 20:22:07,8,None,"Myers, Farrell and Smith",,Medium,2025-03-20 10:30:47,35,0,9,Spring,0,0,7
+2025-03-15 08:49:29,Toys,Puzzle,Room-4,Row-D,13,7b3dc8a0,Shelf,Small,0.59,86,2025-04-12 06:05:20,5,None,Carlson Inc,,Medium,2025-03-15 08:49:29,35,0,4,Spring,1,4,30
+2025-04-04 09:42:20,Furniture,Cupboard,Room-5,Row-F,3,c8d5f9a0,Pallet,Large,48.35,84,2025-04-09 14:08:59,14,None,Bentley-Perez,,Medium,2025-04-04 09:42:20,13,0,13,Spring,1,2,7
+2025-03-27 09:16:01,Food,Rice,Room-6,Row-I,12,1ecc8e58,Cold Storage,Small,1.05,76,2025-04-10 14:42:41,9,Refrigerated,Anderson-Watson,2025-04-16 09:16:01,Low,2025-03-27 09:16:01,50,0,14,Spring,0,1,14
