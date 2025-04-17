@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warehouse Inventory System</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: lightslategray;
+            background: url('https://tse3.mm.bing.net/th?id=OIP.BSUYLvGFddGpI_vJ8ASRVwHaE8&pid=Api&P=0&h=180');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            background-blend-mode: soft-light;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        h1 {
+            color: #fff;
+            font-size: 36px;
+            animation: fadeInText 2s ease-in-out;
+        }
+
+        button {
+            padding: 15px 30px;
+            margin: 10px;
+            background-color: #b17ff3;
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #9a66d7;
+            transform: scale(1.05);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+        }
+
+        button:active {
+            transform: scale(1);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        @keyframes fadeInText {
+            0% { opacity: 0; transform: translateY(-20px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Warehouse Inventory System</h1>
+    <a href="/predict"><button>Stock Prediction</button></a>
+    <a href="/analysis"><button>Stock Analysis</button></a>
+</body>
+</html>

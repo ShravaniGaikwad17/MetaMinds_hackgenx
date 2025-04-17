@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shelf Space Analyzer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+</head>
+<body>
+<div class="container mt-5">
+    <h1 class="mb-4 text-center">Shelf Space Analyzer</h1>
+
+    <div class="card mx-auto" style="max-width: 600px;">
+        <div class="card-body">
+            <h5 class="card-title">Upload Shelf Image</h5>
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <input type="file" name="file" class="form-control" accept="image/*" required>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Analyze Shelf</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-4 mx-auto" style="max-width: 600px;">
+        <h4>Instructions:</h4>
+        <ul>
+            <li>Upload a clear image of the shelf</li>
+            <li>Image must contain at least one reference object labeled as <code>object</code></li>
+            <li>Empty spaces should be labeled as <code>empty</code> in your YOLO model</li>
+            <li>Supported formats: JPG, PNG, JPEG</li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>

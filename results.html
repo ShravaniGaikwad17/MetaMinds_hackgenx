@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightslategray;
+            margin: 0;
+            padding: 0;
+
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .card-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+            justify-content: center;
+        }
+
+        .result-card {
+            position: relative;
+            background-color: #7ea7ee;
+            color: #150b3f;
+            border-radius: 20px;
+            width: 280px;
+            padding: 25px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+         }
+
+        .result-card::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: -10px;
+            right: -10px;
+            bottom: -10px;
+            background-color: #adc7ea;
+            z-index: -1;
+            border-radius: 20px;
+            transform: rotate(-2deg);
+        }
+
+        .result-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .result-card a {
+            color: #150b3f;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .result-card a:hover {
+            text-decoration: underline;
+        }
+
+
+        .error {
+            text-align: center;
+            color: red;
+        }
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #007bff;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Search Results</h1>
+
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        
+        {% elif products %}
+        <div class="card-grid">
+            {% for product in products %}
+                <div class="result-card">
+                    <a href="#">
+                        {{ product["Product_Name"] }}
+                    </a>
+                    <p><strong>Room:</strong> {{ product["Room_No"] }}</p>
+                    <p><strong>Row:</strong> {{ product["Row_No"] }}</p>
+                    <p><strong>Stock Available:</strong> {{ product["Product_Count"] }}</p>
+                </div>
+            {% endfor %}
+        </div>
+        
+        
+        {% else %}
+            <p class="error">No matching products found.</p>
+        {% endif %}
+
+        <a class="back-link" href="/">Back Home</a>
+    </div>
+</body>
+</html>

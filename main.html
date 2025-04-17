@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Smart Warehouse Optimization</title>
+    <meta property="og:title" content="Smart Warehouse Optimization" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      .home-container {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7f7f7;
+    overflow: hidden;
+  }
+  
+  .background-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Ensures it's behind all content */
+    width: 100%;
+    height: 100%;
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.IS58uoSkh4SNayG8Bi8sUQHaE7&pid=Api&P=0&h=180');
+
+    background-size: cover;
+    background-position: center;
+    opacity: 0.07; /* Light transparent effect */
+    pointer-events: none; /* Prevents interference with clicks */
+  }
+  
+  .home-navbar {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1a202c;
+    border-radius: 12px;
+    color: #fff;
+    margin-bottom: 40px;
+  }
+  
+  .home-text {
+    font-size: 34px;
+    font-weight: 700;
+  }
+  
+  .home-chatbot-icon {
+    display: flex;
+    align-items: center;
+  }
+  
+  .chatbot-icon {
+    width: 60px;
+    height: 60px;
+    animation: float 2s infinite ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .chatbot-icon:hover {
+    animation-play-state: paused;
+    transform: scale(1.1);
+  }
+  
+  /* Floating Motion Animation */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-8px);
+    }
+  }
+  
+  .home-hero {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 1000px;
+  }
+  
+  .home-heading {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .home-description {
+    font-size: 18px;
+    margin-bottom: 30px;
+    display: block;
+  }
+  
+  .home-container1 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .home-button2 {
+    padding: 12px 32px;
+    font-size: 16px;
+    background-color: white;
+    color: #3b82f6;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .home-button2:hover {
+    background-color: #e0e7ff;
+  }
+  
+  .home-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 60px 0;
+  }
+  
+  .home-card,
+  .home-card1,
+  .home-card2 {
+    background-color: white;
+    width: 280px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.3s, background-color 0.3s;
+  }
+  
+  .home-card:hover,
+  .home-card1:hover,
+  .home-card2:hover {
+    transform: translateY(-12px);
+    background-color:#7babf9;
+  }
+  
+  .home-text01,
+  .home-text03,
+  .home-text05 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .home-text02,
+  .home-text04,
+  .home-text06 {
+    font-size: 16px;
+    color: #4a5568;
+  }
+  
+  .home-footer {
+    padding: 20px;
+    text-align: center;
+    color: #718096;
+    font-size: 14px;
+  }
+  
+  /* 🚀 Scrolling Warehouse Carousel */
+  .home-carousel {
+    overflow: hidden;
+    width: 100%;
+    max-width: 1000px;
+    margin: 40px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .carousel-track {
+    display: flex;
+    animation: scroll 25s linear infinite;
+    gap: 20px;
+  }
+  
+  .carousel-track img {
+    height: 200px;
+    border-radius: 10px;
+    flex-shrink: 0;
+  }
+  
+  /* Animation */
+  @keyframes scroll {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+    </style>
+  </head>
+  <body>
+    <div>
+      <link href="home.css" rel="stylesheet" />
+
+      <div class="home-container">
+        <div class="background-overlay"></div>
+        <!-- Navbar -->
+        <div class="home-navbar">
+          <span class="home-text">MetaMinds</span>
+          <div class="chatbot-icon-container">
+            <a href="\main">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png"
+              alt="Chatbot"
+              class="chatbot-icon"
+            />
+            </a>
+          </div>
+        </div>
+
+        <!-- Hero Section -->
+        <div class="home-hero">
+          <h1 class="home-heading">Welcome to "Smart Warehouse Optimization"</h1>
+          <span class="home-description">
+            Experience the ultimate solution to the hectic warehouse optimization.
+          </span>
+          <div class="home-container1">
+            <button class="home-button2">About Us</button>
+          </div>
+        </div>
+
+        <!-- 📦 Warehouse Carousel Section -->
+        <div class="home-carousel">
+          <div class="carousel-track">
+            <img src="https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=600&q=80" alt="Warehouse 1" />
+            <img src="https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a?auto=format&fit=crop&w=600&q=80" alt="Warehouse 2" />
+            <img src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=600&q=80" alt="Warehouse 3" />
+            <img src="https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=600&q=80" alt="Warehouse 1" />
+            <img src="https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a?auto=format&fit=crop&w=600&q=80" alt="Warehouse 2" />
+            <img src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=600&q=80" alt="Warehouse 3" />
+          </div>
+        </div>
+
+        <div class="home-cards">
+          <a href="\index1" class="home-card-link">
+            <div class="home-card">
+              <h2 class="home-text01">Space & Object Detection</h2>
+              <span class="home-text02">Check the available space and objects present in a particular room of your warehouse.</span>
+            </div>
+          </a>
+        
+          <a href="\home" class="home-card-link">
+            <div class="home-card1">
+              <h2 class="home-text03">Stock Prediction</h2>
+              <span class="home-text04">Predict the future stock requirements</span>
+            </div>
+          </a>
+        
+          <a href="https://yourdomain.com/worker-records" class="home-card-link">
+            <div class="home-card2">
+              <h2 class="home-text05">Worker's record</h2>
+              <span class="home-text06">In/out timings of workers</span>
+            </div>
+          </a>
+        </div>
+        
+
+        <!-- Footer -->
+        <div class="home-footer">
+          <span class="home-text07">© 2025 MetaMinds. All rights reserved.</span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

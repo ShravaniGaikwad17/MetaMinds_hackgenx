@@ -1,0 +1,93 @@
+<!-- templates/category_products.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Products in {{ category_name }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(125, 142, 195);
+            margin: 0;
+            padding: 30px;
+        }
+    
+        h1 {
+            text-align: center;
+            color: #f5f6f7;
+        }
+    
+        table {
+            width: 80%;
+            margin: 30px auto;
+            border-collapse: collapse;
+            background-color: #f7f5ff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+    
+        thead {
+            background-color: lightslategray;
+            color: white;
+        }
+    
+        th, td {
+            padding: 15px;
+            text-align: center;
+        }
+    
+        tbody tr:nth-child(odd) {
+            background-color: #ebe4fa;
+        }
+    
+        tbody tr:hover {
+            background-color: #dcd2ff;
+            cursor: pointer;
+        }
+    
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #7091c9;
+            font-weight: bold;
+            text-decoration: none;
+        }
+    
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    
+</head>
+<body>
+    <h1>Products in Category: "{{ category_name }}"</h1>
+
+    {% if products %}
+        <table border="1" cellpadding="8" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Product Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for product, count in products %}
+                    <tr>
+                        <td>{{ product }}</td>
+                        <td>{{ count }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>No products found in this category.</p>
+    {% endif %}
+
+    <br>
+    <a href="{{ url_for('list_categories') }}">← Back to Categories</a> |
+    <a href="{{ url_for('home') }}">Home</a>
+</body>
+</html>

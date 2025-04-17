@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All Categories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(196, 206, 217);
+            margin: 0;
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1736cd;
+        }
+
+        .card-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+            margin-top: 40px;
+        }
+
+        .category-card {
+            position: relative;
+            background-color: #c5b4df;
+            color: #150b3f;
+            border-radius: 20px;
+            width: 240px;
+            padding: 25px;
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .category-card::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: -10px;
+            right: -10px;
+            bottom: -10px;
+            background-color: #285487;
+            z-index: -1;
+            border-radius: 20px;
+            transform: rotate(-2deg);
+        }
+
+        .category-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .category-card a {
+            color: #150b3f;
+            text-decoration: none;
+        }
+
+        .category-card a:hover {
+            text-decoration: underline;
+        }
+
+        a.back-link {
+            display: block;
+            text-align: center;
+            margin-top: 40px;
+            color: #7497d3;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        a.back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Product Categories</h1>
+
+    {% if categories %}
+        <div class="card-grid">
+            {% for category in categories %}
+                <div class="category-card">
+                    <a href="{{ url_for('products_by_category', category_name=category) }}">
+                        {{ category }}
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <p style="text-align:center; color:red;">No categories found.</p>
+    {% endif %}
+
+    <a class="back-link" href="{{ url_for('home') }}">← Back to Home</a>
+</body>
+</html>
