@@ -12,7 +12,10 @@ from matplotlib.patches import Rectangle
 from datetime import datetime
 import pandas as pd
 import re
+import random
+import traceback
 
+# Initialize Flask app with explicit static folder
 app = Flask(__name__)
 
 # Configurations for file uploads and folders
@@ -29,12 +32,16 @@ os.makedirs(app.config['PLOTS_FOLDER'], exist_ok=True)
 # Load YOLO model once
 model = YOLO("best.pt")  # Ensure best.pt is in your project root
 
-# Load and preprocess dataset
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "smart_warehouse_dataset.csv")
+
+# Load dataset
 df = pd.read_csv(CSV_PATH)
-df["Timestamp"] = pd.to_datetime(df["Timestamp"])
-df = df.sort_values("Timestamp", ascending=False)
+
+# Preprocess dataset
+df["Timestamp"] = pd.to_datetime(df["Timestamp"])  # Convert timestamp to datetime
+df = df.sort_values("Timestamp", ascending=False)  # Sort by latest timestamp
+
 
 # Constants
 FREE_CLASS_NAME = "empty"
@@ -181,6 +188,92 @@ def generate_plots(img_rgb, free_boxes_px, free_boxes_cm, used_area_cm2, remaini
     return (plot_2d_path.replace('static/', ''),
             plot_pie_path.replace('static/', ''),
             plot_3d_path.replace('static/', ''))
+    
+# Create static folder in the Flask app directory
+static_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static')
+os.makedirs(static_folder, exist_ok=True)
+
+
+# Load and preprocess data
+df = pd.read_csv("/Users/omtarwade/wearhpuse shravani/warehouse_stock_forecast_with_filled_months.csv")
+
+# Preprocess and normalize
+df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
+df["Month"] = df["Date"].dt.month_name()
+df["Month_Num"] = df["Date"].dt.month
+df["Units_Sold"] = pd.to_numeric(df["Units_Sold"], errors='coerce')
+df["Stock_On_Hand"] = pd.to_numeric(df["Stock_On_Hand"], errors='coerce')
+df["Product_Name_normalized"] = df["Product_Name"].str.strip().str.lower()
+
+# Prediction logic
+def predict_units_to_order(product_name, month_name):
+    product_name_clean = product_name.strip().lower()
+    month_name = month_name.strip().capitalize()
+
+    filtered = df[
+        (df["Product_Name_normalized"] == product_name_clean) &
+        (df["Month"] == month_name)
+    ]
+
+    if filtered.empty:
+        return {
+            "product": product_name,
+            "month": month_name,
+            "average_demand": "No data",
+            "current_stock": "No data",
+            "units_to_order": "No prediction"
+        }
+
+    avg_demand = filtered["Units_Sold"].mean()
+    current_stock = df[df["Product_Name_normalized"] == product_name_clean]["Stock_On_Hand"].max()
+    units_to_order = max(avg_demand - current_stock, 0)
+
+    return {
+        "product": product_name,
+        "month": month_name,
+        "average_demand": round(avg_demand, 2),
+        "current_stock": int(current_stock),
+        "units_to_order": int(units_to_order)
+    }
+
+# Demand variation plot
+def generate_demand_graph(product_name):
+    try:
+        product_name_clean = product_name.strip().lower()
+        filtered = df[df["Product_Name_normalized"] == product_name_clean]
+
+        if filtered.empty:
+            print(f"No data found for product: {product_name}")
+            return None
+
+        monthly_demand = (
+            filtered.groupby("Month")["Units_Sold"]
+            .mean()
+            .reindex([
+                'January', 'February', 'March', 'April', 'May', 'June',
+                'July', 'August', 'September', 'October', 'November', 'December'
+            ])
+        )
+
+        plt.figure(figsize=(10, 6))
+        plt.plot(monthly_demand.index, monthly_demand.values, marker='o', linestyle='-', color='blue')
+        plt.title(f"Monthly Demand Trend for {product_name}")
+        plt.xlabel("Month")
+        plt.ylabel("Average Units Sold")
+        plt.xticks(rotation=45)
+        plt.tight_layout()
+
+        file_path = os.path.join(static_folder, 'demand_plot.png')
+        plt.savefig(file_path)
+        plt.close()
+
+        print(f"Graph saved to: {file_path}")
+        return 'demand_plot.png'
+
+    except Exception as e:
+        print(f"Error generating graph: {str(e)}")
+        traceback.print_exc()
+        return None
 
 # Route for home
 @app.route("/")
@@ -197,17 +290,21 @@ def main():
 def search():
     product_name = request.form.get("product_name").strip().lower()
 
+    # Check for command to list all products
     if product_name == "list all products":
         return redirect(url_for('list_all_products'))
 
+    # Check for command to list all categories
     if product_name == "list all categories":
         return redirect(url_for('list_categories'))
 
+    # Check if user wants to list all products from a category
     match = re.match(r"list all products from (.+)", product_name)
     if match:
         category_name = match.group(1).strip().title()
         return redirect(url_for('products_by_category', category_name=category_name))
 
+    # Default: normal product search
     results = df[df["Product_Name"].str.contains(product_name, case=False, na=False)]
 
     if not results.empty:
@@ -216,11 +313,24 @@ def search():
     else:
         return render_template("results.html", products=None, error="No matching products found.")
 
-# Route to list categories
+# Route to list all categories
 @app.route("/categories")
 def list_categories():
     categories = sorted(df["Category"].dropna().unique())
     return render_template("categories.html", categories=categories)
+
+# Route to list all products in all categories
+@app.route("/list")
+def list_all_products():
+    latest_products = df.drop_duplicates(subset='Product_Name', keep='first')
+    
+    categories = {}
+    for category in sorted(latest_products['Category'].unique()):
+        cat_products = latest_products[latest_products['Category'] == category]
+        sorted_products = cat_products.sort_values('Product_Name')[['Product_Name', 'Product_Count']]
+        categories[category] = list(sorted_products.itertuples(index=False, name=None))
+    
+    return render_template("category_list.html", categories=categories)
 
 # Route to list all products from a category
 @app.route("/category/<category_name>")
@@ -234,6 +344,31 @@ def products_by_category(category_name):
     product_list = list(sorted_products.itertuples(index=False, name=None))
 
     return render_template("category_products.html", category_name=category_name, products=product_list)
+
+@app.route("/home")
+def home1():
+    return render_template("home.html")
+
+@app.route("/predict", methods=["GET", "POST"])
+def predict():
+    result = None
+    if request.method == "POST":
+        product = request.form["product"]
+        month = request.form["month"]
+        print(f"Input - Product: {product}, Month: {month}")  # Debug
+        result = predict_units_to_order(product, month)
+    return render_template("predict.html", result=result)
+
+@app.route("/analysis", methods=["GET", "POST"])
+def stock_analysis():
+    img_path = None
+    if request.method == "POST":
+        product = request.form["product"]
+        print(f"Generating graph for product: {product}")  # Debug
+        img_path = generate_demand_graph(product)
+    cache_buster = random.random()
+    return render_template("analysis.html", img_path=img_path, cache_buster=cache_buster)
+
 
 # Route to upload and process an image (YOLO object detection)
 @app.route('/index1', methods=['GET', 'POST'])
