@@ -1,0 +1,1001 @@
+Timestamp,Category,Product_Name,Room_No,Row_No,Product_Count,Item_ID,Storage_Type,Product_Size,Weight_kg,Access_Frequency,Last_Accessed,Stock_Threshold,Temperature_Requirement,Supplier_Name,Expiration_Date,Handling_Priority,Units_Sold,Stock_On_Hand,Restock_Lead_Time_Days,Season,Promotion_Active,Supplier_Delay_Days,Forecast_Window
+2020-07-22 10:45:10,food,Ghee,4,46,12,15843,Shelf,litre,3.6,1,2020-04-09,15,2-8,Fresh n More,1903-08-24,1,0,12,10,Summer,False,0,30
+2021-06-05 10:57:38,electronics,Mobile,7,1,7,1525155,Original,64 GB,0.181,5,2022-10-21,25,No temperature requirement,Asus,2020-03-21,Normal,0,7,9,Summer,False,13,15
+2019-07-19 14:58:42,clothing,Trousers,225,20,2,20544646,Wire rack,M,0.65,1,2019-07-19,10,Cool,Brand Factory,2019-07-19,a-high,0,2,7,summer,False,39,18
+2020-06-01 03:21:55,clothing,Sweater,3,48,10,245823,Bin,M,0.472,1,2020-06-04,8,Chilled,Supplier48,2020-12-18,High,0,10,2,Spring,False,1,30
+2019-01-01 23:23:35,food,Rice,1,38,10,2550756,Wire Shelving,1,1.0,1,2019-01-01,4,Chilled,Marigold,2019-05-01,High,0,10,4,Summer,False,1,1
+2019-04-15 22:48:32,furniture,Night Stand,324,0,11,8347908,Shelf,Small,4.5,1,2019-02-18,16,No Requirement,Maple Wood Furniture,2023-12-31,Normal,0,11,6,Winter,False,11,14
+2021-08-18 19:53:44,clothing,Sweatshirt,198,46,1,1104740975,Standard,XL,0.725,2,2021-07-13,15,25,Supplier002,2023-07-14,3,0,1,10,Spring/Summer,False,18,0
+2015-06-08 01:52:23,electronics,wireless speaker,5,17,4,3618104,Wire Shelf,medium,0.79,1,2018-06-08,5,None,Supplier 2,2019-11-07,A-Normal,0,4,32,Winter,False,33,12
+2020-03-04 18:15:50,furniture,Chair,4,3,1,CHAIR-Brown-4-3-1,Wooden shelf,Medium,10.0,10,2020-03-04,20,20-25,Supplier_2,2020-08-12,Medium,0,1,3,Summer,False,2,10
+2019-06-02 14:34:38,clothing,pants,2,1,33,8513688,Rack,18,3.34,5,2019-06-02,4,20°C,Kings Supermarket,2019-10-02,high,0,33,1,Fall,False,10,31
+2014-11-17 18:37:43,food,Bakery,1,1,17,113774,Second,10,1.0,1,2014-09-25,4,Cold,Supplier2,1988-11-13,1,0,17,13,Winter,False,9,14
+2019-12-16 13:32:09,clothing,Women's T-Shirts,1,39,6,19915418,Pallet rack,S,0.4,1,2020-07-06,6,Cool,Swarovski,2022-01-29,Normal,0,6,10,Spring,False,1,1
+2022-08-15 13:27:30,furniture,Bookcase,25,5,5,1721730,Shelf,60x60x180,25.0,1,2022-07-20,100,100,PK,1999-01-01,Average,0,5,2,D,False,1,30
+2022-12-06 15:54:35,food,cereal,1,55,6,187291,Rack,1000,850.0,2,2022-12-05,12,Refrigerated,supplier-1,2022-07-11,2,0,6,2,Summer,False,1,5
+2020-08-06 09:37:01,food,Whipping Cream,1,2,1,12345678910,cooled,340 ml,0.161,1,2020-08-06,2,3,Supplier 1,2020-09-06,0,0,1,7,Summer,False,1,8
+2019-05-02 04:01:58,food,Black tea,21,1,26,87366,Pallet,500g,0.236,6,2019-04-22,10,Room_Temperature,sup0004,1905-01-13,1,0,26,11,Spring,False,1,15
+2017-10-10 00:13:34,electronics,Printer,3,19,2,122566,Shelf,A4,2.0,1,2017-09-28,5,Cool,Firstmart,2022-05-02,3,0,2,21,Spring,False,3,30
+2020-06-01 19:38:00,furniture,Table,10,22,1,I9152,Rack,Size 6,28.0,1,2020-06-01,1,AC,Wooden Furniture,1900-01-01,High,0,1,0,Summer,False,1,1
+2021-01-17 20:27:48,furniture,TV Stand,28,23,1,4439229,Rack,Large,27.2,1,2021-01-12,15,Cool,Oceanic World,2025-01-16,1,0,1,1,Winter,False,2,10
+2020-08-22 11:53:38,toys,Crayola My First Markers,15,2,2,9961885,Wire Shelf,Mixed,0.269,4,2020-08-11,5,4 °C,Bengal Trading,2021-03-25,high,0,2,2,Spring,False,1,15
+2018-10-18 23:05:11,clothing,Sweater,217,59,1,1611282,Wire Shelf,L,0.41,2,2019-09-29,90,cool,H&M,2021-07-30,A-Normal,0,90,0,Autumn/Winter,False,1,21
+2020-12-06 12:13:57,food,Cucumber,374,12,24,9925163,Pallet,15 kg,1.3,1,2020-12-06,20,Normal Temperature,Supplier_1,2021-05-05,Standard,0,24,0,Spring,False,0,29
+2021-01-20 17:23:15,clothing,White Traditional Shirt,241,3,1,44279,Wire decks,"S, M",0.69,3,2021-01-19,5,None,Titan,2021-03-20,High,0,3,7,Summer,False,19,20
+2016-08-14 15:28:39,toys,Baby Doll,1,100,15,45486,Pallets,5.0,0.9,2,2016-08-06,4,Between -8 and 15,Mega Corp,1900-01-01,normal,0,0,11,Autumn,False,0,24
+2023-02-04 15:29:40,clothing,Womens Trousers,12,1,5,18711,Rack,M,1.4,6,2023-01-29,12,30 °C,Taiwan,2025-12-04,high,0,5,11,spring,False,1,5
+2021-10-21 11:40:57,clothing,sweater,1,2,1,8360012581262,Row,L,0.7,5,2021-10-06,5,no requirement,Supplier0,1908-07-24,normal,0,1,5,spring,False,7,2
+2022-07-13 12:10:02,food,Honey,15,1,4,181,Pallet,330,1.7,2,2022-07-12,10,20-28,Darling Downs Pty Ltd,2022-08-12,A-Normal,0,4,6,Winter,False,1,12
+2021-11-27 18:11:08,food,Fruit,9,12,24,2963,side,small,0.4,1,2021-11-25,100,Room temperature,Supplier 1,2022-02-28,normal,0,24,70,winter,False,0,1
+2017-11-27 21:50:15,clothing,pants,31,4,1,4796,Bins,XXL,1.6,3,2017-10-08,100,Cool,Lewis,2019-11-30,1,1,1,2,Fall,False,2,60
+2015-02-07 12:44:51,clothing,kids-clothing,31,9,20,1770589,Pallets,Youth/Kids XL,0.39,11,2015-02-02,12,Cold,Fashion House,2022-12-31,2,0,17,3,Spring,False,0,1
+2017-04-10 18:53:35,clothing,Blue Men's Jeans,114,3,10,12955135,Rack,Large,1.4,2,2017-04-05,3,1,P1,1989-02-19,0,0,10,10,Fall,False,2,1
+2020-01-19 03:10:44,clothing,Shirt,41,3,1,6107210118772,Pallet,M,0.47,1,2020-01-19,10,No temperature requirement,Cenna,2020-02-05,Normal,0,1,11,Summer,False,7,2
+2018-04-17 11:29:08,food,Gruyere cheese,2,18,1,3404791,Pallet,200g,0.19,8,2018-04-16,90,0-5,Supplier1,2019-09-03,1,0,12,1,Summer,False,4,1
+2019-10-10 08:40:06,furniture,Ottoman,2,15,2,SPR0293691,open,Medium,20.0,1,2019-08-21,20,No temperature requirement,supplier-3,2029-10-10,B,0,2,2,S,False,26,30
+2017-06-06 19:36:24,clothing,Fine knit pullover,2,1,65,3051729,Pallet,M,1.49,1,2017-04-12,4,-20° C,TK Maxx,1984-01-20,0,0,65,23,Summer,False,29,60
+2017-04-29 06:24:46,furniture,Twin Bed,304,6,0,10069,Shelf,Queen,46.25,1,2017-04-29,4,No Temperature,supplier-2,2027-04-29,Mid,0,0,207,Summer,False,21,25
+2021-04-15 22:29:22,furniture,Norwegian Wood TV Stand,23,36,1,11957,Shelf,150x150x60 cm,99.0,1,2021-04-15,10,No temperature requirement,Leroy Merlin,2022-11-15,0,0,1,10,Winter,False,2,25
+2022-03-05 11:27:12,electronics,Digital camera,42,13,10,47586465,Shelf,20 MP,0.53,4,2022-03-05,10,cool,Aksh Opticals,1911-12-31,high,0,10,15,Spring,False,5,120
+2021-08-25 10:39:13,food,Pesto,110,24,4,8506127410005,cold,130g,0.039,2,2021-08-24,4,0,Knorr,2024-04-24,1,0,4,1,Autumn,False,13,21
+2021-05-16 12:38:26,clothing,Casual shirt,231,291,3,46520,Shelf,M,0.84,5,2021-05-16,4,Cool,Supplier 1,2022-05-02,low,0,3,2,spring,False,1,21
+2021-10-14 21:56:24,clothing,Jeans,24,11,17,15855,pallet,large,0.9,2,2021-09-01,17,41,Supplier 1,2022-10-14,1,0,17,2,summer,False,23,1
+2022-09-19 11:26:59,clothing,Khaki Drawstring Shorts,21,1,1,A0006,Wire rack,Unisex Adult 34,0.402,3,2022-07-02,10,"(None, None)",Supplier_1,2025-05-23,High,0,1,17,Spring,True,2,10
+2023-04-17 08:07:43,furniture,Dining Table,1,4,1,04516,Wood-based,32 x 33 x 108,17.0,1,2023-04-16,3,20,Parking Lot,2023-04-16,Low,0,1,72,Spring - Summer,False,1,180
+2015-08-14 07:00:02,furniture,Sofa,1,0,1,RS25015,Warehouse,Medium,76.0,0,2015-07-23,1,Room temperature,Pine Furniture,2049-08-11,2,0,1,17,Autumn,False,0,24
+2021-02-26 02:51:09,clothing,t-shirts,202,54,6,9457894,rack,L,0.56,2,2021-02-17,4,cool dry (0-15 degree Celsius),Casual Mart,2022-08-12,high,0,6,10,summer,False,208,0
+2021-10-26 21:38:30,food,Chicken Noodle,1,4,9,12359996,Pallet,180 g,0.45,1,2021-10-24,300,0,Supplier 1,1906-01-01,A-Normal,0,9,4,Fall,False,6,3
+2021-04-02 02:20:00,food,Popcorn,23,11,27,82944695,Pallets,750g,0.75,3,2021-03-26,10,Room temperature,Safeway,1901-01-01,High,9,27,7,Winter,False,1,24
+2021-10-13 16:31:06,clothing,White and Black Ribbed Crew Neck Sweater,37,27,1,178270420,Wire Shelf,S,1.2,2,2021-08-21,10,Yes,Ebay,2022-12-31,1,0,1,43,Fall,False,25,14
+2021-04-03 10:43:34,furniture,3 Seater Sofa,15,3,1,2183,Shelf,3 seater,17.5,1,2021-03-06,1,20.0,supplier-1,2021-06-07,A,0,1,11,Spring,False,7,20
+2020-02-12 12:41:13,electronics,mobile,11,1,6,238779640,Shelf,4 GB,1.4,1,2020-12-23,10,None,Electrozone,2020-10-22,A-Normal,0,6,3,Summer,False,0,10
+2017-12-09 05:21:52,clothing,dress,100,5,1,16,Outdoor,S/XL,0.8,2,2017-12-06,3,35,Supplier 3,1912-09-04,high,0,1,12,Spring,False,25,30
+2012-11-29 05:12:39,furniture,oval dining table with storage,10,1,1,46723529,Shelf,Medium,15.48,1,2012-11-07,8,None,EuroFurniture,2015-02-28,A-Normal,0,1,50,Summer,False,13,16
+2019-02-02 22:54:39,toys,Doll,140,24,1,88248141,Box,Small,0.459,1,2019-11-15,5,None,Supplier_15,2021-04-15,normal,0,1,10,Fall,False,2,180
+2021-01-08 23:07:19,furniture,Dining table,1,1,2,14081,Rack,48,18.0,2,2021-01-08,10,Cool,E-Store1,1990-01-01,Third,0,2,2,Spring,False,1,16
+2017-07-04 03:32:58,furniture,sofa,11,1,1,2168,Outside storage,XL,25.0,2,2017-05-21,20,N/A,supplier_2,1999-02-15,Normal,0,20,297,Summer,False,82,30
+2021-02-28 09:04:46,furniture,Divan,3,0,1,10388,Outdoor,Single,119.0,2,2021-02-05,3,4,Eurostore,2025-04-15,A,0,1,5,Autumn,False,5,1
+2022-05-12 20:15:58,electronics,Dual Monitor Stand,17,5,1,364030,Wire,25.4 x 22.86 x 11.81,1.09,3,2022-05-05,5,No temperature requirement,Dell Inc.,1900-01-01,1,0,1,6,Spring,False,1,30
+2020-03-01 20:15:56,clothing,Sweater,4,3,1,117259,Open Shelf,M-1,0.652,1,2020-02-28,1,30,Sixth Sense,2020-12-01,Normal,0,16,4,Spring/Summer,False,5,60
+2022-01-06 16:54:53,furniture,Lounge Chair,104,1,1,B001W39JWM,Shelf,LARGE,4.0,1,2021-11-29,2,cold,Amazon Warehouse Deals,2022-01-21,med,0,12,0,summer,False,9,30
+2015-11-25 06:36:07,electronics,Apple iPad Air 2 64GB Wifi (Latest Model) - Space Gray (Renewed),49,12,1,B00M4GREJE,Shelf,32 GB,480.0,1,2015-11-25,3,No temperature requirement,Apple,1900-01-01,high,0,1,0,Summer,False,0,21
+2021-01-01 05:27:28,food,Chocolate Cake,50,12,1,7897967985529,Pallet,8x8x8,1.0,1,2021-01-01,10,None,Supplier1,2022-01-01,Medium,0,1,1,Spring Summer,False,67,18
+2022-09-18 02:14:54,furniture,Coffee table,28,1,4,1112,Shelf,small,5.5,1,2022-09-14,5,None,Supplier 2,1998-04-16,Average,0,4,120,summer,False,1,1
+2020-08-01 01:06:34,food,Lemon,19,6,1,3422315711730,Pallet Racking,250g,0.25,4,2020-08-01,5,2,Sahara,2023-08-01,0,0,10,5,Summer,False,9,60
+2022-03-02 09:16:33,electronics,Bluetooth Headphones,4,111,6,8342731,Shelf,36,0.146,1,2022-02-04,1,cold,Baja,2022-10-25,A-Normal,0,6,4,Spring,False,8,180
+2018-01-29 03:44:25,electronics,HP 22Xi 21.5 inch LED Backlit LCD Monitor,10,2,1,7986905,Shelf,21.5 inch,1.7,2,2021-04-12,2,N/A,HP,1999-12-31,0,0,1,7,Year Round,False,1,7
+2019-01-21 12:21:48,toys,Monster Jam Grave Digger Monster Truck,10,3,1,110303143,Shelf,Small,1.0,2,2019-01-01,10,No temperature requirement,Amazon,1999-12-31,2,0,1,38,Winter,False,1,3
+2019-05-21 21:22:06,food,Bread,5,6,34,54017,Racks,500g,0.24,3,2019-05-21,200,Cooled,Apollo,2019-05-23,7,0,43,2,Other,False,14,6
+2017-10-27 18:11:44,electronics,washing machine,6,3,3,17753,Shelf,8.5 Kg,14.0,1,2017-10-27,2,10-30,Tanmay,2019-07-29,High,0,1,1,Fall,False,1,30
+2020-01-11 21:33:53,toys,Sports Activity Table,1,79,2,70968085,Normal,Medium,1.216,2,2020-01-11,5,Not Required,Supplier3,2021-12-26,Normal,0,2,8,Spring,False,4,7
+2022-05-05 10:28:59,furniture,sofa,6,20,3,603590401,Self storage,L,25.0,1,2022-05-04,2,None,Eshwar,2030-05-05,Medium,0,2,5,Summer,False,5,30
+2021-06-14 19:55:29,toys,Mars Attacks! Light-Up Alien Egg,2,7,3,31048359,Standard shelf,18 cm,0.221,1,2021-07-21,4,None,Mega Toys,2026-06-14,2,0,3,36,summer,False,16,68
+2019-03-15 16:55:22,electronics,HP Guardian 150,3,11,17,ELEC002775,shelf,22 inches,3.4,1,2019-03-15,2,0,supplier2,2019-04-15,high,0,17,13,Spring,False,21,7
+2015-06-01 06:17:02,food,Fruits,305,24,30,3303407,Pallet,14 kg,4.3,2,2015-05-29,20,1.24,Supplier 2,1991-07-25,high,0,30,2,Summer,False,1,1
+2022-03-24 12:47:24,toys,Wooden Puzzle,27,1,3,25114190,Shelf,Large,1.19,5,2022-03-23,1,No requirement,Sales,2022-03-23,low,0,0,3,Summer,False,3,2
+2020-08-24 07:50:24,electronics,iphone11,7,6,3,1198763,Pallet,64GB,126.0,10,2020-05-17,1,Not Applicable,supplier-4,2022-12-21,Regular,0,3,1,fall,False,29,78
+2018-10-11 20:27:43,toys,Nerf N-Strike Elite Triad EX-3 Blaster,14,37,1,10103157,shelf,22 * 5 * 33 cm,0.65,1,2018-10-11,2,-20°C,Supplier1,2020-06-11,10,0,1,89,Fall,False,1,31
+2021-03-29 11:01:21,furniture,Armchair,6,14,2,0105498,Shelf,W225 x D200 x H94,20.0,2,2021-03-29,2,cold,Dreamlux,2022-05-21,High,0,2,10,Autumn/Winter,False,2,50
+2013-07-01 23:15:58,electronics,Switch,34,1,2,17370,Open Pallet,48x48x6,0.83,1,2013-06-30,2,No temperature requirement,Electro Depot,1980-12-30,A-Normal,0,2,0,Summer,False,0,60
+2018-01-01 21:36:16,food,Sugar,1,1,1,9876,Bin,22,1.0,1,2018-01-01,20,0,Felipe,2019-06-23,Average,0,20,13,Winter Season,False,3,30
+2022-04-01 16:02:27,furniture,Rack and Shelves,13,4,18,4817,open,small,26.0,1,2022-03-24,184,none,Next,2023-04-08,low,0,18,21,spring,False,12,30
+2019-08-26 11:45:48,toys,Blanket,228,2,1,151257,Shelf,24-inch,0.37,11,2019-08-14,3,No temperature requirement,McCarthy &amp; Co.,2021-09-25,Normal,0,1,4,Fall,False,2,2
+2021-12-27 14:03:40,clothing,casual short-sleeved top with pocket,2,19,3,23950422,Wire shelves,Medium,0.42,1,2021-12-19,10,Normal,Manhattan Fashion,2025-09-18,Low,0,1,60,Summer,False,1,23
+2018-08-04 17:10:02,electronics,Charger,5,14,13,1999920231,Shelf,Micro USB,0.04,1,2018-07-03,1,No temperature requirement,Apple,2019-05-18,Normal,0,13,11,Spring,False,0,12
+2018-06-16 15:19:36,electronics,Powerbank,21,1,9,8852132075405,Shelf,20000mAh,1.27,3,2018-06-07,3,Normal,BuyMore,2021-06-16,Normal,0,9,2,Summer,False,4,6
+2020-08-23 10:15:05,furniture,Small Stool,111,10,1,100251498,Wooden Shelf,Small,0.8,2,2020-08-23,7,30,Supplier 1,2022-11-22,A1,0,1,12,Winter,False,16,30
+2021-04-02 08:59:22,electronics,LED TV,15,8,1,24507137,BOX,49,4.7,1,2021-02-09,2,cooled,Supplier 1,2023-01-01,high,0,1,5,Fall,False,1,10
+2015-05-28 15:33:10,clothing,Short Sleeve Shirt,229,23,10,82064815,Pallet,S,0.69,2,2015-05-05,5,Cool,Supplier 1,2019-09-15,2,0,10,7,Fall,False,12,30
+2021-09-20 01:25:51,electronics,microwave oven,0,4,2,200842284,Wire Shelving,27 liters,24.0,1,2021-08-19,7,None,Samsung,1909-09-18,E,0,2,4,Spring,False,9,21
+2021-09-28 00:07:41,furniture,Dining table,3,2,1,38623,Closet,60 x 80 x 78,4.0,1,2021-01-18,2,Dry room,Supplier4,2023-07-20,1,0,1,19,Spring,False,0,14
+2019-04-21 02:19:47,clothing,jeans,3,13,8,2578836,Racks,S,0.8,4,2019-01-02,7,30.0,Supplier 2,2021-04-21,2,0,8,29,Spring,False,15,25
+2021-11-20 07:11:18,food,Basmati Rice,15,13,11,S-3424,Pallet,1KG,1.0,1,2021-10-25,10,Cool,Supplier-1,2022-12-10,normal,0,11,3,Summer,False,4,1
+2019-07-01 11:50:08,furniture,Shoe Rack (Pair),1,2,2,18802296,Wooden,Medium,2.2,3,2019-05-20,1,Cold,Supplier 3,2023-01-01,Average,0,2,16,All Year,False,5,180
+2021-07-14 20:17:52,furniture,Table,5,1,5,B271,Rack,Standard,20.0,1,2021-07-12,10,None,suprime123,2023-04-12,High,0,5,1,Summer,False,11,14
+2019-10-25 15:39:14,food,Fish,123,1,2,288,Metal Shelf,336 grams,0.336,0,2019-10-24,10,Chilled (2°C to 8°C),SUP002,2019-11-17,normal,0,6,6,[2] Spring,False,0,12
+2021-01-11 06:49:24,clothing,T-shirt,1,4,1,1806829,Plastic Hanger,L,0.77,1,1970-01-01,4,No,Supplier-3,2021-09-22,Medium,0,1,2,Spring,False,8,30
+2021-01-25 15:31:27,clothing,T-shirt,113,13,14,17313,warehouse,S,1.3,2,2021-01-23,25,No temperature requirement,vendor-1,2022-08-27,normal,0,15,10,Autumn,False,2,30
+2022-03-05 19:58:26,food,Paper Towel,10,3,1,94612946,IBC (Intermediate Bulk Containers),10,2.9,1,2022-12-09,0,Chilled,supplier-1,2022-05-23,High,0,1,2,Summer,False,42,35
+2016-11-19 13:46:38,furniture,SMALL TABLE,224,35,4,5348,Warehouse,Medium,6.5,1,2021-06-10,3,Any,A&J Supplies,1999-12-11,1,1,3,4,Summer,False,10,12
+2020-09-01 17:31:03,electronics,Phone,1,17,2,2569348,Cooling,4000 mAh,1.0866,1,2020-09-01,9,0,meg,2021-08-28,1,0,2,6,Spring,False,1,48
+2018-09-23 13:40:28,clothing,Jeans,2,5,2,33524,Rack,Large,1.29,3,2018-09-23,5,25-30°C,1,1900-01-01,Average,0,5,11,SUMMER,False,1,14
+2021-03-21 06:42:24,clothing,Hoodie,139,7,1,20488611,Pallet,M,1.09,2,2021-02-06,150,None,Akash,2022-11-09,1,0,150,1,Fall,False,0,12
+2020-11-14 17:31:05,electronics,Food Processor,14,20,12,11399,Shelf,11 x 25 x 29,10.5,1,2020-10-15,7,2-8,Walmart,1921-01-20,A-Normal,1,12,11,Summer,False,25,14
+2022-02-20 19:13:22,electronics,Apple iPhone 11 Pro,24,3,10,ELEC002289,Open Shelving,64 GB,235.0,2,2022-02-18,8,cold,Apple,2022-03-31,high,0,10,1,Spring,False,1,60
+2020-05-18 13:20:43,clothing,Cotton Tracksuit Pants,92,25,14,391,Static storage,M,0.3,1,2020-05-18,20,Not Required,AliExpress,2021-05-18,High,0,14,2,Spring,False,1,14
+2017-09-25 11:31:54,furniture,Chest of drawers,213,3,3,49418,Rack,"30"" x 20"" x 34""",28.24,1,2017-09-25,10,None,Amazon,2019-09-25,A-Normal,0,3,0,Spring,False,6,7
+2019-03-04 16:16:21,food,White rice,16,49,6,72909094,Shelf,1 Kg,1.0,2,2023-05-17,15,<NA>,Supplier_1,2022-05-17,Normal,0,6,6,spring,False,1,60
+2021-07-08 17:09:50,food,Chicken,3,12,14,2487,Bin,0.61 Kg,0.35,1,2021-07-07,40,Uncontrolled,Supplier 3,1991-11-01,High,5,8,13,Spring,False,1,30
+2019-04-01 14:31:56,clothing,Sweater,1,2,1,1001,Rack,M,0.76,1,2020-02-23,100,cool,EU_Clothing,1912-12-12,high,0,1,21,Spring,False,2,120
+2017-06-18 07:13:19,furniture,Dining table,618,19,1,3984,Shelf,48x48x60,66.0,1,2017-04-22,2,Cool,Prestige Furniture,2023-03-18,1,0,1,2,Fall,False,2,1
+2021-03-19 06:17:23,food,mayonnaise,4,3,9,32112,Bin,26.5 oz,0.763,3,2021-03-14,32,Refrigerator,Unilever,1912-11-11,1,2,4,10,Spring,False,2,31
+2019-01-01 08:47:19,electronics,Headphones,1,28,1,8538848,Shelf,32mm,1.26,4,2019-01-01,25,normal,Huawei Technologies Pvt. Ltd.,2021-12-31,average,0,1,6,Summer,False,3,4
+2019-11-12 11:42:34,clothing,White Sweater,262,2,1,38841676,Rack Storage,L,1.3,1,2018-06-01,200,Cool,Rax,2021-07-01,1,0,202,19,Summer,False,1,60
+2016-04-08 14:13:49,food,spaghetti,18,13,1,10191,Shelf,500g,0.5,5,2016-03-26,10,frozen,Supplier-6,2017-10-10,high,0,1,27,winter,False,17,24
+2014-11-21 23:23:39,electronics,Cisco-Linksys Wireless-N router,1,3,3,11081779,Open Box,112 x 152 x 38mm,0.16,1,2014-11-21,10,Not Required,Walmart,2017-12-31,A-Normal,0,3,15,N,False,10,16
+2022-06-06 18:30:53,electronics,Samsung Galaxy S23 Ultra 5G,7,1,12,1449937,outdoor,256 GB,211.0,13,2022-06-06,5,-20.0,Gadgets,1990-01-01,1,0,12,3,Summer,False,12,1
+2016-05-21 14:13:44,electronics,Digital Camera,22,32,1,90184779,Shelve,16GB,0.38,1,2016-05-04,100,20-26,supplier-3,2015-08-21,2,0,1,7,Autumn,False,6,60
+2018-10-14 10:31:43,furniture,3-Door Wardrobe,314,27,1,6828053,Outside,240,49.0,6,2018-12-13,150,Normal temperature,Supplier_0,2024-10-14,Normal,0,1,2,summer,False,8,30
+2020-12-26 22:35:43,clothing,Grey Pants,2,1,16,148502,Normal,M,0.31,3,2020-12-20,10,Cold,Supplier 4,2021-12-31,Average,0,16,7,Fall,False,2,3
+2021-06-05 19:04:57,food,Potato Chips,2,3,3,510,Wooden Pallet,400g,0.4,2,2021-06-04,1,Cool,Supplier_2,1969-06-13,High,0,3,5,fall,False,17,30
+2021-02-09 01:13:12,electronics,Beats Solo 3 Wireless On-Ear Headphones,1,188,1,1000022368,Shelf,Small,0.54,1,2021-02-09,3,cool,The Whole Gadgets,2022-12-31,1,0,1,7,Winter,False,1,5
+2017-01-20 15:11:07,clothing,Ladies T-Shirt,2,19,1,103765,Shelf,M,0.59,1,2017-01-16,3,cold,Supplier1,1901-11-12,high,0,1,42,Spring/Summer,False,1,126
+2016-11-12 18:56:58,clothing,Dress,2,1,2,17582,Rack,Large,2.0,7,2016-11-12,4,Cool,union 3,2018-12-19,1,0,2,1,Fall,False,9,19
+2018-02-08 22:40:33,furniture,Polish Bed,6,2,8,furniture_149,Wooden Shelving,Twin,50.9,1,2018-01-10,1,N/A,Supplier_1,1900-01-01,1,0,8,6,None,False,1,21
+2018-03-04 07:48:36,toys,LEGO 76167 Hogwarts Castle,21,16,2,7066283,Plastic storage box,100.85,0.985,1,2019-07-24,10,25,Supplier_2,2020-08-25,A-OK,0,1,10,Summer,False,12,1
+2016-01-14 21:24:44,electronics,Home Theater,5,9,5,106164601,Wooden shelf,32 Inches,12.6,2,2016-01-14,10,Cool,Voltas,1999-12-31,Regular,0,2,13,Winter,False,8,14
+2021-08-18 22:22:30,furniture,Beds,113,1,1,362,Cabinets,Queen,24.99,1,2021-08-18,2,None,Makro Overseas,2023-08-24,High,0,1,35,Summer,False,10,10
+2022-08-22 10:23:32,food,Biscuits,14,172,4,744851,Pallet,200 g,0.2,1,2022-08-16,1,Frozen,Nestle,2023-12-04,B,0,4,55,Summer,False,8,30
+2022-12-08 14:04:32,toys,Scooter,301,2,2,16552,Normal,18,7.5,1,2022-12-07,10,0,Supplier-4,2026-02-21,1,0,2,2,Summer,False,4,16
+2021-02-16 13:29:57,food,Vegetable Oil,1,23,24,183211481,Box,1.5L,0.8,7,2021-02-13,5,"[3, 10]",supplier-2,2023-01-01,high,0,24,3,Summer,False,4,1
+2017-11-17 05:59:28,clothing,Cargo Jogger Pants,20,3,2,4325032,Palettes,Large,0.993,2,2017-11-17,5,None,Fashion Brands,1905-12-19,1,0,2,3,Spring,False,6,32
+2020-04-09 04:29:28,food,Fish fry,1,142,54,25199410,Cold Room,1.7kg,0.1,4,2020-04-09,160,-2,Supplier 1,2020-11-23,A1,0,54,22,Summer,False,21,25
+2017-03-24 09:23:37,clothing,Casual Shirts,6,13,3,42375850,Normal,S (Small),1.6,3,2017-03-24,10,0-20,supplier-1,2019-01-12,C,0,2,0,Spring-Summer,False,0,12
+2019-12-07 21:14:20,furniture,couch,2,1,21,117850446,Warehouse,Large,73.1,3,2019-12-07,10,None,Pepperfry,1999-12-31,Medium,0,21,10,Autumn,False,1,30
+2022-03-10 20:11:38,food,Cereal,2,10,1,2478361156907,Paper bag,12 Oz,0.45359237,1,2022-03-10,21,Room temperature,Bachman's,1907-07-24,1,0,20,14,Winter,False,1,60
+2021-02-04 18:05:43,toys,Playmobil,400,58,30,906222321,Warehouse,Mini,0.043,6,2021-02-04,3,No temperature requirement,Playmobil,1900-12-31,Normal,0,30,0,Summer,False,4,30
+2019-10-25 21:14:56,toys,Toy,203,1,1,10694,open,7 x 7 x 6,0.15,1,2021-03-24,12,50,Toy,2022-10-25,1,0,12,12,Fall,False,0,14
+2018-04-12 09:01:15,food,Strawberry,1,1,2,242-52870,Wooden shelf,250 ml,0.34,2,2018-04-11,100,chilled,brand,2018-03-19,high,0,2,6,Summer,False,5,30
+2021-02-13 21:46:00,furniture,chaise longue,304,2,3,114122986,Racks,Large,24.2,2,2021-02-12,20,Normal,Sarah Su,2022-02-23,0,0,3,11,Summer,False,18,30
+2020-07-13 09:26:24,furniture,Coffee Table,204,10,1,7698876,Shelf,36 x 36 x 36,16.6,4,2020-07-12,5,0,supplier_9,2020-07-21,1,0,1,4,Winter,False,0,5
+2022-08-28 16:48:53,furniture,Sofa,13,25,0,360015361190,Shelf,Large,34.0,1,2022-08-24,8,Normal,Astley's,2030-03-25,High,0,0,17,Winter,False,1,1
+2022-05-02 17:00:23,electronics,Laptop,11,15,1,ETL00200,Free,15.6 inches,1.35,2,2022-05-02,5,35,Croma,2022-12-31,High,0,1,1,Summer,False,10,1440
+2021-04-10 12:01:10,food,Apple - Fruit,18,13,2,8706491246034,Pallet,6.15 lbs,2.79,2,2021-04-09,50,refrigerated,Walmart,2021-06-13,High,0,5,2,Summer,False,12,12
+2018-08-06 07:38:13,electronics,Smart Garage Door Opener,2,179,1,GDO-13917,High Rack,264x30x10,0.39,1,2018-05-29,66,Cold,Supplier-2,1929-12-31,Not urgent,0,1,39,Fall,False,9,30
+2021-08-20 09:44:00,electronics,Microphone,207,51,2,8630251260477,Original,Small,0.165,3,2021-06-08,3,None,LG,1998-12-01,Regular,0,2,176,Summer,False,21,12
+2022-02-23 12:08:11,furniture,Wooden Kitchen Storage Cabinet,8,39,2,18546,Shelf,W 36 x D 36 x H 86,8.0,5,2022-02-09,4,N/A,Supplier4,1905-01-01,Average,0,2,74,Fall,False,0,108
+2022-12-12 03:22:03,electronics,Apple MacBook Pro,3,3,10,7696,Shelf,15.4-inch,1.39,2,2021-06-23,3,cool,Integrated,2025-04-28,Normal,0,10,20,Spring Summer,False,18,10
+2019-10-06 20:37:02,food,Sweet Lime,12,2,4,000000000021,Wooden Box,Medium,0.85,4,2019-06-12,10,0,Supplier 1,2020-12-12,normal,0,4,4,Summer,False,39,20
+2022-12-27 06:32:43,electronics,Electronics,9,42,1,65935,Pallet,16.1,2.1,1,2022-12-27,4,No temperature requirement,Fang Technology,1997-06-24,high,0,1,9,Winter,False,0,14
+2019-11-15 21:55:04,furniture,Walnut 4 Drawer Dresser,27,4,2,120170,Box,Twin,26.0,3,2020-11-10,1,No requirement,Lokvir Enterprise,1998-08-03,1,0,2,1,Summer,False,0,15
+2023-03-06 13:23:07,clothing,Trousers,1,5,1,5810003,Hanging,L,0.669,2,2023-02-16,7,Standard,Cama,2023-06-21,High,0,1,1,Fall,False,2,14
+2019-01-09 15:56:56,food,Eggs,40,7,12,16137577,rack,large,3.6,15,2022-09-07,7,no requirement,CHEERS,2022-09-07,Medium,0,12,10,Summer,False,0,1440
+2023-01-01 17:00:39,food,Turkey sausage,1,76,190,3518255,Normal,454 g,0.454,3,2023-01-01,50,Frozen,Supplier 1,2023-01-14,high,0,190,9,winter,False,1,1
+2022-09-13 07:30:40,electronics,Apple Watch Series 4 GPS + Cellular 40mm,28,13,2,8053983,Cabinet,40mm,12.25,5,2022-09-13,1,No,Apple,2024-09-13,1,0,2,13,Summer,False,1,4
+2022-02-16 20:03:55,food,Mango,2,24,1,52660,Rack,Large,0.92,2,2022-02-14,1,Cool,Supplier10,2022-03-22,3,0,1,1,Summer,False,4,7
+2014-08-29 13:48:52,clothing,dress,223,12,28,41146,Racks,22,1.258,2,2014-08-28,6,10-18,Garden House,2017-12-31,4,0,20,14,summer,False,3,24
+2018-08-04 11:55:32,furniture,Table,43,242,1,360653,Shelf,Four Seater,20.0,2,2018-08-04,25,Normal,Supplier2,2019-08-04,Normal,0,3,4,Fall,False,17,120
+2019-06-01 17:22:15,furniture,Antique Hutch,1,10,1,107357,Wooden,Medium,27.5,1,2019-05-17,46,Yes,Supplier 1,2019-12-31,High,0,41,120,Summer,False,0,30
+2021-01-02 04:46:34,clothing,T-shirt,219,41,1,60534,Cooled rack,L,115.0,1,2020-10-11,2,2,Meena Hyper Market,1911-10-21,1,0,1,5,Spring,False,15,7
+2021-07-26 10:50:57,electronics,headphones,1,1,1,106,Shelf,Regular,0.313,1,2021-07-24,10,cool,Vinci,2021-09-28,normal,0,1,3,Winter,False,3,7
+2020-05-10 15:32:19,electronics,Apple MacBook Pro 13-inch,1,4,1,INV-02933,High Density Storage,13.3 inch,1.36,3,2020-10-19,30,-25°C to 100°C,Apple,2021-10-19,high,0,1,52,Fall,False,24,30
+2016-01-02 20:50:42,clothing,T-Shirts,2,1,6,9057743,Deep storage,XL,0.57,0,2016-01-01,20,Cool,Mercury,1987-01-01,0,0,6,26,Summer,False,19,14
+2019-01-13 08:56:28,furniture,Bookshelf,194,3,1,94902,Rack,WxHxD 52x150x36,16.1,2,2020-08-12,50,None,supplier-5,2022-03-13,A-Normal,0,1,22,Summer,False,1,4
+2021-08-17 16:17:46,clothing,Kids Fully Buttondown 100% Cotton Shirt,16,3,17,31193381,Normal,M,0.5,4,2021-05-23,6,Frozen,A,2022-10-23,Normal,0,17,7,Spring,False,13,30
+2021-01-09 12:35:22,clothing,Women T-Shirt,46,17,28,12565,rack,S,0.6,3,2020-12-22,10,No temperature requirement,Titan Company Limited,2022-02-11,High,0,28,18,summer,False,0,20
+2021-02-18 17:00:48,toys,fisher-price-thomas-and-friends-titan-messy-philip-train-set-5-pack-toys,301,1,4,2363548,Wire rack,Small,1.25,3,2021-02-18,4,Not required,Safety Kart,2024-11-01,non-priority,0,4,5,Spring,False,15,2
+2018-05-14 14:42:50,clothing,Dress,2,10,2,15829,Rack,M,0.4,1,2018-05-07,2,Cool,Casual Mart,2019-02-07,3,0,2,2,Fall,False,3,26
+2019-06-09 17:38:00,food,cake,1,26,2,1834889,Metal shelf,12.5 inches,-0.09,2,2019-06-04,2,2-8 degrees,Supplier_1,2019-09-12,2,0,2,7,Summer,False,1,30
+2022-08-22 02:40:37,food,Green Tea,1,38,1,13389042736652,dry,250 g,0.18,1,2022-07-21,3,> cold,V-Mart,2023-08-09,normal,0,5,0,Summer,False,50,21
+2019-06-21 18:06:19,furniture,Office Chair,1,19,1,450027,Racks,Regular,12.9,4,2019-06-21,1,None,RK Trading,2021-06-21,Average,0,1,3,Autumn,False,8,21
+2019-09-06 07:58:34,food,apple,15,7,2,1234567890,Cooling Cart,small,1.0,0,2019-09-06,2,+5 to +8 degree Celsius,Supplier D,2019-12-26,high,0,2,6,Monsoon,False,9,30
+2019-10-26 21:57:58,electronics,Wireless Headphones,1,6,8,31310152,Wireless,Large,0.402,1,2019-10-26,3,cool,Apple Electronics,2026-02-22,high,0,8,14,Spring,False,18,30
+2020-04-22 15:55:45,toys,remote-control-car,137,23,5,188614549,Shelf,1:1,0.12,3,2021-03-24,6,Normal,Eastern_Distributors,2021-03-24,1,0,5,12,Spring,False,22,14
+2020-10-13 07:53:24,furniture,Electric Water Kettle,83,59,36,97466,Slotted Side Panel,18 Litres,1.2,1,2020-05-12,2,less than 25 degree celcius,Supplier 1,1900-01-01,1,0,36,45,Spring,False,3,180
+2022-05-25 08:53:52,clothing,Shirt,33,1,2,6390449094194,Shelf,Small,0.29,2,2022-05-25,2,Cool,O'Neill,1905-05-21,High,0,2,18,Spring,False,1,53
+2022-08-19 08:12:22,food,Sausage,4,2,118,7990,Racks,unavailable,1.14,1,2022-08-12,120,Chilled,Supplier_1,2023-05-06,1,0,118,18,Summer,False,2,1
+2022-03-01 13:46:29,clothing,Sweatshirt,2,6,2,6254791060397,Shelves,Medium,0.5,2,2022-02-28,10,20,s5,2024-07-01,3,0,2,7,Spring,False,17,12
+2016-02-07 11:31:43,furniture,Tables,22,0,1,217574,Rack,small,0.52,1,2016-01-09,12,High,Mcfarlane,2020-03-31,Normal,0,12,17,Spring,False,2,30
+2022-07-18 10:42:48,furniture,table,3,6,7,18676,Shelf,L,7.5,4,2022-07-08,10,No temperature requirement,Wooden furniture,1900-01-01,Average,0,7,40,All-Year,False,1,30
+2018-11-09 08:52:14,electronics,Bose SoundLink Color Bluetooth Speaker II - Soft Black,316,1,2,975000614,Shelf,Small,0.66,2,2018-10-25,2,Cool,Croma,2022-11-09,1,0,2,7,Summer,False,1,30
+2016-09-09 18:54:03,furniture,Redwood Coffee Table,20,13,1,27127,Pallet,Large,10.6,1,2020-12-23,3,Cool,Supplier_10,1900-01-01,red,0,1,5,Summer,False,16,1
+2020-10-18 22:53:50,electronics,IP Camera,181,16,5,ELE-049,Standard,128 GB,0.464,1,2020-10-17,5,Normal,supplier-1,1900-01-01,normal,0,5,7,Fall,False,1,14
+2018-08-10 04:12:18,electronics,LG 49UM7290PTAE 49-Inch 4K UHD Smart LED TV with AI ThinQ (2019 Model),3,1,1,57775361,Shelf,49 Inch,15.3,2,2018-08-09,5,No temperature requirement,Prism Retail,2020-08-09,high,0,1,1,fall,False,9,30
+2022-02-14 01:57:55,furniture,Table,308,90,3,37784,Rack,"32""x30""",20.0,1,2022-02-11,1,Cool,Supplier18,1999-12-31,A-Normal,0,3,14,Spring/Summer,False,0,60
+2018-04-01 22:43:16,food,Tuna,2,6,15,210551835,Pallet,453g,0.228,3,2019-06-02,5,Chilled,Supplier 2,1970-01-01,high,0,14,58,Summer,False,14,365
+2019-09-07 11:07:14,clothing,Round Neck Cotton T-shirt,149,6,18,11418,Mesh,M,0.28,1,2017-08-02,18,Cool,Magnum,2020-09-07,1,1,17,1,Spring/Summer,False,3,1
+2020-08-08 14:46:10,electronics,JBL Flip 4 Bluetooth Portable Speaker,4,44,1,5304472109855,Box,1.5 KG,1.3,2,2020-05-10,150,cold,Amazon.in,1902-06-26,B,1,1,8,Summer,False,2,3
+2021-08-09 16:51:22,furniture,Sofa,25,7,1,181,Rack,3-Seater,38.0,2,2021-08-06,2,Cool,Supplier 7,2021-12-31,High,0,1,40,Summer,False,17,3
+2023-01-02 22:26:16,electronics,In-Ear Monitors,251,163,4,2493,Shelf,Earbuds,0.256,2,2022-05-16,10,25,SUP059,2023-07-21,normal,0,4,10,Summer,False,0,365
+2021-11-15 12:03:00,clothing,Pants,221,7,10,8888980706413,Wire rack,34,0.99,1,2021-11-13,5,Normal,SUPPLIER-3,1911-06-03,High,0,10,7,Summer,False,5,10
+2021-06-05 14:27:03,clothing,WOMAN,302,39,4,12345,Wardrobe,S,0.7,2,2021-06-05,1,No temperature requirement,Supr,2021-08-05,1,1,3,10,spring/summer,False,3,30
+2016-04-11 08:45:58,furniture,Aluminum Dining Table,10,19,1,5948,Open,6 Seater,20.1,3,2016-02-09,9,N/A,supplier 1,2021-11-09,C,0,1,16,Spring,False,1,1
+2018-04-01 18:36:57,food,Steak,12,8,10,7439818,Refrigerator,1 kg,1.0,9,2018-04-01,5,-18°C,Supplier3,2020-04-01,High,0,10,3,Spring,True,26,15
+2020-12-21 17:29:30,clothing,shorts,4,1,4,55603573,Rack,L,0.73,1,2020-11-28,5,Normal,Vendors in Europe,2021-12-21,No,0,4,3,Summer,False,0,14
+2022-04-21 11:05:35,clothing,Women's Blazers,1,15,2,101-22-289,Shelf,M,0.49,2,2022-04-21,5,Cool,AsiaPacific,2022-07-15,1,0,2,5,Spring/Summer,False,7,24
+2018-09-14 16:48:39,furniture,Dining Table,1,2,4,34156993,Pallet (Pallet),24 x 32 x 29 inches,48.0,2,2018-09-13,3,Cool,Maple North Inc.,1999-09-23,Standard,0,4,10,Fall,False,1,0
+2022-03-11 08:50:13,clothing,woman's shoes,107,2,12,15103789,Pallets,29,1.35,5,2022-03-10,2,20,supplier-2,2022-03-20,Low,0,12,12,Spring,False,17,12
+2019-09-12 11:38:39,food,Pillsbury biscuit,0,8,75,900012778,standard,1.14 Kg,1.24,1,2019-09-12,50,No Requirement,Hitec,2019-09-24,normal,0,75,12,winter,False,1,30
+2021-10-16 23:26:19,electronics,Headphones,474,52,4,21423099,open,40mm,0.054,2,2021-10-15,4,Cold,Manufacturer A,1900-01-01,high,0,4,7,summer,False,21,180
+2019-10-12 18:13:56,food,Milk,1,1,2,39930,Molded pulp,1 l,0.961,2,2019-10-12,1,Chilled,Splash,1911-11-12,2,0,2,1,Summer,False,10,30
+2022-10-23 11:11:21,food,Baked Beans (HEinz) - 400 g,1,2,1,6265858,Bins,397 g,0.402,1,2022-06-13,17,Chilled,Supplier 1,2023-03-20,High,0,1,1,Autumn/Winter,False,1,12
+2018-01-15 18:00:32,electronics,MSI GTX 1050 Ti Gaming X 4G,113,43,0,C1369430,Shelf Store,270 x 120 x 42,1.229,1,2018-01-15,4,NA,HCL Infosystems,2019-01-31,A-Normal,0,0,1,Spring,False,19,90
+2020-06-26 09:27:24,electronics,Headphone,6,67,24,32002039,Normal,XL,0.29,1,2020-06-24,6,No temperature requirement,Laptop City,1900-01-01,1,0,24,2,Summer,False,3,300
+2019-07-27 14:17:51,food,Tofu,2,12,1,10984,Pallet,500 grams,0.5,2,2019-07-26,15,0 °C,Fair Price Mart,2020-01-26,1,0,1,18,Spring,False,13,1
+2021-01-01 14:16:47,furniture,Office Chair,564,11,13,8706847120177,Shelf,medium,12.9,18,2020-11-02,10,cool,Vincent's Store,1999-09-26,Normal,3,13,11,Spring,False,11,30
+2016-04-01 18:44:42,food,Pasta,1,3,6,3768,pallet,500 g,0.5,1,2019-11-24,9,no temp,Lidl,2020-05-10,2,0,6,6,Summer,False,71,24
+2022-01-06 07:57:32,toys,Baby clothes,183,21,6,138041,Pallet,6 - 12M,0.31,16,2022-01-01,8,-20°C,supplier-2,2022-10-20,Normal,0,6,17,Spring,False,1,30
+2023-03-04 10:22:54,clothing,Grey Long Sleeve Shirt,308,252,1,1310176795,Rack,XXL,1.14,4,2023-01-25,10,Chilled,Acharya,1904-03-25,1,0,1,18,Spring,False,220,7
+2019-09-01 06:58:46,clothing,Cargo trousers,144,1,13,750087475,Rack,S,0.36,1,2019-09-01,1,No temperature requirement,Luxury product,2020-01-28,1,0,13,25,Spring/Summer,False,2,1
+2022-04-20 10:24:00,food,Bread,2,3,16,11596,Wooden Shelf,regular,0.75,1,2022-04-09,10,18°C,Supplier-1,2022-04-25,high,0,16,1,Autumn,False,1,5
+2022-01-20 08:26:19,clothing,Men's Jeans,302,37,1,28725662,Wooden rack,Regular,0.8,1,2021-12-11,1,Normal,TNC,2023-05-24,High,0,1,6,Spring/Summer,False,2,30
+2022-05-22 05:09:01,furniture,Dining Chair,8,3,2,82471,Wooden,Medium,2.1,2,2022-05-14,5,None,Sophie's Home Furniture,1995-12-18,High,0,2,100,Year-Round,False,0,30
+2022-11-16 05:29:34,furniture,Sofa,40,3,1,54545,LSL,M-2,25.0,1,2022-10-25,6,Normal,LF,2032-11-16,Medium,0,1,1,Fall,False,1,14
+2022-08-11 16:13:40,electronics,Samsung S23,52,181,6,383,Wooden,256 GB,202.0,8,2022-08-11,4,25 ° C,Techno Idea,1900-01-01,1,0,6,14,Summer,False,1,21
+2019-11-15 05:06:13,food,Banana,14,19,1,53598415,Cold storage,22.7,0.605,0,2019-09-08,1,3,Supplier11,2020-10-27,2,0,1,14,summer,False,3,60
+2020-04-03 18:51:02,furniture,Executive Chair,314,11,3,7008,Shelf,Medium,14.2,3,2020-03-19,200,Cold,bishop,2021-09-01,low,0,3,23,Spring,False,23,30
+2022-10-16 20:39:42,toys,Safari Kids 9001222000019,16,16,1,9001222000019,Eye Level,500ML,0.384,4,1944-01-01,181,0,Safari Kids,2026-06-18,standard,0,1,4,SUMMER,False,0,6
+2022-01-09 12:16:24,electronics,Cookware,1,1,2,1000009783,Shelf,12 Inch,0.466666666666667,2,2022-01-01,3,N/A,Supplier_2,2024-12-07,1,0,2,0,summer,False,2,21
+2021-06-14 10:36:21,food,Apples,1,1,17,2425949,Wooden box,1 kg,1.0145,1,2021-06-14,2,Yes,Supplier 2,2021-12-21,0,0,17,4,Spring,False,2,28
+2013-01-21 13:42:42,toys,Dolls,372,39,1,3869,Wooden Shelf,21-24,1.15,4,2013-01-21,4,Room temperature,A,2014-01-21,High,0,0,159,Winter,False,93,20
+2021-02-28 12:00:21,food,Lemon,2,1,3,22743800967,Pallet,Small,1.0,1,2021-02-22,90,room temperature,Supplier 2,2023-02-27,Low,0,3,2,Summer,False,4,30
+2019-07-10 12:11:40,furniture,Armchair,35,4,0,19105,Single,Medium,30.0,1,2018-08-27,2,Cool,supplier-1,2021-02-15,normal,0,0,5,Summer,False,0,2
+2019-10-22 14:06:17,furniture,Sofa,20,1,2,123456789101012345,rack,2-seater,35.0,1,2022-05-09,1,None,supplier13,1900-01-01,normal,0,2,14,NA,False,0,60
+2020-12-07 22:33:01,furniture,Dining Chair,143,84,3,72890,Rack,Mini,1.75,2,2020-12-07,2,cold,Warehouse_4,2021-12-07,normal,0,2,21,Summer,False,32,30
+2019-06-18 10:10:19,clothing,Sweats,185,1,10,1085,Pallet,L,1.5,2,2019-06-12,5,Cool,Casual Mart,2020-02-29,Average,0,10,11,Summer,False,1,10
+2021-10-08 21:54:35,electronics,Pentium Processor,40,18,1,60941606,Pallet Racking,140 x 140 x 140 mm,0.36,1,2021-09-24,1,no temperature requirement,Nynex,2024-06-03,normal,0,1,2,Autumn,False,8,2
+2018-01-10 06:23:49,food,Nestle Milkmaid Condensed Milk 1 Kg,4,16,1,19570958,Rack Storage,225 g,0.225,2,2021-10-20,300,Chilled,ALDI STORES (UAE) LLC,2020-01-10,High,0,1,100,Summer,False,21,3
+2022-01-11 20:10:30,food,"Frozen Pizza, 240g",1,1,1,1036,Frozen storage,350g,0.35,2,2022-01-01,10,-20 °C,Supplier-6,2023-09-11,High,1,0,23,Winter,True,4,1
+2019-06-09 10:36:50,electronics,Laptop,179,21,24,82277657,Shelf,12,1.06,1,2019-06-07,10,35,Shree Aadhar Enterprises,1900-01-01,Normal,0,24,1,Summer,False,1,5
+2021-03-10 10:24:32,toys,Froggy pond,27,81,1,10458,Shelf,M,0.804,8,2021-03-04,2,cool,Supplier 2,1931-12-30,high,0,1,44,Spring,False,17,3
+2022-04-22 05:28:16,food,Cupcakes,1,20,2,1013,Cold Storage,375 ml,0.68,1,2022-04-18,100,Refrigerated required,Supplier 3,2022-05-22,Not Urgent,0,18,5,Spring,False,1,8
+2022-01-12 21:22:44,clothing,Shirt,18,20,10,1117411,Rack,L,0.4,2,2022-01-02,100,30-40 Celsius,Chintels,2022-01-20,Medium,0,10,4,Summer,False,19,60
+2018-05-01 12:37:30,furniture,Bed Frame,26,2,0,153,Outside,Full,16.0,3,2018-04-25,3,Any,Euro,1900-01-01,normal,0,0,14,Summer,False,1,10
+2023-03-05 18:24:35,furniture,Sofa,11,26,5,2912497,Racks,3 Seater,53.0,1,2023-03-05,24,No,Supplier 2,2026-03-05,High,0,5,1,Spring Summer,False,1,29
+2019-01-01 08:29:31,toys,board games,123,3,2,129443015,Shelf,500 ml,0.207,8,2019-01-01,1,cool,Supplier_2,1908-01-01,normal,0,2,7,Fall,False,11,14
+2019-12-19 08:31:51,clothing,T-Shirt,14,26,55,19226892,Site,M,1.94,5,2019-12-17,50,Cold,Marks and Spencer,2020-04-12,High,0,55,5,Spring,False,2,26
+2021-08-05 19:58:42,food,milk,1,13,12,172193,Original,1.75L,0.42,1,2021-08-01,5,Chilled,Mama's Milk,2021-09-17,Standard,1,5,2,Spring,False,15,11
+2022-03-16 19:44:26,clothing,Suit,318,2,1,168184,Pallets,M,1.3,2,2022-03-16,1,None,Jonathan,2023-03-14,1,0,1,0,Fall,False,0,14
+2021-01-24 19:09:08,clothing,Arm Cuff,2,12,2,1120801,Open shelf,M,0.32,0,2021-01-14,4,Normal temperature,Casual Mart,1926-12-31,3,0,2,2,Summer,False,4,20
+2018-11-02 11:19:52,clothing,Cotton shirt,8,1,3,2600000025,Hanging,Large,0.7,1,2022-04-18,5,None,Solmart,1901-01-01,Medium,0,3,1,Spring,False,1,30
+2022-12-27 13:13:56,furniture,Armchair,23,1,1,34397,Wire mesh shelf,XL,17.9,3,2022-12-27,2,No temperature requirement,Excellent Supplies,1999-08-27,Average,0,3,5,"[10, 3]",False,11,2
+2021-11-23 10:11:50,furniture,Salvador Nestor Side Table,3,18,1,23827020,Nesting,Large,10.5,1,2021-11-15,0,Room Temperature,Studio,1900-01-01,Medium,0,1,2,Spring/Summer,False,15,45
+2015-08-06 14:59:04,food,Milk,1,1,2,DP001,Shelf,2 L,1.0,1,1970-01-17,3,Cool,Supplier1,2019-04-19,0,0,2,19,Spring,False,0,31
+2021-01-21 23:55:01,food,Salmon,1,268,2,1326083,Standard shelf,16 oz,0.55,5,2021-01-22,4,Chilled,Supplier 2,1901-01-21,High,0,2,10,Spring,False,1,0
+2019-03-06 15:37:16,electronics,Earphones,11,11,2,118127172,Shelf,Medium,0.05,41,2019-03-04,10,Normal,vivo,2022-05-27,Regular,0,2,7,Summer,False,13,14
+2021-01-04 17:31:01,clothing,Casual Shirts,22,11,4,16928,Shelf,L,0.37,4,1924-09-18,2000,Temperature insensitivity,Decent Products,2022-05-06,1,0,4,15,Fall,False,7,30
+2018-01-27 06:02:13,food,Sliced White Bread,337,13,4,12136,Wooden pallet,450g,0.45,2,2018-01-24,2,<8,Supplier 1,2019-01-22,A-Normal,0,4,3,Spring - Summer,False,10,24
+2022-07-19 19:08:51,furniture,shelf,1,2,1,15936,shelf,30,15.0,2,2022-06-22,4,cool,Supplier-3,2030-07-17,average,0,1,2,Winter,False,13,2
+2022-07-05 10:09:31,clothing,T-Shirt,14,102,1,001-006-042-014,Rack,M,0.22,1,2022-07-05,25,25,Veggie,2023-01-11,1,0,9,1,Summer,False,10,29
+2021-06-19 14:16:05,electronics,AirPods Pro (2nd Generation),15,15,2,1578148501,Shelf,Regular,0.083,1,2021-06-16,3,Can be refrigerated,Apple,1926-06-25,Normal,0,2,2,Summer,False,3,24
+2021-11-10 04:44:26,electronics,Samsung Galaxy M31,4,11,1,131279282,Shelf,64 GB,3.11,6,2021-07-31,21,No temperature requirement,Appliance Mart,1999-12-31,Average,0,21,1,Spring Summer,False,1,120
+2022-09-21 20:48:05,food,Avocado,2,1,1,7409,Fridge,450 g,0.45,8,2022-09-09,10,0°C,supplier-1,2022-09-24,average,0,10,2,Spring,False,2,5
+2020-05-27 10:16:29,toys,Giant Sand Castle,222,3,3,22980335,Shelf,Large,0.89,217,2020-05-26,3,cool,Business Name,1911-11-15,1,0,3,75,Summer,False,17,30
+2017-06-13 03:30:56,electronics,TV,63,19,3,52526070,Rack,55,13.1,3,2017-02-06,7,0-25,Solartex,1900-12-31,1,0,3,0,Autumn,False,0,180
+2021-02-02 10:56:43,clothing,Dress,8,1,1,5753,Wire Shelves,M,0.4,2,2021-01-19,1,No Requirement,Pakistani,2022-03-25,High,0,1,5,Fall,False,8,3
+2019-05-15 15:03:02,clothing,Clothing,20,10,5,Clothing-20-10-5,Outside Storage,XXL,0.5,2,2019-05-13,12,40°F or 4°C,Ahead Group,2025-12-31,normal,0,12,0,summer,False,2,30
+2019-03-01 15:46:43,clothing,T-Shirt,2,0,3,41125,Pallet,M,0.9,1,2019-03-01,1,Cold,Supplier1,2020-04-03,A-Normal,1,3,6,Summer,False,7,90
+2022-05-20 23:07:39,food,Cooked Chicken Wings,1,15,117,723037143,Pallet,2 kg,0.65,1,2022-02-01,60,Frozen,Supplier-3,2022-05-28,High,0,43,1,Spring,False,6,73
+2021-01-04 02:59:11,furniture,SOFA,4,7,1,617673,Rack,3 seater,30.0,23,2020-09-28,4,No temperature requirement,Supplier 4,1900-01-01,2,0,1,21,Summer,False,15,30
+2017-08-21 13:57:38,furniture,Dining Table,116,6,1,1083288,Rack,Large,18.0,1,2017-08-21,12,No temperature requirements,A-One Furniture,2023-01-21,1,0,12,2,Summer,False,1,16
+2022-01-03 16:03:34,electronics,Gaming Headset,33,1,1,2971,Shelf,20,1.689,1,2022-01-02,20,No temperature requirement,supplier-2,2024-01-01,Average,0,15,7,Summer,False,5,2
+2019-11-22 09:47:05,food,fruit,6,12,29,11611,Pallet,large,1.7,3,2019-11-22,25,refrigerated,NATURE'S FRESH,2020-06-06,high,0,14,7,spring,True,0,21
+2022-04-04 16:46:29,clothing,Pants - Men,339,17,13,122177360,Wire Basket,Small,1.42,1,2022-04-01,1,No temperature requirement,SouQ,2022-04-10,1,0,13,1,Autumn/Winter,False,0,7
+2020-04-05 13:29:26,electronics,Samsung Galaxy S10 Plus,21,39,2,6952149330490,Wire Storage Shelf,128 GB,149.0,5,2020-04-05,1,Cool,DLF,1999-12-31,A-Normal,0,2,1,Spring,False,0,90
+2022-03-06 12:15:51,clothing,Jeans,215,5,7,12414-J-7,Racks,38,0.54,0,2022-03-04,1,20,brandmart,2022-09-13,A,0,7,4,Spring,False,1,12
+2019-08-20 23:43:38,clothing,Men's T-Shirt,198,1,18,334369,Wire deck,M,0.9,4,2019-08-20,20,Cool,Supplier 1,2020-09-19,Critical,0,19,3,Fall,False,1,1
+2022-11-19 11:39:56,clothing,Bermuda shorts,201,4,7,c0001_12,Shelf,M,1.21,3,2022-11-01,1,Normal,Supplier_1,2024-08-05,high,0,7,11,Summer,False,41,30
+2021-10-22 14:58:42,clothing,Blue Puffer Jacket,371,3,1,24085597,Covered pallet rack,S,0.891,6,2019-03-27,1,Cool,Best Shop,1999-01-21,Critical,0,1,10,fall,False,3,30
+2014-02-28 17:15:00,toys,Toy Car,160,1,2,28630,Pallet,4,0.51,1,2014-02-28,4,F,Supplier 2,2023-02-28,A-Normal,0,2,6,All year,False,12,92
+2021-04-04 10:29:10,electronics,Precision Driven Lighting 1000 Watt LED Light Bulb (Dimmable),186,3,1,25054119,Shelf,120W,0.6,1,2021-03-26,5,Cool,Retailer A,2023-09-01,High,0,1,17,summer,False,2,14
+2018-01-28 11:07:41,electronics,Camcorder,2,1,6,82245,Shelf,Large,0.49,1,2018-01-04,20,0,Supplier 1,2023-11-03,Normal,0,6,16,Year Round,False,1,365
+2014-09-13 16:23:04,electronics,CCTV Camera,232,299,1,7071247,Pallet,23.5 x 16.5 x 12.5 cm,0.5,2,2014-09-01,10,No,Supplier-2,2017-09-16,1,0,1,2,fall,False,34,1
+2023-02-17 23:11:02,furniture,DELUXE OCCASIONAL CHAIR,17,1,1,15597,Open shelf,3 Seater,19.5,1,2023-02-01,15,60,Joe's Furniture,2023-12-31,A-Normal,0,1,14,summer,True,10,1
+2019-10-09 12:19:44,clothing,Jeans,3,1,1,159437,Rack,Medium,0.764,1,2019-07-07,20,None,BATA,2021-11-09,High,0,20,6,Spring/Summer,False,32,12
+2022-03-25 03:52:17,toys,Nerf Rival Nemesis MXVIII-20K Blaster,5,181,1,212740929,Palet,1 Pack,2.47,1,2022-03-24,5,None,Maplin Electronics,1900-01-01,Normal,0,1,10,Winter,False,1,1
+2019-08-10 10:36:52,toys,Cars,260,306,200,2504393,Pallet,Small,1.2,3,2022-03-26,150,Normal,Supplier 1,2022-04-04,A,0,200,8,Fall,False,3,120
+2018-10-01 09:08:13,clothing,Jeans,382,15,2,17081635100597,Wire rack,Regular,0.6,2,2018-10-01,2,Cool,Supplier 3,2019-05-31,High,0,2,9,Spring/Summer,False,1,31
+2015-03-03 11:53:10,clothing,Jacket (Grey),14,1,13,409510,Shelf,M,0.8,2,2015-02-28,12,Cool,Supplier7,2015-05-06,Average,0,13,2,Fall,False,15,10
+2019-08-15 23:29:55,furniture,Wooden Chair,8,3,1,40659,Wooden Rack,L,19.0,1,2019-08-14,1,No Requirement,Supplier 1,2023-08-14,red,0,1,2,Summer,False,12,32
+2022-10-09 08:45:45,electronics,NA,206,13,1,125565_18,Pallet Racking,Small,19.99,2,2022-10-05,20,Cool,NA,2022-12-01,red,0,1,12,Spring,False,3,3
+2021-01-20 16:10:06,food,Pan Bread,47,7,31,100218,Pallet,320 g,0.32,3,2021-01-15,7,0,Supplier-1,1902-12-09,High,2,31,10,Summer,False,1,1
+2023-01-12 21:29:11,electronics,Headphone,18,14,1,C012354,Shelf,32,0.0,1,2023-01-04,12,Cooled,Kong,2023-05-31,normal,0,1,2,Spring,False,35,120
+2021-03-21 09:45:50,food,Chocolate Candy,1,3,1,116121,Double decker,110 g,0.108,9,2021-03-06,4,No temperature requirement,Supplier 1,2021-03-27,High,0,1,10,Spring,False,29,30
+2021-08-02 14:49:03,food,mixed vegetables,3,2,26,388800122,wooden pallets,200 g,0.2,2,2021-08-02,20,0-4,M/s. Vijayalakshmi Foods,2021-08-02,medium,0,26,4,Summer,False,11,60
+2021-07-05 15:07:54,food,Apple,1,173,138,84524,Pallet rack,0.25 kg,0.25,0,2021-06-08,900,No temperature requirement,Supplier 1,2021-08-04,1,0,625,15,Summer,False,24,12
+2019-06-08 04:45:00,furniture,Bathroom Vanity,306,15,11,129559430,Box,54,27.1,1,2019-06-05,3,Uncontrolled,Avon_Supplies,1900-01-01,A-Normal,0,11,6,Summer,False,1,60
+2015-12-27 12:35:39,toys,Crayon,31,10,115,34276883,Shelf,12,0.194,3,2021-01-15,200,Cool,Supplier 2,2021-08-27,High,0,201,1,Fall,False,33,2
+2019-06-21 14:02:07,furniture,Coffee Table,4,0,1,15773,shelf,Medium,2.2,5,2019-06-21,4,20°C,Golden Home,1910-03-21,Normal,0,1,6,fall,False,11,6
+2021-07-03 10:02:30,clothing,Cotton T-Shirt,13,2,2,1465865,Rack,S,0.69,3,2021-06-14,5,cooled,Nike,2024-07-03,normal,0,2,0,Summer,False,7,26
+2022-02-13 21:30:07,furniture,Sofa,118,13,1,FURN-1954,Intermediate,XXL,95.66,2,2021-01-18,50,Not Temperature Controlled,sup0006,2024-03-28,Average,0,1,3,Autumn/Winter,False,1,30
+2020-12-01 18:26:50,toys,Toys,7,7,1,toys_1122,Pallet,28 x 12 x 19 cm,0.14,1,2020-08-10,1,No temperature requirement,supplier_2,2022-05-08,A,0,1,14,summer,False,17,1
+2018-04-18 11:59:43,clothing,blue denim,28,22,1,32247,Hanging,34,0.722,0,2018-04-18,10,cool,Gulati Traders,1904-12-18,Average,0,1,13,Summer,False,96,21
+2022-04-28 17:06:59,furniture,Kids Bed,112,0,1,Kids-Bed-1001-112-0-2022-04-28-17-06-59,Outdoor,8,25.0,1,2022-04-12,2,Cool,Bed Suppliers,2025-04-28,Normal,0,1,6,Year-round,False,0,12
+2021-03-19 04:01:13,clothing,Casual Shirt,164,11,1,4080814029025,Shelf,M (Medium),1.0,1,2021-03-18,7,None,Cambridge Clothing,2024-12-31,High,0,7,10,Summer,False,1,18
+2022-06-24 15:00:55,clothing,T-shirt,12,1,5,53859822,Pallet,Small,0.69,1,2022-07-04,2,Cold,Chicco,2023-02-03,Normal,0,5,16,Summer,False,0,7
+2022-11-18 03:01:13,food,cheese,1,18,16,34189212,Stand,375gr,0.375,5,2022-11-17,2,not required,Supplier1,1964-09-30,not important,0,16,30,Winter,False,0,1
+2015-01-11 21:06:09,furniture,Sofa set,307,1,2,12276078,Wooden,3 seater,29.0,1,2015-01-10,3,no,Whitefield Furniture,2022-07-13,high,0,2,91,Summer,False,1,3
+2022-12-15 23:25:42,clothing,Sweater,2,6,3,1011,Wire Rack,M,0.4,2,2022-08-17,5,30°F-40°F,Urban Outfitters,1998-11-16,normal,0,3,1,Winter,True,2,13
+2020-07-10 16:33:57,clothing,Pants,1,2,11,107753,Self,L,1.2,1,2020-07-10,8,23,Style Plus,2020-10-17,Normal,1,10,17,Spring/Summer,False,2,30
+2023-02-15 11:37:24,furniture,sofa,18,15,1,8945975,Wooden rack,3 seater,79.3,3,2023-02-09,15,None,Supplier 1,1900-01-01,Low,0,1,2,Summer,False,21,30
+2021-06-11 08:19:16,furniture,Coffee Table,1,6,2,1030151,Wooden shelf,Medium,14.0,1,2021-06-09,1,Cool,Arihant Industries,2030-06-09,high,0,2,14,Spring,False,0,30
+2020-09-19 17:57:34,furniture,Sofa,2,3,1,1032112,Wooden Crate,Large,31.5,11,2020-08-25,20,None,Venus,1990-12-21,1,0,1,47,Fall,False,18,30
+2022-04-25 13:42:52,electronics,Samsung Galaxy S21 5G,184,56,6,1397635,Pallet,4G,0.191,8,2022-04-25,50,0,Electro,2022-12-31,1,0,6,2,Summer,False,0,1
+2018-08-29 08:13:51,food,peanut butter,10,68,2,65686,Bin,28oz,0.891,2,2017-12-06,1,No,NutriCo Foods,1970-01-01,A-Normal,0,2,2,Fall,False,12,12
+2018-06-17 18:06:26,electronics,Nintendo Switch Console,20,15,14,10379615,normal,31 cm,0.52,1,2019-01-27,5,15 to 25,Supplier 1,2023-02-28,Medium,0,2,2,Normal,False,6,1
+2021-04-01 12:52:18,furniture,Bed frame,22,2,12,441370,Shelf,Queen,19.9,2,2021-03-18,10,41,Mobil,2021-02-28,High,0,12,33,Spring,False,7,90
+2021-03-18 13:48:47,clothing,Polo T-Shirt,4,10,2,8097923,Pallet,M,0.61,2,2021-01-24,5,Uncontrolled,supplier-1,2021-03-24,2,0,2,24,Spring,False,1,45
+2021-09-07 13:30:30,toys,Slinky,3,155,1,8061248,Pallet,Large,0.92,2,2021-02-10,4,0,Supplier3,1999-04-22,D,0,1,58,Spring,False,7,252
+2021-11-13 12:03:38,clothing,T-Shirt,7,2,22,32948,Plastic,M,1.0,1,2021-10-25,1,None,Pantaloons,2024-04-25,Low,0,22,1,Monsoon,False,5,1
+2019-12-08 09:01:15,electronics,Motherboard,13,113,1,87402885,Shelf,ATX,0.898,2,2020-01-01,60,Medium,Ashraf,2020-12-01,Semi Urgent,0,1,10,Winter,False,2,30
+2019-09-19 17:07:55,food,Arla lactose free semi skimmed milk 1 litre,1,9,2,10675,Chiller,1 litre,0.912,1,2019-09-19,2,2,Allan Brothers,1999-11-02,High,0,2,1,Summer,True,18,1
+2018-01-11 15:11:12,electronics,Sony 2.1CH Soundbar,49,68,2,40699174,Mixed,35.51 x 7.62 x 12.7 cm,3.26,1,2018-01-11,2,None,company,2022-07-19,A-Normal,0,2,5,Spring,False,67,3
+2019-01-02 03:20:39,toys,Remote Control Car,5,3,1,7511837,Wooden shelf,17 x 7 x 5 in,0.249,2,2018-12-31,4,2-8,Supplier7,1900-01-01,1,2,1,4,Summer,False,38,49
+2022-01-01 16:00:33,clothing,T-Shirt,200,43,1,11763351,Pallet,M,0.61,3,2022-01-01,174,Normal,Trade Links,2023-01-26,1,0,1,3,Spring,False,6,2
+2020-08-17 03:33:26,food,Dosas,117,60,5,255947,Box,600 gram,0.6,0,2020-08-05,1,(null),Supplier_15,2020-08-22,1,0,5,1,Summer,False,4,24
+2014-11-11 18:28:52,food,Cheese,18,5,36,23840848,Pallet rack,0.5kg (Small),0.5,4,2014-08-31,0,1,Supplier_1,1911-12-09,A-Normal,0,36,18,Fall,False,12,19
+2019-04-14 12:55:00,food,White bread,29,26,20,30720,Pallet,1.5,5.2,44,2019-03-19,105,-20°C,Karim Mart,2019-05-22,High,0,129,7,Summer,False,6,10
+2021-08-20 15:53:48,furniture,Sofa,54,21,1,25306,Rack,X-Large,50.0,1,2021-08-17,19,Cool,Supplier 3,2023-06-30,4,0,20,16,Summer,False,1,15
+2023-02-03 13:16:40,clothing,Sweatshirt,117,252,1,24715,Rack,M,0.99,4,2023-01-20,52,32-40°C,Knitwear Manufacturer,2023-04-27,High,0,10,18,Summer,False,11,12
+2016-08-03 02:51:51,toys,22783756277,354,1,1,22783756277,Pallet,15 X 10 X 18,2.0,2,2016-07-31,4,-20 to 60,Mapper,2022-04-02,Regular,0,3,23,Summer,False,0,11
+2015-02-02 18:27:56,clothing,Wool Men's Sweater,321,4,1,1530581,rack,M,1.8,1,2015-01-12,19,cool,Cato Fashions,2016-01-10,A-Normal,0,19,13,Fall/Winter,False,1,4
+2020-04-06 00:25:01,furniture,SOFA,63,201,20,96283175,Wooden shelves,2-Seater,43.0,2,2020-03-30,8,20°C,Supplier 2,2027-02-22,1,0,20,2,Summer,False,0,8
+2018-07-07 17:51:07,electronics,Monitor,18,1,19,2660957,Rack,27,17.0,1,2018-07-07,5,Temperature required,Bestbuy,2021-02-07,High,0,19,12,Summer,True,13,30
+2021-08-09 23:47:40,clothing,Sweatshirt,10,0,1,14365,Cabinet,large,0.157,1,2021-08-09,100,Cool,brand_1,1900-01-01,1,0,1,1,Summer,False,10,5
+2019-09-11 11:14:11,food,ghee,17,24,23,141921,Shelf,1,3.0,2,1970-01-01,15,Cool,Supplier 1,2020-05-25,1,1,22,10,Spring,False,19,30
+2016-04-26 18:01:02,clothing,T-Shirt,318,22,2,164978143,Standard,XL,0.182,1,2016-02-23,1,Normal,brand mart,1910-06-09,Normal,0,2,4,Spring,False,2,15
+2019-06-12 10:10:55,furniture,Teak Coffee Table,20,9,2,76921,Pallet,Large,43.0,1,2019-04-22,6,No,FurnitureMart,2022-01-01,3,0,2,3,Summer,False,19,1
+2019-04-09 06:25:59,electronics,Smartwatch,8,2,3,A8024,Pallet,Small,0.9,1,2019-03-24,1,None,Supplier-1,2020-11-24,A-Normal,0,3,10,Spring,False,5,120
+2021-08-05 10:08:28,food,wagyu,24,3,1,228500171,Standard,1360g,0.62,1,2021-08-05,10,-20°C,The Meat Supplier,2021-03-27,High,0,5,3,year-round,False,13,30
+2017-08-19 17:20:50,electronics,WD 2TB Elements Portable External Hard Drive,6,15,3,FNP39000141160006,SSD,2 TB,0.369,81,2017-08-19,10,Cooled,Microspace,1999-12-31,A-Normal,0,1,4,Summer,False,0,31
+2022-07-29 09:41:33,furniture,Coffee Table,114,1,1,84816,Shelf,Medium,15.0,1,2022-07-29,10,Cool,Uniflair,1990-03-12,Not handlable,0,10,29,Summer,False,0,30
+2020-01-05 12:55:00,clothing,Polo T-Shirt,21,107,10,81594,Wire Shelving,S,0.265,1,2020-01-05,4,No,Supplier 4,2021-01-05,C,0,10,21,Summer,False,1,84
+2020-12-02 08:15:37,electronics,Honor Watch Magic,27,12,1,F010103,Regular,40mm,45.17,1,2020-12-01,1,(null),FOODOUTLET,1900-01-01,1,0,1,1,Summer,False,1,31
+2017-12-01 23:19:06,clothing,Shirt,200,3,1,2646,Rack,XXL,0.8,1,2017-09-20,5,No temperature requirement,Fashion TV,2022-06-09,Average,0,8,2,Summer,False,12,12
+2015-01-01 11:02:06,electronics,hand telephone,3,6,2,47517959,Standard,32 GB,143.36,5,2015-01-01,5,Cool,"Shanghai Bright Moon Trading Co., Ltd",2015-01-01,Average,0,5,15,Spring,False,2,28
+2015-01-01 00:42:46,clothing,Pants,14,20,4,2836201,Wire rack,L,0.57,4,2015-01-01,4,Cool,supplier-1,2017-12-31,3,0,4,23,Spring,False,1,30
+2018-03-15 18:14:46,clothing,Dress,300,7,1,3106352,Pallet,M,0.641,1,2018-03-15,4,Frozen,FoodCorp,2019-03-15,High,0,4,91,Spring\Summer,False,1,60
+2021-08-11 21:50:39,electronics,monitor,1,4,1,221-6146,open shelf,27 inch,6.186,1,2022-03-11,2,Not temperature sensitive,Supplier 4,2022-12-31,High,0,16,12,Summer,False,14,1
+2013-11-26 19:01:42,clothing,Shirt,231,1,1,INV0000002292,Open shelf,L,0.56,7,2013-11-26,2,No,Supplier 3,1990-10-03,Low,0,1,29,SUMMER,False,39,1
+2022-11-09 11:31:49,food,Milk,101,3,1,28350931,Deep freezer,1L,0.99,1,2022-11-09,5,0,Supplier_1,1950-12-19,A-OK,0,5,8,Summer,False,4,14
+2019-10-21 15:13:52,electronics,Nintendo Switch Gaming Console,123,22,2,2796099,Rack,10.4 cm x 18.8 cm x 3.4 cm,0.39,2,2020-11-28,10,No temperature requirement,Amazon,1900-01-01,high,0,2,2,Summer,False,3,60
+2019-06-06 10:09:07,furniture,lounge chair,317,12,2,51894,open racking,Large,12.0,2,2019-06-06,5,None,V1,2022-12-15,Regular,0,2,9,Spring,False,10,144
+2019-09-10 07:08:10,electronics,Keyboard,26,31,2,18642818,Shelf,Full-Size,1.4,1,2019-09-07,3,Cool,HCL,2024-03-05,Average,0,2,73,Summer,False,0,183
+2018-10-24 16:24:00,food,Honey,3,1,46,1010101008,Paper box,Large,0.9,1,2018-09-26,51,cold,Gloria Foods,2018-12-27,1,2,45,1,Spring,False,91,1
+2021-02-25 13:22:56,furniture,Coffee table,1,0,1,95657,Wooden,Medium,19.0,1,2021-02-03,2,Uncontrolled,Company C,2021-04-24,1,0,1,11,Fall,False,5,21
+2022-05-11 11:36:59,food,smoked bacon,13,1,1,458,Rack,786 grams,0.786,5,2022-05-11,2,Cold,Supplier 3,2022-07-27,High,0,2,3,winter,False,2,10
+2022-08-13 13:10:08,furniture,Sofa,310,1,2,1510003101,Open,Large,88.2,2,2022-08-12,10,Normal,Supplier1,2024-03-26,High,0,2,16,Summer,True,0,2
+2021-09-27 21:01:42,toys,Galaxy D-2140,7,3,1,7130392456597,Shelf,3,0.1,1,2021-02-19,50,No temperature requirement,Toyland,1999-06-01,normal,0,1,7,fall,False,1,30
+2014-03-13 20:45:54,electronics,Technology,145,19,2,60706,Shelf,Small,1.4,1,2014-03-13,11,Cold,Huawei products,2019-03-13,high,0,2,10,Spring,False,13,14
+2014-03-15 19:40:43,food,Apple,149,27,2,7459604779,Pallet,1kg,0.9,5,2014-03-14,2,No requirement,Supplier_1,2014-04-14,1,0,2,1,Spring,False,0,2
+2019-02-23 14:01:02,toys,Brio World Train Set,274,71,1,5720544,Pallet,Small,0.6,2,2019-02-23,4,Cool,Eurospar,1911-01-28,1,0,0,8,Winter,False,2,25
+2021-06-24 15:24:30,clothing,shoe,1,1,6,G786,Shelf,26,0.92,1,2021-05-16,2,None,Melvin's Store,2023-05-01,1,0,6,12,Summer,False,1,120
+2018-03-19 09:56:58,toys,My First 3 in 1 Learning Walkie Talkie,247,21,5,261567148,Bulk,12.7 x 18.3 x 17 cm,0.56,1,2018-02-14,5,0,Baby Empire,2022-06-20,High,0,5,3,Fall,False,16,14
+2021-07-20 18:47:21,clothing,Tea Tree & Aloe Vera Body Lotion,22,12,2,2877606,Standard,M,0.261,1,2021-07-20,50,Refrigerated,Madhu Fabrics,2023-07-06,1,0,2,5,Spring,False,12,3
+2023-02-18 13:01:00,clothing,Jacket,1,9,2,28072023021802,rack,M,0.925,2,2023-02-18,3,No temperature requirement,Supplier_1,2023-02-18,normal,0,2,10,Summer,False,2,30
+2022-02-07 12:32:25,food,NATURAL ORGANIC SALT,4,886,3,20148938,Bulk,330g,0.33,1,2022-02-03,30,No temperature requirement,GREENSTAR FRESH FOODS,2022-03-07,A-Normal,0,3,5,NA,False,9,12
+2022-12-22 12:40:23,clothing,Trousers,276,10,3,41645,Shelf,L,0.76,1,2022-10-10,10,No temperature required,supplier-2,1999-12-31,high,0,3,10,Fall/Winter,False,30,30
+2022-11-20 11:53:41,food,Bread,2,3,24,1038,Cold Storage,Normal,1.1,2,2022-11-19,60,0,Supplier 1,2022-12-20,4,0,2,1,Winter,False,5,10
+2020-10-25 17:41:34,clothing,Kids casual shoes,126,105,4,30405,palette,41,0.73,1,2020-10-25,20,Cool,Supplier_2,1984-04-01,A-Normal,0,4,11,SUMMER,True,1,20
+2022-09-17 18:58:21,clothing,Dark blue women's shorts,12,9,10,13650,Static,38,0.59,1,2022-09-11,3,No,Zara,2019-12-31,1,0,1,4,Summer,False,11,6
+2019-08-05 15:17:27,clothing,Casual Shirt,6,39,1,15823,Rack,M,0.6,5,2019-08-05,2,35.0,Supplier 1,2019-09-05,green,0,1,19,Summer,False,0,12
+2017-04-01 11:48:00,toys,Toys,214,40,3,12345,Shelf,111x44x101mm,0.401,4,2016-08-01,1,no requirement,XYZ,2019-07-01,Normal,0,3,3,spring,False,4,23
+2017-05-25 11:00:47,clothing,Dungaree,74,16,1,14607,open shelf,XL,0.506,7,2016-12-21,5,Cool,Supplier-1,1999-12-31,medium,0,1,4,Summer,False,1,28
+2022-12-10 17:43:27,furniture,Wooden chair,112,3,1,3083,Rack,Medium,5.5,1,2022-12-10,1,No,House of Furniture,2022-12-31,high,0,1,3,Winter,False,0,30
+2017-04-08 20:27:01,clothing,T-shirt,108,30,1,1539714,Cellular,M,0.74,7,2017-03-02,5,Cool,Supplier01,2018-01-01,1,0,1,7,Summer,True,11,8
+2019-09-14 20:52:51,food,Coffee Beans,13,2,32,1920175,Wire,1kg,0.9,2,2018-08-03,100,15°C,Supplier 4,1906-06-25,High,1,31,1,Winter,False,1,2
+2021-01-04 06:28:28,clothing,Polo Tee,2,5,15,322571,Racks,S,0.8,1,2020-12-05,1,Normal,Green,2021-10-05,normal,0,15,7,Summer,False,1,60
+2018-08-01 06:36:46,food,Banana,19,1,20,206003422,Palette,Kg,1.3,3,2022-09-27,2,Chilled,G&amp;G,2022-09-28,Not Important,0,20,3,Spring,False,1,2
+2018-09-20 07:56:50,furniture,Office Chair,102,16,1,FURN-001-002,Single,Medium,5.0,1,2018-08-09,42,Cool,Treasure Mart,1900-01-01,1,0,1,1,Spring/Summer,False,2,79
+2019-04-29 13:47:00,clothing,Jacket,250,11,10,10947,Single,Medium,0.45,1,2019-04-29,7,20,Supplier-3,2019-01-01,Normal,0,10,2,Fall,False,0,15
+2022-04-04 09:19:51,food,Pineapple,1,35,1,2831,Wire Basket,Medium,1.11,1,2022-04-04,50,Cool,KEA,2022-04-07,High,0,1,5,Spring Summer,False,1,15
+2022-04-01 11:55:28,furniture,Chest of Drawers,18,1,1,126746,Shelf,Tall,25.0,2,2022-02-24,1,Not Temperature Sensitive,CHEERI,2025-03-31,average,0,1,89,Summer,False,3,28
+2017-08-19 23:07:20,food,Peanut,9,4,10,72248816,Pallet,150g,0.15,1,2017-08-15,5,Cold,Zeus,2021-08-31,Normal,2,4,5,Summer,False,1,5
+2018-08-15 20:55:26,food,Watermelon,11,3,265,179681665,Shelf,350g,0.322,1,2020-09-08,200,Chill,Supreme Fresh Fruits And Vegetables,2021-11-10,2,0,0,1,Summer,False,4,1
+2022-04-15 00:22:36,clothing,Apple Watch Series 5 40mm GPS,10,13,2,52634,Pallet Rack,40mm,53.4,2,2022-04-05,1,15,Supplier 1,1900-01-01,high,0,2,2,Winter,False,3,12
+2015-02-15 11:11:35,furniture,TABLOTTO DINING TABLE\nSHELL FINISH AND SHELL AND LEG COMBINED\nOVAL/CIRCLE\nSLAB LEG\n1500 MM\n1200 MM\n1200 MM,43,1,4,72785988,Normal,1500,48.95,2,2015-02-15,20,No,'HOMEBOX',2015-08-23,1,0,2,1,Summer,False,0,6
+2021-04-05 10:13:35,electronics,HP Spectre x360 13-inch 2-in-1 Laptop - 8th Generation Intel Core i5-8250U Processor - 8GB Memory - 256GB Solid State Drive - Windows 10 Home,0,17,1,EAN_13_047174480715,Self,"13.3""",1.39,1,2021-03-25,10,Undefined,Microsoft Store,1900-01-01,Normal,0,1,14,Year-Round,False,7,5
+2018-12-03 04:45:02,electronics,PS4,214,50,1,8745511,Open Shelf,large,4.5,1,2018-12-02,9,40,Temple Processing,1900-01-01,1,0,0,1,Winter,True,3,1
+2022-05-13 12:33:03,furniture,Chair,1,2,17,CHAIR5600000002,Stationary,Small,3.1,5,2022-04-07,20,cold,Oak Hill,1993-10-14,normal,0,21,120,Summer,True,153,7
+2019-11-09 11:25:32,clothing,Socks,1,101,4,INV011-00551,Standard,22×30,0.2,1,2019-10-15,100,Cool,Supplier18,1901-01-01,Normal,0,4,12,Summer,False,2,14
+2018-10-02 18:30:21,toys,Toy Story 3,226,3,17,1430832,Wire Shelving,5 Years,0.242,1,2018-10-02,10,20,The Pioneer,2020-10-01,normal,0,17,5,winter,False,4,20
+2020-05-09 12:01:00,food,sweet corn,2,1,19,9025912105081,shelf,400 g,0.375,1,2020-02-21,15,3,Supplier 1,2020-05-15,High,0,19,8,Summer,False,2,17
+2021-08-28 01:36:15,clothing,cotton jeans,107,17,1,14499,Floor storage,M,0.45,1,2021-08-16,4,Cool,Supplier-1,2022-08-28,1,0,4,0,Summer,False,1,30
+2021-09-05 07:57:04,clothing,Shirt,15,4,3,C0101-273-03-15-04,Wire Shelving,M,0.8,1,2021-09-05,6,no requirement,JZ,2021-11-26,Normal,0,3,5,Spring,False,1,120
+2020-08-26 17:57:04,electronics,Powerbank,21,15,1,12423334,Rack,9000 mAh,153.0,1,2020-05-26,50,Cool,Generic,2021-04-20,1,0,0,2,Spring,False,1,10
+2022-02-04 05:37:22,furniture,Chair,3,10,4,10913,open shelves,Medium,11.0,3,2022-02-04,4,Cool,Supplier_3,2022-03-07,normal,0,4,22,spring,False,1,28
+2016-03-07 01:36:42,clothing,men's suit,52,2,2,2406488,in-rack,M,1.4,2,2016-02-20,1,30,Innominate,2016-03-13,2,0,2,2,Spring,False,0,90
+2022-07-05 15:55:47,furniture,Futon,2,1,2,S-F-T-001,Warehouse,King,13.5,21,2022-06-28,3,Cold,Samson,1958-06-15,High,0,2,4,Summer,False,18,30
+2020-03-10 09:46:36,electronics,Waterproof Case for iPhone 11 / 11 Pro / 11 Pro Max / XR / XS / XS Max / X / 8 / 7,1,11,4,IPX-9840,Box,XS,0.022,2,2020-03-10,3,No temperature requirement,Supplier 1,2020-12-31,High,0,4,2,Spring,False,61,30
+2019-05-14 13:23:23,clothing,Skinny Jeans,148,6,1,13021828,Wire racks,38,0.9356,2,1993-02-03,6,Refrigeration Not Required,Supplier 5,1993-02-03,A-Normal,0,1,1,Fall,False,1,14
+2020-04-06 21:43:12,clothing,Short sleeve t-shirt,47,143,1,50248531,Pallet,Large,0.61,6,2020-04-06,10,Cool,Amazon Business,2021-02-26,1,0,2,2,Spring,False,13,5
+2022-02-14 09:38:45,food,Pasta,11,9,15,24209100,Warehouse,500 grams,0.5,3,2022-02-14,100,Cool,Supplier-2,2022-05-28,High,1,14,2,Autumn,False,5,15
+2018-04-20 15:45:10,electronics,Bluetooth 4.0 Mouse,4,71,1,33274740,Open pallets,Medium,0.114,1,2018-04-20,1,No Temperature,Taipei,1912-12-31,High,0,1,11,Summer,False,13,14
+2022-01-03 14:35:09,clothing,Trousers,3,3,25,4400023900074,Pallet,L,1.3,1,2022-01-01,2,No temperature requirement,SUPPLIER-1,1911-01-01,High,0,25,3,Spring/Summer,False,42,25
+2021-02-02 18:08:05,electronics,"Pioneer SX-1030BT 50W 5.25"" 3-Way Speakers",330,33,2,1056026,Self,"12""",2.8,1,2021-02-02,5,0,MIS,2021-09-02,1,0,2,18,Summer,False,30,7
+2019-11-20 18:02:37,clothing,women's t-shirt,1,1,2,13B1K,Single,M,0.31,1,2019-10-05,5,None,C&A,1999-01-31,1,0,2,10,autumn,False,2,1
+2020-04-26 16:42:52,food,Coffee,1,156,1,105061,Shelf,200 g,0.2,4,2020-04-26,30,-5,Supplier7,2021-04-26,Normal,0,29,4,Spring,False,0,15
+2021-08-24 06:20:46,food,Black Tiger Shrimp,41,2,1,2100293605,refrigerated,500 Grams,0.5,1,2021-08-24,1,0,Emmi AG,2021-09-28,normal,0,1,14,Summer,False,22,14
+2018-09-01 05:51:01,toys,Toy,108,1,6,3050101014143,Shelf,Normal,1.2,1,2018-03-17,5,No temperature requirement,Supplier-1,2021-09-30,Yes,0,6,10,Winter,False,0,2
+2022-02-21 17:49:53,toys,Nerf N-Strike Elite Rapidstrike CS-18 Blaster,1,11,11,847578311,Shelf,Medium,0.65,1,2022-01-17,5,No temperature requirement,Supplier-1,2025-12-02,1,0,11,3,Spring,False,1,7
+2021-07-02 23:30:46,electronics,Bosch wall mount 40 inch TV,3,11,1,7225001172440,shelf,40 inch,16.0,9,2021-07-02,4,No temperature requirement,Sales,2022-10-29,Average,0,1,0,Year Round,False,6,21
+2021-04-06 16:30:06,furniture,Office Furniture,197,1,4,28565315,rack,Small,29.4,4,2021-02-12,50,Cool,Supplier-1,2020-04-06,Average,0,4,12,Spring,False,148,9
+2021-11-18 20:08:10,clothing,Hush Puppies for Men Grey Formal Shoes(Size 9),3,7,6,36789,Shelf,9,1.3,9,2021-11-18,1,Cold Storage,1,1925-12-31,Medium,0,6,12,Winter,False,107,28
+2019-11-04 06:57:36,electronics,Nokia 6105i,1,1,1,8125781,Shelf,2G,0.178,7,2019-11-02,5,None,HCL Franchisee,2022-11-04,High,0,1,3,Spring,False,7,60
+2017-08-16 17:12:00,toys,BATMAN LARGE,161,18,3,1671,Plastic_containers,Large,0.63,1,2017-08-09,1,15,Ajanta Toys,2019-06-16,2,0,3,0,Winter,False,23,24
+2019-11-25 09:37:29,toys,Trucks,139,38,2,45462,pallet,27.5 cm,0.45,1,2019-11-25,1,32°F-46°F,LEGO,1999-01-10,A,0,2,0,Winter,False,17,1
+2020-06-27 15:13:14,food,Fresh veg-green beans,1,9,11,448,Cooled,200 g,0.16,1,2020-06-15,5,0,Fresh Mart,2020-07-04,High,0,11,1,Summer,False,11,7
+2018-03-13 13:03:00,food,Biscuit,205,14,12,15881,Pallet,800g,0.8,2,2017-06-17,500,Cool,Products (PVT) LTD.,2019-06-21,1,0,12,27,Summer,False,2,120
+2021-03-15 15:08:34,electronics,Electronics,229,204,1,145,Wire Rack,Large,2.7,1,2021-02-26,2,Cool,Nortel,1946-12-31,A-Normal,0,1,5,Spring,False,1,1
+2017-07-14 13:55:23,clothing,Men's T-shirts,347,2,14,13995994,Shelf,XL,0.72,1,2017-07-12,10,Cool,Casual Mart,2019-07-12,1,0,14,4,Spring,False,4,14
+2019-09-01 14:14:05,food,Eggs,16,4,2,egg-20190821223907-1092,Different,Pack of 10,1.2,1,2019-09-01,10,4,egg-20190821223907-1092,2019-09-23,1,0,10,11,Fall,False,15,180
+2022-06-15 13:28:33,food,sugar,2,19,2,231410359,Fifo,1kg,1.0,1,2022-04-25,3,cool,Supplier_1,2024-06-29,not_frequent,0,12,4,Summer,False,1,30
+2021-08-15 19:42:29,clothing,Trousers,179,1,2,167041,Shelf,L,0.625,0,2021-08-12,10,Normal,New York,2021-08-22,Normal,0,1,12,Summer,False,82,4
+2021-10-06 13:03:23,furniture,Sofa,1,4,134,TA1019090601,Cabinet,Medium,74.9,1,2021-09-23,350,cool,Sofa World,2022-05-21,0,0,134,3,Summer,False,2,30
+2021-03-12 22:00:36,clothing,Sweatshirt,3,1,12,20000234,Pallet,L,0.521,3,2021-03-07,10,Cool,Supplier 1,2021-09-07,Normal,0,12,11,Spring,False,5,60
+2019-04-16 08:57:10,food,Yellowfin whiting fillets,5,21,14,3152082,Refrigerator,1 kg,0.3,1,2019-04-15,1,0,Supplier 4,2019-06-10,Average,0,14,5,Spring,False,0,21
+2021-01-01 14:03:41,furniture,Mahogany Wooden Chest,1,14,1,29325,Wooden cabinet,Three Drawer,2.8,3,2021-01-01,6,20,Supplier_20,2022-01-01,1,0,1,12,Summer,False,1,2
+2018-01-01 06:30:17,clothing,Elastic Waistband Bottoms,111,28,1,139942,Shelf,X-Small,0.34,3,2018-07-07,7,15-25,Jumping Jacks,2020-04-06,A-Normal,0,2,0,Spring/Summer,False,3,90
+2019-04-29 17:10:13,food,Rice,7,1,2,969216826,bin,5kg,4.19,1,2019-04-28,10,temperature required,Lavasa,1903-06-27,Not Priority,0,2,10,Summer,False,2,1
+2022-07-21 00:40:03,electronics,Headphone,12,4,7,9574001729001,Shelf,Regular,0.706,5,2022-07-14,5,No temperature requirement,GoldenPalm,2022-08-07,1,0,7,15,Spring,True,3,31
+2021-07-10 13:59:47,furniture,couch,1,1,28,1100000001082,Shelf,L,78.0,6,2021-06-03,30,None,Supplier-1,1970-01-01,B,0,28,1,Spring,False,7,12
+2022-02-01 11:24:36,toys,Lego,0,3,1,111718328,Box,Small,0.117,1,2022-02-01,1,No temperature requirement,CPO Company 2,2023-07-01,A,0,1,3,Summer,False,4,30
+2016-01-05 17:34:36,clothing,T-shirt,23,5,24,3470578,Bin,M,0.95,1,2016-02-21,12,0,Supplier0,2018-03-23,0,0,24,32,Fall,False,35,30
+2022-05-14 21:17:20,food,Biscuit,4,8,3,1744,Metal Shelf,210 g,0.209,4,2022-05-11,40,3,Supplier 3,1940-05-04,1,1,3,74,All Year,True,16,12
+2014-02-27 23:30:26,clothing,Shoes for men,25,17,5,7297847565324,Bin,43,0.622,1,2014-02-27,1,No,Supplier1,2017-06-25,1,0,4,2,Fall,False,74,14
+2019-05-01 23:21:03,food,Milk,20,95,2,7305363003161,Pallet,200 ml,0.25,4,2021-06-12,3,cold,Supr Daily,1902-11-25,2,0,2,10,Summer,False,2,14
+2022-07-20 10:40:52,furniture,Bed,202,22,1,20220720104052136614,Crate,M,20.0,2,2022-07-08,12,Uncontrolled,Spaarti,2024-01-01,2,0,1,1,Fall/Winter,False,1,1
+2023-01-16 10:39:06,food,Vegetable Oil,6,1,16,2889,Box,750 ML,0.81,1,2023-01-16,3,4,supplier-4,2023-07-28,A,0,16,7,Summer,False,11,30
+2023-03-11 07:17:27,toys,Dolls,33,10,1,3830897956303,Pallet,Medium,0.19,0,2022-06-22,3,No temperature requirement,Smart Warehouse,2023-08-13,High,0,1,48,Spring,False,1,21
+2018-07-21 12:59:46,food,Bottled Water,9,4,6,61496071,Pallet,24x24x30,1.13,2,2018-07-15,4,cold,Kroger,2020-01-01,1,0,6,6,Year Round,False,0,24
+2021-11-07 19:45:31,electronics,Jabra Elite 85h Wireless Noise Cancelling Headphones - Black,10,38,1,17416747,Shelf,5D x 10D x 20H,691.0,2,2021-11-07,1,0 °C,Amazon,2024-12-26,A-Normal,0,1,60,Autumn,False,164,180
+2019-01-29 08:49:19,furniture,Toy Box,13,50,2,358,Wooden Shelf,XL,13.6,1,2019-01-02,6,Cool,Supplier010,2022-01-25,a-High,0,2,121,All-Year,False,128,45
+2022-07-08 05:22:46,clothing,Sweater,20,136,2,20130201000081,Wire rack,L,1.6,2,2022-07-08,1,10 degrees Celsius,Supplier 1,1990-10-28,B,0,2,11,Spring,False,3,12
+2023-01-18 09:46:36,furniture,Chair,4,12,1,35920,Shelf,Medium,5.5,2,2023-01-07,10,Cool,Sup1,2023-12-31,low,0,1,6,Summer,False,1,12
+2022-04-24 12:05:14,electronics,Samsung Galaxy M41,5,5,1,COO461997605541,Shelf,64 GB,233.0,0,2022-04-24,10,Cool,Micro Max Mobile,1999-12-31,Normal,0,1,1,Summer,False,10,2
+2021-06-07 12:34:26,furniture,Office Chair-White,3,1,2,202,Shelf,Small,12.5,4,2021-06-03,6,Cool,Supplier 4,1900-01-01,Medium,0,2,36,Summer,False,0,12
+2016-04-26 05:51:34,furniture,Chair,41,26,4,1204,Wire rack,Medium,19.4,1,2016-04-18,4,Cool,Supplier0,2017-05-26,1,0,4,58,Summer,False,0,29
+2021-04-13 21:21:41,furniture,Coffee Table,16,52,2,284752,Racks,Medium,26.6,1,2021-03-28,51,No cooling required,Sage,1900-01-01,Normal,0,2,1,Summer,False,1,5
+2022-06-03 11:48:13,electronics,Cable,1,22,12,35087569609,Pallet,Micro USB,0.15,2,2022-06-03,10,Best,Dell,2030-01-01,high,0,12,6,Spring,False,15,16
+2015-02-01 13:21:28,clothing,Shirt,1,1,8,295772,On pallet,M,0.727,1,2015-02-01,10,No,British brand,1970-01-01,1,0,8,65,Spring/Summer,False,1,60
+2015-06-26 12:10:39,furniture,Sofa,5,21,2,7110052,Racks,Three Seater,13.3,7,2015-05-22,2,None,Manufacturer 1,2018-06-30,Normal,0,2,22,Summer,False,12,6
+2017-11-20 15:17:21,toys,Batman,250,11,2,997727,Pallet,Large,1.8,1,2016-03-08,1,No temperature requirement,Supplier1,2019-12-31,High,0,2,5,Summer,False,0,8
+2019-06-15 18:51:32,clothing,Short Sleeve T-Shirt,12,3,1,33818390,Pallet,S,0.38,1,2019-06-14,16,Ambient,KEEPY,1907-01-24,A-Normal,0,16,10,Summer,False,1,7
+2022-08-26 12:06:40,furniture,sofa,1,5,1,PLN000027,Shelf,Large,72.4,3,2022-08-26,10,No temperature requirement,VIP Furniture Store,2024-05-26,Normal,0,1,7,Fall,False,2,15
+2021-04-18 19:12:09,electronics,Smartwatch,2,1,5,100006232,Open,Large,1.2,1,2021-04-06,2,4,Apple,2022-01-01,A,0,5,10,Summer,False,0,30
+2020-10-27 16:31:11,furniture,Wall Shelf,84,25,2,R18600,Wooden Rack,24x12 inches,2.1,1,2020-01-12,1,None,Supplier 4,2022-10-12,Average,0,2,5,Summer,False,12,1
+2021-01-28 16:30:53,toys,Wooden Horse,22,13,2,4980,Double-deep,Small,5.8,5,2021-01-28,3,-20°C to 0°C,China,2023-12-31,3,0,2,101,Fall,False,2,8
+2019-09-20 14:41:23,electronics,Apple AirPods,9,2,3,8429844,Rack,Small,1.0,2,2019-09-20,3,Cooled,apple,2020-12-31,Red,0,3,7,Spring,False,6,12
+2022-08-02 08:49:33,furniture,Coffee Table,31,25,2,31022021201283,Storage Racks,Medium,16.0,1,2022-07-05,5,Cold,Smith,2024-08-02,Average,0,2,21,Autumn,False,1,1
+2022-01-06 09:01:12,food,Basmati Rice,1,75,51,12021,Wooden Shelves,1kg,1.0,1,2022-01-06,500,Cool,Supplier-1,2022-11-29,High,0,51,10,summer,False,3,1
+2022-03-04 13:55:34,electronics,GTR 1000,28,343,1,29216,Sliding,24x6,2.2,2,2021-11-13,30,Normal,supplier-6,2022-09-26,2,0,1,2,Summer,False,12,2
+2019-08-10 18:37:52,electronics,G-Shock Frogman GWF-D5000-1JF,86,14,1,175082,Shelf,M,0.635,2,2019-08-06,5,not specified,Casio,2021-08-31,normal,0,1,10,Summer,False,1,30
+2016-09-06 07:30:55,food,Wheat Flour,299,1,1,21902758,pallet,2Kg,1.0,1,2016-09-06,3,No temperature requirement,Sunflower,1907-10-19,normal,0,1,4,Spring/Summer,False,10,180
+2021-01-01 14:23:43,electronics,Electronics,1,5,1,61280996,Rack,Large,4.1,2,2021-01-01,3,Normal,PIM,2022-01-01,High,0,1,0,Summer,False,0,144
+2020-12-13 19:44:04,electronics,Apple AirPods (2nd Generation),11,5,1,5530492003281,Shelf,Medium,0.12,1,2020-08-30,10,Cool,Amazon,1903-10-22,Normal,1,0,2,Fall,False,0,30
+2019-04-10 09:41:21,furniture,PIPE SHELVING,1,1,8,19788,Shelf,4'x10',22.34,2,2019-04-05,2,0,MALL,1900-01-01,Low,0,8,4,Year-round,False,3,1
+2022-02-03 17:47:01,furniture,Luxury Sofa,3,1,1,8030,Shelf,Large,72.0,1,2022-02-03,7,Cool,Supplier-4,2023-02-03,Normal,0,5,14,Autumn/Winter,True,14,2
+2021-12-02 15:51:19,furniture,Chair,100,1,1,FP002,Normal,36,1.6,4,2021-09-10,77,normal,supplier-1,2025-09-20,normal,0,79,12,Summer,False,5,1
+2019-08-12 15:00:00,electronics,Laptop,11,24,1,1042945,Standard,15.6 inch,1.84,2,2019-08-11,7,Temperature Sensitive,Ajanta Electronics,2021-08-12,Medium,0,1,15,Spring,False,14,12
+2020-09-11 04:33:41,furniture,Sofa,1,8,0,5136,Warehouse,Large,55.0,1,2020-09-10,0,Cool,Supplier 1,1990-07-01,High,0,0,0,Summer,False,2,31
+2020-04-14 22:30:01,toys,Fisher-Price Grow-to-Pro Guitar,19,1,2,4384651,Pallet,small,0.3045,1,2020-04-12,12,Frozen,Grocery and Medical Mart,2021-04-14,A-Normal,0,2,11,NA,False,0,30
+2019-10-28 20:56:15,furniture,Bed Frame,105,3,1,73299438,Shelf,Twin,14.26,1,2019-10-30,2,Cool,Target,2020-11-17,1,0,1,3,Fall,False,6,30
+2021-08-21 18:45:15,electronics,Speaker,92,1,2,59738,Shelf,32 cm,1.01,2,2021-08-21,3,Cool,Croma,1995-12-31,High,0,2,3,Summer,False,2,31
+2021-08-25 16:19:54,clothing,Pants,256,56,18,00249,Wire Shelving - 4 Tiers,32,0.93,1,2021-07-16,5,Cool,SUPPLIER_15,2024-06-25,1,0,18,10,Summer,False,13,30
+2020-07-19 16:21:41,clothing,boots,142,1,3,473791,Rack,39,1.01,1,2020-05-21,2,No,Supplier4,2021-12-01,1,0,2,20,Summer,False,1,14
+2023-03-18 12:50:49,food,black tea,5,2,8,9440186618123,shelf,250g,0.25,1,2023-03-05,2,100.0,Bodani Tea,2024-03-10,1,0,9,45,Winter,False,0,12
+2021-02-07 18:13:14,furniture,Chair,1,1,3,B00QV48DW4,Pallet,Medium,20.0,1,2021-02-07,3,Cold,Amazon Warehouse,2021-02-10,High,0,3,7,Year-round,False,10,30
+2022-09-09 10:13:56,electronics,iPhone 13 Pro Max,145,24,2,14216004,Shelf,64GB,203.0,1,2022-09-09,2,20,Apple,1900-12-31,normal,0,2,0,Fall,False,1,30
+2016-11-02 14:07:21,food,Ice Cream,8,16,1,10194,Warehouse,473ml,0.65,3,2016-11-02,173,-20°C,Supplier 1,2016-11-28,A-Normal,0,8,1,Summer,False,23,30
+2019-07-14 17:50:25,electronics,Electronics,4,23,1,52431,Shelf,40 GB,2.17,1,2019-07-14,15,Cool,ATC,2021-03-13,red,0,14,14,Fall,False,16,4
+2021-06-07 20:15:07,electronics,Razer Viper Mini,11,289,1,9048247595556,Standard,Small,0.22,3,2021-06-07,125,Cold,Apple Inc,2021-06-10,1,0,1,2,Spring,False,10,30
+2022-02-05 19:36:05,electronics,Toshiba Satellite 15.6'' Laptop,6,1,1,1024292,Shelf,15.6 Inch Full HD Display,2.065,3,2022-01-09,240,Cool,Bhiwandi Stores,1999-01-01,Priority-2,0,102,101,Winter,False,14,1
+2018-09-02 06:47:04,clothing,t-shirt,10,1,26,2640664,Normal,M,0.24,1,2018-09-02,50,Cool,Supplier 1,2020-10-21,1,0,26,5,Spring/Summer,False,1,30
+2022-09-29 11:52:47,food,chicken,11,10,21,mna-chick-11-10-019,Box,400 grams,0.4,1,2022-09-29,50,3,nsh-chicken,2023-02-06,high,0,21,1,summer,False,13,14
+2022-03-18 01:48:46,food,Cereals and cereal products,5,1,7,1010072862,Pallet,FLAT 400g,0.4,3,2022-02-28,2,Chilled,SUPPLIER_1,2023-03-03,Medium,0,7,16,Spring,False,19,14
+2021-03-14 16:56:59,clothing,jeans,1,3,2,229172,Rack,32,0.66,1,2021-03-14,3,cool,Woolworths,2023-02-14,normal,0,2,7,Spring,False,5,28
+2020-07-18 06:06:00,food,Eggs,3,2,10,4725748,Shelf,Large,0.28,1,2020-07-16,2,-2,Eggs,2021-05-01,A-Normal,0,10,1,Winter,False,4,14
+2021-04-23 19:30:09,furniture,30x60 White Single Bed,13,1,1,353046,Shelf,King,24.0,1,2021-03-09,3,Cool,Lifestyle International,2022-01-01,High,0,1,21,Summer,False,20,30
+2020-02-16 18:29:01,clothing,Nike's Men's Zoom Pegasus 34 (Delta White/Black/Black),3,2,3,9808319167332,Rack,"M, 9",1.01,2,2020-02-16,1,Cold,supplier-5,1982-05-29,A-Normal,0,3,8,Spring,False,116,14
+2019-08-04 01:00:11,clothing,Jacket,329,12,4,144933,Shelf,M,0.87,1,2020-01-26,25,Cool,Railroads,2021-07-31,High,0,4,4,Spring,False,13,30
+2022-10-10 22:01:26,clothing,Sweatshirt,311,13,1,923415,Plastic hanger,Medium,0.545,1,2022-07-13,4,cold,Supplier-4,2022-12-25,normal,0,1,23,Spring,False,22,180
+2022-01-08 18:08:11,electronics,Toshiba 43 cm (17 inch) laptop,2,4,1,6601136482430,Shelf,17 Inch,1.6,1,2021-01-23,5,No Temperature Requirement,Amazon,2022-04-08,High,0,1,0,"[0, 0.33]",False,6,7
+2019-01-22 12:31:39,food,Bread,1,8,11,W000001072,Warehouse,800 g,0.8,3,2019-01-06,12,No temperature requirement,Supplier 1,2019-01-24,A,1,11,3,summer,False,1,30
+2019-08-19 17:23:36,food,salmon,27,126,11,4316439,Fifo,1000 g,0.353,2,2019-08-19,4,Chilled,supplier-2,2019-08-31,1,0,11,1,Summer,False,2,20
+2021-07-21 03:00:28,food,chicken,2,3,22,639623,Pallet,1.5 kg,1.5,1,2021-07-01,18,10°C,Supplier 1,2021-09-14,Normal,0,22,3,Summer,False,12,100
+2023-03-17 13:53:28,clothing,Polo T-Shirt,283,160,8,1038197722,Hanger,Small,0.32,4,2023-03-02,10,chilled,Supplier_1,2025-01-17,3,0,8,26,Spring,False,1,1
+2021-09-15 12:55:48,furniture,Steel Cabinet,117,3,4,1370,Shelf,Single Door,50.0,1,2021-09-15,5,None,Supplier 1,1999-09-01,High,0,4,7,All_Seasons,False,1,25
+2016-05-02 10:44:05,clothing,T-Shirt,13,13,28,31781,Bulk,M,0.28,3,2016-05-02,20,Cool,Supplier 1,2019-08-26,1,0,28,1,Spring,False,9,30
+2020-10-06 18:28:30,furniture,Table,13,37,1,91495818,normal,"36"" x 30""",14.0,1,2020-10-06,5,N/A,Karthik Suppliers,2020-10-06,1,0,1,0,fall,False,0,14
+2020-09-14 12:31:59,clothing,OVERLAY POLO T-SHIRT,319,37,1,12727881,Rack,M,0.38,2,2020-09-14,1,20,Migros,2028-04-07,1,0,0,7,FALL-WINTER,False,0,-4
+2020-02-27 21:40:15,food,instant noodles,1,1,23,675,Metal rack,380 g,0.361,2,2020-01-19,2,R,Supplier 3,2020-04-16,low,0,23,5,Autumn,False,1,31
+2021-11-19 09:11:45,food,Crackers,9,18,13,v_173_9_18,Pallet,1500,90.0,1,2021-07-22,12,cool,Eldorado Agro,2021-09-01,A,0,13,10,spring,False,10,90
+2014-10-15 17:16:40,electronics,ear pods (s) (white),145,1,1,756810620,shelf,Small,0.02,1,2014-08-18,9,cold,Apple Inc.,2020-03-30,3,0,9,6,Autumn,False,6,22
+2015-06-29 14:58:30,furniture,Chair,24,27,0,10225_1_3_24_27,Rack,Large,13.6,1,2018-02-01,2,No temperature requirement,Electronic House,2015-06-29,1,0,0,24,Summer,False,0,48
+2020-09-05 08:32:47,furniture,Hemnes Chair,5,10,4,UPI10060410000000000004,Perfect,M,4.2,2,2020-04-08,8,20,Supplier_1,2029-09-05,1,0,4,14,Summer,False,3,14
+2019-08-07 01:38:42,clothing,Blue Polo T-Shirt,51,25,1,1561717,Closed Racking,M,0.4,1,2021-11-09,14,No Requirement,Business Supplies,1912-09-07,A-Normal,0,14,23,Spring,False,1,2
+2020-06-19 13:30:37,furniture,Cabinet,31,30,2,cabinet_31_30_2,drawer,Mini,28.0,2,2020-06-19,10,Normal,Trent & Co,2020-12-01,High,0,2,17,Autumn,False,1,6
+2016-07-25 17:21:34,furniture,Coffee Table,2,1,3,5690,Double Deep,Medium,20.0,3,2016-07-24,3,Cool,Supplier_1,2022-07-25,A-Normal,0,3,11,Summer,False,4,9
+2020-02-01 20:17:23,electronics,(Electronics) Huawei Mate 20 X 128GB 8GB RAM 6.53inches 4000mAh fingerprint unlock (Nebula Grey),54,2,1,11077,Shelf,64GB,0.209,2,2020-01-12,40,0-20,BB Electronics,2030-07-27,E,0,1,1,Summer,False,0,25
+2017-01-23 09:22:47,furniture,Coffee table,103,2,6,1076,Single,48 x 46 x 14 inch,27.6,1,2017-01-23,3,No temperature requirement,Zuka,2024-01-23,A-Normal,0,6,7,Summer,False,0,6
+2021-04-23 12:13:22,electronics,Handheld Vacuum Cleaner,14,12,4,H-1941,Shelf,26,2.1,4,2021-04-23,8,None,Dell Inc.,2025-06-11,1,0,4,1,Summer,False,6,12
+2019-03-06 00:03:17,food,Cocoa,17,2,1,5252,Pallet,2 kg,0.8,2,2019-03-04,10,Chilled,Supplier 3,2022-01-27,A-Normal,0,10,13,Summer,False,15,5
+2016-01-28 17:03:41,clothing,Fashion Tee,11,11,2,135106,Shelf,XL,1.0,1,2016-01-09,101,10°C,Brand Factory,1912-01-28,secondary,0,2,5,Spring/Summer,False,10,16
+2019-11-17 12:21:07,furniture,Black Glossy Office Chair,1,36,29,10463,Free,S,4.6,1,2019-11-17,1,None,Furniture Factory,2020-12-31,Average,0,29,7,Summer,False,31,28
+2022-02-11 21:25:50,clothing,Casual Shirt,13,1,1,1600000146,Pallet,L,0.537,5,2022-01-22,100,15 degrees Celsius,supr1,1998-01-22,Average,0,1,23,Fall,False,2,3
+2022-08-06 19:22:51,toys,Smashed banana,249,16,1,00000315001134,Original box,7.2 x 5.4 x 17.7 cm,0.061,1,2022-08-02,10,Cool,Banana Tree,2023-05-24,Average,0,1,3,Summer,False,18,14
+2021-12-21 06:15:00,toys,Lego Ninjago,17,58,2,344635,Pallets,108x108x108,1.04,1,2021-06-24,50,30.0,Brickspace,1926-02-28,1,0,2,28,Christmas,True,1,12
+2021-01-03 15:26:52,clothing,Shirts,122,1,1,1402900012428,Shelf,M,0.3,1,2021-01-02,1,-15,Supplier-2,2022-11-12,2,0,1,13,Summer,False,1,11
+2022-08-26 15:55:31,electronics,Samsung Galaxy S20 Ultra 5G 128GB Dual Sim N...,1,79,6,10503402,Shelf,64 GB,236.0,1,2022-08-25,0,F,Mallcom Enterprises,1970-01-01,A-Normal,0,6,2,Summer,False,18,48
+2023-01-10 13:29:10,furniture,Sofa,4,4,1,6520830,Rack,71x71x85,59.0,2,2022-10-11,1,No temperature requirement,One Piece Wholesale,1990-03-01,4,0,1,12,Summer,False,19,30
+2014-08-31 15:36:42,food,noodles,0,2,24,15,Shelf,250G,0.0,2,2014-08-31,10,1,Supplier1,1970-01-01,A,0,24,0,Winter,False,1,36
+2021-09-17 11:58:57,electronics,Siemens HRG676S01B Pure Steam Iron,218,7,1,76173830,Rack,1400 Watt,2.8,2,2021-06-13,1,None,Amazon,1936-03-10,Normal,0,1,19,Summer,False,14,15
+2022-04-26 15:17:02,food,Cream Cheese,330,15,24,3468218605730,Shelf,Regular,0.16,1,2022-04-26,1,Cold,Supplier1,1909-10-05,A,14,24,11,Seasonal,False,1,365
+2019-10-17 23:16:18,food,Grapes,13,4,29,2225,rack,1.5kg,1.5,1,2019-06-19,1,0,Nature's Basket,2019-11-18,A,2,29,3,Summer,False,14,7
+2021-01-07 18:53:20,clothing,Hoodies,2,1,9,39009857,Bulk,M,1.13,4,2017-07-30,100,4,Supplier-1,2023-01-14,High,0,9,14,Spring,False,11,11
+2022-03-16 08:16:26,furniture,Memory foam mattress,1,8,10,1182625,Floor,Twin,10.2,1,2022-03-16,11,None,Gearbest.com,2023-05-16,Average,0,10,0,Spring/Summer,False,1,0
+2011-05-15 22:15:26,electronics,Sony Playstation 2,279,66,34,24983,Warehouse,102 cm,1.3,3,2011-01-29,10,Cool,Amazon,2011-11-19,A-Normal,0,34,5,Spring,False,4,18
+2020-08-08 19:02:26,clothing,T-Shirt-8,4,9,15,582,Standard,XXL,1.04,1,2020-07-11,2,Normal,RH,2021-06-11,A-Normal,0,15,14,Summer,False,20,15
+2020-01-13 08:40:36,furniture,Wooden Dining Table,2,12,11,58205,Open Shelf,120x90x78,27.0,1,2020-10-14,21,No Temperature Requirement,Mitchell's Hardwood,2020-10-14,Normal,0,11,3,fall,False,2,30
+2022-02-18 19:48:54,electronics,Wireless Charger,94,20,1,657835,Shelf,12 × 9 × 4 cm,0.114,1,2022-01-28,1,None,Megan Designs,1999-12-31,2,0,1,14,Summer,False,2,29
+2016-12-29 04:33:24,furniture,Coffee Table,1,2,1,375619,Outdoor,Large,24.5,2,2016-08-11,14,3193,Supplier 2,1900-12-31,B,0,14,10,Summer,False,12,120
+2019-08-06 13:53:30,electronics,Motorola Flip 2,4,97,99,Elec_001_006,Wide Aisle,Small,0.253,2,2019-08-06,200,No temperature requirement,Agarwal,2021-08-06,Normal,0,99,87,Spring,False,14,3
+2020-05-31 14:27:49,clothing,belt,10,30,1,35794,Double deep,46,0.097,2,2020-05-31,50,No temperature requirement,Crawford,2017-05-28,C,0,1,7,summer,False,18,12
+2023-04-19 07:40:51,electronics,HP Laptop,136,19,1,10020110124162,Room,15.6 inches,2.033,1,2023-04-15,5,2,Amazon,2025-07-19,High,0,1,1,other,False,1,30
+2018-10-11 13:27:55,clothing,Polo T-Shirts,62,10,10,1510407,Open Pallet,L,4.3,2,2018-10-11,5,Cool,Integrated Supply Chain Services,2018-10-25,A-Normal,0,10,21,Winter,False,2,60
+2022-08-04 23:04:19,clothing,T-shirt,2,2,15,238829455,Open shelves,4XL,2.8,1,2023-04-05,100,N/A,Marks and Spencer,2023-08-19,H3,0,12,27,Summer,False,5,34
+2021-08-27 21:19:06,food,Onion,6,1,2,U_6_1_2,Bin,1.5,0.8,4,2021-08-20,3,cool,Wholesale Grocers,2023-08-25,Awaiting,0,2,3,Summer,False,5,30
+2022-04-16 12:23:56,furniture,Sofa,27,18,2,90801,Standard,3-Seater,56.1,1,2022-04-16,5,Cool,Sofa King,1926-08-05,high,0,2,8,Spring/Summer,False,0,30
+2018-06-04 13:20:11,clothing,Sports Tee,7,2,100,162668,Racks,M,0.53,2,2020-08-17,100,Cool,Supplier1,1994-12-19,1,0,100,20,Spring,False,14,30
+2021-01-01 10:47:00,clothing,Shirt,349,2,1,B0017U4ZW4,Single Deep,M,0.375,3,2021-01-01,5,Normal,Supplier 2,2021-05-28,Average,0,4,5,Summer,False,1,180
+2017-01-15 02:52:30,electronics,Ideapad 330-15IG,69,238,1,8020391436331,Wooden shelf,15.6 inch,2.43,9,2017-11-10,1,Cool,Amazon,2020-10-24,A-Normal,0,1,4,Summer,False,67,15
+2018-10-16 17:55:24,electronics,mobile phone,8,2,1,101193056,normal,64GB,0.679,1,2023-02-20,2,40°C,Apple,2023-02-20,A-Normal,0,1,8,Fall,True,10,24
+2022-10-04 08:06:17,clothing,Sandals,337,9,14,30107913,Shelf,40,0.85,1,2022-09-29,7,Non-refrigerated,Shopsy,2022-12-31,3,1,14,13,Autumn/Winter,False,8,30
+2021-09-27 20:46:37,electronics,Power bank,303,15,1,204096,Shelf,5000mAh,0.16,4,2021-09-27,90,10°C,CD-R King,2023-09-27,1,0,91,2,Spring,False,17,1
+2019-02-19 08:51:12,toys,Heel Shoes,33,2,15,277792,Wire Shelving,41,1.6,1,2019-02-07,10,20,Kids World,2019-05-19,1,0,15,0,Summer,False,7,6
+2021-02-06 10:29:52,clothing,jackets,4,8,7,577,Metal Shelf,L,1.21,1,2021-01-12,5,cold,Unbranded,2021-03-10,normal,0,8,4,Fall,False,1,5
+2019-02-12 23:28:10,electronics,"HP Pavilion Gaming Laptop Computer 15-ec1601nf, 15.6\"" Full HD, 9th Gen Intel Core i5-9300H, NVIDIA GeForce GTX 1650, 8GB DDR4",2,67,2,70183221,Normal,"15.6\""",1.97,2,2019-01-25,1,25,Microsoft Store,1907-01-28,1,1,2,2,spring,True,0,1
+2019-08-16 06:52:16,food,Biscuits,1,9,14,227510,pre-cooled,240g,0.35,12,2019-08-16,5,4,Supplier1,1995-08-22,standard,0,14,6,summer,False,3,30
+2018-01-22 00:00:00,furniture,chairs,11,20,1,455013015,Pallet,32,31.0,2,2018-01-12,50,No,Supplier_3,2025-09-05,High,0,1,3,Fall,False,3,119
+2019-07-03 19:56:09,food,Coconut oil,11,9,1,3095109080370,Pallet rack,1L,1.0,8,2019-07-02,30,Room temperature,Aldi,2020-08-01,normal,0,22,0,Spring,False,1,10
+2019-07-31 21:14:11,furniture,Chair,310,12,9,4081,shelf,large,3.3,1,2019-07-31,3,none,WoodenCraft,2022-07-31,A-Normal,0,9,4,Summer,True,15,16
+2022-11-26 17:53:36,clothing,Men's Sport Shoes,115,132,9,4513894614377,Normal,7,0.529,1,2022-11-26,2,Normal Temperature,ShoeStore,2023-10-06,Low,0,9,45,Spring,False,2,24
+2013-05-28 05:29:27,food,Nutella,34,14,9,9816352,Wooden shelf,350g,0.165,1,2013-05-28,2,2,supplier-2,2014-02-07,high,0,9,3,Spring,False,1,7
+2022-10-07 17:49:49,clothing,Casual Shirt,165,21,1,2272371,Racks,M,0.79,2,2022-09-19,2,No Temperature requirement,NATIONAL,2024-07-14,Regular,0,1,11,Spring,False,10,1
+2021-09-25 03:14:04,electronics,"Samsung 15.6"" QLED Dual FHD 4k Monitor",18,1,1,6424827729,Shelf,"31.75""",8.76,4,2021-09-24,2,No,SUPPLIER-1,2022-05-25,High,0,1,1,Spring,False,3,7
+2019-09-02 07:37:20,clothing,Sneakers,18,1,5,9505,Shelf,9,0.86,2,2019-08-28,120,No temperature requirement,Redsox Shop,2020-07-31,1,0,5,142,Summer,False,17,12
+2017-10-01 15:03:54,food,Pasta,10,9,20,194582,Pallet,500g,0.5,1,2017-09-29,43,cold,Supplier 1,2018-10-01,1,0,20,1,Fall,False,8,30
+2016-06-04 11:09:09,food,snacks,210,3,13,TG5016,Pallet,24x48x19,18.0,1,2016-06-04,50,Normal,supplier-3,1990-02-03,0,0,13,1,Summer,False,37,1
+2020-01-03 08:33:25,toys,tommy Hilfiger Kids Nappa Leather Belt,38,147,1,EWC_11010959,Wooden Pallet,42,0.702,3,2020-11-12,2,20,Supplier_1,2022-12-31,0,0,1,11,Spring,True,1,1
+2021-02-04 12:10:32,electronics,Sony PS5,1,3,0,9569,Shelf,118.11,2.85,3,2021-02-04,45,room,Amazon.com,1900-12-31,A-Normal,0,0,1,Summer,False,9,30
+2021-08-19 09:17:13,clothing,Shirt Men,27,30,0,55112626,Bin,L,0.17,0,2021-06-06,200,No requirement,Safari,1929-05-28,Low,0,0,0,Spring,False,20,30
+2019-07-24 14:41:00,electronics,Sony MDR-ZX110 ZX Series On Ear Headphones,2,1,1,3000021175,Bulk,One Size,0.16,1,2019-07-20,3,cool,Amazon,1900-01-01,standard,0,1,3,Summer,False,17,1
+2020-05-09 02:06:49,electronics,Android 10,205,69,2,5266778,Wire Shelving,128 GB,1.0,3,2018-04-11,3,Cool,Amazon US,2023-03-27,High,0,2,7,Spring,False,12,12
+2020-06-19 01:34:57,food,Sweet corn,6,1,48,1000000032,Cardboard box,12,1.8,1,2020-06-19,40,4,Supplier 1,2020-08-21,A-Normal,0,48,1,Summer,False,1,6
+2019-08-24 14:59:40,furniture,Chair,4,15,1,2091598,Rack,Small,11.1,1,2019-08-24,5,cool,Maple,2023-03-19,High,0,1,7,Winter,False,5,29
+2018-11-16 12:21:27,electronics,Running shoes,95,10,24,26000022000479,Shelf,6,0.728,4,2018-10-27,15,2,Maplins Electronics,1901-10-23,A-Normal,0,24,9,Summer,False,4,30
+2015-05-09 08:21:31,food,Nutella,302,2,4,2011196008802,Plastic,1.3 Kg,0.805,1,2022-01-19,65,room_temp,Supplier 2,2022-07-23,Normal,0,4,4,Winter,False,45,13
+2022-03-10 17:50:51,furniture,Dining Table,6,7,2,16043523,Wooden Shelf,6' x 4',14.0,1,2022-03-10,1,cool,Supplier6,1999-01-01,high,0,2,3,Summer,False,1,1
+2017-10-14 10:18:52,furniture,Sofa,103,1,1,19890,Flat,2-seater,37.0,2,2017-01-10,10,No Freezer Required,Supplier1,1990-10-01,A-Normal,0,1,2,spring,False,3,14
+2019-03-27 12:29:37,food,Dinner Rolls,20,62,23,142280,Open,Small,0.79,1,2019-01-02,10,15,Aleph,2019-03-28,Critical,0,23,3,Summer,False,0,7
+2015-09-16 07:45:02,clothing,Shirt,119,1,2,14447845,Wooden shelf,M,0.63,1,2015-09-16,2,Cool,supplier-2,1910-01-01,1,0,1,49,Spring/Summer,False,10,120
+2016-06-24 01:25:44,clothing,Top (Ladies Tops),121,216,9,68618,Wire rack,M,0.32,1,2016-03-29,45,No,Supplier_1,2018-09-28,1,0,9,13,Spring,False,33,13
+2018-06-26 03:37:56,food,Chicken,5,4,4,11663,Rack,1 Kg,0.075,2,2018-05-28,30,Chilled,Supplier1,2022-03-26,1,0,4,2,Summer,False,2,36
+2017-03-21 16:20:57,electronics,HDMI cable,26,356,4,10364209,shelf,10 ft,0.11,5,2017-03-18,5,cool,Korea,1901-01-01,2,0,4,0,Summer,False,2,10
+2022-03-26 09:32:02,food,Mixed Nut Package,5,1,2,991894469,Wire Shelf,1.50 Kg,1.5,3,2022-03-25,10,Non-Temperature sensitive,Supplier1,1901-01-01,1,0,2,1,Summer,False,8,1
+2019-09-14 18:26:26,electronics,Dell 23 Inch Monitor,4,1,1,9177430839315,Warehouse,23,4.4,1,2021-07-26,200,None,Laptop and Computer Supplier,2022-10-17,normal,0,200,2,Fall,True,1,5
+2017-03-23 11:28:51,food,Coffee,2,1,2,35411,Pallet,250 g,0.25,2,2017-03-20,1,Chilled,Supplier 2,2017-06-23,1,0,2,0,Summer,False,17,26
+2021-02-22 19:51:01,clothing,Men's shirts,239,33,25,117671,pallet,M (Medium),0.79,2,2021-02-14,1,Cool,6,2021-05-28,0,0,25,7,Summer,False,16,1
+2017-01-24 15:07:01,furniture,Chair,2,2,2,CHAIR_01,Built-in,A3,1.4,2,2017-01-24,1,N/A,Briscoe,2021-12-24,Normal,0,2,1,Spring,False,7,14
+2017-01-29 08:59:43,furniture,Coffee Table,101,1,2,78566170,Shelf,Small,18.0,2,2019-03-21,0,Cool,Supplier_1,1900-01-01,Basic,0,2,1,Winter,False,4,30
+2021-01-19 06:24:37,food,Chicken Tikka Pizza,7,113,24,1910988,Shelf,38,0.95,2,2021-01-08,3,2,Supplier 1,1921-02-05,high,1,20,6,Winter,True,7,12
+2021-03-24 17:37:13,electronics,headphones,451,170,6,2225756,Standard,Regular,0.254,1,2021-03-23,10,Cool,4,2021-12-29,Normal,0,4,4,Summer,False,3,78
+2019-05-19 12:28:45,clothing,T-Shirt,351,19,44,19404039,Shelf,M,0.95,1,2019-05-17,4,No temperature requirement,brand2,1905-12-19,Medium,0,44,16,Spring,False,1,7
+2017-04-09 15:32:41,electronics,"Toshiba Ultrabook TECRA R850-14K 14.0"" FHD IPS Touchscreen Laptop 4th Gen Intel Core i5-4210U 2.6GHz 8GB 500GB SATA",2,4,6,8034664,Shelf,14.0,1.5,3,2017-02-17,45,Normal,Techno Infonet,1912-12-31,Medium,0,5,2,Spring,False,0,84
+2019-07-05 04:37:41,food,cookies,155,77,47,3208001630921,Wire,300g,0.3,3,2019-07-05,20,No,Supplier 4,2019-10-20,B,1,46,26,Summer,False,6,172
+2017-08-23 11:51:07,furniture,Chair,1,13,1,22109549,Shelf,Large,10.2,2,2019-07-10,2,Not applicable,Supplier_1,2021-01-30,High,0,1,13,Winter,False,4,30
+2021-09-09 20:14:03,toys,KAZAM Lightning 16-inch Kids Bike,23,18,1,61105949,Shelf,24,6.9,2,2021-09-09,100,cool,Supplier 2,2021-10-29,Normal,0,1,17,Fall,False,2,30
+2013-08-30 01:51:59,toys,Baby Toy (Boy) - Doggie,20,2,3,405611,Plastic,12 Months,1.0,1,2013-08-29,1,0,Supplier1,2014-08-30,A-Normal,0,3,3,Summer,False,0,52
+2023-01-16 08:10:46,electronics,Refrigerator,69,0,12,108001672,Cold store,243 Liters,55.4,1,2022-06-03,7,-18,SAMSUNG ELECTRONICS,1999-04-24,High,0,7,1,Spring,False,3,120
+2021-07-25 18:29:58,food,Sweet Corn,6,12,2,34739,Pallet,22.5 Kg,3.2,4,2021-07-15,10,Frozen,Supplier 1,1907-07-25,1,0,2,0,Summer,False,6,15
+2021-09-01 08:44:27,electronics,apple iphone 12,19,1,1,8062402079228,Covered storage,64 GB,0.182,1,2021-09-01,9,0.0,Smart Warehouse,2021-12-26,1,0,9,1,Fall,False,11,180
+2019-05-15 14:18:17,furniture,sofa,2,4,1,990029092,Closed,200x140x88,64.8,3,2019-05-15,12,40,Trendy Furniture,2041-05-15,High,0,12,9,Spring,False,0,56
+2022-09-15 11:29:15,clothing,Gloves,285,44,10,1603222,Open,Small,0.16,1,2022-09-14,1,15℃-22℃,Shivam Apparels,2023-12-01,High,0,10,1,Autumn,False,0,2
+2020-04-14 14:37:22,toys,roller skate,1,18,1,5154584339112,Pallet rack,12,3.0,15,2020-04-12,18,-30ºC,Supplier4,1990-02-11,High,0,0,5,Summer,False,2,365
+2019-05-01 00:10:21,food,Potatoes,16,33,6,11973,Wire Shelf,10,2.7,1,2019-04-01,10,Cold,Supplier1,1905-06-14,Red,0,6,2,summer,False,0,4
+2019-07-01 15:29:09,food,Fortune cookies,1,3,1,10009219,Cold storage,Small,0.117,1,2019-06-01,2,Freezer,Imperialfoods,2022-05-16,low,0,1,126,Winter,False,10,180
+2022-03-23 20:01:19,clothing,Casual Shirt,1,11,2,106,Wire Shelf (Pallets),S - Shirt,0.36,1,2022-03-23,3,Refrigerator,Supplier 1,2022-05-19,High,0,2,4,Summer,False,10,1
+2017-11-11 16:46:14,electronics,Smart Watch,4,18,4,1586772,Shelf,42mm,0.166,2,2017-11-11,3,C,Supplier33,2025-05-11,2,0,42,2,Summer,False,1,1
+2021-03-29 23:32:59,furniture,bed,180,3,1,72000231763,Wooden rack,Full,40.0,4,2021-03-28,1,30,Terracraft,2024-03-29,medium,0,1,9,Spring,False,52,10
+2022-02-24 13:17:32,food,Cereal,313,1,2,6091553786075,Bin,16.5 oz,0.411,2,2017-02-06,13,Frozen,Sysco,1999-07-13,A,0,2,18,Summer,False,12,13
+2019-08-20 10:14:01,clothing,Trousers,268,4,10,9550813,Shelf,26,1.0,1,2019-08-18,200,Cool,Supplier 4,2020-09-15,2,0,9,8,Spring,False,3,6
+2020-03-20 14:35:18,electronics,Raspberry Pi 3 Model B,1,176,2,1840202,Shelf,0.0,0.07,1,2020-01-08,0,None,Raspberry Pi Trading,2029-12-31,high,0,2,1,Summer,True,1,10
+2019-06-11 01:28:54,electronics,Cable,1,125,4,4668565,Bulk,10 m,0.215,2,2019-06-05,3,N/A,LG Electronics,2023-06-17,High,0,4,14,All-Year-Round,False,16,7
+2021-08-16 17:37:09,electronics,Rotating base,314,12,1,70851,Pallet,54.2 x 42.2 x 31.5 cm,12.7,4,2021-08-15,10,Cool,Groovy Gadgets,1907-08-21,1,0,10,4,Spring,False,10,30
+2022-05-05 20:07:58,electronics,Desktop,2,1,2,32983102,Shelf,Desk Top 6th Gen 10th Intel Core i3-6006U Processor 4GB RAM 1TB HDD 15.6-inch HD (1366x768) 1920x1080 16,4.48,3,2022-05-05,1,Moderate,BASICS,2022-12-08,Normal,0,2,5,Winters,False,0,30
+2021-04-07 02:20:26,food,Egg,203,12,24,1117202,Metal Wire Shelving,24 Pieces,2.2,2,2021-04-01,1,Cool,OSIM,2021-04-21,0,0,24,0,Spring,False,4,6
+2018-05-21 11:39:57,electronics,Cordless Phone,6,1,31,40261,Shelf,14.4 x 15.4 x 19.7 cm,0.89,1,2018-04-21,2,Normal,Sysco,1912-01-01,A-Normal,0,29,2,Summer,False,5,30
+2020-08-30 14:25:48,electronics,Motorola Moto G7 Play,20,23,2,8941380740665,Shelf,64 GB,148.0,8,2020-08-29,1,40,Motorola,1999-12-31,1,0,1,15,Summer,False,2,0
+2019-03-15 15:51:46,electronics,Charger,127,20,5,983566-1,Rack,100-240W,0.42,4,2019-02-01,2,No temperature requirement,DXP Ltd.,2021-09-16,Normal,0,5,11,Spring,False,1,4
+2018-05-25 21:17:50,clothing,T-Shirt,1,66,3,3006665,Shelf,L,0.4,4,2018-05-25,1,No requirements,Supplier 1,1901-01-01,High,0,3,10,Summer,False,53,1
+2013-04-17 05:05:21,clothing,Shirt,301,2,1,8342,Wire Shelf,M,0.6,1,2013-04-17,12,Cool,Shadies Clothing,1985-01-12,Normal,0,10,1,Summer,False,2,45
+2021-12-20 16:02:20,furniture,Coffee Table,4,16,1,2642,Wooden Shelf,120x70x40cm,12.0,3,2021-12-07,1,20,Supplier4,2022-12-31,Normal,0,1,0,Winter,False,0,2
+2021-07-20 20:50:13,electronics,PS4 Controller,188,21,1,9206524,Double-layer shelves,Medium,0.481,1,2021-07-18,4,10-22,Amazon,2018-12-15,3,0,1,1,Spring,False,116,14
+2019-02-14 12:09:17,electronics,Toy,203,7,1,13609,Single,Small,0.65,3,2022-06-13,3,None,Standard Supplies,1990-01-01,medium,0,1,3,Summer,False,36,30
+2022-08-03 21:48:02,food,Mayonnaise,38,2,8,742841,Pallet,1.5 L,1.24,2,2022-08-01,2,Refrigerated,Supplier 1,2022-08-15,3,1,7,1,Summer,False,14,7
+2018-06-06 08:26:52,food,jam,1,1,2,496956,Wire Shelving,280g,0.28,2,2019-11-28,1,No,Supplier3,2019-11-30,A-Normal,0,2,77,Fall,False,186,60
+2022-09-04 15:44:33,electronics,Apple iPad 10.2 (2021) 64 GB WiFi Tablet,13,10,1,692013700383,shelf,32 GB,0.68,3,2022-08-28,10,-40C to 60C,Apple,2022-12-31,normal,0,1,4,fall,False,1,30
+2019-01-20 15:27:23,food,Almonds,27,5,10,14494,Shelf,500g,0.075,1,2019-01-18,10,2,supplier-2,2019-12-31,high,0,10,1,Summer,False,0,36
+2016-11-17 08:25:45,clothing,Casual T-shirt,4,1,2,31710880,Bin,XL,0.41,7,2016-08-20,2,Cool,Just_Jeans,2020-09-08,High,0,2,72,Fall,False,2,7
+2020-04-14 19:28:03,furniture,recliner,336,10,1,4358383,Shelving,Large,22.87,1,2020-04-14,5,No,supplier-5,1990-01-01,High,0,1,138,Summer,False,33,13
+2020-09-15 20:56:44,food,Mango,4,2,1,39667,Perishable,1.5kg,1.5,5,2020-08-26,100,2,Supply Store,2020-12-16,1,0,1,4,Summer,False,1,10
+2021-04-05 20:25:01,clothing,Gloves,159,6,24,64716075,Shelf,Medium,0.49,1,2021-03-23,10,25,Klein,1901-01-01,A-Normal,0,16,4,summer,False,3,28
+2022-07-21 22:45:23,food,Milk,1,13,2,320,refrigerator,1,0.99,3,2022-07-21,20,4,Oasis,2023-08-09,1,0,2,1,Summer,True,12,30
+2021-01-05 13:59:11,electronics,Speaker,10,8,3,473294452,Normal,50 Watts,2.9,1,2021-01-05,1,Moderate,brand_1,2025-01-05,High,0,3,15,Spring,False,0,30
+2020-01-15 11:14:43,food,Vegetable Oil,36,137,12,23143,Pallet,2L,1.7,1,2020-01-15,10,Chilled,Supplier_2,1910-10-31,Normal,0,12,4,Summer,False,16,30
+2020-07-14 06:53:17,clothing,Cowboy boots,10,12,4,208678046,Static shelf,46,1.5,2,2019-02-17,3,Ground,Supplier 1,1902-07-14,High,0,4,10,Summer,False,14,18
+2019-09-09 19:11:45,clothing,Men's T-Shirts,101,29,2,333117450,Bulk,M,0.35,1,2019-09-09,18,No temperature,Texel,1909-09-09,Medium,0,2,0,Winter,False,1,4
+2018-11-01 22:40:06,clothing,Fleece Jacket,10,5,22,17610,Standard,L,0.155,60,2018-08-24,25,N/A,C&A,2019-07-31,0,0,22,69,Summer,False,25,120
+2020-01-26 17:48:42,food,Eggs,7,16,2,11617501,Room,large,0.61,1,2020-01-26,1,6,PicknPack,2021-02-26,2,0,2,2,Spring,False,19,20
+2020-04-23 16:54:34,electronics,Headphones,305,2,20,4934103,Shelf,Black,0.0205,1,2020-04-21,60,Cold,Geeky Stuff,1900-12-31,high,0,19,33,summer,False,8,60
+2019-04-18 10:46:27,toys,Remote Control Plane,102,32,12,8241594,Shelf,150 cm,0.09,1,2022-08-07,10,No temperature requirement,Shengshi Electronic,1900-01-01,2,0,12,6,Spring,False,6,5
+2021-01-20 07:49:56,furniture,Sofa,12,1,5,1060201233,Rack,3-seater,45.3,1,2021-01-17,10,No,KCC,2025-12-16,normal,0,5,26,spring,False,10,31
+2014-12-01 09:47:00,furniture,Table,302,1,2,64485,Open,12x15,35.0,1,2014-10-08,2,No temperature requirement,Supplier 2,1900-01-01,High,0,2,1,Summer,False,5,30
+2022-10-07 16:29:49,toys,Ball,2,7,1,23525,Rack,Normal,0.16,3,2022-07-21,10,No temperature requirement for storage,Wholesale store,2023-03-06,1,0,1,20,summer,False,2,20
+2015-02-02 19:16:20,electronics,robot vacuum cleaner,305,11,1,2186781,storage_area,20.4 x 19.7 x 9.4 cm,1.9,1,2015-01-23,5,No temperature requirement,KENS,1900-01-01,1,0,1,67,Year-round,False,0,36
+2019-01-17 20:48:32,furniture,Leather couch,2,3,1,2545662,Rack,L,79.5,1,2019-01-03,1,30,Axomart,1999-12-03,high,0,1,6,Spring,False,1,2
+2018-07-10 23:49:49,electronics,LED TV 55\'' (54.6 cm) (2020) - 4K UHD Smart Android TV (4300R) (3840x2160 Pixels) - 50 W Sound Output - 20 Watt Bass Ref,30,17,2,251503997,Open Shelf,55 inch,17.5,1,2022-03-02,8,Cool,Asian Artifacts,1980-01-01,1,0,2,3,Summer,False,3,30
+2019-08-28 12:30:57,electronics,Computer,294,132,0,58857,Cool,22 inch,4.2,4,2019-08-28,5,0,Amazon,2019-12-29,A-Normal,0,0,34,Summer,False,0,15
+2014-08-11 18:57:29,clothing,White_Trimmed_T-Shirt,309,1,1,20180727057220041,Shelf,S,0.545,1,2014-09-03,7,Normal,Apollo,1912-12-25,1,0,1,19,Summer,False,38,12
+2022-04-23 20:39:34,electronics,USB Type-C to HDMI (4K) Cable,104,194,6,8846174056229,Wire Shelf,9.8 ft,0.0756,1,2022-04-23,0,No temperature requirement,Oregon Scientific,1999-04-23,9,0,6,7,Spring,False,13,7
+2022-07-09 17:10:21,electronics,Thermal Imaging Infrared Scope with 4x Magnification,6,18,3,15863302,Shelf,Medium,0.896,1,2022-04-06,1,No temperature requirement,SUPPLIER 3,2027-07-09,High,0,2,1,Autumn,False,0,21
+2023-03-27 11:16:49,clothing,jeans,4,36,2,8925,Shelf,38,0.87,1,2022-09-20,2,150,Sri Lanka,2024-02-18,Normal,0,2,12,Spring,False,29,1
+2022-11-02 15:18:35,clothing,Shirt,1,1,4,1119000577527,Rack,M,4.6,1,2022-07-14,3,35,Casual Male India,2027-05-14,normal,0,4,5,Winter,False,3,4
+2022-08-05 19:15:46,clothing,Jeans,1,15,1,123-6547,Mechanical,32,0.95,1,2022-08-05,8,-20°C,ASOS,1922-12-15,1,0,1,5,Summer,False,10,30
+2021-07-21 13:40:54,toys,Fisher-Price Little People Animated House,13,2,1,895304008441,Bin,Large,0.201,4,2021-07-20,1,Cool,Ninja Kitchen,2026-07-21,1,0,1,36,Summer,False,16,90
+2021-01-19 14:40:26,furniture,Wooden Coffee Table,5,14,1,43,Rack,LxWxH: 105x60x40,23.62,2,2021-01-19,14,None,Blackmores,1901-01-30,A00,0,14,1,fall,False,2,30
+2020-01-14 17:21:29,furniture,Black Recliner Chair,104,1,7,FUR-2085-104-1-1,box,Small,23.0,10,2020-01-14,2,"[4, 12]",Supplier1,2022-11-28,Average,0,5,5,Winter,False,5,60
+2014-12-10 11:19:55,clothing,Shoes,51,76,2,UC001,Pallet,37,0.95,2,2014-11-25,2,No temperature requirement,Samsung,2021-02-11,high,0,2,6,Spring,False,12,2
+2018-04-15 14:29:25,clothing,Short Sleeve T-Shirt,341,8,1,11297,Rack,XL,0.7,2,2018-04-14,1,cool,Marks and Spencer,1903-06-20,High,0,1,1,spring,False,3,10
+2019-08-09 14:13:20,clothing,Sports Coat,2,15,9,1238943,Normal,L,1.0,1,2019-08-08,15,Cold,Supplier_0,1908-09-03,1,0,9,13,Fall,False,18,13
+2013-07-22 15:54:41,food,Ham and Cheese Sandwich,15,2,1,140738600,Shelf,12 oz,0.2268,4,2013-07-22,0,Chilled,Supplier 2,2014-01-18,4,1,0,12,Spring,False,0,14
+2021-09-19 09:36:15,electronics,Electric Kettle,20,318,1,26100,Open,2l,0.915,2,2021-09-12,29,None,Brand Factory,2025-09-19,No_Priority,0,9,25,Summer,False,10,6
+2021-03-02 16:31:14,food,Chai,1,2,1,G000269391,Pallet,0.400 L,0.4,1,2021-03-02,1,40,Supplier 3,2021-07-02,1,0,1,34,Spring,False,13,1
+2020-01-10 16:09:14,electronics,Sony DSC-HX200V/B 20.4 MP Digital Camera (Black),184,4,3,71073128,Floor Storage,Large,0.792,1,2020-01-10,2,no,KRDS,2020-01-28,High,0,3,7,Winter,False,3,18
+2020-07-18 05:06:23,furniture,Bed,32,0,1,PID_829_16032,Floor,Queen,26.77,4,2020-07-18,1,Normal,Supplier_2,1900-01-01,Medium,0,4,5,Winter,False,1,8
+2016-11-25 22:51:26,electronics,Wireless charging station,142,4,4,8821691,On the floor,12.5 x 16.5 x 3.5 inch,0.22,2,2016-11-25,1,30 to 40,Shoppers Stop,2019-09-15,1,0,4,1,Fall,False,56,28
+2020-10-05 19:39:02,clothing,Jeans,2,20,10,15122_101_2_20,Pallet,S,0.72,3,2020-06-25,100,No temperature requirement,Marks & Spencer,1911-07-14,1,0,10,1,Fall,False,4,30
+2014-09-14 17:34:34,clothing,button Down Shirt,1,3,3,11296725,shelf,M,1.3,1,2014-09-02,122,-20°C,Walmart,1909-12-18,normal,0,3,0,Summer,False,0,14
+2020-08-08 09:09:00,electronics,battery,2,2,1,battery-16,Shelf,6V,2.1,1,2020-07-12,3,Cool,Patties Foods Limited,2022-04-14,1,0,0,7,Spring,False,2,14
+2019-05-17 11:03:27,clothing,Bomber jacket,103,2,8,1210148839,Wire racks,XXL,0.78,1,2019-05-16,2,No temperature requirement,Supplier 1,1912-03-17,1,0,8,5,Spring,False,3,80
+2023-01-25 22:46:55,electronics,Portable power bank,2,9,1,6661157000001,Shelf,10000,0.29,1,2023-01-25,3,cold,Tan-Tek,2025-01-25,3,0,1,17,summer,False,13,0
+2020-05-12 17:43:54,furniture,Sofa Bed,115,7,8,10092963,Cupboards,Double,44.5,1,2020-03-25,5,> 10,Cosmos Furniture,2021-11-07,High,0,5,115,Spring,False,25,4
+2019-12-21 15:35:06,clothing,Sweatshirt,1,3,1,7016913377719,Shelf,XL,0.68,3,2019-12-21,20,None,Giordano,2020-02-21,Normal,0,1,1,Spring,False,3,14
+2022-04-25 22:10:49,electronics,Folding Table,5,8,2,427172,Shelf,24 Inches,5.1,1,2022-04-25,15,No,Regal,2022-09-25,A,0,2,2,Summer,False,10,12
+2019-09-27 11:45:22,electronics,Huawei Y9 Prime 2019 64GB 4GB RAM Dual Sim Unlocked Factory Unlocked (Black),44,70,1,5040350010005,Standard,64GB,0.133,2,2019-09-27,20,10-30,Maple,1999-12-31,A-Normal,0,1,17,Summer,False,20,12
+2016-08-24 13:45:31,electronics,Cooler,217,100,1,81266986,High-density,90 qt,8.0,7,2016-08-24,10,-10°C,Pinnacle,2021-08-24,1,0,1,13,Summer,False,0,1
+2022-05-25 08:50:49,furniture,Table,7,1,4,98249243,Wooden Shelf,Medium,33.0,4,2022-05-25,5,Cooled,Supplier 1,2024-06-01,high,0,4,4,Summer,False,4,1
+2021-03-01 16:40:17,clothing,T-shirt,49,6,10,12815,Cooling Rack,M,0.8,1,2021-02-27,4,10-15,Supplier-1,1992-03-28,4,0,10,11,Spring,False,5,28
+2021-02-25 23:52:21,toys,Educational Toys,6,100,11,1520007,shelf,Large,5.31,4,2021-01-13,20,Moderate,6000003,2022-02-18,A-Normal,0,11,15,Spring,False,21,15
+2017-07-15 15:10:17,furniture,Office Table,8,2,6,447,Wooden Shelf,Large,53.0,1,2017-07-03,7,Cool,BELTRADE,2020-07-15,A-Normal,0,6,22,Winter,False,62,12
+2019-12-04 13:00:38,food,Black rice,0,3,12,84994,Bin,2.5kg,1.0,6,2019-12-04,0,Cool,Supplier 1,1901-01-01,A-Normal,0,12,4,Autumn,False,0,60
+2020-04-30 20:51:34,electronics,Headphones,13,6,5,123456789012345,On the table,Large,0.632,4,2020-03-25,1,Cool,Supplier 1,2020-10-31,Normal,0,5,137,Summer,False,122,30
+2022-07-29 12:40:39,electronics,Bose Soundbar 700,177,5,1,66201550,On shelf,Black,5.3,1,2022-07-29,60,23,Novozamok,2023-09-25,Average,0,1,18,Summer,False,3,90
+2020-04-09 07:10:02,clothing,Saree,2,1,1,15458,Normal,Large,1.0,1,2020-03-27,30,No temperature requirement,Supermart,1912-12-24,Normal,0,1,1,Summer,False,4,1
+2022-08-27 14:18:12,electronics,Television,14,37,2,44743,Outdoor storage,42 Inches,13.0,2,2022-11-28,2,No,Samsung,2032-12-31,High,0,1,18,Summer,False,1,12
+2020-07-24 19:04:02,furniture,Sofa,309,71,5,15725477,open,XXL,25.0,16,2020-07-11,1,Cool,Supplier_1,2025-01-01,high,4,4,15,Summer,False,0,36
+2013-06-06 14:46:38,clothing,Button Down Shirt,309,5,1,8710387574645,Shelf,L,0.797,1,2013-06-02,5,25,Supplier1,1900-01-01,1,0,5,3,Summer,False,0,60
+2018-01-20 12:21:53,furniture,Office Chair,12,42,1,67740,Racks,Medium,5.5,1,2017-05-28,2,Cool,Supplier1,2020-05-15,Average,0,1,1,Summer,False,14,90
+2018-05-13 19:35:35,food,frozen fruits,1,23,1,824297561,Regular,1.2kg,1.19,1,2018-05-09,3,-30℃,Supplier_2,2021-02-13,Average,0,9,2,Summer,False,0,120
+2017-04-02 06:06:30,electronics,TV,4,1,1,87563078,Shelf,50 Inch,11.9,2,2017-03-01,1,No requirement,Garden City,2018-02-20,A-Normal,0,10,10,Summer,False,2,90
+2018-12-13 13:37:56,clothing,Shirt,310,1,1,13638,Pallet,XL,0.56,2,2018-11-30,5,cold,Nina's Fashion,2022-06-29,Average,0,1,6,Summer,False,13,5
+2021-08-20 22:12:09,furniture,Sofa,4,3,2,15840146,Rack,3 Seaters,88.0,1,2021-06-13,2,1,Supplier_0,2021-08-31,Medium,0,2,5,Others,False,14,20
+2020-09-21 20:53:54,electronics,smart light,40,3,6,9203791937801,Open,120 mm,0.083,2,2020-09-14,1,30°C,Amazon.com Services LLC,2021-06-24,high,0,6,3,Fall,False,36,182
+2021-02-20 11:40:45,electronics,Mosquito Repellant,6,12,1,2021020603060018,Wire Shelf,1200 ml,0.19,5,2021-02-18,1,Cool,Lotus,2022-08-14,Normal,0,1,23,Summer,False,7,33
+2020-06-11 19:22:53,clothing,Shirt,1,26,10,123456789554,Shelf,L,1.1,2,2020-06-11,6,Cool,North Face,2021-05-15,High,0,10,3,Summer,False,2,16
+2022-03-27 18:37:31,clothing,Shirt,3,11,3,2023013726,Wire Shelf,M,0.35,3,2022-01-22,3,Cooled,Pantaloons,1901-08-24,Normal,0,3,5,Summer,False,12,14
+2018-03-24 20:05:46,clothing,Jeans,236,9,35,2140842,Wooden shelf,S,1.0,2,2018-03-24,4,2,Supplier1,2020-12-31,1,0,35,1,Spring,False,24,30
+2022-05-16 08:56:27,clothing,Shirt,2,46,2,shirt-345,Rack,M,0.54,7,2022-04-21,1,Chilled,supplier-4,1905-12-09,High,0,2,22,Fall,False,37,1
+2020-01-13 12:22:45,furniture,Bunk Bed,195,11,1,4080,On Floor,King,66.0,1,2020-11-29,1,No temperature requirement,Fourth Floor,1998-12-27,High,0,1,3,Summer,False,9,31
+2021-09-20 04:27:04,food,Eggs,1,1,1,3909,Loose,Medium,0.8,1,2021-03-28,46,0,Supplier_2,2021-11-20,1,0,1,170,Autumn,False,122,84
+2017-01-18 15:26:29,furniture,Dining table,21,14,1,7556057,Shelves,small,8.0,5,2018-07-06,20,Not required,Little Deals,2019-04-17,high,0,23,13,Summer,False,10,21
+2015-03-21 06:22:06,food,chickpeas,12,17,17,17795,Carton,300g,0.062,0,2015-03-18,100,cold,supplier-8,1904-05-22,1,0,67,14,SUMMER,False,1,90
+2014-09-29 14:41:39,food,Parlour Pride,2,5,1,2023000000000000002,Paper bag,350 g,0.35,1,2014-09-09,20,1,Supplier 2,2014-09-09,1,0,1,1,winter,False,1,46
+2022-08-18 21:57:56,electronics,Airpods,205,11,9,7289330703433,Shelf,XS,0.03,1,2022-08-18,2,No temperature requirement,Apple,2032-08-18,normal,0,9,0,Summer,False,14,15
+2022-03-15 23:23:49,food,Corn Flakes,21,29,1,1073683050,Bin,200 g,0.2,8,2022-03-15,1,normal,Richardson,2022-04-21,non-critical,0,0,7,Spring,False,5,2
+2022-04-15 23:12:51,food,Green tea,1,4,129,649806,Open Shelving,280 g,0.28,1,2022-04-15,30,ambient,Aryavarta Agro Foods,2023-02-15,1,0,129,2,Summer,False,2,30
+2022-07-13 22:23:43,food,Fresh Cucumber,41,0,13,2257,Refrigerator,400 g,0.4,11,2022-07-07,10,0-5,Supplier_3,1970-01-01,high,0,13,11,Summer,False,49,8
+2021-07-18 12:49:24,furniture,Chair,2,2,1,92989,Warehouse_rack,3 seater,7.5,1,2021-07-14,5,Cool,supplier14,2021-10-12,2,0,1,82,Fall,False,11,30
+2021-04-03 17:12:12,clothing,Jeans,53,18,3,130657,Refrigerator,S,0.35,3,2022-08-10,3,> 20,Supplier 1,2021-05-03,Average,0,3,14,Spring,False,2,60
+2020-05-27 08:46:47,clothing,Jeans,187,2,1,12345,Rack,Medium,0.9,5,2020-05-27,7,20 °C,Supplier1,1999-01-10,3,0,1,1,Summer,False,11,12
+2019-01-02 15:33:12,furniture,Sofa,3,1,2,2479,Wooden Shelf,XL,42.0,0,2019-01-01,10,Cool,Apex Supplier,1995-01-01,Normal,0,2,0,Summer,False,0,36
+2023-04-06 12:35:07,food,pizza,80,14,31,671965,Cool,Regular,0.8,1,2023-04-05,3,5,VIVO,2023-04-07,A1,0,31,5,Seasonal,False,0,58
+2021-10-18 20:00:00,clothing,Women Fleece Pullover Hoodie,10,27,1,11004517,open,M,0.766,1,2021-09-23,2,No Temperature Required,Supplier 5,1902-11-07,A-Normal,0,1,11,Winter,False,22,10
+2019-08-11 15:06:46,furniture,office chair,19,117,1,1000000054,Shelf,XL,10.3,3,2019-08-10,3,None,Warehouse,2021-06-28,High,0,1,10,Fall,False,7,30
+2022-07-23 22:27:31,clothing,short-sleeve t-shirt,332,293,7,2973786,Normal shelf,S/M,0.124,1,2022-07-22,200,No temperature requirement,Fourth Floor,2026-07-21,Regular,0,7,16,Summer,False,18,14
+2021-02-07 22:13:47,clothing,Women's Shirts,125,93,13,916041153,Rack,Small,0.5,2,2021-01-07,10,No Temperature,C&A,1970-01-01,normal,0,13,10,Spring/Summer,False,2,2
+2017-06-03 11:24:45,clothing,Jeans,216,0,8,1000006408,Standing,S,0.98,1,2017-06-03,2,Cool,Shoppers Stop,2017-08-03,Medium,0,8,5,Summer,False,1,30
+2020-11-10 11:30:42,clothing,Skinny Jeans,22,11,89,1490130,Shelf,L,0.741,1,2020-10-27,40,15 °C,Supplier 2,2020-12-31,Normal,0,89,16,Spring / Summer,False,24,15
+2019-12-02 21:34:36,food,Baked Beans,20,24,20,1813460745,Shelf,400g,0.45,10,2019-12-02,15,No,Supplier 9,1906-09-24,high,0,20,2,summer,False,110,25
+2020-01-03 08:13:47,clothing,Shirt,81,134,2,F-10183,Shelf,M,0.5,0,2020-10-16,10,Cool,Greenlife,2023-10-01,normal,0,2,4,Summer,False,14,30
+2019-06-12 21:34:00,furniture,Bedroom Chest,5,57,2,51844,Shelf,Full Size,50.0,1,2019-06-12,1,Cold,Supplier 1,1998-06-01,High,0,2,8,Year-round,False,33,9
+2022-09-19 08:34:49,food,Milk,15,3,18,702557,Cold,1L,1.0,5,2021-06-22,24,4,Supermart,2022-10-31,High,0,18,1,Summer,False,15,60
+2019-08-23 01:01:49,furniture,Chair,103,3,1,61973,Stacked,L,24.0,3,2019-08-23,2,No temperature,Thrift Expo,2022-04-27,a-med,0,1,1,All,False,1,1
+2022-03-01 13:48:02,electronics,Bluetooth Headset,1,15,4,300002052,Racks,Regular,0.11,2,2022-02-20,2,-20 to 50,C24,2024-03-01,Average,0,3,6,spring,False,3,14
+2022-09-27 21:27:52,clothing,White Shirt,112,6,1,8349108,Double-Deep,L,0.67,0,2022-09-27,10,25,Supplier1,2022-10-27,1,0,1,6,Spring,False,1,30
+2021-01-17 09:27:50,clothing,Men's Casual Shirt,244,19,5,7019522,Pallet,M,0.5,1,2021-01-17,10,NEUTRAL,Supplier 1,1907-05-29,standard,0,5,13,Spring/Summer,False,1,12
+2021-01-20 21:44:57,furniture,Garden Furniture,1,1,1,CN2104,Indoor,2 seater,14.3,3,2021-01-20,10,Normal,Michael,2021-12-01,normal,0,14,11,Spring,False,8,12
+2020-01-19 18:17:48,furniture,Coffee Table,5,2,1,PET-03740,Warehouse,X Large,25.0,2,2020-01-17,350,Cool,Stokey,2021-01-18,21,0,1,11,Autumn,False,2,12
+2019-03-03 08:25:41,furniture,Dining Table,2,1,1,1231007,flat,33-37 inches,43.32,3,2019-03-03,15,Temperature insensitive,Kerry's,2028-03-03,normal,0,1,42,Year-round,False,6,7
+2021-09-01 11:17:33,clothing,Women Jeans,1,15,9,23478,Shelf,32,0.86,5,2021-09-01,12,4,Panda,2022-01-30,low,0,9,3,Spring,False,3,7
+2020-01-17 05:45:46,clothing,T-shirt,237,1,1,0230449090516,Wire rack,M,0.87,5,2020-05-11,10,Normal,Fashion X,2020-04-29,high,0,2,1,Spring/Summer,False,7,48
+2021-03-25 09:11:44,furniture,Table,1,12,63,5595,Shelf,"67""x30""x30""",32.0,2,2021-03-25,4,Cool,Grover,1999-12-31,normal,0,63,1,Summer,False,12,28
+2018-07-05 22:24:43,clothing,Jeans,200,882,1,14553,Wooden Shelf,regular,0.4,1,2021-05-10,25,No temperature requirement,VMart,1999-12-18,2,0,1,2,Summer,False,75,90
+2020-12-15 21:21:56,clothing,Sweatshirt,21,2,1,288954,Wardrobe,L,0.905,1,2020-12-15,1,Cool,supplier_3,1903-11-01,A,0,1,17,Summer,False,18,30
+2022-01-25 20:41:25,furniture,Hutch,2,1,2,1414,On-shelf,24x18x30,10.0,3,2022-01-22,160,30-35,Supplier 3,1993-01-15,High,0,2,5,Spring,False,1,421
+2017-02-08 20:43:16,clothing,Women's jeans,209,29,4,714601,Rack,38,0.86,1,2018-02-17,5,None,Supplier 3,2020-12-15,2,0,4,16,Fall,False,8,30
+2021-06-01 11:21:09,food,Grapefruit,1,3,25,17665,Wicker Basket,1.5 KG,1.5,5,2021-05-22,7,0,Supply Chain 360,2021-06-24,High,0,26,10,Spring/Summer,False,4,0
+2021-07-25 15:33:34,furniture,Shelf,193,7,11,3677,Shelf,Wide,0.5,4,2021-07-25,4,cold,Amazon,2025-12-31,non urgent,0,11,7,summer,False,12,30
+2021-09-07 15:20:10,furniture,Sunny Health & Fitness SF-RW5515 Magnetic Rowing Machine,150,1,1,45675,Shelf,70 inch,17.87,2,2021-09-07,1,None,Brand Factory,1900-01-01,Medium,0,1,7,Summer,False,3,30
+2021-01-18 13:44:06,toys,Playmobil,109,2,3,5918,Standard,Mini,0.45,2,2021-01-18,20,Cool,Giovanni,2022-01-01,A,0,3,11,Summer,False,3,15
+2020-11-23 08:42:02,toys,Honeybee Toys - Buzzing Bee,3,1,2,9383785,Pallet,Medium,0.792,2,2020-09-16,15,No temperature requirement,Honeybee Toys,2020-12-23,not priority,0,2,4,Summer,False,4,10
+2023-07-20 03:28:39,clothing,Jeans,236,519,3,8831819,Bulk,Regular,1.0,1,2023-07-08,8,No temperature requirement,Woolworths,1907-05-02,low,1,3,15,Autumn,False,20,7
+2022-11-06 02:42:19,clothing,cotton shirt,6,3,1,13384,Plastic Box,L,0.4,4,2022-10-04,1,Cool,Supplier-3,2023-02-27,High,0,0,8,Summer,False,14,30
+2018-04-19 22:27:14,furniture,Chair,323,5,1,9150467,Wooden,Medium,0.77,2,2018-04-18,20,Cold,Supplier-6,2020-01-01,P2,0,1,5,Summer,False,16,30
+2022-04-01 13:10:28,electronics,Nikon D5300 + AF-S 18-55mm f/3.5-5.6G VR II + 16GB SDHC + Camera Bag + 2 Extra Batteries + Extra Battery Charger + Strap + Lens Hood,12,18,1,22354,Open shelf,Full Kit,1.22,4,2022-03-18,5,Normal,MNC Retail Store,2023-04-01,High,0,1,3,Spring,False,1,30
+2018-10-19 18:13:19,clothing,Sweatpants,331,11,1,INV000000187,Mobile,Medium,0.535,1,2018-09-01,1,None,New King,2019-10-19,med,0,1,2,Winter,False,1,7
+2016-03-18 04:06:05,furniture,Dining Table,17,1,0,12345678901234567890,Shelf,23 inches,12.0,2,2016-01-27,12,N/A,Supplier 1,1999-12-31,Normal,0,1,2,Year-Round,False,5,4
+2022-09-15 14:00:58,clothing,Jeans,43,1,4,L-71895,Wire Rack,Slim,0.6,1,2022-09-15,4,Normal,Park Avenue Clothing,1905-01-01,Normal,0,4,12,Spring,False,96,60
+2022-12-01 04:59:36,electronics,Ceiling Mounted TV Bracket,15,18,2,AS852143,Shelf,70 cm x 80 cm x 20 cm,4.2,1,2022-12-01,1,20,Megacraft,1999-12-31,1,0,2,0,Summer,False,2,365
+2018-12-31 17:02:19,food,Eggs,4,12,32,807171954,Pallet,6,1.3,4,2018-12-28,0,4,Victoria's Finest Poultry,2019-03-15,Red,1,30,21,Winter,True,5,24
+2020-11-27 21:08:41,clothing,T-Shirt,16,1,2,37678,Pallet rack,M,0.41,1,2020-10-25,6,Normal,Eco-Fashion,2022-04-23,Average,0,2,1,Autumn/Winter,False,2,2
+2019-03-04 01:08:43,electronics,Electronics,12,12,111,9105207398670,Cardboard box,24 inches,1.7,4,2019-02-25,1,None,Vijayalakshmi Industries,2022-09-18,High,0,111,7,Winter,False,14,21
+2019-06-10 17:02:20,furniture,Chair,102,21,1,48708,Wooden,Large,12.0,10,2019-01-28,1,10,Basic Supplies,1906-05-16,Low,0,1,10,Fall,False,8,24
+2022-10-04 16:07:24,electronics,CCTV Camera,130,43,1,4854992,Wooden shelf,"32""",1.63,3,1970-01-01,8,No temperature requirement,Seth,1970-01-01,Low,0,5,9,Winter,False,196,9
+2022-05-18 14:47:56,furniture,Dining Table,339,25,1,1577835,Shelving Unit,Medium,49.9,4,2022-05-13,2,Cold,premier furnishers,2023-12-31,High,0,1,10,Summer,False,1,2
+2013-10-13 18:14:02,electronics,DJI Inspire 1 Quadcopter,3,1,1,8399928,Shelf,Large,1.19,1,2013-10-13,24,Cool,"Shenzhen Dongguan Guanheng Science and Technology Co., Ltd.",2021-01-20,1,0,1,1,Winter,False,1,1
+2021-07-02 01:16:29,electronics,Furniture Fabric,516,3,1,2650730070041,Box,2,0.03,1,2021-07-02,3,No thermal requirement,KartRocket,1970-01-01,A-Normal,0,1,28,Summer,False,5,1
+2018-02-05 12:04:48,food,Soya Chunks,16,1,1,15635,Bin,250g,0.25,2,2018-02-05,15,Cool,Nestle India Ltd,2022-04-22,4,0,15,26,summer,False,16,30
+2022-10-23 19:50:04,furniture,Armchair,15,21,11,1276,Wooden open shelves,Large,26.2,1,2022-10-18,6,-10°C to 20°C,Supplier 0,1984-07-13,Average,0,11,10,Summer,False,1,12
+2022-07-01 13:43:20,clothing,Sweatshirt,23,18,9,15896869,Wire shelf,XXL,0.924,1,2022-06-20,1,20-25,MARG,1911-11-15,A-Normal,0,9,4,Autumn/Winter,False,11,7
+2022-12-16 02:45:21,clothing,Trousers,318,63,11,14916847,Pallet,L,0.84,1,2022-12-15,22,Cold,supplier-4,1985-08-16,Normal,0,11,4,Summer,False,1,1
+2014-06-18 23:24:15,toys,Fisher-Price My First Remote Control,2,1,3,toy-3,warehouse,22 cm,0.87,1,2014-06-15,1,No temperature requirement,Supplier 1,1999-12-31,5,0,3,7,[14] Fall,False,20,90
+2016-02-09 23:33:42,electronics,Computer Monitor,6,1,2,399513,Shelf,"19""",3.9,6,2016-02-09,1,22-28,Uni,2016-11-14,2,0,2,1,Spring,False,0,1
+2023-03-23 19:55:49,food,Lactalis American Cheese,3,1,22,26178259,Pallet,16 oz,0.325,11,2023-03-21,3,Refrigerated,Lactalis American Cheese,2023-04-06,normal,0,22,0,spring,False,21,30
+2021-09-24 11:14:51,clothing,Trousers,3,12,10,3420121,Shelf,M,1.1,6,2021-09-24,149,23°C,Key Store,2023-01-29,A,0,9,1,Spring,False,6,1
+2013-09-16 16:15:00,clothing,White-Black Men's Round Neck T-Shirt,18,2,4,16058,Rack,Medium,0.38,1,2013-08-01,2,20 C,H&S,2013-12-01,A-Normal,0,4,1,Summer,False,0,180
+2019-07-26 13:51:48,toys,Laser Beak Ball,125,0,1,36446,Bin,Small,1.25,4,2019-07-26,11,-20 °C < Temperature ≤ 15 °C,Newyork toy,2022-07-25,Medium,0,11,4,Spring/Summer,False,59,60
+2021-08-12 18:24:46,furniture,Table (White),4,3,1,1062,Rack,XL,10.0,2,2021-08-12,5,No Temperature requirement,brand_1,1900-01-01,Normal,0,1,3,Spring,False,5,11
+2021-06-07 17:02:22,electronics,Wireless Headphone,4,22,1,18002740000501,tier,Large,0.379,4,2021-05-05,20,Normal,B-196,2029-10-11,1,0,27,7,Summer,False,14,7
+2021-07-13 21:54:43,furniture,Furniture,1,1,21,FI-03365,Shelf,Double Bedroom,195.0,1,2021-07-13,16,Normal Temperature,Supplier-0011,1999-12-31,High,0,21,18,Summer,False,18,52
+2021-12-03 21:55:11,furniture,Wardrobe-27,2,14,3,1088,Shelf,48 inches,28.0,1,2021-12-03,9,N/A,Supplier 2,1990-01-01,High,0,3,23,Summer,False,1,18
+2018-11-27 14:57:53,food,Pineapple,11,2,1,27294000,Deep Freezer,2.5kg,1.75,3,2018-11-23,22,-180°F,Supplier 2,2019-10-12,high,0,22,2,Winter,False,16,259
+2023-07-08 17:21:56,clothing,T-shirt,2,3,7,11205036903509,Rack,M,0.53,3,2023-07-07,6,Cool,Fashion House,1907-07-08,Low,0,7,4,Summer,False,10,14
+2021-06-08 14:47:01,clothing,Denim Skinny Jeans,0,4,12,000000035597,Shelf,32,0.53,5,2021-03-28,5,Dry,House of Beans,2021-06-08,High,0,12,12,Spring,False,1,12
+2019-12-01 02:03:08,electronics,Panasonic Lumix FZ1000 20.1 MP Digital Camera,194,10,1,9704792,Shelf,16.9 x 12.9 x 14.1 cm,1.566,1,2019-12-01,3,No,Panasonic,2019-06-30,3,0,3,1,Summer,False,16,20
+2021-11-02 13:21:55,food,Fresh milk,1,933,1,262940370,Cooling,1,0.9,2,2021-11-02,2,5,Vikram,2021-09-05,1,0,1,10,Summer,False,1,1
+2019-01-05 19:55:50,electronics,White HP 21.5 Inch LED Monitor,176,1,1,8151439580044,Shelf,21.5 inch,3.06,1,2019-01-03,1,Cool,HP,2030-01-03,Normal,0,1,3,Summer,False,13,30
+2020-09-11 10:27:20,food,Lemon,2,20,60,22430312,Single,1.5 Kg,1.5,1,2020-07-23,15,3,Supplier 1,2020-09-22,High,0,60,20,Spring,False,1,24
+2022-03-26 12:48:24,electronics,Electronics,35,129,1,94267371,Pallet,Small,1.5,2,2022-03-26,1,25,Sony India,2023-01-28,high,0,1,1,summer,False,10,6
+2018-09-16 21:58:00,toys,LEGO DC Super Heroes Batman vs. The Riddler Escape,67,40,2,744626233583,Standard,1607 grams,0.1607,1,2021-03-21,120,None,LEGO,1909-12-31,A-Normal,0,2,0,Winter,False,6,42
+2016-10-15 17:48:12,toys,"Lego 41642 Star Wars The Razor Crest Building Kit, New 2021 (935 Pieces)",1,1,3,199268827,Shelf,65 x 19 x 22 cm,2.6,2,2020-04-23,1,No temperature requirement,Supplier 1,2022-05-01,Average,0,3,23,Autumn,False,2,14
+2021-11-24 21:06:02,food,Milk,1,3,1,7060334905938,Refrigerator,1.5L,1.43,2,2021-11-24,9,4,supplier-1,2022-11-18,Average (2),0,9,7,Year Round,False,2,14
+2019-02-10 10:55:43,food,Sugar,384,147,3,540693920,Pallet,2.5,1.2,2,2019-01-31,2,Chilled,Supplier 4,2020-02-28,1,0,3,12,Summer,False,1,61
+2020-06-21 10:31:34,electronics,Laptop,501,17,1,64147339,shelf,14 inches,1.45,2,2020-05-21,10,10-15,Shaadi Industries,2021-06-21,Average,0,1,6,Summer,False,2,14
+2021-03-15 14:57:16,furniture,Small Black Chair,127,4,4,FUR-001-001-00000019,Warehouse,Small,1.5,2,2021-03-14,3,Cool,Stores,2022-03-15,High,0,3,1,All Year,False,1,3
+2015-02-09 06:50:47,electronics,"Power Supply, 2 Pack, US 1AC to US 1AC",12,46,3,1100303735,Shelf,Standard,0.755,1,2015-02-07,6,No temperature requirement,Tiger Direct,1999-12-31,1,0,3,7,Fall,False,1,6
+2020-05-24 16:11:06,clothing,Men's Shoes,10,1,1,14238,Racks,42,0.79,1,2019-07-15,6,chilled,Woolworths Australia,2021-04-19,1,0,6,11,Summer,False,1,90
+2017-10-17 15:31:21,clothing,Pants,2,2,1,30299390,Standard,24,0.33,1,2021-01-04,4,Cool,Supplier1,2021-07-08,normal,0,1,2,Fall,False,1,14
+2022-02-13 15:10:07,furniture,couch,105,91,1,56825,Cellular storage,Large,88.0,1,2022-02-01,7,"[3, 5]",Supplier_1,1908-04-25,Low,2,1,7,Spring,False,3,14
+2022-11-08 15:49:43,clothing,hat,34,30,1,6658324,Shelf,L,0.34,1,2022-11-07,2,No temperature requirement,Maplop,2025-11-08,medium,0,1,11,Summer,False,1,8
+2022-05-03 08:41:30,food,Sellotape,221,1,2,63810791,Palet,12,2.0,1,2022-01-12,5,No,Lidl,1907-08-28,high,0,2,85,fall,False,19,120
+2020-03-31 15:54:42,toys,Piggy Bank,5,2,1,1494267,Pallet Rack,21 x 14 x 10,0.344,3,2020-03-31,10,Normal,Supplier 1,2025-03-31,A-Normal,0,1,3,Summer,False,15,12
+2015-12-02 11:33:31,electronics,Power Adapter,54,103,5,164574,Pallet,120W,0.554,1,2015-12-02,1,Cool,Amazon,2028-08-21,A-Normal,1,4,3,Autumn,False,2,60
+2020-08-11 04:14:09,electronics,Food Processor,340,30,1,0184184673671,Shelf,1.8 L,4.7,1,2020-07-17,4,cool,Croma,2024-05-11,High,0,1,5,Summer,False,0,10
+2015-08-21 22:20:29,food,Frozen Apple Juice (1.0 Litre x 24),31,44,8,2618839,Pallet,1.0 Litre,1.9,7,2015-08-19,29,Frozen,Supplier 1,2015-05-20,1,0,8,1,Winter,False,14,30
+2021-04-27 09:53:06,food,Frozen Apple Juice 1 litre,12,20,26,1120,Chest,1 litre,1.0,2,2021-03-20,10,-18.0,Supplier 3,2022-03-29,normal,0,26,0,Summer,False,1,120
+2020-11-30 13:28:12,electronics,Nintendo Switch,431,40,0,54763,Pallet,Fortnite - Nintendo Switch,0.4,2,2020-09-18,3,-10°C,Supplier_1,2025-11-30,1,0,0,31,Summer,False,1,17
+2022-01-12 11:50:01,furniture,Chest of Drawers,5,2,1,1917,Wooden Slatwall,39 x 120 x 45 cm,41.1,8,2022-01-07,1,-20° C,Groceries Planet,2023-01-11,high,0,1,1,Summer,False,2,60
+2018-12-13 10:36:21,food,Cereal,10,3,18,1002395,Pallet,24 Packs,0.5,2,2020-09-18,2,Cool,Supplier 002,2021-09-29,high,2,17,3,Spring,False,2,30
+2021-01-14 15:16:01,clothing,Sherwani,145,4,1,101,Pallet,M,0.0,0,2020-10-21,2,No temperature requirements,Aditya Exports,2022-11-24,2,0,3,4,Winter,False,1,1
+2021-03-27 18:06:12,food,chicken,1,14,1,3748,Pallet Racking,0.6kg,0.6,2,2021-04-18,20,Frozen (0-5°C),supplier-3,1922-05-22,A2,0,1,30,winter,False,6,63
+2019-09-23 19:47:45,furniture,Wooden dining table,19,1,1,66762,Wooden crate,large,15.0,2,2019-09-18,3,No cooling required,Supplier 1,2026-09-19,normal,0,4,2,Autumn,False,8,30
+2019-07-24 14:18:15,electronics,Apple MacBook Pro 13in 2020,2,24,1,10848,Open shelf,15.6-inch,1.43,3,2019-02-17,2,Normal,Apple,2022-06-14,high,0,1,12,Summer,False,13,2
+2021-02-17 12:14:43,furniture,Living Room Center Table,209,26,26,6678028,Shelving,120 x 60 x 60,20.0,30,2021-02-17,14,No temperature requirement,Supplier-1,1999-08-19,2,0,26,13,Summer,False,13,14
+2023-05-02 23:08:26,clothing,Sports Jackets,320,4,2,000064,Wire rack,L,1.07,1,2023-05-02,5,No,Supplier1,2024-05-02,high,0,2,110,Spring-Summer,False,1,30
+2023-01-04 14:43:55,electronics,Air Fryer,20,1,4,2653,Perishable,2.6 quart,3.11,2,2022-12-14,1,-40 to -20 °C,Cold Master,2023-06-11,Priority 2,0,4,3,Spring,False,6,12
+2018-06-17 14:28:54,toys,Hot Wheels,2,1,9,15083,Shelf,1,0.19,6,2018-06-17,1,0,Basics,1908-01-01,A,0,10,3,Winter,False,9,24
+2020-01-09 14:14:23,food,Milk,1,9,10,C12345,Pallet,1 litre,0.952,6,2020-01-09,14,4,Supplier B,2020-03-09,High,0,14,14,Spring,False,3,12
+2019-03-28 15:00:00,clothing,T-shirt,11,12,1,52859,Wire Shelf,M,0.145,2,2019-03-28,3,Cool,Supplier2,2020-05-28,High,0,1,23,Spring,False,1,60
+2022-04-20 05:31:05,toys,Lego City: Police Station,13,14,1,12734953,Plastic crates,120 x 120 x 120cm,0.2286,1,2022-04-20,2,20,Lego,2022-04-25,immediate,0,1,2,ALL_YEAR,False,0,14
+2020-01-07 14:04:26,food,Cereal,3,1,3,1238906,bin,1.5kg,1.5,1,2020-01-07,5,cool,Supplier-3,2020-04-06,2,0,3,2,Spring,False,10,30
+2019-06-26 12:39:06,furniture,Coffee table,11,4,1,638988,open shelf,XL,15.68,90,2019-06-25,1,No Temperature requirement,Elt,1900-01-01,High,0,10,18,Winter,False,2,1
+2021-06-25 08:17:32,furniture,Chair,209,40,15,7946,Pallet,165x105x81,6.8,1,2021-06-24,10,None,Kinderhaus Kids,2030-06-25,Normal,0,15,10,Summer,False,62,30
+2018-01-13 06:13:58,electronics,speaker,323,11,1,16797341,Shelf,Large,3.2,1,2019-09-12,5,No,JH,2025-01-13,normal,0,1,12,Summer,False,11,21
+2022-05-09 08:37:28,toys,Wooden Boat,338,1,3,33427203,Shelf,25.4 x 10.2 x 7.6 cm,2.09,2,2022-05-09,2,No temperature requirement,Supplier 4,1900-12-31,A,0,3,6,Fall,False,1,2
+2021-12-10 12:12:38,furniture,Chair,4,0,2,283,Open Shelf,Regular,3.7,2,2021-12-10,3,No,Supplier 3,1990-01-01,1,0,2,8,Summer,False,7,2
+2020-06-08 05:14:26,electronics,Sony Earbuds,1,10,12,Sony7101047,Shelf,Small,0.119,1,2020-06-02,20,Cool,TataCliq,1906-10-20,Low,1,12,2,Summer,False,32,30
+2022-01-03 22:38:47,food,Muffins,10,1,9,13041,Shelf,360g,0.08,31,2022-01-02,200,Cool,Carlos,2022-01-07,high,0,8,5,Spring,False,0,30
+2018-07-14 15:28:05,food,Cucumber Juice,15,20,10,8112303,Pallet,1.5 l,1.5,1,2021-09-14,5,0,Supplier-1,1994-07-14,Normal,0,20,3,Summer,False,42,7
+2022-02-13 07:39:44,clothing,T-shirt,12,1,15,7020087595,Standard,M,0.557,2,2022-02-13,2,N/A,INDIA BASICS,1999-12-31,Medium,0,15,0,Summer,False,1,28
+2022-09-26 12:46:14,furniture,Dining table,5,15,2,93508,Shelf,Standard,11.0,1,2022-09-15,1,None,Roshan M,2022-09-30,1,0,2,20,All Year,False,26,21
+2020-05-25 11:05:39,electronics,Roku 4K Ultra HD Streaming Device with Voice Remote,145,263,1,112302287,Shelf,Large,1.51,3,2020-05-04,2,No temperature requirement,Walmart,2022-05-25,5,0,1,17,Spring,False,3,12
+2022-02-07 08:43:00,electronics,Microphones,13,3,5,21451098,Shelf,Large,0.925,2,2022-01-10,20,Cool,Tesco,2024-09-08,High,0,5,6,Spring,False,4,2
+2022-09-16 09:13:42,food,peanut butter,118,3,2,128418_1029622,Cool-dry,400g,2.21,4,2022-02-18,5,10,supplier-1,2023-07-27,high,0,1,16,Summer,False,24,3
+2021-08-24 19:19:29,furniture,Sofa,214,1,18,68612,Racking,3 Seater,61.0,1,2021-08-23,10,None,K-Craft Furniture,2025-08-23,A-Normal,0,18,1,Summer,False,0,30
+2020-09-24 16:34:14,food,Bread,1,11,5,350,Standard,800g,0.8,1,2020-09-24,12,Fresh,Supplier 3,1946-03-03,A-Normal,0,5,4,Summer,False,2,13
+2023-03-16 23:13:50,electronics,"Samsung Galaxy S22 Ultra 5G Unlocked Android Smartphone, 8GB RAM, 256GB Storage, Phantom Black",2,5,1,8330052978794,Shelf,256 GB,211.1699932861328,2,2023-03-05,1,-20°C to 40°C,Gulf Supply Chain Systems LLC,2023-03-16,A-Normal,1,1,0,Spring,False,0,1
+2023-01-06 18:28:50,clothing,Tops,18,10,8,9410440535692,Pallet rack,M,0.33,2,2023-01-05,16,Cool,Woolworths,2023-05-24,H,0,8,3,Summer,False,3,7
+2019-08-07 14:30:40,furniture,Palm Leaf Table Lamp,11,2,2,409000030016,Rack,Large,2.4,1,2019-08-06,10,N/A,Chanakya Impex,1999-12-31,Average,0,2,17,Summer,False,15,13
+2018-06-01 11:13:25,food,chicken breast,163,2,10,7001300051226,Normal,500g,0.5,1,2018-06-01,2,Frozen,Supplier 1,2018-06-15,High,0,10,4,winter,False,3,7
+2021-05-21 18:49:35,furniture,Folding Bed,24,6,4,2145,Cupboard,Queen,45.0,7,2021-05-21,0,Not Required,Auro Crest,2022-05-09,Low,0,4,10,Year-Round,False,2,56
+2019-10-12 22:23:07,furniture,table,1,26,1,619215,Shelf,L,10.0,2,2019-10-05,500,No,supplier-2,2020-09-12,medium,0,1,89,Summer,False,4,120
+2017-02-21 15:14:35,food,Tropicana Pure Premium Orange Juice,1,2,1,7752210590546,Original_Carton,1.5 L,1.4,2,2017-01-04,1,Chilled,Safeway Inc,2019-07-16,1,0,1,14,Spring,False,78,0
+2018-11-28 19:38:38,electronics,Digital Camera,217,2,3,158453,Shelf,22 MP,446.0,1,2018-09-06,10,-25.0,Amazon,2020-11-17,normal,0,3,4,Fall,False,10,94
+2020-01-01 00:07:38,clothing,Jacket,3,10,2,0172175658562,Racks,28,0.32,3,2020-01-01,15,None,Supplier1,1970-01-01,High,0,2,14,Spring,False,3,5
+2019-04-09 12:01:56,toys,B.Doll,102,16,22,62522282,Shelf,Medium,0.47,17,2019-04-04,6,No temperature requirement,Mega Electronics,2020-05-05,normal,0,13,7,Spring winter,False,2,7
+2020-10-19 12:01:39,food,Aldi,3,3,1,s_f_155452,Original box,4.5 ltr,0.945,1,2020-09-23,0,No,Aldi,2020-10-26,normal,0,7,3,Spring/Summer,False,13,3
+2021-06-01 09:29:36,electronics,Thrustmaster Ferrari F1 Wheel Add-on,28,3,1,4665115,Pallet,One Size,2.66,2,2021-04-15,3,30,MicroWorld,1999-12-31,1,1,1,11,Spring,False,10,18
+2019-04-15 10:27:38,electronics,Bluetooth Keyboard,148,23,4,1704069775,Shelf,Full Size,0.32,3,2019-04-05,10,No temperature requirement,Amazon.com Services LLC,1993-03-10,Normal,0,4,12,Spring,False,19,42
+2015-12-16 15:55:02,food,Canned Mix,206,10,27,130453,standard,12oz,0.45,1,2018-04-09,15,N/A,Progressive,1970-01-01,Medium,0,27,2,Winter,False,3,18
+2020-07-23 11:11:14,electronics,Laptop,14,70,1,104503989,Shelf,14,1.55,1,2020-07-23,9,Cool,Sahar Import & Export,2021-07-23,Normal,0,9,10,Spring,True,5,31
+2016-08-23 05:14:58,clothing,T-Shirt,11,2,3,355982,Shelf,XL,0.505,4,2016-08-22,7,No temperature requirement,SUP17,2019-04-23,Normal,0,3,1,Spring,False,1,30
+2018-02-07 02:02:03,food,choco cereal,1,4,1,4722852237782,Original,220g,0.26,1,2018-01-18,1,Normal,Supplier 2,2019-03-19,Low,0,1,2,Winter,False,4,120
+2020-08-06 18:25:39,food,Soy Milk,12,5,11,8815699,Pallet,2.0 L,1.3,2,2020-08-06,100,chilled,supplier-3,2020-08-29,3,0,10,4,Summer,False,22,1
+2022-09-03 19:25:11,furniture,wooden-drawer,32,103,1,1785978,Warehouse,Small,4.5,1,2022-09-03,1,None,Supplier_18,1994-12-28,Normal,0,1,9,Summer,False,10,7
+2021-06-01 00:22:25,clothing,Pants,1,27,1,103777918,Pallet,36,0.732,1,2021-05-27,5,0,Republic For Life,1906-06-01,1,0,2,1,Fall,False,3,31
+2023-02-10 23:11:35,furniture,Recliner chair,4,4,1,2674657,Indoor,38-44,24.6,1,2023-02-09,10,normal,Furniture Depot,2024-06-10,low,0,1,2,Summer,False,1,1
+2023-07-28 17:10:08,clothing,Grey Cotton-Blend Skirt,2,105,1,1025096081,Box,M,0.65,1,2023-07-26,8,cooled,Khaki,2023-08-28,1,0,1,31,Spring/Summer,False,14,2
+2022-07-07 13:31:48,food,Chicken Meat,22,15,4,8184596,Deep Freezer,1000 g,0.87,2,2022-07-07,4,-18,Supplier 2,2022-11-14,Normal,0,4,5,Summer,False,10,180
+2019-06-29 15:49:57,electronics,Dyson DP04 Pure Cool Link Air Purifier TP02,18,5,2,1757113,shelf,H,3.8,3,2019-06-29,5,No,Amazon,2021-10-14,normal,0,2,1,summer,False,10,0
+2022-01-12 05:51:20,food,Cream Cheese,16,18,14,89823,Shelf,227 g,0.227,4,1990-07-23,40,No,Supplier1,2023-07-23,Normal,0,14,1,Year-Round,False,65,2
+2020-01-10 12:35:00,clothing,Cargo Shorts,128,4,3,29985101,Shelf,S,0.52,2,2020-01-09,2,Chilled,Supplier_1,2020-01-15,1,1,4,16,Spring,False,8,22
+2021-12-16 00:06:14,furniture,TRUMP 22T510 Couch,2,2,1,508,Shelf,Sofa,66.0,1,2021-12-16,3,None,Inter IKEA Systems B.V.,2025-01-31,High,0,1,25,Autumn,False,0,24
+2017-08-28 18:37:16,furniture,Sofa,3,2,2,83934012,Wooden_Rack,Couch,43.0,1,2017-08-26,2,None,Supplier_1,2025-12-31,Low,0,2,30,Fall,False,3,180
+2022-09-15 12:52:49,food,Chicken Breast,1,13,1,1443,Cold storage,Frozen,887.0,1,2022-09-12,25,-18,Supplier3,2023-05-29,Average,0,29,23,Autumn,False,5,15
+2021-05-24 19:23:57,clothing,women's casual tops,12,8,32,IN12896,pallet,small,0.9,2,2021-05-23,30,2-8,Mahesh Enterprises,2021-10-16,High,0,32,14,Spring,False,2,24
+2021-08-29 10:29:49,clothing,Women Hoodie,77,20,8,195553541,Wardrobe,Small,0.72,1,2021-08-29,1,Normal,Supplier 5,2024-08-29,Medium,0,16,4,Spring,False,2,1
+2017-05-10 17:58:29,clothing,BAGS,347,64,5,23348676,Racks,M,0.5,2,2017-03-08,10,None,Spar,2019-04-10,normal,0,5,3,Winter,False,0,30
+2021-04-12 15:02:47,clothing,Basic T-Shirt,10,1,2,3881940,Rack,M,0.44,3,2021-04-12,3,freezer,Cash and Carry,2021-09-25,2,0,2,3,Spring/Summer,False,11,24
+2021-01-18 14:32:24,electronics,Microphone,208,6,5,7674483,Open rack,15,0.38,1,2021-01-14,10,0,name1,1900-06-30,1,0,5,10,winter,False,11,8
+2021-03-12 18:30:59,food,Pasta,1,3,3,28973448,Bin,227g,0.38,0,2021-02-02,20,cold,Supplier 1,2022-04-27,2,0,3,3,summer,False,2,30
+2018-04-29 15:54:24,clothing,Short Sleeve T-Shirt,247,75,5,9188079,Standard pallet,S,1.118,1,2018-04-22,10,F,Supplier-1,2023-05-15,A-Normal,0,10,0,Summer,False,1,36
+2020-09-03 13:25:37,food,Coca-Cola Cans,21,19,12,6556864416202,Racks,330ml,0.34,3,2020-09-03,4,No temperature requirement,Lidl,2021-01-23,Normal,19,11,10,Winter,False,19,3
+2022-05-19 09:42:28,food,Apple Juice,12,3,17,3573,Wooden Shelf,500 ml,0.305,1,2022-05-18,1000,-20 °C,Supplier 2,1905-08-01,Average,0,11,5,Year-round,False,2,0
+2018-08-06 14:14:02,electronics,Speaker,10,98,1,71144788,Pallet,24 inch,1.9,4,2018-08-03,7,Normal,Supplier 2,1999-01-01,normal,0,1,2,Summer,False,19,16
+2021-01-28 09:13:22,electronics,Citizen Men's Eco-Drive Quartz Watch,1,38,1,266080901,Outside,Small,0.21,1,2021-01-10,1,Cool,Amazon Business,2024-09-10,Average,1,1,1,Summer,False,1,13
+2022-12-05 18:11:29,clothing,Jeans,300,25,1,6650923,On the rack,Slim fit,0.6,1,2022-12-05,8,N/A,Marks and Spencer,2023-02-28,Average,0,0,17,Autumn-Winter,False,20,7
+2020-10-14 13:36:24,toys,Transformers Rescue Bots Rhino Rampage,3,1,1,104507038,normal,1 piece,1.61,3,2020-04-18,20,No temperature requirement,Big Bazaar,1999-02-17,A-Normal,0,1,12,Summer,False,1,30
+2022-09-21 18:19:01,furniture,Lounge sofa,132,10,1,152420,Air conditioned warehouse,X Large,90.0,2,2022-09-21,1,Not Required,KARNATAKA MANUFACTURES,2022-12-21,High,0,1,2,Summer,False,3,31
+2019-03-05 11:20:01,toys,Doll,3,1,1,137152026,Normal,Size 6,0.9,1,2019-01-01,7,Cool,Supplier_2,2020-02-03,Low,0,1,15,winter,False,45,30
+2021-10-10 22:12:00,furniture,desk,2,4,4,19961,Outdoor,Medium,32.0,1,2020-11-26,3,None,Cambridge Imports,1999-12-31,Average,0,4,11,Autumn,False,2,20
+2020-06-05 09:14:19,toys,Dinosaur toy,188,73,12,2645462,Shelf,14.2,1.6,1,2020-06-02,1,Any,Supplier_1,1900-01-01,Standard,0,12,10,Spring,False,3,7
+2021-08-04 05:32:35,electronics,Docking Station,23,19,20,15846620,Shelf,Normal,0.118,1,2021-08-04,10,Temperature-controlled,brand,1998-05-12,A-Normal,0,20,6,Spring,False,8,30
+2022-08-15 17:52:40,electronics,Samsung Galaxy A01 Core 2GB/32GB Dual SIM (Black),1,36,1,X6811109,Standard,64GB,161.0,40,2022-07-29,0,No temperature requirement,Krishna Enterprises,2022-08-15,Medium,0,1,15,Summer,False,41,4
+2017-04-19 12:27:16,electronics,Sony MDR-XB400 Extra Bass Headphones,17,2,6,2442180,Shelf,20.7 x 8.4 x 12.8 cm,0.267,1,2020-02-27,5,No temperature requirement,Casdon Toys Ltd,2020-12-31,2,0,6,3,Summer,False,1,10
+2019-12-03 19:26:06,food,Dried cranberries,1,33,2,7203005388354,Original,180g,0.136,4,2019-10-25,0,Cold,Supplier 1,1906-06-17,Normal,0,2,1,Summer,False,1,4
+2020-01-20 10:46:34,toys,ball,204,154,4,31451,Wire Shelf,7 inch,0.12,1,2020-03-25,1,No temperature requirement,supplier 2,2022-04-09,1,0,4,3,Summer,False,5,180
+2019-11-21 16:42:51,furniture,Cabinet-2,1,387,1,46905,Open shelf,LARGE,4.1,0,2021-08-17,12,No temperature requirement,Supplier1,2021-08-17,A-Normal,0,1,13,Autumn,False,6,17
+2021-07-21 12:51:18,furniture,Sideboard,318,2,1,10012,Shelf,120*50*50,32.0,3,2021-07-21,44,No temperature requirement,BBM Group,2022-04-20,ABC,0,7,14,Year-round,False,10,15
+2022-09-06 08:00:53,furniture,sofa,214,1,1,S502,Rental,3-seater,49.4,1,2022-07-14,1,Cold,Supplier 2,2032-02-06,Normal,0,1,6,Winter,True,48,30
+2014-11-18 07:34:12,food,Tropical Juice,3,1,11,14631554,Pallet,"1,25 lt",1.95,1,2014-11-11,30,2,Lidl,2014-11-25,Normal,0,11,81,Winter,False,3,60
+2017-12-04 09:36:40,food,Rice,1,28,2,14740,Floor,25kg,25.0,2,2017-11-06,1,fresh,Supplier_1,1903-02-11,High,0,2,0,fall,False,151,30
+2016-03-15 11:19:45,furniture,Sofa,304,4,1,9402610306312,Storage Box,small,28.0,1,2016-03-01,100,-10 to 20 degree celsius,Kanakia,1999-01-01,normal,0,1,3,All,False,11,28
+2015-01-28 13:10:53,furniture,Living Room Table,13,25,1,385993,Open,King Size,59.9,1,2022-04-29,41,25,Venus Furniture,1990-01-01,2,0,1,5,Summer,False,12,365
+2016-05-14 17:28:11,electronics,Sony Mobile,25,120,2,18973,Rack,256 GB,0.086,3,2016-05-12,12,Cool,Rama,1947-01-14,A-Normal,0,2,12,Autumn,False,17,1
+2021-11-23 04:01:25,food,Sugar,45,163,1,12450741,Bin,500 g,0.5,0,2021-05-09,3,2,Amazon.com Services LLC,2023-01-19,normal,0,1,3,Summer,False,3,15
+2020-02-22 13:13:40,clothing,T-Shirt,2,22,3,7744,Stack,M,2.65,2,2020-01-07,7,None,Supplier4,2021-01-28,1,0,3,11,Spring,False,15,36
+2020-01-10 12:36:56,electronics,portable phone charger,2,1,3,15742835,Wire Shelf,9.7 Wh,0.15,2,2020-01-10,3,Cool,Champion,2021-08-04,1,0,4,3,winter,False,2,14
+2019-07-29 16:23:18,electronics,Dual band Wireless Headphones,10,238,1,3313912,Outside,64GB,1.03,3,2019-07-29,10,No,Croma,2020-07-29,medium,0,1,7,Summer,False,1,59
+2022-11-27 18:17:21,electronics,Google Nest Mini,2,2,1,1245868,Wire Shelving,4,0.273,1,2022-11-23,4,No temperature requirement,Supplier 1,1922-12-24,1,0,1,7,Fall,False,8,4
+2018-08-23 13:57:54,food,Bottled Water,1,11,24,99194053,Fixed pallet,24 pack,5.79,1,2018-08-11,200,Chilled,Supplier 2,2021-12-02,A-Normal,0,32,1,Year Round,False,6,7
+2022-02-09 23:17:24,clothing,Fashion Apparel,113,174,14,47852,Metal Pallet,XS,0.445,4,2022-02-03,40,Cool,Emma,1998-11-24,A,0,14,6,Fall,False,2,30
+2022-01-20 09:49:56,food,Biscuits,16,13,6,9340073555616,Wire,200 g,0.167,1,2022-01-16,1,Frozen,Supplier 3,2022-08-26,1,0,6,15,Winter,False,7,21
+2021-09-21 20:32:50,food,milk,2,1,6,259,Box,1 Litre,0.95,4,2021-09-21,10,Cold,Delhi Milk Suppliers,2022-07-04,High,0,6,1,Spring,False,4,30
+2012-02-16 16:18:43,clothing,Trousers,14,1,44,41268,Pallet,Small,2.0,26,2012-02-16,20,Uncontrolled,Supplier1,2022-07-16,high,0,44,22,Summer,False,4,180
+2012-08-27 06:06:03,furniture,Cabinet,2,1,7,W376,Shelf,36,18.0,3,2012-04-25,5,None,Supplier 2,2020-01-15,2,0,7,8,Fall,False,8,60
+2019-12-08 19:28:52,clothing,Girls tank top,611,15,5,387790733,open,L,0.202,1,2019-11-18,2,cool,Kanghua Apparel,2021-06-02,2,2,2,8,Fall,False,0,12
+2022-12-09 14:21:01,food,Lays 20g,1,53,3,336209302,shelf,20g,0.034,1,2022-09-23,10,cold,Amar Chitra Katha Pvt Ltd,2022-09-24,1,0,3,0,summer,False,0,7
+2021-09-25 13:20:28,food,Baby food,11,15,1,7246651,Chest freezer,12oz,0.2268,2,2021-09-15,3,frozen,Amazon Brand - Happy Belly,1911-11-10,High,2,1,2,Autumn,False,1,1
+2021-02-19 09:56:17,food,Cake,23,4,1,18552,Carton box,1.25kg,1.25,1,2021-02-19,10,Frozen (0-4 degree Celsius),Supplier 1,1966-02-19,1,0,15,0,Spring,False,1,1
+2021-06-13 10:04:00,toys,Kidkraft Boats Play Set,418,7,1,14253,Shelf,18.5 x 17.5 x 7.5 inches,0.86,0,2021-06-07,0,N/A,Amazon,1900-01-01,2,0,1,3,N/A,False,89,180
+2019-09-26 08:48:21,food,Potato,4,1,3,758,pallet,1kg,0.97,1,2019-07-31,201,cool,Pride Fresh Pvt Ltd,2019-11-04,1-OK,1,2,25,Summer,True,27,14
+2021-11-17 02:15:15,food,Chicken,11,1,3,4564,Cooling,500 g,0.5,1,2021-11-16,1,4,Supplier_1,2022-01-17,Normal,0,3,2,Winter,False,5,8
+2019-05-27 23:39:24,toys,123D Mini 3D Printer,12,14,2,1057437,Shelf,13 x 13 x 13 cm,0.9,1,2019-05-25,1,No,Jungwoo,2099-12-31,Normal,0,2,81,Summer,False,32,16
+2022-03-14 03:53:55,clothing,Women's Puffer Jacket,303,13,1,199845815,Shelf,Small,0.356,2,2022-03-12,7,Chilled,AceStores,2022-03-24,High,0,7,6,Fall & Winter,False,6,30
+2018-12-01 09:31:53,food,orange juice,2,1,7,10033,Normal,1.0,1.0,4,2018-11-23,5,0,Grocery Store,2020-01-13,100,0,7,3,Winter,False,37,12
+2017-06-25 18:03:43,clothing,Sandals,124,2,4,144024,Bulk,38.5,0.7,1,2017-05-15,10,15-25,Casual Mart,1999-06-14,B,1,3,2,Spring/Summer,False,1,8
+2019-08-01 14:39:18,furniture,Dining Table,12,13,2,FURN-02456,Shelf,Rectangular,17.0,1,2019-07-23,3,Normal,Supplier-1,2021-12-28,Normal,0,2,7,Summer,False,10,17
+2019-11-25 10:26:36,food,Honey,2,5,12,645046848,permanent shelf,Large,1.0,3,2019-11-24,7,Cool,Amy's Kitchen,2021-01-14,Normal,0,12,2,Fall,False,3,30
+2017-09-13 17:14:40,clothing,T-Shirt,174,177,1,1010002933,cabinet,M,0.235,1,2017-09-12,15,Cool,Supplier 1,2022-11-17,3,0,1,16,Summer,False,2,30
+2019-11-10 09:52:50,clothing,Black Branded T-Shirt,2,25,4,711051092,cooler,M,0.32,2,2019-11-08,5,2,Supplier 2,1985-06-14,high,0,4,12,fall,False,3,5
+2017-03-12 19:35:23,food,Lemon,13,11,16,15523,Pallet,1L,1.2,1,2017-03-07,10,0,Supplier_3,2017-08-28,3,0,14,5,Spring,False,3,30
+2022-09-26 16:19:56,electronics,Laptop,213,10,1,30927935,Shelf,15.6 inch,1.3,1,2022-08-26,8,36 to 46 degree Fahrenheit,Walmart,1999-12-31,Normal,0,1,2,Spring,False,10,2
+2019-07-22 13:52:04,food,Apple,1,6,1,1951741,Deep Freezer,Small,0.52,1,2019-07-22,1,-26°C,Supplier-6,1998-04-09,Normal,0,1,4,Other,False,4,1
+2021-05-19 05:21:50,food,Honey,310,10,3,21079083,Shelf,1.46,0.29,1,2021-05-19,1,2,Antoniades,2021-06-15,A,0,3,10,Winter,False,12,1
+2017-07-25 08:41:31,food,Coffee,100,2,3,22326885,Pallet,1KG,0.15,3,2017-07-25,3,Chilled,Supplier 1,2020-07-25,Freight,0,3,1,Summer,False,0,71
+2022-01-27 03:48:48,furniture,Twin Sleep Sofa Bed,16,1,1,3720001986847,Shelf,queen,39.0,88,2022-01-27,10,None,Ahmed,2025-01-27,A-Normal,0,1,1,Spring,False,0,3
+2022-05-11 01:47:21,clothing,White/Pink Trim Short-Sleeved T-Shirt,169,61,56,17597875,Shelf,M,0.47,1,2022-05-08,12,F,CASABLANCA,1986-05-15,2,4,46,34,Summer,False,11,6
+2017-03-16 08:16:15,furniture,wooden desk,101,1,2,215813,Shelf,30-36 inches,10.0,1,2020-01-01,2,N/A,supplier-1,1910-10-06,Regular,0,2,14,Fall,False,1,15
+2021-11-14 00:53:58,toys,Pokemon Venomous Snake,24,48,31,643106514,Bulk,36,0.096,1,2021-09-26,4,cool,Venomous Snake,2022-02-26,1,0,12,10,Summer,True,54,30
+2022-12-06 08:16:33,clothing,Shorts,328,32,2,25287,Normal,S,0.45,1,2022-12-06,1,Cool,Clothing Hub,2022-12-27,normal,0,2,4,Winter,False,0,30
+2018-01-03 20:58:38,electronics,Digital camera,49,44,5,204360,Wire Rack,3.0 x 2.5 x 4.0 inches,0.192,4,2018-10-07,7,None,Walmart,1999-11-10,Low,0,5,54,Fall,False,29,12
+2019-06-19 03:04:32,food,Ginger Garlic Paste,0,27,11,254173065,Bin,125 mL,0.125,1,2019-06-19,3,Chilled,Snowman,2020-07-19,High,0,0,14,Summer,False,4,7
+2016-04-11 02:08:49,toys,Sports Toys,149,117,13,363253,Wire Cage,30 CM,0.501,1,2016-03-22,28,No temperature requirement,Kids Workshop Toys,2017-09-21,1,0,13,11,Year-Round,False,10,7
+2018-08-20 17:02:09,food,Dairy,5,1,10,11111,standard,240ml,0.2,2,2018-07-02,10,<4,supplier-3,2021-09-11,normal,0,10,1,Summer,False,33,7
+2020-01-16 10:30:54,furniture,Coffee Table,33,1,1,24360,Metal Rack,72x36x36,16.5,1,2020-01-16,1,Normal,Singer,2021-07-16,Normal,0,1,13,Summer,False,15,12
+2018-04-01 15:28:06,toys,Wooden Building Blocks,2,1,5,32390506,Pallet,Small,1.12,1,2018-03-25,10,Room Temperature,Supplier1,1904-01-01,High,0,5,3,Year Round,False,0,60
+2019-08-16 20:29:17,electronics,"Apple Watch Series 3 (GPS, 42mm) - Space Gray Aluminum Case with Black Sport Band",117,15,1,279854,Shelf,42mm,72.3,1,2019-08-16,0,No,Apple,1900-01-01,1,0,1,29,Winter,False,0,12
+2018-09-01 12:17:46,electronics,Mobile Phone,12,1,1,91797639,Standard,64 GB,160.0,3,2023-02-07,3,No Temperature Required,Oppo,1900-01-01,Normal,0,1,1,Spring,False,7,2
+2022-11-05 08:23:09,food,Soups,32,1,1,1915311,Pallet,800g,0.802,1,2022-04-08,4,Chilled,Supplier 1,2023-05-05,Low,0,2,1,Summer,False,0,28
+2022-04-03 21:26:05,clothing,Shirt,116,26,1,514174,Plastic hangers,M,0.245,2,2022-03-26,1,Cold,Tosh and Sons,2023-04-07,High,0,0,1,Summer,False,1,15
+2021-08-25 20:32:20,electronics,Electronic Device,2,1,1,8210A,Normal,Normal,2.7,2,2021-08-25,5,Cool,Supplier 7,2023-08-25,High,0,1,12,Summer,False,3,1
+2019-07-23 11:18:17,food,Papaya,12,6,20,8519174500006,pallet,medium,1.64,5,2018-02-13,5,No temperature requirement,Supplier1,2019-10-20,High,1,16,1,Summer,False,0,14
+2017-04-03 12:06:59,electronics,iPhone 7 Plus 32GB,2,22,1,IPH7PLUS-32,Cool Storage,128GB,223.3,5,2017-04-03,10,20,Dell,2017-06-30,A,0,1,2,All Year,False,0,7
+2018-03-18 21:35:50,toys,toys,57,140,21,700809,normal,"M, L",0.0,2,2018-03-09,18,No temperature requirement,Century Textiles,1903-04-10,3,0,21,4,Summer,False,28,21
+2020-06-10 08:24:17,electronics,Nintendo Switch Console,18,36,2,147707,Plastic Pallet,18.2in,0.705,2,2020-06-07,8,-4°F to 80°F,KHD,2021-06-10,Medium,0,2,5,Fall,False,1,30
+2020-06-28 08:11:18,furniture,Dining Table,8,2,4,268,Shelf,Medium,18.0,1,2020-06-06,99,Cool,Poonam Enterprises,2025-12-31,HIGH,0,4,3,Summer,False,11,180
+2022-08-03 11:00:35,clothing,Jeans,6,1,1,16374,Pallet,Medium,0.95,2,2022-05-12,10,Cool,Supply,1906-08-31,1,0,3,1,Spring,False,0,30
+2021-04-11 14:32:40,electronics,Mobile Phone,2,6,3,86254759,Wire shelf,48 GB,200.0,2,2021-04-09,5,No temperature requirement,Buy More,1999-10-12,1,0,3,14,Spring/Summer,False,1,2
+2020-03-19 18:10:26,food,Orange,18,21,15,2258,Pallet,"1,5 kg",1.5,0,2020-03-16,5,0,Supplier 2,2020-03-27,normal,0,15,13,Summer,False,1,30
+2019-12-01 05:44:33,electronics,headphone,219,11,22,17243506039919,Shelf,22,0.545,1,2019-12-01,2,Cool,Bright,2021-09-20,High,0,22,16,Fall,False,2,5
+2019-06-28 21:04:03,furniture,wooden chair,6,1,1,663405,Wooden,Medium,4.077,52,2019-06-17,5,60°C,Wooden Furniture Warehouse,2020-06-28,Medium,0,1,1,Spring,False,66,14
+2019-05-27 12:36:41,food,Toasted Wheat Bread,320,33,54,748095018,Pallets,450 grams,0.74,1,2018-04-10,1,4 degree,Quaker Oats,2020-06-29,High,0,54,2,Summer,False,12,30
+2023-03-26 12:00:00,furniture,Sofa,13,4,2,Sofa-461,Suspended,Large,92.0,3,2023-03-25,30,22-24°C,Supplier 1,2027-03-25,1,0,1,180,Spring/Summer,False,16,30
+2016-01-30 13:15:45,clothing,Shirt Women,3,4,1,1550008,Rack,S,0.3,2,2016-01-12,1,cool,EXOTRON,2018-06-28,A-Normal,0,1,8,Spring/Summer,False,2,1
+2022-07-09 07:53:57,electronics,Pendrive,3,10,1,1234567891087,Standard,16 GB,0.054,5,2021-12-16,99,50,DHANARAJ COMPUTERS,2024-07-09,3,6,1,6,SUMMER,False,12,30
+2022-08-13 06:26:34,toys,Toy Car,3,3,3,ToyCar_1,Shelf,Kids,1.06,1,2022-06-14,3,No,supplier7,1900-01-01,Medium,0,3,10,Summer,False,20,1
+2022-02-27 16:13:56,clothing,T-shirt,30,15,18,1046,Box,L,0.18,3,2022-02-27,10,No temperature requirement,Supplier 6,2022-12-15,Average,0,18,14,Summer,False,10,36
+2021-03-15 08:36:43,clothing,Jeans,203,18,20,5284134,Pallet,Medium,0.917,1,2021-03-15,10,Cold,Fashion Hub,2022-08-01,1,0,20,14,Spring/Summer,False,1,3
+2016-07-10 18:31:00,clothing,T-Shirt,2,30,12,1447923,Rack,S,0.29,1,2016-07-09,30,Cool,Nike,2020-01-01,High_Priority,0,12,5,Summer,False,40,1
+2018-05-31 03:28:54,electronics,Smartwatch,1,15,1,85393274,Shelf,42 mm,1.48,4,2019-04-27,20,4,CIT,2019-03-01,Normal,0,0,12,Summer,False,32,36
+2018-03-15 23:47:29,food,milk,130,11,3,49330028,Pallet,1L,1.0,5,2018-03-15,1,Cool,Karachi Dairy Farm,2018-03-22,High,0,3,1,Spring,False,3,31
+2022-04-24 17:40:11,electronics,26 inch Smart TV,22,29,1,e2f940f6-41fb-42e2-bcb8-9f92f640d7bb,Shelf,4K,9.075,4,2022-03-18,1,4,LG,2025-04-08,high,0,1,45,Spring,False,3,8
+2022-04-01 11:51:35,food,Fanta,3,31,5,5865818,Stretch wrap,L,1.2,1,2022-03-05,21,Chilled,SUPPLIER-025,1911-11-17,1,0,5,1,Summer,False,23,30
+2021-03-28 14:36:27,food,Fresh Eggs,1,16,2,1694508574,Fridge,Medium,0.6,1,2021-03-26,4,Chilled,Supplier_1,2021-04-30,Average,0,2,20,Summer,False,11,30
+2019-07-05 06:43:20,toys,toys,104,9,12,2986343,Shelf,12,1.19,2,2019-06-27,5,No temperature requirement,E-Land Supplies Inc,2021-08-22,Normal,0,12,13,Fall,False,0,30
+2021-08-07 05:45:43,electronics,Shotgun,227,2,1,Elec_024_227_2,Shelf,12 Gauge,2.76,1,2021-08-06,100,No,Steel City Ammo,2025-08-17,A-Normal,0,1,4,Fall,False,40,34
+2017-04-09 13:29:46,clothing,coat,305,1,1,82317754,Wooden stand,Small,1.4,2,2017-04-09,0,Cool,Supplier 7,2017-04-11,high,0,7,2,Spring/Summer,False,1,3
+2020-06-11 16:07:50,food,green chiles,2,2,240,53464,Pallets,Large,0.04,1,2020-04-08,2,Chilled,Premia Foods,2021-09-11,2,0,240,14,Summer,False,10,23
+2022-05-19 02:09:25,clothing,Windbreaker,46,2,1,8009719025063,Pallet rack,large,0.81,12,2022-05-19,12,dry,Supplier-1,2023-03-30,low,0,12,3,spring,False,14,12
+2016-08-11 17:41:22,electronics,Samsung Galaxy S5,11,39,14,705140684,Storage rack,32 GB,129.0,4,2016-08-08,4,No temperature requirement,Pan Asia Impex (Hong Kong),2018-07-16,A-Normal,0,14,3,Year-round,True,1,30
+2022-02-28 02:11:23,electronics,audio interface,5,1,3,SZ891B3BXZ,Shelf,"[25.4, 12.7]",0.7,8,2022-02-28,5,cold,Visionek,2022-12-31,high,0,3,5,Summer,False,53,30
+2015-09-22 21:42:30,toys,Materials for Making Toys,64,22,20,69592,Racks,"1,19kg",1.19,2,2015-10-02,12,0°C,Pinkfong,2020-04-02,1,0,20,14,Spring,False,3,23
+2021-09-03 20:40:57,electronics,Kosher Salt,1,3,3,117934,bin,1500 GRAMS,1.0,7,2021-09-02,3,Cool,supplier-1,2023-09-05,1,0,3,6,Summer,False,60,14
+2020-01-14 11:41:33,clothing,Short sleeve shirt,219,66,1,23651,Standard,L,0.5,2,2019-02-11,20,Normal,H & M,2021-03-01,High,0,20,3,Summer,False,18,20
+2019-03-28 16:26:00,furniture,White and black office chair,250,62,1,FUR-02179,Pallet rack,Large,5.68,1,2019-03-05,15,Not temperature sensitive,EUR 14,2021-12-12,normal,2,1,8,All Season,False,13,20
+2021-09-05 17:16:40,electronics,Macbook Pro 13 inch,5,2,2,8035476911577,Pallets,"13""",1.4,6,2021-09-04,5,None,Apple,1900-01-01,normal,0,2,14,None,False,0,7
+2022-11-12 18:54:19,toys,LEGO DUPLO 10874 My First Number Train,15,10,1,329105291,Shelf,11106126191,0.42,10,2022-11-10,8,Cool,GULF,2022-12-29,High,0,1,14,Fall,False,1,21
+2018-03-09 02:11:15,electronics,Battery,1,2,1,1808_4,Shelf,5000mAh,0.176,1,2018-03-09,10,No temperature requirement,Amazon,1900-01-01,C,0,15,11,Summer,False,15,1
+2021-06-21 17:57:43,electronics,Bose Noise Cancelling Headphones 700 - Black,17,24,1,77296359,Standard,Wireless,0.724,7,2021-06-21,4,No,Amazon,2023-06-21,Standard,0,1,20,Spring,False,7,31
+2017-07-28 16:08:24,furniture,Couches,202,16,2,568,Shelf,Large,81.0,1,2019-08-25,4,Uncontrolled,Supplier 3,2022-09-30,Normal,0,2,20,Spring,False,2,30
+2022-03-23 19:14:06,clothing,Polo T-Shirt,302,25,1,8437654,Pallet,M,0.5,3,2022-03-23,15,3,Supplier-6,1904-04-01,Medium,0,12,47,Spring,False,56,42
+2018-03-27 15:38:15,electronics,Apple MacBook Pro 13-inch,178,211,2,0162020080845,open shelf,15 inch,1.45,2,2019-06-23,5,No temperature requirement,Dell,1999-12-31,high,0,2,23,Winter,False,37,3
+2022-01-12 12:03:30,food,Fresh Onions,1,1,145,45877,Cooling,small,0.75,1,2022-01-11,90,0,Supplier-1,2022-01-15,high,0,145,3,Summer,False,2,60
+2016-08-27 16:10:11,electronics,Water Cooler,21,3,1,88521543,Warehouse Rack,60 L,7.5,1,2016-08-27,50,temperaturesensitive,Terna,1936-01-01,1,0,1,14,NON,False,5,8
+2022-04-19 19:42:37,food,milo,231,2,1,2090455,pallet,2.0 kg,0.21,1,2022-04-19,20,Refrigerated,supplier-7,2022-12-27,normal,0,1,2,Summer,False,15,41
+2021-09-23 20:15:09,clothing,t-shirt,355,4,1,27310006,Rack,L,0.48,1,2021-09-07,10,Temperature controlled,Fabmart,2022-03-19,Medium,0,1,17,winter,False,25,11
+2022-07-07 22:13:21,food,Kellogg's Corn Flakes 900g,2,141,1,1928880,Original,600gram,0.453,1,2022-07-07,8,None,Apollo Hospitals Enterprise Ltd,2022-07-23,Regular,0,9,15,All Year,False,12,14
+2018-02-08 16:53:20,food,french fries,301,19,11,6430001,Fridge,240g,0.21,1,2018-01-28,5,-18°C,Whole Foods,2018-03-01,high,0,10,8,Summer,False,0,1
+2022-11-29 05:25:41,clothing,T-Shirt,120,1,1,6213,Pallet,S,0.63,2,2021-12-30,4,None,Vision Street Wear,1906-11-08,1,0,4,47,Summer,False,1,12
+2018-02-25 08:30:47,clothing,Women's T-Shirts,285,1,16,13759,Standard,M,1.4,2,1970-01-01,5,Cool,Supplier 41,2020-07-25,1,0,16,69,SS18,False,32,30
+2021-10-20 22:40:15,clothing,None,1,104,2,24772,Wardrobe,Large,1.0,1,2021-09-22,10,Cold,None,2021-12-15,4,0,2,1,Fall,False,0,15
+2023-03-20 16:34:49,toys,Baby Clothes,28,18,18,19065803,Rack,S,0.14,1,2023-03-18,7,cool,John,1907-03-18,Low,0,20,2,Summer,False,21,1
+2020-03-23 18:32:28,food,Coconut Milk,1,57,8,75103,Box,400ml,0.43,4,2020-02-02,2,Chilled,Supplier-1,2020-05-21,A-Normal,0,8,10,Spring,False,12,12
+2019-08-03 14:13:40,electronics,Galaxy S10+ 128GB Blue,2,10,1,55673093,Normal,128GB,191.0,3,2019-08-01,10,None,Syntech Pty Ltd,2020-12-31,Regular,0,1,3,Summer,False,7,31
+2020-12-30 10:00:00,electronics,Air Fryer,203,2,200,44379,Closed Shelf,Large,13.0,2,2020-12-23,4,cold,SmartWarehouse Inc.,2021-12-31,1,0,200,9,Autumn,False,24,45
+2021-05-14 17:57:20,electronics,TV,11,1,1,737605,Shelf,50,21.0,2,2021-05-14,100,No temperature requirement,IKEA,1999-12-31,Average,0,100,0,Winter,False,0,31
+2021-10-14 14:52:02,food,Greek Salad Dressing,59,3,1,4030011104611,Shelf,240 ML,0.288,2,2021-10-10,20,Refrigerator,Supplier_28,2021-11-20,S1,0,1,2,All year,False,2,1
+2019-03-23 11:43:39,food,Fresh Mango,1,0,90,10664,Refrigerator,Fresh,13.84,0,2019-03-23,150,0.0,Supplier 2,2019-09-16,1,0,90,3,Spring,False,1,1
+2022-04-01 07:35:55,clothing,T-shirt,69,1,1,17424,Pallets,M,0.725,1,2022-03-28,10,no temperature requirement,Casual Mart,1901-01-01,1,0,1,19,Spring Summer,False,101,20
+2020-01-28 18:52:17,furniture,chair,1,2,3,SD1031,stacking,LARGE,22.0,2,2020-01-07,3,No temperature requirement,U2,2021-03-10,high,0,3,8,Summer,False,53,30
+2019-10-17 10:15:23,furniture,table,1,1,4,7094827,High density,Small,12.8,2,2019-10-14,4,Any,Dreamland Furniture,2028-10-17,C1,0,4,10,Summer,False,1,180
+2022-05-16 21:53:47,food,Uncooked frozen fish,19,19,2,76834,Frozen,1.5 kg,1.5,1,2022-04-26,5,-20.0,Supplier 3,2022-06-22,High,0,2,10,Summer,False,0,6
+2019-03-11 20:42:41,clothing,T-Shirt,5,2,10,1243213,Portable rack,XL,0.78,1,2023-02-28,10,Cool,Supplier2,2023-12-31,Average,0,9,10,Summer,False,7,44
+2019-11-22 08:32:29,toys,toy,6,4,1,2732,Shelf,1000 Pcs,1.67,1,2020-01-08,19,Refrigerated,Supplier2,2022-11-22,average,0,19,16,Spring,False,13,2
+2015-02-27 18:45:14,furniture,Dining Table,6,4,1,12368,Open,240x90x93,16.0,1,2015-02-27,2,No,supplier_1,2022-08-01,HIGH,0,1,1,Spring,False,0,17
+2018-11-18 23:07:03,furniture,Garden Lounge Set,13,3,8,81030966,Shelf,Large,41.0,2,2022-10-03,4,No,Lola`s house,1999-02-16,High,0,8,6,Year-Round,False,5,30
+2020-01-01 17:35:18,toys,Toy Gun,1,5,15,8462500390781,bulk,36,0.14,2,1970-01-01,10,No,Ops,1970-01-01,1,0,15,14,[18],False,6,2
+2019-03-18 18:08:05,clothing,Shawl,2,1,13,9048024,Open Shelf Racks,Large,0.2,1,2019-03-18,18,Cool,Chennai General Store,1930-12-31,Average,0,13,7,Summer,False,3,1
+2022-01-22 19:09:35,clothing,Knitted Sweater,25,13,3,2745102,Rack,36,0.75,2,2021-11-25,4,Room temperature,Sherwood,1901-01-01,normal,0,3,17,Spring,False,1,1
+2018-02-12 13:17:16,food,Chocolate,3,1,1,10026,Cold Storage,200g,0.2,3,2018-02-11,0,2,Supplier 3,1999-02-12,High,0,1,7,Summer,False,15,8
+2021-07-21 10:16:00,food,Eggs (12),216,69,4,20067,Standard shelf,12,1.24,4,2021-07-18,50,Normal,RPSF,2021-08-03,Normal,0,4,3,Summer,False,2,30
+2015-09-30 13:46:19,electronics,apple iphone 6s 16gb,109,64,1,7630085566877,Box,16GB,0.179,2,2015-09-14,1,No,Apple,2031-07-27,high,0,1,11,Summer,False,5,0
+2020-04-09 04:11:36,toys,Nerf N-Strike Elite Rapidstrike CS-18 Blaster,102,24,2,58335,Shelf,One Size,0.779,20,2020-04-09,3,No requirement,Supplier18,2022-12-19,0,0,2,9,Non-Seasonal,False,1,30
+2022-04-04 08:08:53,furniture,DESIGNER MID CENTURY DINING TABLE,1,2,1,6062,Crate,150 X 90 X 70,25.0,1,2021-05-18,2,No,supplier85,2023-04-04,1,0,1,19,Spring,False,8,30
+2021-03-10 05:49:45,electronics,Toys,1,9,1,0679913003551,Wire Mesh Shelving,6,1.5,5,2021-01-19,50,No temperature requirement,Funskool,2023-03-10,Average,0,1,45,Summer,False,38,-1
+2022-03-29 17:06:41,clothing,Nike Men's Jordan 1 Mid SE - Black/White-Gym Red 555088-007,5,157,3,555088-007,Pallet,10.5,0.615,3,2022-03-29,5,10-15°C,Nike,1900-01-01,Normal,0,3,2,Spring,False,12,156
+2022-05-11 16:02:47,clothing,Jeans,24,1,2,70404A-3002-7432-3000000-1,Pallet,36,0.49,2,2022-05-09,4,No temperature,Kamal_Komforts,2023-01-11,1,2,0,14,Spring,False,13,2
+2021-06-04 11:13:09,clothing,Shirt,112,168,3,43894795,Rack,S,0.5,2,2021-05-31,15,0,Supplier 6,2021-01-01,Normal,0,3,1,Summer,False,2,7
+2015-09-12 18:57:53,food,Sugar,33,34,27,3279500,Pallet,1,1.5,136,2015-09-04,5,Cold,supplier-3,2016-10-26,a-Normal,1,26,7,Summer,False,10,30
+2021-07-04 08:06:24,electronics,Power Bank,239,33,8,6194654188083,Warehouse,10000 mAh,16.19,1,2021-07-03,50,Cold,Supplier 3,2022-07-03,High,0,8,10,Summer,False,249,1
+2022-05-03 13:20:09,clothing,T-Shirt,1,5,8,P-141,Wire Shelf,S,0.57,1,2022-05-03,4,None,Supplier 1,1905-01-26,high,0,8,30,Spring,False,34,6
+2019-09-29 12:08:47,food,Chicken,249,105,23,205377058,Open,1.0 kg,0.628,20,2019-09-28,12,frozen,supplier-2,1909-12-14,High,3,17,5,winter,False,0,12
+2020-06-20 03:24:34,electronics,Electronics,5,19,1,71264855,Pallet,18.3,4.3,1,2021-01-10,6,No temperature requirement,Wholesale Distribution,2022-07-17,High,0,1,7,Fall,True,30,36
+2022-04-11 06:00:53,electronics,Raspberry Pi 2 B 900MHz Quad Core 64-Bit ARM1176JZF-S CPU $35,23,2,1,3877,Shelf,Single,0.27,3,2022-04-03,2,-20.0,Raspberry Pi Trading,1970-01-01,High,0,1,6,Summer,False,1,365
+2020-07-04 03:56:12,clothing,Knitted garment,416,17,4,001-0000410,Standard,Medium,1.7,3,2020-07-01,10,25.001,Decorins,2022-06-15,Average,0,4,83,Summer,False,78,5
+2020-08-08 18:35:02,clothing,Jacket,139,21,8,9000000777360,Floor storage,M,0.8,2,2020-08-05,20,Cool,BHARTI,2021-08-29,High,0,8,10,Summer,False,10,14
+2018-01-04 18:42:59,clothing,Shirt,5,1,1,3950067,Rack,M,0.544,2,2018-01-04,13,N/A,Talwalkars,2022-01-07,1-High,0,1,3,Summer,False,0,1
+2022-03-10 02:35:24,food,Banana,0,4,9,8555928,Pallet,1.25kg,1.25,3,2022-03-10,20,1,Supplier_3,2022-03-10,1,0,9,12,Spring,False,5,-1
+2017-03-18 17:16:53,food,Fortune,1,15,40,5583,Floor,700 g,0.339,2,2017-03-18,5,Chilled,supplier-1,1970-01-01,0,0,40,16,Summer,False,0,10
+2023-01-20 08:32:31,electronics,Speakers,23,1,1,9064102602835,Shelf,5.0,7.0,3,2023-01-20,207,Normal,Best Buy,2025-12-31,2,0,1,2,summer,False,5,180
